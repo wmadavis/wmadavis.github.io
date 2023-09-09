@@ -1,0 +1,364 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>Minimalist LaTeX Commands to Write Math | wmadavis.github.io</title>
+<meta name="generator" content="Jekyll v3.9.3" />
+<meta property="og:title" content="Minimalist LaTeX Commands to Write Math" />
+<meta name="author" content="Pascal Michaillat" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="This collection of minimalist commands make it easy to write mathematical expressions with LaTeX." />
+<meta property="og:description" content="This collection of minimalist commands make it easy to write mathematical expressions with LaTeX." />
+<link rel="canonical" href="http://localhost:4000/content/other/d3.html" />
+<meta property="og:url" content="http://localhost:4000/content/other/d3.html" />
+<meta property="og:site_name" content="wmadavis.github.io" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2023-08-24T00:00:00-04:00" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Minimalist LaTeX Commands to Write Math" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"Pascal Michaillat"},"dateModified":"2023-08-24T00:00:00-04:00","datePublished":"2023-08-24T00:00:00-04:00","description":"This collection of minimalist commands make it easy to write mathematical expressions with LaTeX.","headline":"Minimalist LaTeX Commands to Write Math","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/content/other/d3.html"},"url":"http://localhost:4000/content/other/d3.html"}</script>
+<!-- End Jekyll SEO tag -->
+
+    <link rel="stylesheet" href="/assets/css/style.css?v=f7f35bf719edfa97e30f6b1dee083b1692b7c9a4">
+    <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
+
+<!-- Setup Google Analytics -->
+
+
+
+<!-- You can set your favicon here -->
+<!-- link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" -->
+
+<!-- end custom head snippets -->
+
+  </head>
+  <body>
+    <div class="container-lg px-3 my-5 markdown-body">
+      
+      <h1><a href="http://localhost:4000/">wmadavis.github.io</a></h1>
+      
+
+      <h2 id="overview">Overview</h2>
+
+<p>This collection of minimalist commands make it easy to write mathematical expressions with <a href="https://www.latex-project.org">LaTeX</a>—while automatically respecting the rules of mathematical typography.</p>
+
+<hr />
+
+<h2 id="download">Download</h2>
+
+<ul>
+  <li><a href="https://github.com/pmichaillat/latex-math">LaTeX commands to write math</a></li>
+</ul>
+
+<hr />
+
+<h2 id="features">Features</h2>
+
+<p>The commands are tailored to write math in economics, although they might also be helpful to write math in other fields. The commands introduce the following functionalities:</p>
+
+<ul>
+  <li>Easily insert brackets that scale automatically</li>
+  <li>Easily list arguments of operators (expectation, probability, min, max, exponential, log, and so on), with surrounding brackets that scale automatically</li>
+  <li>Easily write derivatives and elasticities, in display and text</li>
+  <li>Easily type statistical commands (independent and identically distributed variables, almost sure convergence)</li>
+  <li>Easily type key blackboard letters</li>
+  <li>Easily type uppercase calligraphic letters</li>
+  <li>Easily type Greek letters</li>
+  <li>Easily insert accents that scale automatically</li>
+</ul>
+
+<hr />
+
+<h2 id="brackets">Brackets</h2>
+
+<ul>
+  <li>Parentheses: <code class="language-plaintext highlighter-rouge">\bp{x}</code> gives $\left( x\right)$, where the brackets scale automatically</li>
+  <li>Square brackets:<code class="language-plaintext highlighter-rouge">\bs{x}</code> gives $\left[x\right]$, where the brackets scale automatically</li>
+  <li>Curly brackets: <code class="language-plaintext highlighter-rouge">\bc{x}</code> gives $\left\lbrace x\right\rbrace$, where the brackets scale automatically</li>
+  <li>
+    <table>
+      <tbody>
+        <tr>
+          <td>Absolute value: <code class="language-plaintext highlighter-rouge">\abs{x}</code> gives $</td>
+          <td>x</td>
+          <td>$, where the brackets scale automatically</td>
+        </tr>
+      </tbody>
+    </table>
+  </li>
+  <li>Norm: <code class="language-plaintext highlighter-rouge">\norm{x}</code> gives $\left\lVert x \right\rVert$, where the brackets scale automatically</li>
+  <li>Floor: <code class="language-plaintext highlighter-rouge">\floor{x}</code> gives $\left\lfloor  x\right\rfloor$, where the brackets scale automatically</li>
+  <li>Parentheses for function arguments: <code class="language-plaintext highlighter-rouge">f\of{x}</code> gives $f(x)$, where the parentheses scale automatically, and where spacing between the function <code class="language-plaintext highlighter-rouge">f</code> and the argument <code class="language-plaintext highlighter-rouge">(x)</code> is  appropriate. <code class="language-plaintext highlighter-rouge">f\bp{x}</code> gives $f\left( x\right)$, which introduces too much space between the function <code class="language-plaintext highlighter-rouge">f</code> and the argument <code class="language-plaintext highlighter-rouge">(x)</code>.</li>
+</ul>
+
+<hr />
+
+<h2 id="operators">Operators</h2>
+
+<ul>
+  <li>Logarithm:
+    <ul>
+      <li><code class="language-plaintext highlighter-rouge">\ln</code> gives $\ln$</li>
+      <li><code class="language-plaintext highlighter-rouge">\ln{x}</code> gives $\ln(x)$, where the parentheses scale automatically</li>
+    </ul>
+  </li>
+  <li>Exponential:
+    <ul>
+      <li><code class="language-plaintext highlighter-rouge">\exp</code> gives $\exp$</li>
+      <li><code class="language-plaintext highlighter-rouge">\exp{x}</code> gives $\exp(x)$, where the parentheses scale automatically</li>
+    </ul>
+  </li>
+  <li>Indicator:
+    <ul>
+      <li><code class="language-plaintext highlighter-rouge">\ind</code> gives $\mathbb{1}$</li>
+      <li><code class="language-plaintext highlighter-rouge">\ind{X}</code> gives $\mathbb{1}(X)$, where the parentheses scale automatically</li>
+    </ul>
+  </li>
+  <li>Trace:
+    <ul>
+      <li><code class="language-plaintext highlighter-rouge">\tr</code> gives $\operatorname{tr}$</li>
+      <li><code class="language-plaintext highlighter-rouge">\tr{X}</code> gives $\operatorname{tr}(X)$, where the parentheses scale automatically</li>
+    </ul>
+  </li>
+  <li>Variance:
+    <ul>
+      <li><code class="language-plaintext highlighter-rouge">\var</code> gives $\operatorname{var}$</li>
+      <li><code class="language-plaintext highlighter-rouge">\var{X}</code> gives $\operatorname{var}(X)$, where the parentheses scale automatically</li>
+    </ul>
+  </li>
+  <li>Covariance:
+    <ul>
+      <li><code class="language-plaintext highlighter-rouge">\cov</code> gives $\operatorname{cov}$</li>
+      <li><code class="language-plaintext highlighter-rouge">\cov{X}</code> gives $\operatorname{cov}$, where the parentheses scale automatically</li>
+    </ul>
+  </li>
+  <li>Correlation:
+    <ul>
+      <li><code class="language-plaintext highlighter-rouge">\corr</code> gives $\operatorname{corr}$</li>
+      <li><code class="language-plaintext highlighter-rouge">\corr{X}</code> gives $\operatorname{corr}(X)$, where the parentheses scale automatically</li>
+    </ul>
+  </li>
+  <li>Standard deviation:
+    <ul>
+      <li><code class="language-plaintext highlighter-rouge">\sd</code> gives $\operatorname{sd}$</li>
+      <li><code class="language-plaintext highlighter-rouge">\sd{X}</code> gives $\operatorname{sd}(X)$, where the parentheses scale automatically</li>
+    </ul>
+  </li>
+  <li>Standard error:
+    <ul>
+      <li><code class="language-plaintext highlighter-rouge">\se</code> gives $\operatorname{se}$</li>
+      <li><code class="language-plaintext highlighter-rouge">\se{X}</code> gives $\operatorname{se}(X)$, where the parentheses scale automatically</li>
+    </ul>
+  </li>
+  <li>Maximum:
+    <ul>
+      <li><code class="language-plaintext highlighter-rouge">\max</code> gives $\max$</li>
+      <li><code class="language-plaintext highlighter-rouge">\max[x]</code> gives $\max_x$</li>
+      <li><code class="language-plaintext highlighter-rouge">\max{y}</code> gives ${\max}{\left\lbrace y\right\rbrace}$, where the brackets scale automatically</li>
+      <li><code class="language-plaintext highlighter-rouge">\max[x]{y}</code> gives ${\max_x}{\left\lbrace y\right\rbrace}$, where the brackets scale automatically</li>
+      <li><code class="language-plaintext highlighter-rouge">\argmax</code> gives $\operatorname{argmax}$</li>
+    </ul>
+  </li>
+  <li>Minimum:
+    <ul>
+      <li><code class="language-plaintext highlighter-rouge">\min</code> gives $\min$</li>
+      <li><code class="language-plaintext highlighter-rouge">\min[x]</code> gives $\min_x$</li>
+      <li><code class="language-plaintext highlighter-rouge">\min{y}</code> gives ${\min}{\left\lbrace y\right\rbrace}$, where the brackets scale automatically</li>
+      <li><code class="language-plaintext highlighter-rouge">\min[x]{y}</code> gives ${\min_x}{\left\lbrace y\right\rbrace}$, where the brackets scale automatically</li>
+      <li><code class="language-plaintext highlighter-rouge">\argmin</code> gives $\operatorname{argmin}$</li>
+    </ul>
+  </li>
+  <li>Expectation:
+    <ul>
+      <li><code class="language-plaintext highlighter-rouge">\E</code> gives $\mathbb{E}$</li>
+      <li><code class="language-plaintext highlighter-rouge">\E[X]</code> gives $\mathbb{E}_X$</li>
+      <li><code class="language-plaintext highlighter-rouge">\E{Y}</code> gives $\mathbb{E}[Y]$, where the brackets scale automatically</li>
+      <li><code class="language-plaintext highlighter-rouge">\E[X]{Y}</code> gives $\mathbb{E}_X[Y]$, where the brackets scale automatically</li>
+    </ul>
+  </li>
+  <li>Probability:
+    <ul>
+      <li><code class="language-plaintext highlighter-rouge">\P</code> gives $\mathbb{P}$</li>
+      <li><code class="language-plaintext highlighter-rouge">\P[X]</code> gives $\mathbb{P}_X$</li>
+      <li><code class="language-plaintext highlighter-rouge">\P{Y}</code> gives $\mathbb{P}[Y]$, where the brackets scale automatically</li>
+      <li><code class="language-plaintext highlighter-rouge">\P[X]{Y}</code> gives $\mathbb{P}_X[Y]$, where the brackets scale automatically</li>
+    </ul>
+  </li>
+</ul>
+
+<hr />
+
+<h2 id="derivatives">Derivatives</h2>
+
+<ul>
+  <li>Ordinary derivative of $x$ with respect to $y$:
+    <ul>
+      <li>Display: <code class="language-plaintext highlighter-rouge">\od{x}{y}</code> gives $\frac{d x}{d y}$</li>
+      <li>Display, nth order: <code class="language-plaintext highlighter-rouge">\od[n]{x}{y}</code> gives $\frac{d^n x}{d y^n}$</li>
+      <li>Text: <code class="language-plaintext highlighter-rouge">\odx{x}{y}</code> gives $d x/d y$</li>
+      <li>Text, nth order: <code class="language-plaintext highlighter-rouge">\odx[n]{x}{y}</code> gives $d^n x/d y^n$</li>
+    </ul>
+  </li>
+  <li>Partial derivative of $x$ with respect to $y$:
+    <ul>
+      <li>Display: <code class="language-plaintext highlighter-rouge">\pd{x}{y}</code> gives $\frac{\partial x}{\partial y}$</li>
+      <li>Display, nth order: <code class="language-plaintext highlighter-rouge">\pd[n]{x}{y}</code> gives $\frac{\partial^n x}{\partial y^n}$</li>
+      <li>Text: <code class="language-plaintext highlighter-rouge">\pdx{x}{y}</code> gives $\partial x/\partial y$</li>
+      <li>Text, nth order: <code class="language-plaintext highlighter-rouge">\pdx[n]{x}{y}</code> gives $\partial^n x/\partial y^n$</li>
+      <li>Display, keeping $z$ constant: <code class="language-plaintext highlighter-rouge">\pd{x}{y}{z}</code> gives $\left.\frac{\partial x}{\partial y}\right\vert_{z}$</li>
+      <li>Text, keeping $z$ constant: <code class="language-plaintext highlighter-rouge">\pdx{x}{y}{z}</code> gives $\left.\partial x/\partial y\right\vert_{z}$</li>
+    </ul>
+  </li>
+  <li>Ordinary elasticity of $x$ with respect to $y$:
+    <ul>
+      <li>Display: <code class="language-plaintext highlighter-rouge">\oe{x}{y}</code> gives $\frac{d\ln x}{d\ln y}$</li>
+      <li>Text: <code class="language-plaintext highlighter-rouge">\oex{x}{y}</code> gives $d\ln(x)/d\ln(y)$</li>
+    </ul>
+  </li>
+  <li>Partial elasticity of $x$ with respect to $y$:
+    <ul>
+      <li>Display: <code class="language-plaintext highlighter-rouge">\pe{x}{y}</code> gives $\frac{\partial\ln(x)}{\partial\ln(y)}$</li>
+      <li>Text: <code class="language-plaintext highlighter-rouge">\pex{x}{y}</code> gives $\partial\ln(x)/\partial\ln(y)$</li>
+      <li>Display, keeping $z$ constant: <code class="language-plaintext highlighter-rouge">\pe{x}{y}{z}</code> gives $\left.\frac{\partial\ln(x)}{\partial\ln(y)}\right\vert_{z}$</li>
+      <li>Text, keeping $z$ constant: <code class="language-plaintext highlighter-rouge">\pex{x}{y}{z}</code> gives $\left.\partial\ln(x)/\partial\ln(y)\right\vert_{z}$</li>
+    </ul>
+  </li>
+</ul>
+
+<hr />
+
+<h2 id="statistical-commands">Statistical commands</h2>
+
+<ul>
+  <li>Independent and identically distributed variables: <code class="language-plaintext highlighter-rouge">\iid</code> gives $\mathbin{\overset{iid}{\sim}}$</li>
+  <li>Almost sure convergence: <code class="language-plaintext highlighter-rouge">\as</code> gives $\mathbin{\overset{as}{\to}}$</li>
+  <li>Essential infimum and supremum: <code class="language-plaintext highlighter-rouge">\ees</code> gives $\operatorname{ees}$</li>
+</ul>
+
+<hr />
+
+<h2 id="blackboard-letters">Blackboard letters</h2>
+
+<ul>
+  <li><code class="language-plaintext highlighter-rouge">\R</code> gives $\mathbb{R}$</li>
+  <li><code class="language-plaintext highlighter-rouge">\N</code> gives $\mathbb{N}$</li>
+  <li><code class="language-plaintext highlighter-rouge">\Z</code> gives $\mathbb{Z}$</li>
+  <li><code class="language-plaintext highlighter-rouge">\Q</code> gives $\mathbb{Q}$</li>
+  <li><code class="language-plaintext highlighter-rouge">\C</code> gives $\mathbb{C}$</li>
+  <li><code class="language-plaintext highlighter-rouge">\I</code> gives $\mathbb{I}$</li>
+</ul>
+
+<hr />
+
+<h2 id="calligraphic-letters">Calligraphic letters</h2>
+
+<ul>
+  <li><code class="language-plaintext highlighter-rouge">\Ac</code> gives $\mathcal{A}$</li>
+  <li><code class="language-plaintext highlighter-rouge">\Bc</code> gives $\mathcal{B}$</li>
+  <li><code class="language-plaintext highlighter-rouge">\Cc</code> gives $\mathcal{C}$</li>
+  <li><code class="language-plaintext highlighter-rouge">\Dc</code> gives $\mathcal{D}$</li>
+  <li><code class="language-plaintext highlighter-rouge">\Ec</code> gives $\mathcal{E}$</li>
+  <li><code class="language-plaintext highlighter-rouge">\Fc</code> gives $\mathcal{F}$</li>
+  <li><code class="language-plaintext highlighter-rouge">\Gc</code> gives $\mathcal{G}$</li>
+  <li><code class="language-plaintext highlighter-rouge">\Hc</code> gives $\mathcal{H}$</li>
+  <li><code class="language-plaintext highlighter-rouge">\Ic</code> gives $\mathcal{I}$</li>
+  <li><code class="language-plaintext highlighter-rouge">\Jc</code> gives $\mathcal{J}$</li>
+  <li><code class="language-plaintext highlighter-rouge">\Kc</code> gives $\mathcal{K}$</li>
+  <li><code class="language-plaintext highlighter-rouge">\Lc</code> gives $\mathcal{L}$</li>
+  <li><code class="language-plaintext highlighter-rouge">\Mc</code> gives $\mathcal{M}$</li>
+  <li><code class="language-plaintext highlighter-rouge">\Nc</code> gives $\mathcal{N}$</li>
+  <li><code class="language-plaintext highlighter-rouge">\Oc</code> gives $\mathcal{O}$</li>
+  <li><code class="language-plaintext highlighter-rouge">\Pc</code> gives $\mathcal{P}$</li>
+  <li><code class="language-plaintext highlighter-rouge">\Qc</code> gives $\mathcal{Q}$</li>
+  <li><code class="language-plaintext highlighter-rouge">\Rc</code> gives $\mathcal{R}$</li>
+  <li><code class="language-plaintext highlighter-rouge">\Sc</code> gives $\mathcal{S}$</li>
+  <li><code class="language-plaintext highlighter-rouge">\Tc</code> gives $\mathcal{T}$</li>
+  <li><code class="language-plaintext highlighter-rouge">\Uc</code> gives $\mathcal{U}$</li>
+  <li><code class="language-plaintext highlighter-rouge">\Vc</code> gives $\mathcal{V}$</li>
+  <li><code class="language-plaintext highlighter-rouge">\Wc</code> gives $\mathcal{W}$</li>
+  <li><code class="language-plaintext highlighter-rouge">\Xc</code> gives $\mathcal{X}$</li>
+  <li><code class="language-plaintext highlighter-rouge">\Yc</code> gives $\mathcal{Y}$</li>
+  <li><code class="language-plaintext highlighter-rouge">\Zc</code> gives $\mathcal{Z}$</li>
+</ul>
+
+<hr />
+
+<h2 id="greek-letters">Greek letters</h2>
+
+<ul>
+  <li><code class="language-plaintext highlighter-rouge">\a</code> gives $\alpha$</li>
+  <li><code class="language-plaintext highlighter-rouge">\b</code> gives $\beta$</li>
+  <li><code class="language-plaintext highlighter-rouge">\c</code> gives $\chi$</li>
+  <li><code class="language-plaintext highlighter-rouge">\d</code> gives $\delta$</li>
+  <li><code class="language-plaintext highlighter-rouge">\D</code> gives $\Delta$</li>
+  <li><code class="language-plaintext highlighter-rouge">\e</code> gives $\epsilon$</li>
+  <li><code class="language-plaintext highlighter-rouge">\f</code> gives $\phi$</li>
+  <li><code class="language-plaintext highlighter-rouge">\vf</code> gives $\varphi$</li>
+  <li><code class="language-plaintext highlighter-rouge">\F</code> gives $\Phi$</li>
+  <li><code class="language-plaintext highlighter-rouge">\g</code> gives $\gamma$</li>
+  <li><code class="language-plaintext highlighter-rouge">\G</code> gives $\Gamma$</li>
+  <li><code class="language-plaintext highlighter-rouge">\h</code> gives $\eta$</li>
+  <li><code class="language-plaintext highlighter-rouge">\k</code> gives $\kappa$</li>
+  <li><code class="language-plaintext highlighter-rouge">\l</code> gives $\lambda$</li>
+  <li><code class="language-plaintext highlighter-rouge">\L</code> gives $\Lambda$</li>
+  <li><code class="language-plaintext highlighter-rouge">\m</code> gives $\mu$</li>
+  <li><code class="language-plaintext highlighter-rouge">\n</code> gives $\nu$</li>
+  <li><code class="language-plaintext highlighter-rouge">\o</code> gives $\omega$</li>
+  <li><code class="language-plaintext highlighter-rouge">\O</code> gives $\Omega$</li>
+  <li><code class="language-plaintext highlighter-rouge">\vp</code> gives $\varpi$</li>
+  <li><code class="language-plaintext highlighter-rouge">\p</code> gives $\psi$</li>
+  <li><code class="language-plaintext highlighter-rouge">\r</code> gives $\rho$</li>
+  <li><code class="language-plaintext highlighter-rouge">\s</code> gives $\sigma$</li>
+  <li><code class="language-plaintext highlighter-rouge">\vs</code> gives $\varsigma$</li>
+  <li><code class="language-plaintext highlighter-rouge">\S</code> gives $\Sigma$</li>
+  <li><code class="language-plaintext highlighter-rouge">\t</code> gives $\theta$</li>
+  <li><code class="language-plaintext highlighter-rouge">\vt</code> gives $\vartheta$</li>
+  <li><code class="language-plaintext highlighter-rouge">\T</code> gives $\Theta$</li>
+  <li><code class="language-plaintext highlighter-rouge">\U</code> gives $\Upsilon$</li>
+  <li><code class="language-plaintext highlighter-rouge">\x</code> gives $\xi$</li>
+  <li><code class="language-plaintext highlighter-rouge">\X</code> gives $\Xi$</li>
+  <li><code class="language-plaintext highlighter-rouge">\z</code> gives $\zeta$</li>
+</ul>
+
+<hr />
+
+<h2 id="accents">Accents</h2>
+
+<ul>
+  <li>Overline: <code class="language-plaintext highlighter-rouge">\ol{x}</code> gives $\overline{x}$, where the accent scales automatically</li>
+  <li>Underline: <code class="language-plaintext highlighter-rouge">\ul{x}</code> gives $\underline{x}$, where the accent scales automatically</li>
+  <li>Hat: <code class="language-plaintext highlighter-rouge">\wh{x}</code> gives $\widehat{x}$, where the accent scales automatically</li>
+  <li>Tilde: <code class="language-plaintext highlighter-rouge">\wt{x}</code> gives $\widetilde{x}$, where the accent scales automatically</li>
+</ul>
+
+<hr />
+
+<h2 id="complex-numbers">Complex numbers</h2>
+
+<ul>
+  <li><code class="language-plaintext highlighter-rouge">\Re</code> gives $\operatorname{Re}$</li>
+  <li><code class="language-plaintext highlighter-rouge">\Im</code> gives $\operatorname{Im}$</li>
+</ul>
+
+<hr />
+
+<h2 id="existing-math-commands">Existing math commands</h2>
+
+<p>Existing LaTeX commands continue to work as usual, with the exception of a few text commands that do not produce their usual output. These modified text commands are <code class="language-plaintext highlighter-rouge">\oe</code>, <code class="language-plaintext highlighter-rouge">\o</code>, and <code class="language-plaintext highlighter-rouge">\P</code>. These commands used to insert text symbols that are rarely used in scientific writing ($\text{\oe}$, $\text{\o}$, and $\text{\P}$). The commands now insert common mathematical symbols, so hopefully the modification is not problematic.</p>
+
+
+      
+      <div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">
+        This site is open source. <a href="https://github.com/wmadavis/wmadavis.github.io/edit/gh-pages/content/other/d3.md">Improve this page</a>.
+      </div>
+      
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
+    <script>anchors.add();</script>
+  </body>
+</html>

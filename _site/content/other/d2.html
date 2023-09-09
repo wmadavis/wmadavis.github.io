@@ -1,0 +1,306 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>Minimalist LaTeX Template for Academic Papers | wmadavis.github.io</title>
+<meta name="generator" content="Jekyll v3.9.3" />
+<meta property="og:title" content="Minimalist LaTeX Template for Academic Papers" />
+<meta name="author" content="Pascal Michaillat" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="This template produces an academic paper with LaTeX. The paper follows typographical best practices and has a minimalist design." />
+<meta property="og:description" content="This template produces an academic paper with LaTeX. The paper follows typographical best practices and has a minimalist design." />
+<link rel="canonical" href="http://localhost:4000/content/other/d2.html" />
+<meta property="og:url" content="http://localhost:4000/content/other/d2.html" />
+<meta property="og:site_name" content="wmadavis.github.io" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2023-09-07T00:00:00-04:00" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Minimalist LaTeX Template for Academic Papers" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"Pascal Michaillat"},"dateModified":"2023-09-07T00:00:00-04:00","datePublished":"2023-09-07T00:00:00-04:00","description":"This template produces an academic paper with LaTeX. The paper follows typographical best practices and has a minimalist design.","headline":"Minimalist LaTeX Template for Academic Papers","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/content/other/d2.html"},"url":"http://localhost:4000/content/other/d2.html"}</script>
+<!-- End Jekyll SEO tag -->
+
+    <link rel="stylesheet" href="/assets/css/style.css?v=f7f35bf719edfa97e30f6b1dee083b1692b7c9a4">
+    <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
+
+<!-- Setup Google Analytics -->
+
+
+
+<!-- You can set your favicon here -->
+<!-- link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" -->
+
+<!-- end custom head snippets -->
+
+  </head>
+  <body>
+    <div class="container-lg px-3 my-5 markdown-body">
+      
+      <h1><a href="http://localhost:4000/">wmadavis.github.io</a></h1>
+      
+
+      <h2 id="overview">Overview</h2>
+
+<p>The template produces an academic paper with <a href="https://www.latex-project.org">LaTeX</a>. The paper carefully follows typographical best practices and has a minimalist design.
+The primary goal is to produce a paper that is easy to read in print or on screen. The secondary goal is to produce a paper that is easy to scan. Many scientists look at papers in search of specific results, methods, or references—those should be easy to find.</p>
+
+<hr />
+
+<h2 id="download">Download</h2>
+
+<ul>
+  <li><a href="https://github.com/pmichaillat/latex-paper">LaTeX template for academic papers</a></li>
+  <li><a href="/d2.pdf">Paper obtained from the template</a></li>
+  <li><a href="/d2a.pdf">Online appendix obtained from the template</a></li>
+</ul>
+
+<hr />
+
+<h2 id="features">Features</h2>
+
+<ul>
+  <li>The font for text, roman math, and numbers is Source Serif Pro.</li>
+  <li>The font for Greek and calligraphic math is Euler.</li>
+  <li>No colors are used in the text (only black) to reduce distraction and so the paper prints well; colors are reserved for graphs.</li>
+  <li>Margins, spacing, and font size are set for comfortable reading.</li>
+  <li>Headings and captions are designed so the paper is easy to scan.</li>
+  <li>Formatting is specified for figures and tables.</li>
+  <li>Formatting is specified for appendix and a separate online appendix.</li>
+  <li>Formatting is specified for references.</li>
+  <li>All labels are set to make cross-referencing easy.</li>
+</ul>
+
+<hr />
+
+<h2 id="text-font">Text font</h2>
+
+<p>The font determines the appearance and readability of the entire paper, so choosing a good font is key. Following <a href="https://practicaltypography.com/free-fonts.html">Butterick’s advice</a>, the template uses <a href="https://www.fontsquirrel.com/fonts/source-serif-pro">Source Serif Pro</a> for the template. Source Serif Pro is a serif font—a typical choice for long-form writing. Source Serif Pro is not part of typical paper templates (unlike Times New Roman or Palatino), so it has a new, fresh feel. And since Source Serif Pro was designed in the last decade, it also has a modern feel.</p>
+
+<p>Moreover, the Source Pro family includes a very nice monospaced font: <a href="https://www.fontsquirrel.com/fonts/source-code-pro">Source Code Pro</a>. The template uses Source Code Pro as monospaced font—giving the monospaced text and regular text a similar look. The monospaced font is used in particular to typeset URLs.</p>
+
+<p>Another advantage of Source Serif Pro is that there is a sans-serif font in the Source Pro family: <a href="https://www.fontsquirrel.com/fonts/source-sans-pro">Source Sans Pro</a>. This <a href="/d1/">presentation template</a> uses Source Sans Pro, which gives presentations and papers produced by the two templates a similar look.</p>
+
+<hr />
+
+<h2 id="math-font">Math font</h2>
+
+<p>LaTeX uses one font for text and other fonts for math. For consistency, the template sticks with Source Serif Pro for roman math. It also uses Source Serif Pro for all the numbers in math and for very basic math symbols (such as <code class="language-plaintext highlighter-rouge">+</code>, <code class="language-plaintext highlighter-rouge">.</code>, <code class="language-plaintext highlighter-rouge">–</code>, <code class="language-plaintext highlighter-rouge">?</code>, <code class="language-plaintext highlighter-rouge">/</code>, <code class="language-plaintext highlighter-rouge">%</code>, <code class="language-plaintext highlighter-rouge">=</code>), so very basic mathematical expressions look the same in math and text. For example, the commands <code class="language-plaintext highlighter-rouge">1+5</code> and <code class="language-plaintext highlighter-rouge">$1+5$</code> produce the same result. The same is true of the command <code class="language-plaintext highlighter-rouge">3\% + 5\% = 0.08</code> and <code class="language-plaintext highlighter-rouge">$3\% + 5\% = 0.08$</code>.</p>
+
+<p>For the Greek letters in math, the template uses the <a href="http://luc.devroye.org/fonts-26139.html">Euler font</a>. These Greek letters look good, have the same thickness and height as the text letters, and are distinctive. For consistency, neither uppercase nor lowercase Greek letters are italicized.</p>
+
+<p>The template also uses the Euler font for calligraphic letters in math. These calligraphic letters fit well with the other fonts and are very readable.</p>
+
+<p>The template uses a simple <a href="https://ctan.org/pkg/bbold">geometric sans-serif font</a> as blackboard bold font. It is cleaner than the default blackboard bold font. And it includes not only roman letters but also Arabic numbers and Greek letters—which are often omitted in blackboard bold fonts.</p>
+
+<p>Finally, the template use the Symbol font for many symbols in math. The default Computer Modern symbols are very light and thin in comparison to the Source Serif Pro and Euler letters, and as a result do not mix well with them. The advantage of the Symbol font is that its symbols are thicker, so they mix better with the letters. The symbols are also less curly, which gives them a more modern feel.</p>
+
+<hr />
+
+<h2 id="font-size">Font size</h2>
+
+<p>The font size is 12pt, which is standard. It is easily readable but not too big. (See also <a href="https://practicaltypography.com/point-size.html">Butterick’s discussion</a> of font sizes.)</p>
+
+<hr />
+
+<h2 id="line-spacing">Line spacing</h2>
+
+<p>The line spacing is 150% of the point size. This is in line with <a href="https://practicaltypography.com/line-spacing.html">Butterick’s advice</a>. Such spacing avoids that the text is too cramped or too spread out, and makes readings more comfortable.</p>
+
+<hr />
+
+<h2 id="text-margins">Text margins</h2>
+
+<p>The margins are 1.1 inch. This provides a bit of white space on the page. Furthermore, with such margins, there are always 80–90 characters per line, just as <a href="https://practicaltypography.com/line-length.html">Butterick recommends</a>. Longer lines are harder to read.</p>
+
+<hr />
+
+<h2 id="color-scheme">Color scheme</h2>
+
+<p><a href="https://practicaltypography.com/color.html">As Butterick says</a>, it is better to use color with restraint. A lot of colors, especially bright ones, is distracting. Furthermore, many colors are hard to read when they are printed in black and white. To reduce distraction, and to have a paper that prints well, the template only uses the color black for text.</p>
+
+<hr />
+
+<h2 id="title-page">Title page</h2>
+
+<p>The template’s title page contains all the required information: title, authors, date, abstract, affiliations, and acknowledgements. It is otherwise pretty minimalist. There are no “thanks” symbols, no abstract title, no indentation, no page numbers. These elements are common in papers, but they do not convey any useful information, so the template gets rid of them.</p>
+
+<p>The title is bold, centered, and 25pt. Author and date information is centered and 15pt. Abstract is 12pt. Affiliations and acknowledgements are 10pt like the footnotes in the text.</p>
+
+<p>An URL for the paper can be placed at the bottom of the title page by adding the command <code class="language-plaintext highlighter-rouge">\available{URL}</code> to the preamble of the document. Such URL allows readers to go easily to the latest version of the paper. With an optional argument, the command can also indicate where the paper has been published: <code class="language-plaintext highlighter-rouge">\available[Journal name]{URL}</code> places both the journal name and URL at the bottom of the title page. The URL is displayed in small font (10pt) and gray so as not to be too obtrusive.</p>
+
+<hr />
+
+<h2 id="headings">Headings</h2>
+
+<p>The template’s headings follow <a href="https://practicaltypography.com/headings.html">Butterick’s advice</a>. Section headings are a bit larger (15pt) and bold. Section headings are also centered to clearly separate sections. Subsection headings are bold. And paragraph headings are just italic, so they are noticeable but not too prominent.</p>
+
+<p>The template does not tailor formatting for subsubsections and smaller headings. Such small headings are a sign that the paper’s organization is too messy, and should be avoided.</p>
+
+<hr />
+
+<h2 id="theorems-and-other-results">Theorems and other results</h2>
+
+<p>As is standard, the text of theorems is in italic—providing subtle emphasis. The <code class="language-plaintext highlighter-rouge">Theorem</code> label is in small caps—again providing subtle emphasis. For consistency, propositions, lemmas, and other results are all formatted just like theorems.</p>
+
+<hr />
+
+<h2 id="figures">Figures</h2>
+
+<p>A figure should be placed at the top of the page where it is first mentioned, and not at the end of the paper. Figure panels are centered by default. The <code class="language-plaintext highlighter-rouge">Figure</code> label is in small caps—just like the <code class="language-plaintext highlighter-rouge">Theorem</code> label. The figure caption is placed bellow the figure.</p>
+
+<p>The graphs are scaled so a figure with two panels fits well at the top of a page. A figure with four or six panels fits on a whole page.  An advantage of avoiding colors in the text is that the colors in figures really stand out.</p>
+
+<p>The figure environment is set up so it is easy to reference a figure (figure 1) or directly a panel in a figure (figure 1A).</p>
+
+<p>With the command <code class="language-plaintext highlighter-rouge">\note{Text}</code>, it is easy to enter a note below the figure caption with details about the figure and sources. The note is in 10pt, just like footnotes.</p>
+
+<p>The code for a basic figure with one panel is the following:</p>
+
+<div class="language-LaTeX highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nt">\begin{figure}</span>[t]
+<span class="k">\includegraphics</span><span class="na">[scale=0.3]</span><span class="p">{</span>figure.pdf<span class="p">}</span>
+<span class="k">\caption</span><span class="p">{</span>Figure caption<span class="p">}</span>
+<span class="k">\note</span><span class="p">{</span>Note for figure.<span class="p">}</span>
+<span class="k">\label</span><span class="p">{</span>1<span class="p">}</span><span class="nt">\end{figure}</span>
+</code></pre></div></div>
+
+<p>The code for a figure with two panels is the following:</p>
+
+<div class="language-LaTeX highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nt">\begin{figure}</span>[t]
+<span class="k">\subcaptionbox</span><span class="p">{</span>Panel caption<span class="k">\label</span><span class="p">{</span>1<span class="p">}}{</span><span class="k">\includegraphics</span><span class="na">[scale=0.2]</span><span class="p">{</span>1.pdf<span class="p">}}</span><span class="k">\hfill</span>
+<span class="k">\subcaptionbox</span><span class="p">{</span>Panel caption<span class="k">\label</span><span class="p">{</span>2<span class="p">}}{</span><span class="k">\includegraphics</span><span class="na">[scale=0.2]</span><span class="p">{</span>2.pdf<span class="p">}}</span>
+<span class="k">\caption</span><span class="p">{</span>Figure caption<span class="p">}</span>
+<span class="k">\note</span><span class="p">{</span>Note for figure.<span class="p">}</span>
+<span class="k">\label</span><span class="p">{</span>3<span class="p">}</span><span class="nt">\end{figure}</span>
+</code></pre></div></div>
+
+<p>Finally, the code for a figure with two panels is the following:</p>
+
+<div class="language-LaTeX highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nt">\begin{figure}</span>[p]
+<span class="k">\subcaptionbox</span><span class="p">{</span>Panel caption<span class="k">\label</span><span class="p">{</span>1<span class="p">}}{</span><span class="k">\includegraphics</span><span class="na">[scale=0.2]</span><span class="p">{</span>1.pdf<span class="p">}}</span><span class="k">\hfill</span>
+<span class="k">\subcaptionbox</span><span class="p">{</span>Panel caption<span class="k">\label</span><span class="p">{</span>2<span class="p">}}{</span><span class="k">\includegraphics</span><span class="na">[scale=0.2]</span><span class="p">{</span>2.pdf<span class="p">}}</span><span class="k">\vfig</span>
+<span class="k">\subcaptionbox</span><span class="p">{</span>Panel caption<span class="k">\label</span><span class="p">{</span>3<span class="p">}}{</span><span class="k">\includegraphics</span><span class="na">[scale=0.2]</span><span class="p">{</span>3.pdf<span class="p">}}</span><span class="k">\hfill</span>
+<span class="k">\subcaptionbox</span><span class="p">{</span>Panel caption<span class="k">\label</span><span class="p">{</span>4<span class="p">}}{</span><span class="k">\includegraphics</span><span class="na">[scale=0.2]</span><span class="p">{</span>4.pdf<span class="p">}}</span><span class="k">\vfig</span>
+<span class="k">\subcaptionbox</span><span class="p">{</span>Panel caption<span class="k">\label</span><span class="p">{</span>5<span class="p">}}{</span><span class="k">\includegraphics</span><span class="na">[scale=0.2]</span><span class="p">{</span>5.pdf<span class="p">}}</span><span class="k">\hfill</span>
+<span class="k">\subcaptionbox</span><span class="p">{</span>Panel caption<span class="k">\label</span><span class="p">{</span>6<span class="p">}}{</span><span class="k">\includegraphics</span><span class="na">[scale=0.2]</span><span class="p">{</span>6.pdf<span class="p">}}</span>
+<span class="k">\caption</span><span class="p">{</span>Figure caption<span class="p">}</span>
+<span class="k">\note</span><span class="p">{</span>Note for figure.<span class="p">}</span>
+<span class="k">\label</span><span class="p">{</span>7<span class="p">}</span><span class="nt">\end{figure}</span>
+</code></pre></div></div>
+
+<p>With the above code, a specific panel in a figure can be referenced with <code class="language-plaintext highlighter-rouge">figure \ref{1}</code>, which produces <code class="language-plaintext highlighter-rouge">figure 1A</code>, and the entire figure can be referenced with <code class="language-plaintext highlighter-rouge">figure \ref{7}</code>, which produces <code class="language-plaintext highlighter-rouge">figure 1</code>. A panel can also be referenced without mentioning the figure: <code class="language-plaintext highlighter-rouge">panel \subref{1}</code> produces <code class="language-plaintext highlighter-rouge">panel A</code>.</p>
+
+<hr />
+
+<h2 id="tables">Tables</h2>
+
+<p>A table should be placed at the top of the page where it is first mentioned, and not at the end of the paper. Tables are centered by default. The <code class="language-plaintext highlighter-rouge">Table</code> label is in small caps—just like the <code class="language-plaintext highlighter-rouge">Figure</code> label. The table caption is placed above the table, as usual. Top and bottom table lines are thicker to clearly demarcate the table. The text in the table is in 10pt. The text is spaced vertically to be easily readable (spacing is insufficient in standard tables).</p>
+
+<p>With the command <code class="language-plaintext highlighter-rouge">\note{Text}</code>, it is easy to enter a note below the table with details about the table and sources. The note is in 10pt, just like footnotes.</p>
+
+<p>The code for a basic figure is the following:</p>
+
+<div class="language-LaTeX highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nt">\begin{table}</span>[t]
+<span class="k">\caption</span><span class="p">{</span>Table caption<span class="p">}</span>
+<span class="nt">\begin{tabular*}</span><span class="p">{</span><span class="k">\textwidth</span><span class="p">}</span>[]<span class="p">{</span>p<span class="p">{</span>3.3cm<span class="p">}</span>@<span class="p">{</span><span class="k">\extracolsep\fill</span><span class="p">}</span>cccc<span class="p">}</span>
+<span class="k">\toprule</span>
+<span class="p">&amp;</span> Column 1 <span class="p">&amp;</span>  Column 2 <span class="p">&amp;</span>  Column 3  <span class="p">&amp;</span>  Column 4 <span class="k">\\</span>
+<span class="k">\midrule</span>
+Line 1: <span class="p">&amp;</span> A <span class="p">&amp;</span> B <span class="p">&amp;</span> C  <span class="p">&amp;</span> d <span class="k">\\</span>
+Line 2: <span class="p">&amp;</span> E <span class="p">&amp;</span>  F <span class="p">&amp;</span> G  <span class="p">&amp;</span> H   <span class="k">\\</span>
+Line 3: <span class="p">&amp;</span> K <span class="p">&amp;</span> V <span class="p">&amp;</span> P  <span class="p">&amp;</span> K  <span class="k">\\</span>
+Line 4: <span class="p">&amp;</span> J <span class="p">&amp;</span> M <span class="p">&amp;</span> N  <span class="p">&amp;</span> K  <span class="k">\\</span>
+<span class="k">\bottomrule</span>
+<span class="nt">\end{tabular*}</span>
+<span class="k">\note</span><span class="p">{</span>Note for table.<span class="p">}</span>
+<span class="k">\label</span><span class="p">{</span>1<span class="p">}</span><span class="nt">\end{table}</span>
+</code></pre></div></div>
+
+<p>The code for a more sophisticated figure with panels is the following:</p>
+
+<div class="language-LaTeX highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nt">\begin{table}</span>[t]
+<span class="k">\caption</span><span class="p">{</span>Table caption<span class="p">}</span>
+<span class="nt">\begin{tabular*}</span><span class="p">{</span><span class="k">\textwidth</span><span class="p">}</span>[]<span class="p">{</span>p<span class="p">{</span>3.3cm<span class="p">}</span>@<span class="p">{</span><span class="k">\extracolsep\fill</span><span class="p">}</span>ccccc<span class="p">}</span>
+<span class="k">\toprule</span>
+    <span class="p">&amp;</span> Column 1 <span class="p">&amp;</span>  Column 2 <span class="p">&amp;</span>  Column 3  <span class="p">&amp;</span>  Column 4 <span class="p">&amp;</span>  Column 5 <span class="k">\\</span>
+<span class="k">\midrule</span>
+<span class="k">\multicolumn</span><span class="p">{</span>6<span class="p">}{</span>l<span class="p">}{</span>A. First panel<span class="p">}</span><span class="k">\\</span>
+Line 1: <span class="p">&amp;</span> A <span class="p">&amp;</span> C <span class="p">&amp;</span> V  <span class="p">&amp;</span> -- <span class="p">&amp;</span> -- <span class="k">\\</span>
+Line 2: <span class="p">&amp;</span> X <span class="p">&amp;</span>  H <span class="p">&amp;</span> O  <span class="p">&amp;</span> -- <span class="p">&amp;</span> --   <span class="k">\\</span>
+<span class="k">\midrule</span>
+<span class="k">\multicolumn</span><span class="p">{</span>6<span class="p">}{</span>l<span class="p">}{</span>B. Second panel<span class="p">}</span><span class="k">\\</span>
+Line 3: <span class="p">&amp;</span> U <span class="p">&amp;</span> B <span class="p">&amp;</span> J  <span class="p">&amp;</span> K <span class="p">&amp;</span> K <span class="k">\\</span>
+Line 4: <span class="p">&amp;</span> N <span class="p">&amp;</span> Y <span class="p">&amp;</span> T  <span class="p">&amp;</span> L <span class="p">&amp;</span> T <span class="k">\\</span>
+Line 5: <span class="p">&amp;</span> G <span class="p">&amp;</span> S <span class="p">&amp;</span> Q  <span class="p">&amp;</span> P <span class="p">&amp;</span> Q <span class="k">\\</span>
+<span class="k">\bottomrule</span>
+<span class="nt">\end{tabular*}</span>
+<span class="k">\note</span><span class="p">{</span>Note for table.<span class="p">}</span>
+<span class="k">\label</span><span class="p">{</span>1<span class="p">}</span><span class="nt">\end{table}</span>
+</code></pre></div></div>
+
+<hr />
+
+<h2 id="lists">Lists</h2>
+
+<p>Itemized and numbered list are customized to fit well with the surrounding text. The text after the items is aligned with indented text (the start of a paragraph). All items (bullet points and numbers) are grey so as not to be too prominent. All extra vertical spacing is removed so spacing between list lines is exactly the same as spacing between lines of text.</p>
+
+<hr />
+
+<h2 id="citations-and-references">Citations and references</h2>
+
+<p>The format of citations and references follow the guidelines from the <a href="https://www.chicagomanualofstyle.org/home.html">Chicago Manual of Style</a>, which are followed by most scientific journals in the US.</p>
+
+<p>The reference list is in slightly smaller font than the text (11pt) and with slightly more compact spacing. The goal is too save some space without affecting readability.</p>
+
+<p>All <a href="https://ctan.org/pkg/natbib">standard citation commands</a> are usable in the template:</p>
+
+<ul>
+  <li>Textual citation: <code class="language-plaintext highlighter-rouge">\citet{NameYear}</code> gives Name (Year)</li>
+  <li>Textual citation with details: <code class="language-plaintext highlighter-rouge">\citet[p. 120]{NameYear}</code> gives Name (Year, p. 120)</li>
+  <li>Parenthetical citation: <code class="language-plaintext highlighter-rouge">\citep{NameYear}</code> gives (Name Year)</li>
+  <li>Parenthetical citation with details: <code class="language-plaintext highlighter-rouge">\citep[chapter 4]{NameYear}</code> gives (Name Year, chapter 4)</li>
+  <li>Author citation: <code class="language-plaintext highlighter-rouge">\citeauthor{NameYear}</code> gives Name</li>
+  <li>Year citation: <code class="language-plaintext highlighter-rouge">\citeyear{NameYear}</code> gives Year</li>
+</ul>
+
+<hr />
+
+<h2 id="appendix">Appendix</h2>
+
+<p>The template is designed so it is easy to add an appendix at the end of the paper. The appendix starts with the command <code class="language-plaintext highlighter-rouge">\appendix</code>. The formatting of the appendix strictly follows that of the main text.</p>
+
+<p>All the appendix sections are clearly marked <code class="language-plaintext highlighter-rouge">Appendix</code> and are numbered as Appendix A, Appendix B, Appendix C, and so on. The appendix subsections are also numbered (for instance, A.1, A.2, B.1, B.2) so they can be referred to.</p>
+
+<p>All labels in the appendix start with an <code class="language-plaintext highlighter-rouge">A</code>, so it is clear that they point to some material in the appendix: for instance, corollary A1, figure A2, table A3, or equation (A10). All counters are reset at the beginning of the appendix: tables, figures, equations, and theorems. So all the labels start at A1, A2, and so on.</p>
+
+<hr />
+
+<h2 id="online-appendix">Online appendix</h2>
+
+<p>Once a paper gets published, the appendix must often be transformed into an online appendix. To help with this task, the repository also includes a template for online appendices. It adds two features to the paper template:</p>
+
+<ul>
+  <li>The abstract is replaced by a table of contents.</li>
+  <li>All the labels from the main text (equation numbers, figure and table numbers, theorem numbers, section numbers) continue to be usable in the online appendix. So the cross-references from main text to appendix are not broken even though the appendix is now in a separate file. <a href="https://www.ctan.org/pkg/xr">This requires the following</a>:
+    <ul>
+      <li><code class="language-plaintext highlighter-rouge">appendix.tex</code> is in the same folder as <code class="language-plaintext highlighter-rouge">paper.tex</code>.</li>
+      <li><code class="language-plaintext highlighter-rouge">paper.tex</code> is compiled first.</li>
+      <li>The auxiliary file <code class="language-plaintext highlighter-rouge">paper.aux</code> is available when <code class="language-plaintext highlighter-rouge">appendix.tex</code> is compiled.</li>
+    </ul>
+  </li>
+</ul>
+
+
+      
+      <div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">
+        This site is open source. <a href="https://github.com/wmadavis/wmadavis.github.io/edit/gh-pages/content/other/d2.md">Improve this page</a>.
+      </div>
+      
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
+    <script>anchors.add();</script>
+  </body>
+</html>
