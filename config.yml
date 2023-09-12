@@ -11,11 +11,11 @@ taxonomies:
 
 menu:
     main:
-        - name: Vitamenu
+        - name: Vita
           url: /CV-AlampayDavis.pdf
           weight: 1  
         - name: Research
-          url: /research/
+          url: /ResearchTest/
           weight: 2
         - name: Teaching
           url: /teaching/
