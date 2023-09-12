@@ -11,7 +11,7 @@ taxonomies:
 
 menu:
     main:
-        - name: Vita
+        - name: Vitamenu
           url: /CV-AlampayDavis.pdf
           weight: 1  
         - name: Research
@@ -50,7 +50,7 @@ params:
           enabled: true
           title: Matthew Alampay Davis
           subtitle: >
-                    I’m a fifth-year PhD candidate at Columbia’s economics department. My research interests are in the political economics of inequality, poverty, and the environment. In ongoing projects, I study the distributional consequences of climate change and the transmission of gendered violence and norms in the Global South. Note this site is still under construction as I'm transitioning my website to Github Pages. 
+                    I’m a fifth-year PhD candidate at Columbia University’s department of economics. My research interests are in the political economy of development, inequality, and the environment. In ongoing projects, I study the distributional consequences of climate change and the transmission of gendered violence and norms in the Global South. Note this site is still under construction and may be buggy as I'm transitioning my website to Github Pages. 
           imageUrl: "/profile.jpeg"
           imageWidth: 160
           imageHeight: 160
