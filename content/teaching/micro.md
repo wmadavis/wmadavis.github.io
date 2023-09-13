@@ -5,8 +5,9 @@ date: 2023-09-13
 url: /teaching/micro
 author: "Matthew Alampay Davis"
 summary: >
-         Spring 2022 | Fall 2022   
-         The purpose of this course is to offer a solid, intermediate-level training in theoretical microeconomics. We will try to achieve a more in-depth understanding of how the standard theoretical models of microeconomics work. The course consists of three parts. We will start out by analyzing consumer decision-making. We then turn to the behavior of firms. Finally, the third part of the course studies the interaction of consumers and firms in goods markets.
+  Spring 2022 | Fall 2022  
+
+The purpose of this course is to offer a solid, intermediate-level training in theoretical microeconomics. We will try to achieve a more in-depth understanding of how the standard theoretical models of microeconomics work. The course consists of three parts. We will start out by analyzing consumer decision-making. We then turn to the behavior of firms. Finally, the third part of the course studies the interaction of consumers and firms in goods markets.
 editPost:
     URL: "https://github.com/wmadavis/Teaching-IntermediateMicro"
     Text: "Github page"
