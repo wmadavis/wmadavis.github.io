@@ -1,5 +1,6 @@
 ---
 title: "Intermediate microeconomics (ECON-UN3211)"
+weight: 2
 date: 2023-09-13
 url: /teaching/micro
 author: "Matthew Alampay Davis"

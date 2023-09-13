@@ -1,5 +1,6 @@
 ---
 title: "The Global Economy (ECON-UN2257)"
+weight: 1
 date: 2023-09-13
 url: /teaching/global/
 author: "Matthew Alampay Davis"
