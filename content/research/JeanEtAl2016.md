@@ -1,16 +1,14 @@
 ---
 title: "Combining satellite imagery and machine learning to predict poverty"
-subtitle: "Science, 353 (6301), 790-794"
 weight: 8
 date: 2016-08-19
 url: /research/jeanetal2016
 author: ["Neal Jean","Marshall Burke","Michael Xie","Matthew Alampay Davis","David B. Lobell","Stefano Ermon"]
 description: "Placeholder description." 
 summary: "We train a convolutional neural network to identify low-level features of image data useful for classification tasks. We then assign the CNN the related task of condensing high-resolution daytime satellite images into lower-dimensional vectors of features covariant with the areas’ corresponding night-time luminosities, which we consider imperfect proxies for levels of economic activity. Ridge regression models then relate these feature vectors to data from representative household surveys conducted in Uganda, Tanzania, Nigeria, Malawi, and Rwanda to generate fine-scale “poverty maps”, regionally disaggregated estimates of the distribution of consumption expenditure and asset wealth. Cross-validation analyses show that our transfer learning method compares favorably to existing and expensive methods at out-of-sample prediction, suggesting potential applications for interventions targeting poverty in data-scarce areas. We emphasize our pipeline uses only public data and software, enabling cheap replication and potential scalability to help address the infrequency and prohibitive expense of household surveys." 
-cover:
 editPost:
     URL: "https://doi.org/10.1126/science.aaf7894"
-    Text: "Science"
+    Text: "Science, 353 (6301), 790-794"
 
 ---
 
