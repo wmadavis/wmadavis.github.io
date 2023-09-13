@@ -5,6 +5,7 @@ theme: "PaperMod"
 
 enableInlineShortcodes: true
 enableRobotsTXT: true
+disablePathToLower: true
 
 taxonomies:
     tag: tags
@@ -12,7 +13,7 @@ taxonomies:
 menu:
     main:
         - name: Vita
-          url: "/CV-AlampayDavis.pdf"
+          url: /CV-AlampayDavis.pdf
           weight: 1  
         - name: Research
           url: /Research/
