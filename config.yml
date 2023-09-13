@@ -7,6 +7,7 @@ enableRobotsTXT: true
 disablePathToLower: true
 
 taxonomies:
+
     tag: tags
 
 menu:
@@ -27,7 +28,7 @@ menu:
 params:
     description: "Academic website for W. Matthew Alampay Davis"
     author: W. Matthew Alampay Davis
-    DateFormat: "2006-01-02"
+    DateFormat: "02 Jan 2006"
     defaultTheme: light
     hideFooter: true
     disableThemeToggle: true

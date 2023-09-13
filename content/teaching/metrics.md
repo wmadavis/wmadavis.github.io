@@ -1,13 +1,10 @@
 ---
 title: "Introduction to econometrics (ECON-UN3412)"
-weight: 7
+weight: 1
 date: 2023-09-13
 url: /teaching/metrics
 author: "Matthew Alampay Davis"
-summary: >
-         Fall 2020 | Spring 2021 | Fall 2021 | Summer 2023  
-         
-         This course introduces students to multiple regression and related methods for analyzing data in economics and related disciplines. Additional topics include regression with discrete random variables, instrumental variables regression, analysis of random experiments and quasi-experiments, and regression with time series data. Students will learn how to conduct and how to critique empirical studies in economics and related fields.
+summary: This course introduces students to multiple regression and related methods for analyzing data in economics and related disciplines. Additional topics include regression with discrete random variables, instrumental variables regression, analysis of random experiments and quasi-experiments, and regression with time series data. Students will learn how to conduct and how to critique empirical studies in economics and related fields.
 editPost:
     URL: "https://github.com/wmadavis/Teaching-IntroEconometrics"
     Text: "Github page"

@@ -1,6 +1,6 @@
 ---
 title: "Combining satellite imagery and machine learning to predict poverty"
-weight: 8
+weight: 2
 date: 2016-08-19
 url: /research/jeanetal2016
 author: ["Neal Jean","Marshall Burke","Michael Xie","Matthew Alampay Davis","David B. Lobell","Stefano Ermon"]
