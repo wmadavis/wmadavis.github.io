@@ -18,6 +18,19 @@ disableAnchoredHeadings: false
 
 ---
 
+## ECON-GU4999: Senior Seminars (Fall 2023, Spring 2024)
+
+##### Course description
+
+The honors thesis seminar is a year-long course, beginning in the fall semester and ending in the spring semester. This workshop may only be taken by students applying for departmental honors, and it also fulfills the economics seminar requirement for the economics major and all joint majors. Students must see the director during mid-semester registration in the spring to discuss their proposed thesis topic, at which time they will be matched with appropriate faculty who will act as their thesis adviser. Students will meet their adviser over the course of the year at mutually agreed upon times. A rough draft of the thesis will be due during the first week of February in the spring semester, and the final draft will be due three weeks before the last day of classes. Please note that for those joint majors that require two seminars, one in economics and one in the other discipline (i.e. Political Science), the economics senior honors thesis seminar only fulfills the economics seminar requirement.
+
+##### Resources
+
++ [Krugman (2000)](https://doi.org/10.1093/oxrep/16.4.33) – This paper argues that uncomplicated models can be helpful. In this course we will develop models that are as uncomplicated as possible—and that are much simpler than models typically studied in graduate macroeconomic courses.
++ [Frey, Stutzer (2002)](https://doi.org/10.1257/002205102320161320) – This survey provides evidence that personal unemployment and aggregate unemployment significantly reduce happiness. The evidence refers to the pure effect of unemployment, which controls for the income loss and other indirect effects of unemployment.
+
+---
+
 ## ECON-UN3412: Introduction to Econometrics (Fall 2020, Spring 2021, Fall 2021, Summer 2023)
 
 ##### Course description
@@ -31,7 +44,7 @@ disableAnchoredHeadings: false
 
 ---
 
-## ECON-3211: Intermediate Microeconomics (Spring 2022, Fall 2022)
+## ECON-UN3211: Intermediate Microeconomics (Spring 2022, Fall 2022)
 
 ##### Course description
 
@@ -42,7 +55,7 @@ The purpose of this course is to offer a solid, intermediate-level training in t
 
 ---
 
-## The Global Economy (Spring 2023)
+## ECON-UN2257: The Global Economy (Spring 2023)
 
 ##### Course description
 
