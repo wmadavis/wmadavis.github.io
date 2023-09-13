@@ -2,12 +2,6 @@
 title: "The Global Economy" 
 date: 2013-10-01
 url: /teaching/global/
-aliases:
-    - /t3.html
-    - /uploads/7/0/2/0/70200055/t3a.pdf
-    - /uploads/7/0/2/0/70200055/t3b.pdf
-    - /uploads/7/0/2/0/70200055/t3c.pdf
-    - /uploads/7/0/2/0/70200055/t3f.pdf
 tags: ["differential equations","optimal control"]
 author: "Pascal Michaillat"
 description: "This graduate course covers basic mathematical methods for macroeconomics: dynamic programming, optimal control, and differential equations." 
