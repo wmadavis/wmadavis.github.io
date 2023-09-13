@@ -1,4 +1,4 @@
-baseURL: "https://wmadavis.github.io/" 
+baseURL: "https://wmadavis.com/" 
 title: W. Matthew Alampay Davis
 paginate: 20
 theme: "PaperMod"
@@ -12,10 +12,10 @@ taxonomies:
 menu:
     main:
         - name: Vita
-          url: /CV-AlampayDavis.pdf
+          url: "/CV-AlampayDavis.pdf"
           weight: 1  
         - name: Research
-          url: /ResearchTest/
+          url: /Research/
           weight: 2
         - name: Teaching
           url: /teaching/
@@ -25,7 +25,7 @@ menu:
           weight: 4 
 
 params:
-    description: "Academic website for Matthew Alampay Davis"
+    description: "Academic website for W. Matthew Alampay Davis"
     author: W. Matthew Alampay Davis
     DateFormat: "January 2006"
     defaultTheme: light
