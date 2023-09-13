@@ -4,7 +4,7 @@ weight: 1
 date: 2023-09-13
 url: /teaching/metrics
 author: "Matthew Alampay Davis"
-summary: This course introduces students to multiple regression and related methods for analyzing data in economics and related disciplines. Additional topics include regression with discrete random variables, instrumental variables regression, analysis of random experiments and quasi-experiments, and regression with time series data. Students will learn how to conduct and how to critique empirical studies in economics and related fields.
+summary: "This course introduces students to multiple regression and related methods for analyzing data in economics and related disciplines. Additional topics include regression with discrete random variables, instrumental variables regression, analysis of random experiments and quasi-experiments, and regression with time series data. Students will learn how to conduct and how to critique empirical studies in economics and related fields."
 editPost:
     URL: "https://github.com/wmadavis/Teaching-IntroEconometrics"
     Text: "Github page"
