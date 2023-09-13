@@ -9,7 +9,6 @@ summary: "We train a convolutional neural network to identify low-level features
 editPost:
     URL: "https://doi.org/10.1126/science.aaf7894"
     Text: "Science, 353 (6301), 790-794"
-showToc: true
 
 ---
 
@@ -33,8 +32,8 @@ Here's a [non-technical animated summary](http://www.youtube.com/watch?v=DafZSeI
     + [Update](http://www.g-feed.com/2017/02/targeting-poverty-with-satellites.html)
 + [Lab website](http://sustain.stanford.edu/predicting-poverty)
 
-![](/papers/PovertyMap.png)
-
 ##### Some press
 
 + [Science](http://science.sciencemag.org/content/353/6301/753), [Stanford](https://news.stanford.edu/2016/08/18/combining-satellite-data-machine-learning-to-map-poverty/), [The Washington Post](https://www.washingtonpost.com/news/wonk/wp/2016/08/24/how-satellite-images-are-helping-find-the-worlds-hidden-poor/?noredirect=on&utm_term=.ad5ca2f277da), [BBC](https://www.bbc.co.uk/news/science-environment-37122748), [Scientific American](https://www.scientificamerican.com/article/2016-world-changing-ideas/), [The Atlantic](https://www.theatlantic.com/technology/archive/2016/08/can-satellites-learn-to-see-poverty/497153/), [The Onion](https://www.theonion.com/satellite-images-could-predict-poverty-1819563263), [Bill Gates](https://twitter.com/BillGates/status/773188644014350336), [CGDev critique](https://www.cgdev.org/blog/can-we-measure-poverty-outer-space)
+
+![](/papers/PovertyMap.png)

@@ -18,12 +18,9 @@ Placeholder description 1
 
 ---
 
-##### Environmental disruption of gender norms (with [Tanushree Goyal](https://www.tanushreegoyal.com/))
+##### Weather shocks, gender norms, and intimate-partner violence (with [Tanushree Goyal](https://www.tanushreegoyal.com/))
 
-Placeholder description 2
 
 ---
 
 ##### Elite capture of identity politics: the political economy of descriptive and substantive representations
-
-Placeholder description 3
