@@ -4,7 +4,7 @@ weight: 3
 date: 2023-09-13
 url: /teaching/seminars
 author: "Matthew Alampay Davis"
-summary: "I serve as TA to all nine senior seminars, the honors thesis seminar, and all undergraduates conducting research in the economics department."
+summary: "I serve as a research TA serving students from all nine senior seminars, the senior honors thesis seminar, and all economics undergraduates conducting research."
 showToc: true
 disableAnchoredHeadings: false
 
