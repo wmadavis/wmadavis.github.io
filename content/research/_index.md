@@ -1,7 +1,7 @@
 ---
 title: "Research"
 aliases: /research/
-weight: 0
+weight: 1
 ---
 
 ## Works in progress:

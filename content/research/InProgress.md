@@ -1,5 +1,6 @@
 ---
-title: "Work in progress" 
+title: "Work in progress"
+weight: 2
 url: /research/inprogress
 author: "Matthew Alampay Davis"
 summary: >
