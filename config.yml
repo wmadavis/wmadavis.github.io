@@ -67,6 +67,8 @@ params:
               url: /research/
             - name: Teaching
               url: /teaching/
+            - name: Resources
+              url: /resources/
             - name: Other
               url: /other/
     socialIcons:

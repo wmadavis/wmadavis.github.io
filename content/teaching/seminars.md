@@ -4,7 +4,9 @@ subtitle: "Fall 2023, Spring 2024"
 date: 2023-09-13
 url: /teaching/seminars
 author: "Matthew Alampay Davis"
-summary: "I serve as TA to all nine senior seminars, the honors thesis seminar, and all undergraduates conducting research in the economics department."
+summary: >
+         Fall 2023, Spring 2024
+         I serve as TA to all nine senior seminars, the honors thesis seminar, and all undergraduates conducting research in the economics department.
 showToc: true
 disableAnchoredHeadings: false
 
