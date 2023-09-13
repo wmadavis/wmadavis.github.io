@@ -1,6 +1,5 @@
 baseURL: "https://wmadavis.com/" 
 title: W. Matthew Alampay Davis
-paginate: 20
 theme: "PaperMod"
 
 enableInlineShortcodes: true
@@ -28,7 +27,7 @@ menu:
 params:
     description: "Academic website for W. Matthew Alampay Davis"
     author: W. Matthew Alampay Davis
-    DateFormat: "January 2006"
+    DateFormat: "2006-01-02"
     defaultTheme: light
     hideFooter: true
     disableThemeToggle: true
@@ -51,7 +50,8 @@ params:
           enabled: true
           title: Matthew Alampay Davis
           subtitle: >
-                    I’m a fifth-year PhD candidate at Columbia University’s department of economics. My research interests are in the political economy of development, inequality, and the environment. In ongoing projects, I study the distributional consequences of climate change and the transmission of gendered violence and norms in the Global South. Note this site is still under construction and may be buggy as I'm transitioning my website to Github Pages. 
+                    I’m a fifth-year PhD candidate at Columbia University’s department of economics. My research interests are in the political economy of development, inequality, and the environment. In ongoing projects, I study the distributional consequences of climate change and the transmission of gendered violence and norms in the Global South.
+                    Note this site is under construction as I transition to a new host and may be buggy. Many apologies to anyone who desperately needs to read my research or old lecture notes; please just hang in there, I promise they’ll be back soon.
           imageUrl: "/profile.jpeg"
           imageWidth: 160
           imageHeight: 160
@@ -72,16 +72,16 @@ params:
     socialIcons:
         - name: Email
           url: mailto:wm.alampaydavis@gmail.com
-        - name: Office hours
-          url: https://calendly.com/wmadavis
-        - name: Google Scholar
-          url: https://scholar.google.com/citations?user=ri2tMA8AAAAJ
         - name: GitHub
           url: https://github.com/wmadavis?tab=repositories
+        - name: Google Scholar
+          url: https://scholar.google.com/citations?user=ri2tMA8AAAAJ
         - name: Twitter
           url: https://twitter.com/alampaydavis
         - name: goodreads
           url: https://www.goodreads.com/wmadavis
+        - name: Office hours
+          url: https://calendly.com/wmadavis
         - name: Location
           url: /location/
 
