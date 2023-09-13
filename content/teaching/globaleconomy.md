@@ -3,7 +3,7 @@ title: "The global economy (ECON-UN2257)"
 weight: 4
 date: 2023-09-13
 author: "Matthew Alampay Davis"
-summary: "This international economics course is targeted towards non-economcis students. It will focus on current events and the increasing international interdependence of the world economy and will also include historical examples, data, and theoretical frameworks helpful for understanding international economics. Topics incude: (i) why countries trade, what goods and services will be traded, how the gains from trade are distributed and the tools of commercial policy; (ii) the movement of labor and capital across borders; value of transnational countries and production processes across countries; (iii) international finance issues including exchange rates, balance of payments and open economy macroeconomic adjustment." 
+summary: "This international economics course is targeted towards non-economics students, focusing on current events and the increasing international interdependence of the world economy. Topics incude: (i) why countries trade, what goods and services will be traded, how the gains from trade are distributed and the tools of commercial policy; (ii) the movement of labor and capital across borders; value of transnational countries and production processes across countries; (iii) international finance issues including exchange rates, balance of payments and open economy macroeconomic adjustment." 
 showToc: false
 disableAnchoredHeadings: false
 
