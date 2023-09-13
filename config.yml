@@ -15,7 +15,7 @@ menu:
           url: /CV-AlampayDavis.pdf
           weight: 1  
         - name: Research
-          url: /Research/
+          url: /research/
           weight: 2
         - name: Teaching
           url: /teaching/

@@ -1,62 +1,15 @@
 ---
 title: "The Global Economy" 
-date: 2013-10-01
+date: 2023-09-13
 url: /teaching/global/
 tags: ["differential equations","optimal control"]
-author: "Pascal Michaillat"
-description: "This graduate course covers basic mathematical methods for macroeconomics: dynamic programming, optimal control, and differential equations." 
-summary: "This graduate course covers basic mathematical methods for macroeconomics: dynamic programming, optimal control, and differential equations." 
-cover:
-    image: "/c3.png"
-    alt: "Phase diagram depicting a saddle path"
-    relative: false
-editPost:
-    URL: "https://github.com/pmichaillat/math-for-macro"
-    Text: "Source files"
-showToc: true
+author: "Matthew Alampay Davis"
+summary: "This course is designed for students who are not intending to major in Economics but are interested in important global, economic issues. The course will focus on current events and the increasing international interdependence of the world economy, and will also include historical examples, data, and theoretical frameworks helpful for understanding international economics. A number of areas within international economics will be covered: (i) why countries trade, what goods and services will be traded, how the gains from trade are distributed and the tools of commercial policy; (ii) the movement of labor and capital across borders; value of transnational countries and production processes across countries; (iii) international finance issues including exchange rates, balance of payments and open economy macroeconomic adjustment. As the countries of the world have become increasingly interconnected, we have seen how isolated events in one country quickly spiral into global events that have an economic impact on all individuals, e.g., Covid-19 Pandemic, Tariff Wars between US and China, War between Russia and Ukraine. These events are happening with relatively greater frequency and as citizens we are more rapidly aware of the circumstances given global news coverage." 
+showToc: false
 disableAnchoredHeadings: false
 
 ---
 
-## Introduction
+## Course description
 
-This course covers basic mathematical methods to study dynamical systems, in discrete time and in continuous time. Dynamical systems are systems that involve more than one time-period; they are prevalent in macroeconomics. We first discuss dynamic programming, which is a method to solve dynamic optimization problems in discrete time. We then turn to optimal control, which is a method to solve dynamic optimization problems in continuous time. Finally, we show how to solve differential equations, which are used to describe continuous-time dynamical systems.
-
----
-
-## Dynamic programming
-
-This section starts by introducing the key concepts of dynamic programming in a simple, deterministic consumption-saving problem. It then introduces randomness into the consumption-saving problem and solve this stochastic problem with dynamic programming. Finally, to illustrate how to use dynamic programming in macroeconomics, we solve a Real Business-Cycle model using dynamic programming.
-
-+ [Lecture notes](/x1.pdf)
-+ [Problem set](/x4.pdf)
-+ Reference: [Acemoglu (2008, chapter 6)](https://press.princeton.edu/books/hardcover/9780691132921/introduction-to-modern-economic-growth)
-
----
-
-## Optimal control
-
-This section starts by formulating the consumption-saving problem in continuous time. We solve this continuous-time problem first by using a present-value Hamiltonian, and then by using a current-value Hamiltonian. (Both approaches are equivalent.) Then we discuss optimality conditions for general optimization problems solved by optimal control. To conclude, we discuss the Hamilton-Jacobi-Bellman equation.
-
-+ [Lecture notes](/x2.pdf)
-+ [Problem set](/x5.pdf)
-+ Reference: [Acemoglu (2008, chapter 7)](https://press.princeton.edu/books/hardcover/9780691132921/introduction-to-modern-economic-growth)
-
----
-
-## Differential equations
-
-In this section we first solve linear first-order differential equations. We then move to linear systems of first-order differential equations. Next we discuss how we can derive the properties of a linear system of first-order differential equations by drawing its phase diagram. Finally, we turn to nonlinear systems of first-order differential equations---which are common in macroeconomics. Although we cannot solve them explicitly, we characterize their properties by constructing their phase diagrams. 
-
-+ [Lecture notes](/x3.pdf)
-+ [Problem set](/x6.pdf)
-+ Reference: [Hirsch, Smale, Devaney (2013, chapters 1–6)](https://www.sciencedirect.com/book/9780123820105/differential-equations-dynamical-systems-and-an-introduction-to-chaos)
-
----
-
-## Conclusion
-
-To conclude, a little more practice and an application. The problem set below brings together all the material from the course. And the paper below applies the course's techniques to analyze the New Keynesian model in normal times and at the zero lower bound. The analysis covers in particular the response to recessionary shocks, the effects of forward guidance, and the effects of government spending.
-
-+ [Cumulative problem set](/x7.pdf)
-+ [Application of optimal control and differential equations to the New Keynesian model](/11/)
+This course is designed for students who are not intending to major in Economics but are interested in important global, economic issues. The course will focus on current events and the increasing international interdependence of the world economy, and will also include historical examples, data, and theoretical frameworks helpful for understanding international economics. A number of areas within international economics will be covered: (i) why countries trade, what goods and services will be traded, how the gains from trade are distributed and the tools of commercial policy; (ii) the movement of labor and capital across borders; value of transnational countries and production processes across countries; (iii) international finance issues including exchange rates, balance of payments and open economy macroeconomic adjustment. As the countries of the world have become increasingly interconnected, we have seen how isolated events in one country quickly spiral into global events that have an economic impact on all individuals, e.g., Covid-19 Pandemic, Tariff Wars between US and China, War between Russia and Ukraine. These events are happening with relatively greater frequency and as citizens we are more rapidly aware of the circumstances given global news coverage.
