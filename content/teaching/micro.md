@@ -1,6 +1,5 @@
 ---
-title: "ECON-3211: Intermediate Microeconomics (TA)"
-subtitle: "Spring 2022, Fall 2022"
+title: "ECON-3211: Intermediate microeconomics"
 date: 2023-09-13
 url: /teaching/micro
 author: "Matthew Alampay Davis"

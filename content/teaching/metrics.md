@@ -1,5 +1,5 @@
 ---
-title: "ECON-UN3412: Introduction to econometrics
+title: "ECON-UN3412: Introduction to econometrics"
 date: 2023-09-13
 url: /teaching/metrics
 author: "Matthew Alampay Davis"
