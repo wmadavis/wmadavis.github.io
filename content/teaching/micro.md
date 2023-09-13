@@ -6,15 +6,10 @@ url: /teaching/micro
 author: "Matthew Alampay Davis"
 description: "description not summary" 
 summary: > Spring 2022, Fall 2022
-
          The purpose of this course is to offer a solid, intermediate-level training in theoretical microeconomics. We will try to achieve a more in-depth understanding of how the standard theoretical models of microeconomics work. The course consists of three parts. We will start out by analyzing consumer decision-making. We then turn to the behavior of firms. Finally, the third part of the course studies the interaction of consumers and firms in goods markets.
-cover:
-    image: "/c2.png"
-    alt: "Optimal monetary policy and optimal government spending in the dynamic model of slack"
-    relative: false
 editPost:
-    URL: "https://youtube.com/playlist?list=PL5zEkRHvv2GxHa26QiEdeEybMy0UbdjmW"
-    Text: "YouTube playlist"
+    URL: "https://github.com/wmadavis/Teaching-IntermediateMicro"
+    Text: "Github page"
 showToc: true
 disableAnchoredHeadings: false
 
@@ -37,6 +32,8 @@ The purpose of this course is to offer a solid, intermediate-level training in t
 
 ## Resources
 
+(to be updated soon, placeholders for now)
+
 These slides are weekly elaborations on a specific newly introduced concept and so do not represent comprehensive coverage of the course material. They’re also not necessarily self-contained; I sometimes supplemented my slides with blackboard work and conversation with students, which is not always captured in the annotations. Course material is also instructor-specific; if you’re reading this as a Columbia student taking the same course, it may not correspond to the treatment or selection of topics your particular instructor chooses to cover. For example, compared to my Spring 2022 coverage, the following material from Fall 2022 covers a wider range of topics but omits some material such as the method of Lagrange multipliers.
 
 ##### Pre-course material
@@ -44,7 +41,28 @@ These slides are weekly elaborations on a specific newly introduced concept and 
 + Review of prerequisite calculus and optimization methods
 + Logistics and introduction to the course
 
-##### Introductory readings
+##### Consumer optimization
 
-+ [Krugman (2000)](https://doi.org/10.1093/oxrep/16.4.33) – This paper argues that uncomplicated models can be helpful. In this course we will develop models that are as uncomplicated as possible—and that are much simpler than models typically studied in graduate macroeconomic courses.
-+ [Frey, Stutzer (2002)](https://doi.org/10.1257/002205102320161320) – This survey provides evidence that personal unemployment and aggregate unemployment significantly reduce happiness. The evidence refers to the pure effect of unemployment, which controls for the income loss and other indirect effects of unemployment.
+##### Hicksian demand and special well-behaved preferences
+
+##### Comparative statics and Slutsky decomposition of price effects
+
+##### Hicksian decomposition of price effects and introduction to welfare
+
+##### Producer Theory I: Cost minimization
+
+##### Producer Theory II: Profit maximization under perfect competition
+
+##### General equilibrium
+
+##### Exchange economies and the Edgeworth boxBonus: by student request, an applied derivation of IC equations and intersections for accurate graphing 
+
+##### Models of monopolistic and oligopolistic competition
+
+##### Pre-final review
+
+##### Running log of responses to student emails and and corrections to weekly slides
+
+##### Comparing models of oligopolistic competition
+
+##### High-level summary and takeaways from the course

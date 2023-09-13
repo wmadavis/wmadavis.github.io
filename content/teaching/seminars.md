@@ -4,21 +4,13 @@ subtitle: "Fall 2023, Spring 2024"
 date: 2023-09-13
 url: /teaching/seminars
 author: "Matthew Alampay Davis"
-description: "This undergraduate course covers IS-LM model of business cycles, matching model of unemployment, inflation, and Malthusian and Solowian models of growth."
-summary: "This undergraduate course introduces macroeconomic concepts—such as GDP and inflation—and covers the IS-LM model of business cycles, matching model of unemployment, Phillips curve, Malthusian model of growth, and Solowian model of growth."
-cover:
-    image: "/c4.png"
-    alt: "Comparative statics in a matching model of unemployment"
-    relative: false
-editPost:
-    URL: "https://github.com/pmichaillat/intermediate-macro"
-    Text: "Source files"
+summary: "I serve as TA to all nine senior seminars, the honors thesis seminar, and all undergraduates conducting research in the economics department."
 showToc: true
 disableAnchoredHeadings: false
 
 ---
 
-I currently serve as the TA to all nine senior seminar, the honors thesis seminar, and all undergraduates conducting research in the economics department
+I serve as TA to all nine senior seminars, the honors thesis seminar, and all undergraduates conducting research in the economics department
 
 ## Course description
 
