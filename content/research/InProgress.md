@@ -5,7 +5,9 @@ url: /research/inprogress
 author: "Matthew Alampay Davis"
 summary: >
          1. Climate inequality  
+         
          2. Environmental disruption of gender norms (with [Tanushree Goyal](https://www.tanushreegoyal.com/))  
+
          3. Elite capture of identity politics: the political economy of descriptive and substantive representations*
 
 ---
