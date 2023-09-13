@@ -1,6 +1,6 @@
 ---
 title: "Introduction to econometrics (ECON-UN3412)"
-weight: 3
+weight: 7
 date: 2023-09-13
 url: /teaching/metrics
 author: "Matthew Alampay Davis"

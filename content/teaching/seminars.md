@@ -1,6 +1,6 @@
 ---
 title: "Senior seminars and research workshops (ECON-GU4999)"
-weight: 4
+weight: 9
 date: 2023-09-13
 url: /teaching/seminars
 author: "Matthew Alampay Davis"
