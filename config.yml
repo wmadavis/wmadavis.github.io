@@ -51,8 +51,7 @@ params:
           enabled: true
           title: Matthew Alampay Davis
           subtitle: >
-                    I’m a fifth-year PhD candidate at Columbia University’s department of economics. My research interests are in the political economy of development, inequality, and the environment. In ongoing projects, I study the distributional consequences of climate change and the transmission of gendered violence and norms in the Global South.
-                    Note this site is under construction as I transition to a new host and may be buggy. Many apologies to anyone who desperately needs to read my research or old lecture notes; please just hang in there, I promise they’ll be back soon.
+                    I’m a fifth-year PhD candidate at Columbia University’s department of economics. My research interests are in the political economy of development, inequality, and the environment. In ongoing projects, I study the distributional consequences of climate change and the transmission of gendered violence and norms in the Global South. Note this site is a work in progress as I'm transitioning to a new host and may be buggy and missing material to be uploaded later.
           imageUrl: "/profile.jpeg"
           imageWidth: 160
           imageHeight: 160
