@@ -26,6 +26,8 @@ The purpose of this course is to offer a solid, intermediate-level training in t
 
 + "Intermediate Microeconomics with Calculus” --- Hal Varian (2014)
 
+I respect academic publishers too much to suggest [Googling the textbook title and authors with "pdf"]intermediate microeconomics with calculus hal varian pdf) to get a free electronic copy. Or downloading them, also for free, off [Sci-Hub](https://sci-hub.se/database).
+
 ---
 
 ## Resources
