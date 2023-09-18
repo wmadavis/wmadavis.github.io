@@ -1,9 +1,7 @@
 ---
 title: "Senior seminars and research workshops (ECON-GU4999)"
 weight: 3
-date: 2023-09-13
 url: /teaching/seminars
-author: "Matthew Alampay Davis"
 summary: "Data TA providing guidance and preparing research workshops for economics students conducting research as part of the nine senior seminars, the senior honors thesis seminar, or as a research assistant."
 showToc: true
 disableAnchoredHeadings: false
