@@ -2,7 +2,7 @@
 title: "Intermediate microeconomics (ECON-UN3211)"
 weight: 2
 url: /teaching/micro
-summary: "Spring 2022, Fall 2022""
+summary: "Spring 2022, Fall 2022"
 editPost:
     URL: "https://github.com/wmadavis/Teaching-IntermediateMicro"
     Text: "Github page"
