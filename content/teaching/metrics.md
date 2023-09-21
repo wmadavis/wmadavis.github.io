@@ -94,10 +94,3 @@ If I were to teach this course again, I’d replace the working directories cove
 
 + Rmd
 + pdf
-
----
-
-## Unsolicited testimonials
-
-+ "Just wanted to say thank you for helping me and the rest of the students in Econometrics this semester. I know it definitely was not an easy (nor typical) year, but I’m so happy to have been able to do the class in R and I could not have done it without your help!"
-+ "I quickly just wanted to add a quick personal note: throughout the entire first half of the semester your recitations have been incredible, informative, clear, and a much-appreciated alternative to having to learn Stata. I wanted to personally say thank you for basically designing an entire parallel curriculum and for always responding to our questions and giving us feedback."
