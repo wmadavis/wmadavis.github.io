@@ -1,15 +1,16 @@
 ---
 title: "Research"
 aliases: /research/
-description: "Page for published and in-progress research projects"
+url: /research/
+summary: "Page for published and in-progress research projects"
 showToc: true
 disableAnchoredHeadings: false
 
 ---
 
-## [Large potential reduction in economic damages under UN mitigation targets (Nature, 557, 549-553)](https://www.nature.com/articles/s41586-018-0071-9)
+## [Large potential reduction in economic damages under UN mitigation targets](https://www.nature.com/articles/s41586-018-0071-9)
 
-Marshall Burke, Matthew Alampay Davis, Noah S. Diffenbaugh (2018)
+Marshall Burke, Matthew Alampay Davis, Noah S. Diffenbaugh (Nature, 557, 549-553, 2018)
 
 ##### Summary
 
@@ -23,11 +24,9 @@ We present an empirical framework for evaluating the economic benefits of the 20
 + [Replication files](https://github.com/wmadavis/BDD2018)
 
 
-##### Some press
+##### Press
 
 + [Nature critique](https://www.nature.com/articles/d41586-018-05198-7), [Stanford](https://news.stanford.edu/2018/05/23/reducing-emissions-save-trillions/), [Bloomberg](https://www.bna.com/money-fewer-woes-n57982093114/), [CBS (TV)](https://www.youtube.com/watch?v=29c7dTBEdcA), [The Guardian](https://www.theguardian.com/environment/2018/may/23/hitting-toughest-climate-target-will-save-world-30tn-in-damages-analysis-shows), [Reuters](https://www.weforum.org/agenda/2018/05/strict-curbs-on-global-warming-would-buoy-world-economy), [The Hill](https://thehill.com/opinion/energy-environment/389550-paris-agreement-goals-could-save-trillions-in-avoided-climate), [Yahoo](https://www.yahoo.com/news/fighting-climate-change-could-save-172228421.html), [Axios](https://www.axios.com/climate-change-paris-agreement-economic-costs-gdp-127aea31-085a-487d-b8b8-b1e7a2befcca.html), [The New Yorker](https://www.newyorker.com/news/news-desk/the-false-choice-between-economic-growth-and-combatting-climate-change), [Business Insider](https://www.businessinsider.com/climate-change-capitalism-economic-threat-worse-than-depression-2019-2?r=US&IR=T), [Rolling Stone](https://www.rollingstone.com/politics/politics-news/why-the-green-new-deal-is-cheap-actually-965794/), [The Daily Show](https://www.youtube.com/watch?v=40JS3W4um7o)
-
-[![Marshall on The Daily Show: "I don’t know if our research speaks to a kidnapping-Jeff-Bezos approach."](https://img.youtube.com/vi/40JS3W4um7o/maxresdefault.jpg)](https://youtu.be/40JS3W4um7o)
 
 ##### Citations
 
@@ -47,10 +46,10 @@ We present an empirical framework for evaluating the economic benefits of the 20
 
 ---
 
-## [Combining satellite imagery and machine learning to predict poverty (Science, 353 (6301), 790-794)](https://doi.org/10.1126/science.aaf7894)
+## [Combining satellite imagery and machine learning to predict poverty](https://doi.org/10.1126/science.aaf7894)
 
 
-Neal Jean, Marshall Burke, Michael Xie, Matthew Alampay Davis, David B. Lobell, Stefano Ermon
+Neal Jean, Marshall Burke, Michael Xie, Matthew Alampay Davis, David B. Lobell, Stefano Ermon (Science, 353 (6301), 790-794, 2016)
 
 ##### Summary
 
@@ -70,7 +69,7 @@ Here's a [non-technical animated summary](http://www.youtube.com/watch?v=DafZSeI
     + [Update](http://www.g-feed.com/2017/02/targeting-poverty-with-satellites.html)
 + [Lab website](http://sustain.stanford.edu/predicting-poverty)
 
-##### Some press
+##### Press
 
 + [Science](http://science.sciencemag.org/content/353/6301/753), [Stanford](https://news.stanford.edu/2016/08/18/combining-satellite-data-machine-learning-to-map-poverty/), [The Washington Post](https://www.washingtonpost.com/news/wonk/wp/2016/08/24/how-satellite-images-are-helping-find-the-worlds-hidden-poor/?noredirect=on&utm_term=.ad5ca2f277da), [BBC](https://www.bbc.co.uk/news/science-environment-37122748), [Scientific American](https://www.scientificamerican.com/article/2016-world-changing-ideas/), [The Atlantic](https://www.theatlantic.com/technology/archive/2016/08/can-satellites-learn-to-see-poverty/497153/), [The Onion](https://www.theonion.com/satellite-images-could-predict-poverty-1819563263), [Bill Gates](https://twitter.com/BillGates/status/773188644014350336), [CGDev critique](https://www.cgdev.org/blog/can-we-measure-poverty-outer-space)
 
