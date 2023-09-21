@@ -40,7 +40,7 @@ params:
     ShowBreadCrumbs: false
     ShowCodeCopyButtons: true
     ShowRssButtonInSectionTermList: false
-    ShowToc: true
+    ShowToc: false
     disableScrollToTop: true
     TocOpen: true
     ShowWordCount: false

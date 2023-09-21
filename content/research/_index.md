@@ -4,6 +4,8 @@ aliases: /research/
 url: /research/
 summary: "Page for published and in-progress research projects"
 showToc: true
+TocOpen: true
+UseHugoToc: true
 disableAnchoredHeadings: false
 
 ---
@@ -61,7 +63,6 @@ Here's a [non-technical animated summary](http://www.youtube.com/watch?v=DafZSeI
 
 + [Science, 353 (6301), 790-794](https://www.science.org/doi/10.1126/science.aaf7894)
 + [Ungated link](/papers/JeanEtAl2016.pdf)
-+ 
 + [Replication files](https://github.com/nealjean/predicting-poverty)
 + Authors' blog posts:
     + [Summary](http://www.g-feed.com/2016/08/economics-from-space.html)
