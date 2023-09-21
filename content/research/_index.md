@@ -1,8 +1,10 @@
 ---
 title: "Research"
 aliases: /research/
+description: "Page for published and in-progress research projects"
 showToc: true
-description: "Page for published and in-progress research projects" 
+disableAnchoredHeadings: false
+
 ---
 
 ## [Large potential reduction in economic damages under UN mitigation targets (Nature, 557, 549-553)](https://www.nature.com/articles/s41586-018-0071-9)
