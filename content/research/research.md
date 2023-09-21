@@ -10,7 +10,7 @@ disableAnchoredHeadings: false
 
 ## [Large potential reduction in economic damages under UN mitigation targets](https://www.nature.com/articles/s41586-018-0071-9)
 
-Marshall Burke, Matthew Alampay Davis, Noah S. Diffenbaugh (Nature, 557, 549-553, 2018)
+Marshall Burke, Matthew Alampay Davis, Noah S. Diffenbaugh (2018)
 
 ##### Summary
 
@@ -18,7 +18,7 @@ We present an empirical framework for evaluating the economic benefits of the 20
 
 ##### Paper and supplementary material
 
-+ [Official link](https://www.nature.com/articles/s41586-018-0071-9)
++ [Nature, 557, 549-553](https://www.nature.com/articles/s41586-018-0071-9)
 + [Ungated link](/papers/BurkeDavisDiffenbaugh2018.pdf)
 + [Non-technical video summary](http://www.youtube.com/watch?v=DafZSeIGLNE)
 + [Replication files](https://github.com/wmadavis/BDD2018)
@@ -49,7 +49,7 @@ We present an empirical framework for evaluating the economic benefits of the 20
 ## [Combining satellite imagery and machine learning to predict poverty](https://doi.org/10.1126/science.aaf7894)
 
 
-Neal Jean, Marshall Burke, Michael Xie, Matthew Alampay Davis, David B. Lobell, Stefano Ermon (Science, 353 (6301), 790-794, 2016)
+Neal Jean, Marshall Burke, Michael Xie, Matthew Alampay Davis, David B. Lobell, Stefano Ermon (2016)
 
 ##### Summary
 
@@ -59,7 +59,7 @@ Here's a [non-technical animated summary](http://www.youtube.com/watch?v=DafZSeI
 
 ##### Paper and supplementary material
 
-+ [Official link](https://www.science.org/doi/10.1126/science.aaf7894)
++ [Science, 353 (6301), 790-794](https://www.science.org/doi/10.1126/science.aaf7894)
 + [Ungated link](/papers/JeanEtAl2016.pdf)
 + 
 + [Replication files](https://github.com/nealjean/predicting-poverty)
