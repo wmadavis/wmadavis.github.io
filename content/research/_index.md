@@ -12,11 +12,7 @@ UseHugoToc: true
 
 ## [Large potential reduction in economic damages under UN mitigation targets](https://www.nature.com/articles/s41586-018-0071-9)
 
-Marshall Burke, Matthew Alampay Davis, Noah S. Diffenbaugh (2018)
-
-##### Summary
-
-We present an empirical framework for evaluating the economic benefits of the 2015 Paris Agreement’s temperature targets of 1.5°C and 2.0°. Our findings decompose the large uncertainties involved in such projection exercises and stress the inequity in impacts: it is a stark result that poorer countries that have historically contributed least to carbon emissions have the most the gain from mitigation of global warming.
+### Marshall Burke, Matthew Alampay Davis, Noah S. Diffenbaugh (2018)
 
 ##### Paper and supplementary material
 
@@ -25,6 +21,9 @@ We present an empirical framework for evaluating the economic benefits of the 20
 + [Non-technical video summary](http://www.youtube.com/watch?v=DafZSeIGLNE)
 + [Replication files](https://github.com/wmadavis/BDD2018)
 
+##### Summary
+
+We present an empirical framework for evaluating the economic benefits of the 2015 Paris Agreement’s temperature targets of 1.5°C and 2.0°. Our findings decompose the large uncertainties involved in such projection exercises and stress the inequity in impacts: it is a stark result that poorer countries that have historically contributed least to carbon emissions have the most the gain from mitigation of global warming.
 
 ##### Press
 
@@ -43,7 +42,7 @@ We present an empirical framework for evaluating the economic benefits of the 20
 ## [Combining satellite imagery and machine learning to predict poverty](https://doi.org/10.1126/science.aaf7894)
 
 
-Neal Jean, Marshall Burke, Michael Xie, Matthew Alampay Davis, David B. Lobell, Stefano Ermon (2016)
+### Neal Jean, Marshall Burke, Michael Xie, Matthew Alampay Davis, David B. Lobell, Stefano Ermon (2016)
 
 ##### Summary
 
@@ -78,5 +77,7 @@ Here's a [non-technical animated summary](http://www.youtube.com/watch?v=DafZSeI
 + Revised version (2023) supervised by [Suresh Naidu](https://sites.santafe.edu/~snaidu/) awarded Columbia’s Wueller Prize for runner-up best pre-dissertation proposal
 
 ##### Weather shocks, gender norms, and intimate-partner violence (with [Tanushree Goyal](https://www.tanushreegoyal.com/))
+
+##### Climate democracy
 
 ##### Elite capture of identity politics: a model of descriptive and substantive representations
