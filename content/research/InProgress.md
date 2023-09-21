@@ -2,7 +2,6 @@
 title: "Unpublished"
 weight: 3
 url: /research/inprogress
-author: "Matthew Alampay Davis"
 summary: "Sundry work in progress"
 
 ---
