@@ -56,7 +56,7 @@ If I were to update this material, I’d add notes on .Rprofile and .Rproj files
 
 + Notes ([Rmd](/teaching/metrics-2023-summer/01-R-Introduction.Rmd) | [PDF](/teaching/metrics-2023-summer/01-R-Introduction.pdf))
 + Practice problems: [Rmd](/teaching/metrics-2023-summer/01-R-Introduction.Rmd) | [PDF](/teaching/metrics-2023-summer/01-R-Introduction.pdf)
-+ [iPad practice problems](/teaching/metrics-2023-summer/01-PracticeProblems-iPad.pdf)
++ [Written practice problems](/teaching/metrics-2023-summer/01-PracticeProblems-iPad.pdf)
 
 ##### 2. Multicollinearity, joint hypothesis testing, and the tidyverse
 
