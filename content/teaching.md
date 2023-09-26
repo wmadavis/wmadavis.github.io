@@ -151,9 +151,9 @@ These slides are weekly elaborations on a specific newly introduced concept and 
 
 ### Graduate coursework
 
-(working links coming... eventually)
+*An incomplete archive of notes of variable quality from the two graduate schools I’ve attended. I may scan and upload my handwritten notes once I can regain access to them. The gold standard is still Luke Stein’s impeccable [first-year notes from the Stanford core sequence](https://faculty.babson.edu/lcdstein/steincoresummary.pdf).*
 
-*An incomplete archive of notes of variable quality from the two graduate schools I’ve attended. I may scan and upload my handwritten notes once I can regain access to them. The gold standard is still [Luke Stein’s first-year notes from the Stanford core sequence](https://faculty.babson.edu/lcdstein/steincoresummary.pdf).*
+(working links coming... eventually)
 
 #### Columbia PhD core
 
@@ -164,7 +164,7 @@ These slides are weekly elaborations on a specific newly introduced concept and 
 + **Macroeconomics I, Part I** (incomplete summary): Introduction to growth theory
 + **Macroeconomics I, Part II**: General equilibrium theory, real business cycles, and an introduction to macro-finance
 
-#### Oxford M.Phil core and fields
+#### Oxford PhD core and fields
 
 ##### Year 1 Core
 
