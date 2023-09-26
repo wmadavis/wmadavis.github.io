@@ -12,7 +12,7 @@ UseHugoToc: true
 
 ## [Large potential reduction in economic damages under UN mitigation targets](https://www.nature.com/articles/s41586-018-0071-9)
 
-#### Marshall Burke, Matthew Alampay Davis, Noah S. Diffenbaugh (2018)
+### Marshall Burke, Matthew Alampay Davis, Noah S. Diffenbaugh (2018)
 
 ##### Paper and supplementary material
 
@@ -42,17 +42,14 @@ We present an empirical framework for evaluating the economic benefits of the 20
 ## [Combining satellite imagery and machine learning to predict poverty](https://doi.org/10.1126/science.aaf7894)
 
 
-#### Neal Jean, Marshall Burke, Michael Xie, Matthew Alampay Davis, David B. Lobell, Stefano Ermon (2016)
+### Neal Jean, Marshall Burke, Michael Xie, Matthew Alampay Davis, David B. Lobell, Stefano Ermon (2016)
 
 ##### Paper and supplementary material
 
 + [Science, 353 (6301), 790-794](https://www.science.org/doi/10.1126/science.aaf7894)
 + [Ungated link](/papers/JeanEtAl2016.pdf)
 + [Replication files](https://github.com/nealjean/predicting-poverty)
-+ Authors' blog posts:
-    + [Summary](http://www.g-feed.com/2016/08/economics-from-space.html)
-    + [Genesis](http://www.g-feed.com/2016/08/risk-aversion-in-science.html)
-    + [Update](http://www.g-feed.com/2017/02/targeting-poverty-with-satellites.html)
++ Authors' blog posts: [genesis](http://www.g-feed.com/2016/08/risk-aversion-in-science.html), [summary](http://www.g-feed.com/2016/08/economics-from-space.html), [update](http://www.g-feed.com/2017/02/targeting-poverty-with-satellites.html)
 + [Lab website](http://sustain.stanford.edu/predicting-poverty)
 
 ##### Summary
