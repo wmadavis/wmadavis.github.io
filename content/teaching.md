@@ -61,7 +61,7 @@ If I were to update this material, I’d integrate .Rprofile and .Rproj files in
 
 ###### Class notes ([Rmd](/teaching/metrics-2023-summer/02-Multicollinearity-JointHypotheses.Rmd) | [PDF](/teaching/metrics-2023-summer/02-Multicollinearity-JointHypotheses.pdf))
 
-##### 3. Exam 1 review ([PDF](/teaching/metrics-2023-summer/03-ExtraNotes.pdf))
+##### 3. Exam 1 review: points of emphasis ([PDF](/teaching/metrics-2023-summer/03-ExtraNotes.pdf))
 
 ##### 4. Nonlinear regression
 
@@ -71,7 +71,7 @@ If I were to update this material, I’d integrate .Rprofile and .Rproj files in
 
 ###### Class notes ([Rmd](/teaching/metrics-2023-summer/05-Panels-BinaryDVs.Rmd) | [PDF](/teaching/metrics-2023-summer/05-Panels-BinaryDVs.pdf))
 
-##### 6. Exam 2 review: fixed effects in more detail ([PDF](/teaching/metrics-2023-summer/05-FixedEffects.pdf))
+##### 6. Exam 2 review: intuition for fixed effects ([PDF](/teaching/metrics-2023-summer/05-FixedEffects.pdf))
 
 ##### 7. Instrumental variables and quasi-experiments
 
