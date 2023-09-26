@@ -138,7 +138,7 @@ Bonus: By student request, [an applied derivation of IC equations and intersecti
 
 ##### 9. [Models of monopolistic and oligopolistic competition](/teaching/micro-2022-fall/09-ImperfectCompetition.pdf)
 
-#### 10. Pre-final review
+##### 10. Pre-final review
 
 + [Comparing models of oligopolistic competition](/teaching/micro-2022-fall/10-FinalReview.pdf)
 + [High-level summary and takeaways from the course](/teaching/micro-2022-fall/10-CourseSummary.pdf)
@@ -160,7 +160,7 @@ Bonus: By student request, [an applied derivation of IC equations and intersecti
 
 *An incomplete archive of notes of variable quality from the two graduate schools I’ve attended. I may scan and upload my handwritten notes once I can regain access to them. The gold standard is still [Luke Stein’s first-year notes from the Stanford core sequence](https://faculty.babson.edu/lcdstein/steincoresummary.pdf).*
 
-#### Columbia PhD
+#### PhD, Columbia
 
 Year 1:
 
@@ -169,7 +169,7 @@ Year 1:
 + **Macroeconomics I, Part I** (incomplete summary): Introduction to growth theory
 + **Macroeconomics I, Part II**: General equilibrium theory, real business cycles, and an introduction to macro-finance
 
-#### Oxford MPhil
+#### M.Phil, Oxford
 
 
 ##### Year 1
