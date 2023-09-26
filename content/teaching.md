@@ -22,9 +22,9 @@ UseHugoToc: true
 
 ---
 
-### Senior seminars and research workshops (ECON-GU4999)
+### Senior seminars and research workshops
 
-**Fall 2023, Spring 2024**  
+**ECON-GU4999: Fall 2023, Spring 2024**  
 
 Prerequisites
 
@@ -40,9 +40,9 @@ Serving as the department's research consultant TA providing guidance and prepar
 
 ---
 
-### [Introduction to econometrics (ECON-UN3412)](https://github.com/wmadavis/Teaching-IntroEconometrics)
+### [Introduction to econometrics](https://github.com/wmadavis/Teaching-IntroEconometrics)
 
-**Fall 2020, Spring 2021, Fall 2021, Summer 2023**  
+**(ECON-UN3412): Fall 2020, Spring 2021, Fall 2021, Summer 2023**  
 
 Textbook: “Introduction to Econometrics” — James Stock and Mark Watson (2019, 2020)
 
@@ -112,9 +112,9 @@ If I were to update this material, I’d add notes on .Rprofile and .Rproj files
 
 ---
 
-### [Intermediate microeconomics (ECON-UN3211)](https://github.com/wmadavis/Teaching-IntermediateMicro)
+### [Intermediate microeconomics](https://github.com/wmadavis/Teaching-IntermediateMicro)
 
-**Spring 2022, Fall 2022**  
+**ECON-UN3211: Spring 2022, Fall 2022**  
 
 Prerequisites
 
@@ -164,9 +164,9 @@ Bonus: By student request, [an applied derivation of IC equations and intersecti
 
 ---
 
-### The global economy (ECON-UN2257)
+### The global economy
 
-**Spring 2023**  
+**ECON-UN2257: Spring 2023**  
 
 > *This international economics course is targeted towards non-economics students, focusing on current events and the increasing international interdependence of the world economy. Topics incude: (i) why countries trade, what goods and services will be traded, how the gains from trade are distributed and the tools of commercial policy; (ii) the movement of labor and capital across borders; value of transnational countries and production processes across countries; (iii) international finance issues including exchange rates, balance of payments and open economy macroeconomic adjustment.*  
 
