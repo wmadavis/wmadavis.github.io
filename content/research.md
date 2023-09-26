@@ -12,7 +12,7 @@ UseHugoToc: true
 
 ### [Large potential reduction in economic damages under UN mitigation targets](https://doi.org/10.1038/s41586-018-0071-9)
 
-**Marshall Burke, Matthew Alampay Davis, Noah S. Diffenbaugh (2018)**  
+**[Marshall Burke](https://web.stanford.edu/~mburke/), Matthew Alampay Davis, [Noah S. Diffenbaugh](https://profiles.stanford.edu/noah-diffenbaugh) (2018)**  
 *[Nature, 557, 549-553](https://www.nature.com/articles/s41586-018-0071-9)*
 
 + [Ungated link](/papers/BurkeDavisDiffenbaugh2018.pdf)
@@ -38,7 +38,7 @@ We present an empirical framework for evaluating the economic benefits of the 20
 
 ### [Combining satellite imagery and machine learning to predict poverty](https://doi.org/10.1126/science.aaf7894)
 
-**Neal Jean, Marshall Burke, Michael Xie, Matthew Alampay Davis, David B. Lobell, Stefano Ermon (2016)**  
+**[Neal Jean](https://nealjean.com/), [Marshall Burke](https://web.stanford.edu/~mburke/), [Michael Xie](https://cs.stanford.edu/~eix/), Matthew Alampay Davis, [David B. Lobell](https://fse.fsi.stanford.edu/people/david_lobell), [Stefano Ermon](https://cs.stanford.edu/~ermon/) (2016)**  
 *[Science, 353 (6301), 790-794](https://www.science.org/doi/10.1126/science.aaf7894)*
 
 + [Ungated link](/papers/JeanEtAl2016.pdf)
