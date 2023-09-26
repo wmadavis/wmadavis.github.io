@@ -54,37 +54,43 @@ If I were to update this material, I’d add notes on .Rprofile and .Rproj files
 
 ##### 1. Introduction to R and R Notebooks
 
-###### ([Rmd](/teaching/metrics-2023-summer/01-R-Introduction.Rmd) | [PDF](/teaching/metrics-2023-summer/01-R-Introduction.pdf)) | Data practice problems ([Rmd](/teaching/metrics-2023-summer/01-R-Introduction.Rmd) | [PDF](/teaching/metrics-2023-summer/01-R-Introduction.pdf)) | [Written practice problems](/teaching/metrics-2023-summer/01-PracticeProblems-iPad.pdf)
+###### Class notes ([Rmd](/teaching/metrics-2023-summer/01-R-Introduction.Rmd) | [PDF](/teaching/metrics-2023-summer/01-R-Introduction.pdf))
+###### Data practice problems ([Rmd](/teaching/metrics-2023-summer/01-R-Introduction.Rmd) | [PDF](/teaching/metrics-2023-summer/01-R-Introduction.pdf))
+###### [Written practice problems](/teaching/metrics-2023-summer/01-PracticeProblems-iPad.pdf)
 
 ##### 2. Multicollinearity, joint hypothesis testing, and the tidyverse
 
-###### ([Rmd](/teaching/metrics-2023-summer/02-Multicollinearity-JointHypotheses.Rmd) | [PDF](/teaching/metrics-2023-summer/02-Multicollinearity-JointHypotheses.pdf))
+###### Class notes ([Rmd](/teaching/metrics-2023-summer/02-Multicollinearity-JointHypotheses.Rmd) | [PDF](/teaching/metrics-2023-summer/02-Multicollinearity-JointHypotheses.pdf))
 
 ##### 3. Exam 1 review
 
-###### ([PDF](/teaching/metrics-2023-summer/03-ExtraNotes.pdf))
+###### Some Points of emphasis ([PDF](/teaching/metrics-2023-summer/03-ExtraNotes.pdf))
 
 ##### 4. Nonlinear regression
 
-###### ([Rmd](/teaching/metrics-2023-summer/04-NonLinearRegression.Rmd) | [PDF](/teaching/metrics-2023-summer/04-NonLinearRegression.pdf))
+###### Class notes ([Rmd](/teaching/metrics-2023-summer/04-NonLinearRegression.Rmd) | [PDF](/teaching/metrics-2023-summer/04-NonLinearRegression.pdf))
 
 ##### 5. Panel data methods and binary dependent variables
 
-###### ([Rmd](/teaching/metrics-2023-summer/05-Panels-BinaryDVs.Rmd) | [PDF](/teaching/metrics-2023-summer/05-Panels-BinaryDVs.pdf)) | [Fixed effects](/teaching/metrics-2023-summer/05-FixedEffects.pdf)
+###### Class notes ([Rmd](/teaching/metrics-2023-summer/05-Panels-BinaryDVs.Rmd) | [PDF](/teaching/metrics-2023-summer/05-Panels-BinaryDVs.pdf))
 
 ##### 6. Exam 2 review
 
-###### (not provided here)
+###### Fixed effects in more detail ([PDF](/teaching/metrics-2023-summer/05-FixedEffects.pdf))
 
 ##### 7. Instrumental variables and quasi-experiments
 
-###### (([Rmd](/teaching/metrics-2023-summer/07-Instruments-Experiments.Rmd) | [PDF](/teaching/metrics-2023-summer/07-Instruments-Experiments.pdf)) | [The control variable approach to IV regression](/teaching/metrics-2023-summer/07-ControlVariableApproach.pdf)
+###### Class notes (([Rmd](/teaching/metrics-2023-summer/07-Instruments-Experiments.Rmd) | [PDF](/teaching/metrics-2023-summer/07-Instruments-Experiments.pdf))
+###### The control variable approach to IV regression ([PDF](/teaching/metrics-2023-summer/07-ControlVariableApproach.pdf))
 
 ##### 8. Big data, time series and dynamic causal effects
 
-###### ([Rmd](/teaching/metrics-2023-summer/08-TimeSeries-DynamicCausalEffects.Rmd) | [PDF](/teaching/metrics-2023-summer/08-TimeSeries-DynamicCausalEffects.pdf)) | [Big data practice problems](/teaching/metrics-2023-summer/08-bigDataPracticeProblems.pdf)
+###### Class notes ([Rmd](/teaching/metrics-2023-summer/08-TimeSeries-DynamicCausalEffects.Rmd) | [PDF](/teaching/metrics-2023-summer/08-TimeSeries-DynamicCausalEffects.pdf))
+###### Additional big data practice problems ([PDF](/teaching/metrics-2023-summer/08-bigDataPracticeProblems.pdf))
 
-##### 9. [Exam 3 review](/teaching/metrics/2023-summer/09-Exam3-Review.pdf)
+##### 9. Exam 3 review
+
+###### Final points of emphasis ([PDF](/teaching/metrics/2023-summer/09-Exam3-Review.pdf))
 
 ---
 
@@ -107,29 +113,33 @@ These slides are weekly elaborations on a specific newly introduced concept and 
 
 ##### 0. Pre-course material
 
-+ [Review of prerequisite calculus and optimization methods](/teaching/micro-2022-fall/00-OptimizationReview.pdf)
-+ [Logistics and introduction to the course](/teaching/micro-2022-fall/00-Logistics.pdf)
-+ [Running log of responses to student emails and and corrections to weekly slides](/teaching/micro-2022-fall/00-RunningUpdates.pdf)
+###### Review of prerequisite calculus and optimization methods ([PDF](/teaching/micro-2022-fall/00-OptimizationReview.pdf))
+######  Running log of responses to student emails and and corrections to weekly slides ([PDF](/teaching/micro-2022-fall/00-RunningUpdates.pdf))
 
-##### 1. [Consumer optimization](/teaching/micro-2022-fall/01-ConsumerOptimization.pdf)
+##### 1. Consumer optimization ([PDF](/teaching/micro-2022-fall/01-ConsumerOptimization.pdf))
 
-##### 2. [Hicksian demand and special well-behaved preferences](/teaching/micro-2022-fall/02-HicksianDemand-SpecialPreferences.pdf)
+##### 2. Hicksian demand and special well-behaved preferences ([PDF](/teaching/micro-2022-fall/02-HicksianDemand-SpecialPreferences.pdf))
 
-##### 3. [Comparative statics and Slutsky decomposition of price effects](/teaching/micro-2022-fall/03-ComparativeStatics-IncomeSubstitutionEffects.pdf)
+##### 3. Comparative statics and Slutsky decomposition of price effects ([PDF](/teaching/micro-2022-fall/03-ComparativeStatics-IncomeSubstitutionEffects.pdf))
 
-##### 4. [Hicksian decomposition of price effects and introduction to welfare](/teaching/micro-2022-fall/04-HicksianDecomposition-Welfare.pdf)
+##### 4. Hicksian decomposition of price effects and introduction to welfare ([PDF](/teaching/micro-2022-fall/04-HicksianDecomposition-Welfare.pdf))
 
-##### 5. [Producer Theory I: Cost minimization](/teaching/micro-2022-fall/05-ProducerTheory-CostMinimization.pdf)
+##### 5. Producer Theory I: Cost minimization ([PDF](/teaching/micro-2022-fall/05-ProducerTheory-CostMinimization.pdf))
 
-##### 6. [Producer Theory II: Profit maximization under perfect competition](/teaching/micro-2022-fall/06-ProducerTheory-ProfitMaximization-MarketEquilibrium.pdf)
+##### 6. Producer Theory II: Profit maximization under perfect competition ([PDF](/teaching/micro-2022-fall/06-ProducerTheory-ProfitMaximization-MarketEquilibrium.pdf))
 
-##### 7. [General equilibrium](/teaching/micro-2022-fall/07-GeneralEquilibrium.pdf)
+##### 7. General equilibrium ([PDF](/teaching/micro-2022-fall/07-GeneralEquilibrium.pdf))
 
-##### 8. [Exchange economies and the Edgeworth box](/teaching/micro-2022-fall/08-ExchangeEconomies-MarketClearing-NonInteriorSolutions.pdf) | Bonus: By student request, [an applied derivation of IC equations and intersections for accurate graphing](/teaching/micro-2022-fall/08-GraphingExample.pdf)
+##### 8. Exchange economies and the Edgeworth box ([PDF](/teaching/micro-2022-fall/08-ExchangeEconomies-MarketClearing-NonInteriorSolutions.pdf)
 
-##### 9. [Models of monopolistic and oligopolistic competition](/teaching/micro-2022-fall/09-ImperfectCompetition.pdf)
+###### By student request, an applied derivation of IC equations and intersections for accurate graphing ([PDF](/teaching/micro-2022-fall/08-GraphingExample.pdf))
 
-##### 10. Pre-final review: [Comparing models of oligopolistic competition](/teaching/micro-2022-fall/10-FinalReview.pdf) | [High-level summary and takeaways from the course](/teaching/micro-2022-fall/10-CourseSummary.pdf)
+##### 9. Models of monopolistic and oligopolistic competition ([PDF](/teaching/micro-2022-fall/09-ImperfectCompetition.pdf))
+
+##### 10. Pre-final review
+
+###### Comparing models of oligopolistic competition ([PDF](/teaching/micro-2022-fall/10-FinalReview.pdf))
+###### High-level summary and takeaways from the course ([PDF](/teaching/micro-2022-fall/10-CourseSummary.pdf))
 
 ---
 
@@ -142,13 +152,13 @@ These slides are weekly elaborations on a specific newly introduced concept and 
 
 ---
 
-### Graduate coursework notes
+### Graduate coursework
 
 (working links coming... eventually)
 
 *An incomplete archive of notes of variable quality from the two graduate schools I’ve attended. I may scan and upload my handwritten notes once I can regain access to them. The gold standard is still [Luke Stein’s first-year notes from the Stanford core sequence](https://faculty.babson.edu/lcdstein/steincoresummary.pdf).*
 
-#### PhD, Columbia
+#### PhD: Columbia
 
 Year 1:
 
@@ -157,7 +167,7 @@ Year 1:
 + **Macroeconomics I, Part I** (incomplete summary): Introduction to growth theory
 + **Macroeconomics I, Part II**: General equilibrium theory, real business cycles, and an introduction to macro-finance
 
-#### M.Phil, Oxford
+#### M.Phil: Oxford
 
 
 ##### Year 1
