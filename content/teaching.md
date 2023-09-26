@@ -16,17 +16,17 @@ Sessions taught: Fall 2023, Spring 2024
 
 ##### Course description
 
-Serving as the department's research TA providing guidance and preparing workshops for economics students conducting research as part of the honors program, the nine senior seminars, or as part-time research assistants.
-
 Prerequisites
 
 + ECON UN3211: Intermediate microeconomics
 + ECON UN3213: Intermediate macroeconomics
 + ECON UN3412: Introduction to econometrics
 
+Serving as the department's research consultant TA providing guidance and preparing workshops for economics students conducting research as part of the honors program, the nine senior seminars, or as part-time research assistants.
+
 ##### Resources
 
-(to be updated soon), placeholders for now)
+(to be updated soon)
 
 ---
 
@@ -36,17 +36,15 @@ Sessions taught: Fall 2020, Spring 2021, Fall 2021, Summer 2023
 
 ##### Course description
 
-## Course description
-
-ECON-UN3412 introduces students to multiple regression and related methods for analyzing data in economics and related disciplines. Additional topics include regression with discrete random variables, instrumental variables regression, analysis of random experiments and quasi-experiments, and regression with time series data. Students will learn how to conduct – and how to critique – empirical studies in economics and related fields. Accordingly, the emphasis of the course is on empirical applications.
-
 Prerequisites
 
 + Intermediate microeconomics or intermediate macroeconomics
 + Calculus III
 + Introduction to probability and statistics with calculus
 
-## Resources
+ECON-UN3412 introduces students to multiple regression and related methods for analyzing data in economics and related disciplines. Additional topics include regression with discrete random variables, instrumental variables regression, analysis of random experiments and quasi-experiments, and regression with time series data. Students will learn how to conduct – and how to critique – empirical studies in economics and related fields. Accordingly, the emphasis of the course is on empirical applications.
+
+##### Resources
 
 Columbia teaches its undergraduates econometrics using Stata, an expensive statistical software whose wide use persists because it’s what most professors learned themselves. The first semester I taught this course, I prepared supplementary material and solutions to provide students the option to instead use R, a free and more flexible open-source alternative like Python and Julia preferred by most industries outside academic social science. After some initial trepidation about departing from the official software of instruction, students seemed to find its object-oriented programming much more intuitive and appreciated its usefulness and accessibility beyond the semester course. I refined my material and continued teaching exclusively in R in subsequent semesters and all in all, I think I cost Stata Corporation upwards of $10,000 in lost single-semester license fees.
 
@@ -117,12 +115,12 @@ Sessions taught: Spring 2022, Fall 2022
 
 ##### Course description
 
-The purpose of this course is to offer a solid, intermediate-level training in theoretical microeconomics. We will try to achieve a more in-depth understanding of how the standard theoretical models of microeconomics work. The course consists of three parts. We will start out by analyzing consumer decision-making. We then turn to the behavior of firms. Finally, the third part of the course studies the interaction of consumers and firms in goods markets.
-
 Prerequisites
 
 + Principles of Economics
 + Calculus III
+
+The purpose of this course is to offer a solid, intermediate-level training in theoretical microeconomics. We will try to achieve a more in-depth understanding of how the standard theoretical models of microeconomics work. The course consists of three parts. We will start out by analyzing consumer decision-making. We then turn to the behavior of firms. Finally, the third part of the course studies the interaction of consumers and firms in goods markets.
 
 Textbook
 
