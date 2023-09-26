@@ -18,7 +18,7 @@ UseHugoToc: true
 
 *I cannot guarantee a response but feel free to email clarifying questions. Video recordings of my econometrics and microeconomics classes may be available upon request to those looking to follow along or supplement their own studies, particularly those from developing countries.*  
 
-*Please reach out if you notice any mistakes or typos in this material. These errors are due to the professors who taught me wrong or the students who didn’t point them out.*  
+*Please reach out if you notice any mistakes or typos in this material. All errors are due to the professors who taught me wrong or the students who didn’t point them out.*  
 
 ---
 
