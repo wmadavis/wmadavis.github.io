@@ -105,9 +105,9 @@ markup:
         guessSyntax: true
         style: xcode
     tableOfContents:
-        endLevel: 5
+        endLevel: 4
         ordered: false
-        startLevel: 2
+        startLevel: 3
 
 # max number of characters:
 # * title: 70

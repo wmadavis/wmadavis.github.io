@@ -10,7 +10,7 @@ UseHugoToc: true
 
 ---
 
-## Senior seminars and research workshops (ECON-GU4999)
+### Senior seminars and research workshops (ECON-GU4999)
 
 Sessions taught: Fall 2023, Spring 2024
 
@@ -24,13 +24,13 @@ Prerequisites
 
 Serving as the department's research consultant TA providing guidance and preparing workshops for economics students conducting research as part of the honors program, the nine senior seminars, or as part-time research assistants.
 
-##### Resources
+#### Resources
 
 (to be updated soon)
 
 ---
 
-## [Introduction to econometrics (ECON-UN3412)](https://github.com/wmadavis/Teaching-IntroEconometrics)
+### [Introduction to econometrics (ECON-UN3412)](https://github.com/wmadavis/Teaching-IntroEconometrics)
 
 Sessions taught: Fall 2020, Spring 2021, Fall 2021, Summer 2023
 
@@ -44,7 +44,7 @@ Prerequisites
 
 ECON-UN3412 introduces students to multiple regression and related methods for analyzing data in economics and related disciplines. Additional topics include regression with discrete random variables, instrumental variables regression, analysis of random experiments and quasi-experiments, and regression with time series data. Students will learn how to conduct – and how to critique – empirical studies in economics and related fields. Accordingly, the emphasis of the course is on empirical applications.
 
-##### Resources
+#### Resources
 
 (links to be updated soon)
 
@@ -104,13 +104,12 @@ If I were to teach this course again, I’d replace the working directories cove
 
 ##### 10. Pre-final tips
 
-
 + Rmd
 + pdf
 
 ---
 
-## [Intermediate microeconomics (ECON-UN3211)](https://github.com/wmadavis/Teaching-IntermediateMicro)
+### [Intermediate microeconomics (ECON-UN3211)](https://github.com/wmadavis/Teaching-IntermediateMicro)
 
 
 Sessions taught: Spring 2022, Fall 2022
@@ -128,7 +127,7 @@ Textbook
 
 + ["Intermediate Microeconomics with Calculus” --- Hal Varian (2014)](https://www.google.com/search?q=intermediate+microeconomics+with+calculus+hal+varian+pdf&oq=intermediate&gs_lcrp=EgZjaHJvbWUqCAgCEEUYJxg7Mg8IABBFGDkYgwEYsQMYgAQyCAgBEEUYJxg7MggIAhBFGCcYOzINCAMQABiDARixAxiABDINCAQQABiDARixAxiABDITCAUQLhiDARjHARixAxjRAxiABDINCAYQABiDARixAxiABDIGCAcQRRg90gEIMjg4NmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8&bshm=rime/1)
 
-##### Resources
+#### Resources
 
 (to be updated soon, placeholders for now)
 
@@ -167,7 +166,7 @@ These slides are weekly elaborations on a specific newly introduced concept and 
 
 ---
 
-## The global economy (ECON-UN2257)
+### The global economy (ECON-UN2257)
 
 Sessions taught: Spring 2023
 
