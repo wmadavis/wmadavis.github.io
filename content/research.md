@@ -10,9 +10,9 @@ UseHugoToc: true
 
 ---
 
-## [Large potential reduction in economic damages under UN mitigation targets](https://www.nature.com/articles/s41586-018-0071-9)
+### [Large potential reduction in economic damages under UN mitigation targets](https://www.nature.com/articles/s41586-018-0071-9)
 
-### Marshall Burke, Matthew Alampay Davis, Noah S. Diffenbaugh (2018)
+#### Marshall Burke, Matthew Alampay Davis, Noah S. Diffenbaugh (2018)
 
 ##### Paper and supplementary material
 
@@ -39,10 +39,10 @@ We present an empirical framework for evaluating the economic benefits of the 20
 
 ---
 
-## [Combining satellite imagery and machine learning to predict poverty](https://doi.org/10.1126/science.aaf7894)
+### [Combining satellite imagery and machine learning to predict poverty](https://doi.org/10.1126/science.aaf7894)
 
 
-### Neal Jean, Marshall Burke, Michael Xie, Matthew Alampay Davis, David B. Lobell, Stefano Ermon (2016)
+#### Neal Jean, Marshall Burke, Michael Xie, Matthew Alampay Davis, David B. Lobell, Stefano Ermon (2016)
 
 ##### Paper and supplementary material
 
@@ -66,15 +66,15 @@ Here's a [non-technical animated summary](http://www.youtube.com/watch?v=DafZSeI
 
 ---
 
-## Work in progress
+### Work in progress
 
-##### Climate inequality
+#### Climate inequality
 
 + Early version (2019) supervised by [Elizabeth Baldwin](http://elizabeth-baldwin.me.uk/) and [David F. Hendry](https://www.nuffield.ox.ac.uk/people/profiles/david-hendry/) named Oxford’s first ‘exceptional’-class (mark of 80+) graduate economics thesis in at least four years
 + Revised version (2023) supervised by [Suresh Naidu](https://sites.santafe.edu/~snaidu/) awarded Columbia’s Wueller Prize for runner-up best pre-dissertation proposal
 
-##### Weather shocks, gender norms, and intimate-partner violence (with [Tanushree Goyal](https://www.tanushreegoyal.com/))
+#### Weather shocks, gender norms, and intimate-partner violence (with [Tanushree Goyal](https://www.tanushreegoyal.com/))
 
-##### Climate democracy
+#### Climate democracy
 
-##### Elite capture of identity politics: a model of descriptive and substantive representations
+#### Elite capture of identity politics: a model of descriptive and substantive representations
