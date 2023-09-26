@@ -1,7 +1,7 @@
 ---
-title: "Teaching"
-aliases: /teaching/
-url: /teaching/
+title: "Courses"
+aliases: /courses/
+url: /courses/
 disableAnchoredHeadings: false
 description: "Summaries and resources for courses I've TA'd for during my teaching career at Columbia University"
 showToc: true
@@ -12,29 +12,31 @@ UseHugoToc: true
 
 *Columbia students can use their university email to book office hours [here](https://calendly.com/wmadavis/).*
 
-*Using this space to share some of the resources I’ve prepared during my TA career at Columbia and for my graduate-level coursework at Oxford and Columbia. I’ve seen some of my notes paywalled on Course Hero so please just take it from here for free.*
+*Using this space to share some of the resources I’ve prepared during my TA career at Columbia and my graduate-level coursework at Oxford and Columbia. I’ve seen some of my notes paywalled on Course Hero so please just take it from here for free.*
+
+*Please reach out if you notice any mistakes or typos in this material. Any and all errors are due to the professors who taught me wrong or the students who didn’t point them out.*  
+
+---
+
+### Teaching
 
 *Out of respect for the non-predatory academic publishing industry, I discourage you from finding a free version of any textbooks mentioned here or elsewhere by [Googling their titles]((https://www.google.com/search?q=Introduction+to+Econometrics+watson+4th+edition+pdf&sca_esv=568605030&sxsrf=AM9HkKm2WdaM2SNR0--eUd572Acbx9Egyg%3A1695760925959&ei=HUITZaOMOqOs5NoP5biHSA&ved=0ahUKEwjjjvbckcmBAxUjFlkFHWXcAQkQ4dUDCBA&uact=5&oq=Introduction+to+Econometrics+watson+4th+edition+pdf&gs_lp=Egxnd3Mtd2l6LXNlcnAiM0ludHJvZHVjdGlvbiB0byBFY29ub21ldHJpY3Mgd2F0c29uIDR0aCBlZGl0aW9uIHBkZjIGEAAYFhgeSO8pUN4EWNEocAR4AZABAZgBmQGgAbYTqgEFMTAuMTS4AQPIAQD4AQL4AQHCAgoQABhHGNYEGLADwgIFEC4YgATCAgUQABiABMICFBAuGIAEGJcFGNwEGN4EGOAE2AEBwgIHECMYigUYJ8ICCBAAGIoFGIYD4gMEGAAgQYgGAZAGCLoGBggBEAEYFA&sclient=gws-wiz-serp&bshm=rime/1)), their authors, the edition number, and adding “pdf” at the end. Failing that, I am also hereby disavowing [Sci-Hub](https://sci-hub.se/database) as a resource for obtaining this material as well.*
 
 *I cannot guarantee a response but feel free to email clarifying questions. Video recordings of my econometrics and microeconomics classes may be available upon request to those looking to follow along or supplement their own studies, particularly those from developing countries.*  
 
-*Please reach out if you notice any mistakes or typos in this material. All errors are due to the professors who taught me wrong or the students who didn’t point them out.*  
+#### Senior seminars and research workshops
 
----
-
-### Senior seminars and research workshops
-
-**Fall 2023, Spring 2024**  
+##### Fall 2023, Spring 2024
 
 Serving as the economics department's research consultant TA providing guidance and preparing workshops for undergraduate and master's students conducting research as part of the honors program, the nine senior seminars, or as part-time research assistants. Resources to be uploaded here as they're produced.
 
 ---
 
-### [Introduction to econometrics](https://github.com/wmadavis/Teaching-IntroEconometrics)
+#### [Introduction to econometrics](https://github.com/wmadavis/Teaching-IntroEconometrics)
 
-**Fall 2020, Spring 2021, Fall 2021, Summer 2023**  
+##### Fall 2020, Spring 2021, Fall 2021, Summer 2023
 
-Textbook: “Introduction to Econometrics” — James Stock and Mark Watson (2019, 2020)  
+##### Course description
 
 Prerequisites
 
@@ -44,7 +46,7 @@ Prerequisites
 
 > *ECON-UN3412 introduces students to multiple regression and related methods for analyzing data in economics and related disciplines. Additional topics include regression with discrete random variables, instrumental variables regression, analysis of random experiments and quasi-experiments, and regression with time series data. Students will learn how to conduct – and how to critique – empirical studies in economics and related fields. Accordingly, the emphasis of the course is on empirical applications.*
 
-#### Material
+##### Material
 
 Columbia teaches its undergraduates econometrics using Stata, an expensive statistical software whose wide use persists because it’s what most professors learned themselves. The first semester I taught this course, I prepared supplementary material and solutions to provide students the option to instead use R, a free and more flexible open-source alternative preferred by most industries outside academic social science. After some initial trepidation about departing from the official software of instruction, students seemed to find its object-oriented programming much more intuitive and appreciated its usefulness and accessibility beyond the semester course. I refined my material and continued teaching exclusively in R in subsequent semesters and all in all, I think I cost Stata Corporation upwards of $10,000 in lost single-semester license fees.
 
@@ -85,9 +87,11 @@ If I were to update this material, I’d integrate .Rprofile and .Rproj files in
 
 ---
 
-### [Intermediate microeconomics](https://github.com/wmadavis/Teaching-IntermediateMicro)
+#### [Intermediate microeconomics](https://github.com/wmadavis/Teaching-IntermediateMicro)
 
-**Spring 2022, Fall 2022**  
+##### Spring 2022, Fall 2022
+
+##### Course description
 
 Textbook: ["Intermediate Microeconomics with Calculus” --- Hal Varian (2014)](https://www.google.com/search?q=intermediate+microeconomics+with+calculus+hal+varian+pdf&oq=intermediate&gs_lcrp=EgZjaHJvbWUqCAgCEEUYJxg7Mg8IABBFGDkYgwEYsQMYgAQyCAgBEEUYJxg7MggIAhBFGCcYOzINCAMQABiDARixAxiABDINCAQQABiDARixAxiABDITCAUQLhiDARjHARixAxjRAxiABDINCAYQABiDARixAxiABDIGCAcQRRg90gEIMjg4NmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8&bshm=rime/1)  
 
@@ -98,7 +102,7 @@ Prerequisites
 
 > *The purpose of this course is to offer a solid, intermediate-level training in theoretical microeconomics. We will try to achieve a more in-depth understanding of how the standard theoretical models of microeconomics work. The course consists of three parts. We will start out by analyzing consumer decision-making. We then turn to the behavior of firms. Finally, the third part of the course studies the interaction of consumers and firms in goods markets.*  
 
-#### Material
+##### Material
 
 These slides are weekly elaborations on a specific newly introduced concept and so do not represent comprehensive coverage of the course material. They’re also not necessarily self-contained; I sometimes supplemented my slides with blackboard work and conversation with students, which is not always captured in the annotations. Course material is also instructor-specific; if you’re reading this as a Columbia student taking the same course, it may not correspond to the treatment or selection of topics your particular instructor chooses to cover. For example, compared to my Spring 2022 coverage, the following material from Fall 2022 covers a wider range of topics but omits some material such as the method of Lagrange multipliers.
 
@@ -134,39 +138,39 @@ These slides are weekly elaborations on a specific newly introduced concept and 
 
 ---
 
-### The global economy
+#### The global economy
 
-**Spring 2023**  
+##### Spring 2023
 
 > *This international economics course is targeted towards non-economics students, focusing on current events and the increasing international interdependence of the world economy. Topics incude: (i) why countries trade, what goods and services will be traded, how the gains from trade are distributed and the tools of commercial policy; (ii) the movement of labor and capital across borders; value of transnational countries and production processes across countries; (iii) international finance issues including exchange rates, balance of payments and open economy macroeconomic adjustment.*  
 
 
 ---
 
-### Graduate coursework
+## Graduate coursework
 
 (working links coming... eventually)
 
 *An incomplete archive of notes of variable quality from the two graduate schools I’ve attended. I may scan and upload my handwritten notes once I can regain access to them. The gold standard is still [Luke Stein’s first-year notes from the Stanford core sequence](https://faculty.babson.edu/lcdstein/steincoresummary.pdf).*
 
-#### PhD: Columbia
+#### Columbia PhD core
 
-Year 1:
+##### Year 1:
 
 + **Econometrics I, Part II**: Asymptotic theory, restricted estimation, and resampling
 + **Econometrics II, Part II**: Resampling, multiple testing, quantile regression, non-parametrics, and treatment effects
 + **Macroeconomics I, Part I** (incomplete summary): Introduction to growth theory
 + **Macroeconomics I, Part II**: General equilibrium theory, real business cycles, and an introduction to macro-finance
 
-#### M.Phil: Oxford
+#### Oxford M.Phil core and fields
 
 
-##### Year 1
+##### Year 1 Core
 
 + **Macroeconomics**: Qualitative summary of the entire year of material: neoclassical growth theory, macro-finance, monetary economics, macroeconomic policy
 + **Macro-finance**: consumption CAPM, exotic preferences, disaster risk, evidence on financial crises, financial frictions, the Great Recession, liquidity, quantitative easing, and financial bubbles
 
-##### Year 2
+##### Year 2 Fields
 
 + **Advanced Microeconomics**: Contracts under information asymmetries, bargaining, and theories of the firm. Notes make reference to figures that are handwritten and not included
 + **Political Economy of Development**:  Literature review: culture and institutions, political reform and political failure, corruption, and conflict
