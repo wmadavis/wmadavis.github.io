@@ -136,7 +136,7 @@ These slides are weekly elaborations on a specific newly introduced concept and 
 
 ##### 0. Pre-course material
 
-+ Review of prerequisite calculus and optimization methods
++ [Review of prerequisite calculus and optimization methods](/teaching/micro-2022-fall/00-OptimizationReview.pdf)
 + Logistics and introduction to the course
 
 ##### 1. Consumer optimization

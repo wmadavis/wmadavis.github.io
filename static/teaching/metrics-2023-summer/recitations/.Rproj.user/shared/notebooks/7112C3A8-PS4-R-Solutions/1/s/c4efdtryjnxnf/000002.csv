@@ -1,0 +1,33 @@
+"0","```r
+summary(hprice)
+
+```"
+"1","     price           assess          bdrms      
+ Min.   :111.0   Min.   :198.7   Min.   :2.000  
+ 1st Qu.:230.0   1st Qu.:253.9   1st Qu.:3.000  
+ Median :265.5   Median :290.2   Median :3.000  
+ Mean   :293.5   Mean   :315.7   Mean   :3.568  
+ 3rd Qu.:326.2   3rd Qu.:352.1   3rd Qu.:4.000  
+ Max.   :725.0   Max.   :708.6   Max.   :7.000  
+    lotsize          sqrft         colonial     
+ Min.   : 1000   Min.   :1171   Min.   :0.0000  
+ 1st Qu.: 5733   1st Qu.:1660   1st Qu.:0.0000  
+ Median : 6430   Median :1845   Median :1.0000  
+ Mean   : 9020   Mean   :2014   Mean   :0.6932  
+ 3rd Qu.: 8583   3rd Qu.:2227   3rd Qu.:1.0000  
+ Max.   :92681   Max.   :3880   Max.   :1.0000  
+     lprice         lassess         llotsize     
+ Min.   :4.710   Min.   :5.292   Min.   : 6.908  
+ 1st Qu.:5.438   1st Qu.:5.537   1st Qu.: 8.654  
+ Median :5.582   Median :5.671   Median : 8.769  
+ Mean   :5.633   Mean   :5.718   Mean   : 8.905  
+ 3rd Qu.:5.788   3rd Qu.:5.864   3rd Qu.: 9.058  
+ Max.   :6.586   Max.   :6.563   Max.   :11.437  
+     lsqrft     
+ Min.   :7.066  
+ 1st Qu.:7.415  
+ Median :7.520  
+ Mean   :7.573  
+ 3rd Qu.:7.708  
+ Max.   :8.264  
+"

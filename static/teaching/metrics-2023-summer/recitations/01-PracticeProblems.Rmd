@@ -1,0 +1,313 @@
+---
+title: "Recitation 1: Practice Problems"
+author: "Matthew Davis (UNI: wad2113)"
+date: "May 30, 2023"
+output:
+  pdf_document: default
+---
+
+The preamble chunk is where we load all the packages we'll be using. Notice the "include = FALSE" below when viewing this Notebook's .Rmd file; this prevents the preamble chunk from appearing in the knitted pdf document.
+
+```{r, include = FALSE}
+# Packages for cleaning data and piping
+library(tidyverse)
+library(magrittr)
+# Package for reading Stata files
+library(readstata13)
+# Package for plotting graphs
+library(ggplot2)
+# Packages for regressions
+library(estimatr)
+library(lmtest)
+# Package for typesetting equations from model objects
+library(equatiomatic) # see R-Introduction notes for installation of this package
+```
+
+The preamble will only run successfully if you've installed of them so make sure you've done so before running them.
+
+You'll notice two things in the chunk output: first, some packages "mask" one another's functions. This means you've loaded two or more packages which each have a function with the same name and so they conflict. By default, R assigns the conflicting name to the function from the package that was most recently loaded. Thus, using lag() will use dplyr's version of lag instead of stats' version of lag. If you wanted to make sure you're using a particular package's version, you can preface the function with the name of the packages like "stats::lag()". Masked functions are one of the most frustrating sources of coding problems for both new and experienced R users.
+
+If in future R Notebooks, you might not want the preamble output to appear in your final pdf document since they can be quite long and take up a lot of space. To omit the output, simply start the chunk with "r, include=FALSE" instead of just "r"
+
+# Question 1: Stock-Watson, non-empirical Exercise 4.1
+
+## 1a)
+
+The predicted average test score is given by
+
+$$\widehat{\text{Score}} = 520.4-5.82\times22$$
+```{r Q1a}
+520.4-5.82*22
+```
+
+## 1b)
+
+The predicted decrease in the classroom average test score is
+
+$$\Delta\widehat{\text{Score}} = (-5.82\times 19)-(-5.82\times 23)$$
+```{r Q1b}
+(-5.82*19)-(-5.82*23)
+```
+
+Alternatively, the predicted change is given by
+
+$$\Delta\widehat{\text{Score}} = (-5.82\times 23)-(-5.82\times 19)$$
+```{r}
+(-5.82*23)-(-5)
+```
+
+
+## 1c)
+
+Using the formula for $\widehat{\beta_0}$, we know the sample average of the test scores across the 100 classrooms is
+
+$$\overline{Score} = \widehat{\beta}_0+\widehat{\beta}_1\times\overline{CS}=520.4-5.82\times21.4$$
+```{r Q1c}
+520.4-5.82*21.4
+```
+
+## 1d)
+
+$$SSR=(n-2)SER^2=(100-2)\times11.5^2=12961$$
+
+The sum of squared residuals (SSR) is given by the following formula
+
+$$
+SSR=(n-2)SER^2
+$$
+Plugging in the given values:
+
+```{r }
+(100-2)*11.5^2
+```
+
+Then use the following formula for $R^2$ to get the total sum of square (TSS):
+
+$$
+TSS=\frac{SSR}{1-R^2}
+$$
+
+```{r}
+12961/(1-0.08)
+```
+
+Finally, plug this into the sample variance formula
+
+$$
+s_Y^2=\frac{TSS}{n-1}
+$$
+This works out to be:
+
+```{r}
+14088/99
+```
+
+We can also compute the standard deviation $s_Y$ as the square root of the sample variance:
+
+```{r}
+sqrt(1408)
+```
+
+# Question 2: Non-textbook, non-empirical
+
+## 2a: What kinds of factors are contained in $u$? Are these likely to be correlated with level of education?
+
+Income, age, and family background (such as number of siblings) are just a few possibilities. It seems that each of these could be correlated with years of education.(Income and education are probably positively correlated; age and education may be negatively correlated because women in more recent cohorts have, on average, more education; and number of siblings and education are probably negatively correlated.)
+
+## 2b: Will simple regression of kids on EDUC uncover the ceteris paribus (‘all else equal’) effect of education on fertility? Explain.
+
+Not if the factors we listed in part (i) are correlated with EDUC. Because we would like to hold these factors fixed, they are part of the error term. But if u is correlated with EDUC, then E(u|EDUC) is not zero, and thus OLS Assumption (A2) fails.
+
+# Question 3: Stock-Watson Exercise 5.1
+
+## 3a)
+
+```{r}
+-5.82-1.96*2.21
+-5.82+1.96*2.21
+```
+
+Thus, the 95% confidence interval is given by $-10.2\leq\beta_1\leq-1.48$
+
+## 3b)
+
+The t-statistic is given by
+
+$$
+t^{act} = \frac{\widehat{\beta}_1-0}{SE(\widehat{\beta}_1)}
+$$
+
+Plugging in numbers, the t-statistic is:
+
+```{r}
+(-5.82-0)/2.21
+```
+
+The p-value for the test of the hypothesis $H_0:\beta_1=0$ vs. $H_1:\beta_1\neq 0$ is
+
+$$p=2\Phi(-|t^{act}|)$$
+
+We can compute this in R using the inverse normal function:
+
+```{r}
+2*pnorm(-2.6335)
+```
+
+This p-value is less than 0.01 so we can reject the null hypothesis at the 5% significance level
+
+## 3c)
+
+The $t$-statistic is -0.10. The p-value for the test is
+
+```{r}
+2*pnorm(-0.10)
+```
+
+The p-value is larger than the t-statistic so we cannot reject the null hypothesis at the 5% significance level. This also means that the value of -5.6 is contained in the 95% confidence interval centered at 0.
+
+## 3d)
+
+The 99% confidence interval for $\beta_0$ is
+
+```{r}
+520.4-2.58*20.4
+520.4+2.58*20.4
+```
+
+That is, $467.8 \leq \beta_0 \leq 573.0$
+
+
+# Question 4: Stock-Watson Empirical Exercise 4.1
+
+## 4a) Scatterplot of growth vs. tradeshare
+
+Load the growth dataset
+
+```{r}
+growth <- read.dta13('data/Growth.dta') # File names are case sensitive
+head(growth)
+```
+
+We want to construct a scatterplot of growth on average tradeshare:
+
+```{r}
+ggplot(growth, aes(x = tradeshare, y = growth)) +
+  theme_minimal() +
+  geom_point() +
+  geom_smooth(method = 'lm', se = F)
+```
+
+## 4b) Malta as an outlier
+
+Notice that there is a very anomalous value here whose tradeshare is far greater than any other country. We can identify it by including labels in our graph:
+
+```{r}
+ggplot(growth, aes(x = tradeshare, y = growth, label = country_name)) + # new argument: label
+  theme_minimal() +
+  geom_text() + # new command: replace geom_point() with geom_text()
+  geom_smooth(method = 'lm', se = F)
+```
+
+It's Malta. As it's an outlier, we might want to drop it.
+
+## 4c) Full regression: estimates and predictions
+
+```{r}
+growth.model <- lm(growth ~ tradeshare,
+                   data = growth)
+extract_eq(growth.model,
+           use_coefs = TRUE)
+summary(growth.model)
+```
+
+$$
+\operatorname{\widehat{growth}} = 0.64 + 2.31(\operatorname{tradeshare})
+$$
+
+Countries with tradeshares of 0.5 and 1.0 will have predicted growth rates
+
+```{r}
+0.6403 + 2.31*0.5
+0.6403 + 2.31*1
+```
+
+## 4d) Regression without Malta
+
+Let's use the *dplyr* package (install if you haven't) to modify the dataset. dplyr is one of the most popular packages in R so we'll probably be using it a lot.
+
+```{r}
+library(dplyr)
+growth2 <- filter(growth, tradeshare <= 1.5)
+growth.model2 <- lm(growth ~ tradeshare, data = growth2)
+```
+
+This creates a new dataset that is the same as the original dataset but filters out any observations whose tradeshare is less than or equal to 1.5.
+
+Alternatively we could do this in one line without defining a new dataset:
+
+```{r}
+growth.model2 <- lm(growth ~ tradeshare,
+                    data = filter(growth, tradeshare <= 1.5))
+```
+
+Then we have:
+
+```{r}
+extract_eq(growth.model2,
+           use_coefs = TRUE)
+summary(growth.model2)
+```
+
+
+$$
+\operatorname{\widehat{growth}} = 0.96 + 1.68(\operatorname{tradeshare})
+$$
+
+```{r}
+0.9574 + 1.6809*0.5
+0.9574 + 1.6809*1
+```
+
+## 4e) Plot regression lines from both
+
+We'll plot both lines of best fit on the original scatterplot
+
+```{r}
+ggplot(growth, aes(x = tradeshare, y = growth)) +
+  theme_minimal() +
+  geom_point() +
+  geom_smooth(method = 'lm', se = F, color = 'red') +
+  geom_smooth(method = 'lm', se = F, color = 'blue', data = growth2)
+```
+
+Here, we specified the filtered growth dataset as an argument for the second line of best fit. The blue line is shorter because the Malta point is not in that dataset. In comparison, the base R graph just has the lines extending indefinitely in both directions.
+
+## 4f)
+
+Something about Malta being a small island nation, etc.
+
+# 5 (Bonus): Stock-Watson Empirical Exercise 5.2
+
+```{r}
+growth <- read.dta13('data/Growth.dta')
+growth.model <- lm_robust(growth ~ tradeshare,
+                          data = filter(growth, tradeshare < 1.5),
+                          se_type = 'HC1')
+summary(growth.model)
+```
+
+## 5a)
+
+The p-value on tradeshare is 0.0567. This means we can reject the null hypothesis $H_0:\beta_1=0$ vs. a two-sided alternative hypothesis at the 10% level, but not at either a 5% or 1% significance level, at least using robust standard errors.
+
+## 5b)
+
+The p-value associated with the coefficient's $t$-statistic is 0.0567, as mentioned above.
+
+## 5c)
+
+```{r}
+confint(growth.model, level = 0.9)
+```
+
+The 90% confidence interval is reported in the regression output is (0.235, 3.13)

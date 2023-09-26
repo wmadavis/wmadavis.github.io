@@ -16,7 +16,7 @@ UseHugoToc: true
 
 ### Academic advice
 
-##### Skill development
+#### Skill development
 
 + Most academics largely taught themselves how to code. Some tips here specific to R on remedying bad practices they probably picked up by doing so. ([Jennifer Bryan and Jim Hester](https://rstats.wtf/project-oriented-workflow.html), particularly Sections 2 and 3 on project-oriented workflows)
 + Anatomy of an applied micro talk ([Jesse Shapiro](https://scholar.harvard.edu/files/shapiro/files/applied_micro_slides.pdf))
@@ -24,7 +24,7 @@ UseHugoToc: true
 + How to critique academic work, helpful for referee reports and seminar discussion ([Macartan Humphreys](https://macartan.github.io/teaching/how-to-critique))
 + How to build an economic model in your spare time ([Hal Varian](https://people.ischool.berkeley.edu/~hal/Papers/how.pdf))
 
-##### Research
+#### Research
 
 The transition from coursework to research ([Paul Niehaus](https://medium.com/@paul.niehaus/doing-research-18cb310529e0))
 
@@ -34,17 +34,17 @@ How to find research ideas, among other valuable insights on topics such as co-a
 
 > *“My econometric theory was very similar. I’d be working on an empirical paper, and I’d say, “How can I think about the conditions under which this empirical approach would work?” And I would read papers with informal descriptions of the reasoning, and I would be dissatisfied. And so I would say, “Let me write this down, and if I do it formally, maybe then I’ll understand.” As I started writing things down, I would realize that there was a deeper, more general idea. And I felt that other people would benefit from having that clarity of conceptual insights in their own empirical work, and so I wrote it into econometric theory papers. Almost all of my very theoretical papers have been motivated by trying to solve an applied theory problem, and realizing that I would have more clarity about the specific problem if I understood the generality.”*
 
-##### Career
+#### Career
 
-+ A guide to full-time research assistant positions (jobs now called “pre-docs”) as a stepping stone to quantitative social-science PhDs: what they are, how to land them, and how to do well in them ([Coly Elhai, Quan Le, Kai Matheson, and Carolyn Tsao](https://raguide.github.io/))
-+ A short reflection on not getting into any PhD programs, informed by my experience blanking the first time I applied in 2017
-+ Many people find the first year of the PhD brutal, especially those in programs like mine that may cut some students based on their coursework performance. Here’s a short post on my take written after passing.
++ A guide to full-time research assistant positions (jobs now called “pre-docs”) as a stepping stone to quantitative social-science PhDs ([Coly Elhai, Quan Le, Kai Matheson, and Carolyn Tsao](https://raguide.github.io/))
++ A short reflection on not getting into any PhD programs, informed by my experience blanking the first time I applied in 2017 (link coming soon)
++ Many people find the first year of the PhD brutal, especially those in programs like mine that may cut some students based on their coursework performance. Here’s a short post on my take written after passing. (link coming soon)
 
 ---
 
 ### Economics writing I like
 
-##### [*Political economics and possibilism*](https://academic.oup.com/princeton-scholarship-online/book/18029/chapter-abstract/175891463?login=false&redirectedFrom=fulltext)
+#### [*Political economics and possibilism*](https://academic.oup.com/princeton-scholarship-online/book/18029/chapter-abstract/175891463?login=false&redirectedFrom=fulltext)
 
 A 1971 essay by Albert Hirschman on the absence of politics in economists’ analysis:
 
@@ -55,7 +55,7 @@ A 1971 essay by Albert Hirschman on the absence of politics in economists’ ana
 > *Speculation about connections between economics and politics becomes much more profitable when one focuses not on the roughest outline, but on the finer features of the economic landscape. This can of course best be done by the economist who knows about them; the trouble is that his professional interests do not ordinarily lie in this direction. At the same time, the political scientist who has the motivation to look for such connections lacks the familiarity with economic concepts and relationships that is required. Hence the field is happily left to a few mavericks like myself.*
 
 
-##### [*Economics with a Moral Compass? Welfare Economics: Past, Present, and Future*](https://www.annualreviews.org/doi/abs/10.1146/annurev-economics-020520-020136)
+#### [*Economics with a Moral Compass? Welfare Economics: Past, Present, and Future*](https://www.annualreviews.org/doi/abs/10.1146/annurev-economics-020520-020136)
 
 A conversation between Amartya Sen, Angus Deaton, and Tim Besley. Video link [here](https://vimeo.com/440032447).
 
@@ -66,7 +66,7 @@ Sen: *"I think economists tend to ignore philosophy in general, but the idea of 
 Deaton: *"Pleading to bring it back. It’s one of the last pieces he wrote, and it bemoans the loss of any sort of philosophical sophistication. Most economists wouldn’t know what utilitarianism meant. Even elementary stuff has just vanished. Certainly he was bemoaning that."*
 
 
-#####[*How should we measure racial discrimination?*](https://www.phenomenalworld.org/analysis/direct-effects/)
+### [*How should we measure racial discrimination?*](https://www.phenomenalworld.org/analysis/direct-effects/)
 
 An essay by Lily Hu on the pitfalls of causal inference tools for identifying discrimination:
 

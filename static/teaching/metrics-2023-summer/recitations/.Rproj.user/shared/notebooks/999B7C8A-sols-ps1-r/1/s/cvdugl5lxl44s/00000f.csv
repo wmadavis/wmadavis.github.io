@@ -1,0 +1,5 @@
+"0","cigs <- data.frame(observation = 1:5,"
+"0","                   country = c('Switzerland', 'Finland',"
+"0","                               'Great Britain', 'Canada', 'Denmark'),"
+"0","                   X = c(530, 1115, 1145, 510, 380),"
+"0","                   Y = c(250, 350, 465, 150, 165))"

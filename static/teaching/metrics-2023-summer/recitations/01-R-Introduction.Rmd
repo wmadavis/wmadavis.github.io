@@ -1,0 +1,528 @@
+---
+title: "Introduction to R Notebooks"
+author: "Matthew Alampay Davis"
+date: May 30, 2023
+output:
+  pdf_document: default
+---
+
+This is an [R Markdown](http://rmarkdown.rstudio.com) Notebook, which will be the format for your problem set submissions if you choose to use R. These notebooks are great for our purposes because you can edit them like a document and also code within it and view the resulting output right beneath the code. R Notebooks thus conveniently combine word processing, equation type-setting, and coding all within an intuitive user interface and with a very good-looking output.
+
+Let's start by creating headings and subheadings. These will be useful for problem set submissions so you can easily distinguish questions (e.g., "Question 1"), sub-questions (e.g., "1b"), and sub-sub-questions (e.g.,"1b part i"):
+
+# Part 1: Introduction to R Notebooks #
+
+The pound sign (#) here created this subheading. You can't see it if you're reading this in RStudio, but once you render this notebook (i.e. tell R to convert the notebook into a pdf file), it will appear as bolder and larger than standard text. You can use multiple pound signs to create a subheading (##) or a sub-subheading (###) and so on:
+
+## 1a: Headings
+
+### 1a-i: Subheadings
+
+Like so!
+
+To see this difference, click on the *Knit* button at the top and select *Knit to pdf*. Knitting is just what R calls the process of converting a notebook to a properly formatted document. When you knit a notebook, the Notebook file is saved and R attempts to render it into a document (either HTML or pdf). If successful, a document with the same name will appear in the same folder as the Notebook file. You can preview what this document looks like in RStudio by clicking the *Preview* button or pressing *Cmd+Shift+K* (*Ctrl+Shift+K* for PCs).
+
+## 1b: Typesetting equations
+
+Notice that using asterisks like this makes that text appear as italicized. Another formatting function is the ability to write out equations. To do so, you should run the following expression in the console panel of RStudio:
+
+**tinytex::install_tinytex()**
+
+That is to say, just copy the above into the console panel of RStudio (you'll notice RStudio's interface is divided into four panels) and press enter to download this LaTeX distribution. You only ever need to do this once per computer you use so no need to think about this again after running this once. This allows us to format equations like the one below:
+
+$$
+y_i = \beta_0 + \beta_1x_i + e_i
+$$
+
+This way of typesetting uses a language called TeX very commonly used in academic writing. For our purposes, this is all we really need to know:
+
+- sandwich the equations with single dollar signs to include an equation in-line and double dollar signs to include an equation as a centered standalone line
+- backslash + text for non-italicized text: $\text{example text}$
+- backslash + (case-sensitive) name for Greek letters: $\gamma$ and $\Gamma$
+- underscore + curly brackets to subscript: $\gamma_{\text{sub}}$
+- carat + curly brackets to superscript: $\gamma^{\text{super}}$ or combine both: $\gamma^2_{3}$
+- backslash + 'frac' + two sets of curly brackets for fractions: $\frac{numerator}{denominator}$
+- backslash + 'widehat' to add a 'hat' to denote estimators: $\widehat{\beta_1}$
+- backslash + 'times' for a multiplication sign
+- backaslash + 'leq' or 'geq' produces the "less/greater than or equal to" inequality signs
+
+Here's a meaningless equation using all these commands:
+
+$$
+\widehat{Example} \geq \beta_0 + 9.7636 \times Dosage_{i}+\frac{numerator^2}{denominator}+\epsilon
+$$
+
+## 1c: Code chunks
+
+To start coding in an R Notebook, add a new chunk by clicking the *Insert Chunk* button on the RStudio toolbar or by pressing *Cmd+Option+I* (*Ctrl+Alt+I* for PCs):
+
+```{r}
+# An example command
+2+2 
+```
+
+Here, we've commanded R to compute 2+2 and if you run this command (either by pressing *Cmd+Enter* (*Ctrl+Enter* for PCs) while in a chunk or by clicking on the green *Run* button at the top right of the chunk, you can see the resulting output beneath the chunk. When we convert this notebook into a pdf, we'll be able to see both the code and the output in-line. If you want to omit both, you can replace the first line of the chunk with "r, include = FALSE". See the first chunk of the PS1 Practice Problems for a example doing this.
+
+# Part 2: Data
+
+## 2a: Exploring some data
+
+Let's do something a tiny bit more complicated. "cars" is a practice dataset that's built into R as an example of a dataset. It consists of two variables, "speed" and "dist". We can see a quick preview of this dataset by using the *head* command, which shows us the first six rows of a dataset:
+
+```{r}
+head(cars)
+```
+
+Alternatively, we might want to just see the first three observations:
+
+```{r}
+head(cars, 3)
+```
+
+or the last three observations:
+
+```{r}
+tail(cars, 3)
+```
+
+Or we might want to get summary statistics about each variable:
+
+```{r}
+summary(cars)
+```
+
+In these examples, we are using different functions (head, tail, summary). These functions take "arguments" in parentheses that are separated by commas. The first argument was the dataset we wanted to use (cars) and the second is a number n (3) for the number of observations we wanted to see. Different functions have different arguments. If you ever need to know what arguments a given function has or how to use the function, just type a question mark followed by the function into the console:
+
+```{r}
+?head
+```
+
+## 2b: Creating data
+
+The standard format for datasets in R is a data.frame consisting of variables as columns and observations as rows. Here's an example of another data.frame called ToothGrowth that also comes native to R:
+
+```{r}
+head(ToothGrowth)
+```
+
+For context, these are the results from an experiment studying the effect of vitamin C on tooth growth in 60 Guinea pigs. Each animal received one of three dose levels of vitamin C (0.5, 1, and 2 mg/day) by one of two delivery methods: orange juice (OJ) or ascorbic acid (VC). 
+
+We can reproduce this dataset by hand. Let's create the first six observations seen above by defining objects called vectors. We use the "c" command to do this. 
+
+```{r}
+x1 <- c(4.2, 11.5, 7.3, 5.8, 6.4, 10.0)
+x2 <- c('VC', 'VC', 'VC', 'VC', 'VC', 'VC')
+x3 <- c(0.5, 0.5, 0.5, 0.5, 0.5, 0.5)
+```
+
+Notice that when we input words, we have to put them in quotation marks but numbers are fine as they are.
+
+We can then easily combine these into a data.frame object that we'll call "tooth.data"
+
+```{r}
+tooth.data <- data.frame(x1, x2, x3)
+tooth.data
+```
+
+Which is a nice recreation of the original dataset (at least its first six rows). We also could've very easily assigned names to the variables:
+
+```{r}
+tooth.data <- data.frame(len = x1,
+                         supp = x2,
+                         dose = x3)
+tooth.data
+```
+
+data.frames make it convenient to perform various statistical commands on the data. It allows us to access data just by referring to the data.frame *tooth.data* and a variable like *len* or *supp* or *dose* by combining them with a dollar sign symbol: for example, *tooth.data$len* extracts all values of the variable *len* as a vector of values.
+
+Let's look at some applications of this, using the full set of observations in the original dataset instead of just the first 6. So first let's just redefine tooth.data as the original dataset:
+
+```{r}
+tooth.data <- ToothGrowth
+dim(tooth.data) # Vector of two elements: # of rows then # of columns
+```
+
+Now we can compute some basic statistics:
+
+```{r}
+# Finding the mean
+mean(tooth.data$len)
+
+# Finding the standard deviation and variance
+sd(tooth.data$len)
+var(tooth.data$len)
+
+# A general summary of the data
+summary(tooth.data)
+
+# Correlation between length and dose
+cor(tooth.data$len, tooth.data$dose)
+
+# Covariance between length and dose
+cov(tooth.data$len, tooth.data$dose)
+```
+
+## 2c: Installing packages
+
+The functions we've used so far are those the basic ones which come pre-installed with "base R". We'll regularly want to use other functions that don't come in-built into R but were written by third-party developers. Collections of these related functions are called a "package" which we'll have to download from the internet. You'll find that we'll rely on these third-party packages for all our problem sets; I'll introduce new ones each week that will be needed to solve the next problem set.
+
+To download a package, for example the the "ggplot2" package for plotting data, run the following commmand in the console:
+
+install.packages('ggplot2') # Make sure the name of the package you want to download is in quotation marks
+
+For a given package, you'll only ever need to do this once per computer.
+
+## 2d: Plotting data
+
+The package we installed specializes in creating easily customizable graphs. To load all the functions that come with ggplot2, use the library command:
+
+```{r}
+library(ggplot2) # No need for quotation marks this time
+```
+
+Note that the library command only works on packages that we've already installed.
+
+Now look at this command which plots the tooth data we had been looking at:
+
+```{r}
+ggplot(data = tooth.data, aes(x = dose, y = len)) +
+  geom_point()
+```
+
+Let's break this command down:
+
+- ggplot() is a function
+- The first argument of this function is the "data" argument which refers to the data.frame we're plotting
+- The second argument is "aes" (short for aesthetic) which itself has additional arguments: x = dose and y = len tells it to use the column named 'dose' as the independent variable and 'len' as the dependent variable
+
+ggplot has a unique grammar. The first line inputs the data and variables in that data that we want to plot. We ended this line with a "+" to say we want to add an additional plot element in the next line. In particular, we wanted a scatterplot so in line 2, we used the geom_point() function. This grammar takes some practice to get used to but once you get a hang of this sort of coding grammar, it allows us to make a lot of intuitive customizations as we'll see in the practice problems.
+
+Let us save the graph above as an object. To do this, we come up with some name (let's say "test.plot") and assign the graph to it using the "<-" assignment:
+
+```{r}
+test.plot <- ggplot(data = tooth.data, aes(x = dose, y = len)) +
+  geom_point()
+```
+
+To repeat, the first line calls the ggplot function and tells it what dataset we want to use and which variables we want to use as our x and y variables. The second line choose the kind of graph we want, a scatterplot. The "+" links the two lines as one command. We've assigned this graph object the name "test.plot" using "<-"
+
+Now we have an object called test.plot which is the above graph. You can see a list of all the objects in our 'environment' in the 'Environment' panel in RStudio. We can plot this object:
+
+```{r}
+test.plot
+```
+
+And we can make some new modifications, thanks to the grammar of ggplot2. Let's define the modified plot as a new object called test.plot2:
+
+```{r}
+test.plot2 <- test.plot +
+  # Change the point colors to red
+  geom_point(col = 'red') +
+  # Add a line of best fit ('lm' means 'linear model') and include a confidence interval (replace with FALSE if we want to remove the confidence interval)
+  geom_smooth(method = 'lm', se = TRUE) +
+  # Modify the axis titles
+  ylab('Length') +
+  xlab('Dosage') +
+  ggtitle('Teeth experiment plot') +
+  # Simplify the plot theme to black-and-white
+  theme_bw()
+test.plot2
+```
+
+Notice that we can add comments to our chunks of code by using "#" at the start of a line. Anything after the "#" will be ignored by R until the next line of code. This is useful for communicating to yourself or your reader what each line does.
+
+As another plotting example, see the PS1 Practice Problems for an example where we plot labels instead of points in a scattergraph.
+
+## 2e: Loading external datasets
+
+More commonly, we'll load pre-existing data and so we'll want to be able to load data we've saved somewhere on our computer. Again, the best way of organizing your data to make this easier is to just include a folder called 'data' in the pset folder. This makes it very easy to locate the data we want to use, as we'll see next.
+
+I have a Stata dataset called "animals.dta" (all Stata datasets end with .dta) which I've saved in a "data" folder located in the same folder as this Notebook. To do so, first note that since R by default cannot open Stata files, we must download/install a package that can. So just like we did with the ggplot package, you'll want to install and load this package if you haven't already:
+
+```{r}
+library(readstata13)
+```
+
+Then we'll use the "read.dta13" command from this package to read the file in our working directory. Let's name the dataset "animals" by using the assignment notation from before:
+
+```{r}
+animals <- read.dta13('data/animals.dta')
+```
+
+Note you put the filename/filepath 'data/animals.dta' in quotes since it is not an object in our environment. This tells it to look for a file called *animals.dta* in a folder called *data* located in the same folder as the Notebook file.
+
+Let's get a quick summary of this data:
+
+```{r}
+dim(animals) # What are the dimensions (number of rows, number of columns) of this dataset
+nrow(animals) # Same as above, but just the number of rows
+ncol(animals) # The number of columns
+head(animals) # The first few observations
+summary(animals) # A brief summary of each variable in the dataset
+```
+
+We can see that different variables are of different types: village, hhn, and id are numbers (that's why we can compute its mean and maximum) while others are "characters" or "strings", i.e. its values are text entries like "Goats" or "Chickens". We will be interested in both types throughout this course.
+
+Another way we can summarize this data is by tabulation. This lets us look at the frequency of each value of a variable. For example:
+
+```{r}
+table(animals$animal)
+```
+
+This tells us how often each animal appears in our dataset. Notice again that we can refer to a specific column in the animals dataset by its name using the "\$" character. "animals\$animal" refers to the column named "animal" in the "animals" object (i.e. dataset in this case) and extracts that specific column as a vector. We could have also referred to the animals\$village column. We'll use this often.
+
+## 2f: Cleaning data by subsetting
+
+One of the packages we'll make most use out of is 'tidyverse', which is really a collection of other packages with similar grammar. 'tidy' here simply refers to cleaning data: manipulating or changing it into a format we find convenient. We'll get to know the 'tidyverse' functions well over the coming weeks but for now, here's a quick first example:
+
+Let's summarize our animals
+
+```{r}
+head(animals)
+dim(animals)
+```
+Suppose we don't want to use the full 790 observations of data here. In particular, maybe we are only interested in the subsample from village 1 and 3. We can create this subset using the *filter* function:
+
+```{r}
+library(tidyverse)
+table(animals$village)
+animals.filt <- filter(animals, village %in% c(1,3))
+table(animals.filt$village)
+```
+
+Here, the first argument is the dataset we want to subset and the second argument is the condition that must be satisfied for an observation to remain in the new dataset. The expression provided means we keep all observations with a value of 1 or 3 for the variable 'village'.
+
+Here's an example filtering on a character vector instead of a numerical vector:
+
+```{r}
+table(animals$animal)
+animals.filt2 <- filter(animals, animal != 'Chickens')
+table(animals.filt2$animal)
+```
+The "!=" notation means "not equal to". We've removed all chicken observations from our dataset.
+
+Equivalently, we can also reduce our dataset by keeping all observations but subsetting the number of columns/variables. We use the *select* function, also from *tidyverse*:
+
+```{r}
+head(animals)
+animals.select <- select(animals, village, hhn, id, animal, price)
+head(animals.select)
+```
+
+Equivalently, we can instead identify the variables we want to remove:
+
+```{r}
+animals.select2 <- select(animals, -c(type, number))
+head(animals.select2)
+```
+
+# Part 3: Regressions
+
+## 3a: Regression models with homoskedastic standard errors
+
+The main thing we'll learn in this course is how to run regression models of various types. Let's use a dataset called 'cars' that comes in-built into R. Here's what it looks like:
+
+```{r}
+head(cars)
+summary(cars)
+```
+
+Suppose we want to run a very simple univariate regression of speed on distance. Let's create a 'model object' called "cars.model" and use the "lm" function (short for linear model) to estimate a regression:
+
+```{r}
+cars.model <- lm(speed ~ dist, data = cars)
+```
+
+Here, the first argument is a formula "speed ~ dist" meaning speed is our outcome variable on the LHS and distance is our single regressor on the RHS. The 'data' argument tells us which object/dataset to look for these variables. This command then gives us a new type of object named "cars.model". If we wanted to print the regression output, we would use the "summary" function on this object:
+
+```{r}
+summary(cars.model)
+```
+
+We can clearly see this gives us a y-intercept (i.e. a constant) of 8.28391 and a coefficient estimate of 0.16557 on distance. We interpret this as saying "an increase in distance by 1km (or whatever unit distance is in) is associated with an increase in speed of 0.16557." The intercept and distance coefficients each have standard errors, t-values, and p-values clearly associated with them, which we care about for inference.
+
+We can do some more things with our model object using the 'lmtest' package (for running tests on these linear models). For example:
+
+```{r}
+library(lmtest)
+
+# If we only cared about the coefficients:
+coef(cars.model)
+
+# If we want to extract the residuals
+cars.model$residuals
+
+# If we want to extract the predicted/fitted values
+cars.model$fitted.values
+
+# If we want to extract the R_squareds
+cars.model.summary <- summary(cars.model)
+cars.model.summary$r.squared
+cars.model.summary$adj.r.squared
+
+# And if you want to save any of these as separate objects to be referred to later:
+cars.coefs <- coef(cars.model)
+cars.resid <- cars.model$residuals
+cars.fit <- cars.model$fitted.values
+
+summary(cars.model)
+```
+
+## 3b: Linear models with heteroskedasticity-robust standard errors
+
+Let's return to our tooth data again and now use it to estimate another non-robust regression model:
+
+```{r}
+tooth.model <- lm(len ~ dose, data = tooth.data)
+# Look at the model output
+summary(tooth.model)
+```
+For 'lm' model objects, we can extract the residuals and fitted/predicted values from this regression to the original dataset:
+
+```{r}
+# The original
+head(tooth.data)
+
+# Now let's create variables called residuals and predictions
+tooth.data$residuals <- tooth.model$residuals
+tooth.data$predictions <- tooth.model$fitted.values
+
+# New dataset
+head(tooth.data)
+```
+
+We also could've done the same thing in the following way:
+
+```{r}
+tooth.residuals <- tooth.model$residuals
+tooth.predictions <- tooth.model$fitted.values
+tooth.data <- data.frame(ToothGrowth,
+                         residuals = tooth.residuals,
+                         predictions = tooth.predictions)
+head(tooth.data)
+```
+
+If we want robust standard errors (which we often will), we will need another package called estimatr (so install this if you haven't already). This allows us to produce another type of model object using its "lm_robust" function:
+
+```{r}
+library(estimatr)
+tooth.model.robust <- lm_robust(len ~ dose,
+                                data = tooth.data,
+                                se_type = 'HC1')
+summary(tooth.model.robust)
+```
+Notice the coefficient estimates are identical to those in the lm model, but the standard errors are different reflecting that we are using the more conservative heteroskedasticity-robust standard errors. The "SE type" argument here makes sure we use 'HC1' robust standard errors, the same as Stata's default.
+
+lm_robust models are similar to lm models but not exactly identical. For example, it is easier to extract some statistics from an lm_robust model than lm models:
+
+```{r}
+# You do not need to use the summary() function to extract the R2s
+tooth.model.robust$r.squared
+tooth.model.robust$adj.r.squared
+```
+
+But unlike lm models, we cannot extract residuals from an lm_robust model as easily. You'll have to produce them yourself:
+
+```{r}
+residuals.robust <- tooth.data$len-tooth.model.robust$fitted.values
+```
+
+That being said, the residuals from a model with robust standard errors is going to be identical to those from a non-robust model since standard errors don't affect residuals if the estimates are the same. You could simply use the same residuals as those from the lm model:
+
+```{r}
+# Residuals are just the difference between true and predicted values
+all.equal(residuals.robust, tooth.model$residuals)
+```
+
+## 3c: Typesetting regression equations
+
+We might also find it convenient to translate a regression model into an equation that we can use for typesetting (in fact, PS1 asks for this a couple of times). For lm models, you can do this through a package called 'equatiomatic'. To install this particular package, you'll want to run the following two commands:
+
+install.packages('remotes')
+remotes::install_github('datalorax/equatiomatic')
+
+Then load it as usual. Here's how it works:
+
+```{r}
+library(equatiomatic)
+
+# Basic equation
+extract_eq(cars.model)
+
+# Equation with coefficient estimates
+extract_eq(cars.model,
+           use_coefs = TRUE)
+
+# Equation with coefficient estimates and standar errors beneath them
+extract_eq(cars.model,
+           use_coefs = TRUE,
+           se_subscripts = TRUE)
+```
+
+Then you can simply copy and paste these outputs in between dollar signs like with our equation typesetting. The above outputs respectively produce:
+
+$$
+\operatorname{speed} = \alpha + \beta_{1}(\operatorname{dist}) + \epsilon
+$$
+
+$$
+\operatorname{\widehat{speed}} = 8.28 + 0.17(\operatorname{dist})
+$$
+
+$$
+\operatorname{\widehat{speed}} = \underset{(0.874)}{8.28}  + \underset{(0.017)}{0.17(\operatorname{dist})}
+$$
+Note however that this works on lm models but not lm_robust models. For lm_robust models, you can simply run the equivalent non-robust lm model, copy the equatiomatic output, and just change the standard errors to the robust standard errors.
+
+# Part 4: Hypothesis testing
+
+Let's return to the first linear model:
+
+```{r}
+summary(tooth.model)
+```
+
+We can also summarize it through
+
+```{r}
+coeftest(tooth.model)
+```
+
+Let's create a 95% confidence interval for our coefficient estimates using the *confint* function:
+
+```{r}
+confint(tooth.model)
+# The function works for robust regression models too:
+confint(tooth.model.robust)
+```
+
+We could also do this for different confidence levels. For example, a 99% confidence interval:
+
+```{r}
+confint(tooth.model.robust, level = 0.99)
+```
+
+# Final notes
+
+## Preamble chunks
+
+For organizational purposes, we'll usually want to begin all our Notebooks with a chunk dedicated solely to loading all the packages used in the Notebook instead of loading them one at a time and only when we first need them. We call this opening chunk the preamble For this notebook, it would have looked like this:
+
+```{r}
+library(ggplot2) # No need for quotation marks this time
+library(readstata13)
+library(tidyverse)
+library(lmtest)
+library(estimatr)
+library(equatiomatic)
+```
+
+You'll notice two things in the chunk output: first, some packages "mask" one another's functions. This means you've loaded two or more packages which each have a function with the same name and so they conflict. By default, R assigns the conflicting name to the function from the package that was loaded last. Something to keep in mind; masked functions are one of the most frustrating sources of coding problems for both new and experienced R users.
+
+If the preamble fails to run, it usually means that you have not installed one of the packages and the error will usually tell you which ones they are.
+
+## Debugging
+
+The ordering of chunks is important. When we render the Notebook, it opens a blank environment with no loaded libraries or defined objects then runs the chunks in sequence. This means it can only use packages, objects, or data that have been loaded, assigned, or defined in a prior chunk. The most common knitting error is referring to an object in your Notebook before you've even defined it. For example, if you've defined a data.frame called 'data' with a variable called 'variable' and at some point you run a command like 'mean(data$variable)', you have to make sure the object 'data' is defined earlier than the command mean(data) is run or else R won't know what 'data' is and knitting will result in an error. They can be in different chunks, it's just the order of appearance that matters. Similarly, if you defined an object in the console but you didn't do so in your Notebook, R won't know what that object is when knitting and it will also flag an error. So a command may work in the console or in your interface but still fail to run when knitting.
+
+In general, there is a learning curve when using a new software for the first time. 90% of coding is getting errors and Googling how to fix them. If you run into any coding difficulties, especially in these first weeks, don't hesitate to post a question on Ed Discussion for your classmates or me to help you out. Online resources like StackOverflow and ChatGPT are your friends here.

@@ -1,0 +1,2 @@
+"0","coefplot(oil.dyn, drop = 'Constant',"
+"0","         main = 'Dynamic multipliers', xlab = 'Lag')"

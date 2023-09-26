@@ -1,0 +1,3 @@
+"0","earnings.w <- filter(earnings, sex == 1)"
+"0","mod1 <- lm(earnings ~ height, earnings.w)"
+"0","mod2 <- lm(earnings ~ height + lt.hs + hs + some.college, earnings.w)"

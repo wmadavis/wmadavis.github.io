@@ -1,0 +1,4 @@
+"0","grid.arrange(plot.dyn, plot.cumdyn)
+"
+"2","Error in gList(...) : only 'grobs' allowed in ""gList""
+"

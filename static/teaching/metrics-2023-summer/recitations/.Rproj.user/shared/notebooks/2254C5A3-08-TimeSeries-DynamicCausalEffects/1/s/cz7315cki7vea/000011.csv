@@ -1,0 +1,4 @@
+"0","fred %<>% rename(gdp = Value.x,"
+"0","                 m2 = Value.y,"
+"0","                 gov = Value)"
+"0","head(fred)"

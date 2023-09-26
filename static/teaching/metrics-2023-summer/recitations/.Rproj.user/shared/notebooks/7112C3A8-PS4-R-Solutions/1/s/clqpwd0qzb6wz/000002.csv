@@ -1,0 +1,23 @@
+"0","```r
+summary(price.model)
+
+```"
+"1","
+Call:
+lm_robust(formula = price ~ sqrft + bdrms, data = hprice, se_type = \"HC1\")
+
+Standard error type:  HC1 
+
+Coefficients:
+            Estimate Std. Error t value  Pr(>|t|)
+(Intercept) -19.3150   41.52050 -0.4652 6.430e-01
+sqrft         0.1284    0.01959  6.5559 4.076e-09
+bdrms        15.1982    8.94373  1.6993 9.292e-02
+              CI Lower CI Upper DF
+(Intercept) -101.86888  63.2389 85
+sqrft          0.08948   0.1674 85
+bdrms         -2.58435  32.9807 85
+
+Multiple R-squared:  0.6319 ,	Adjusted R-squared:  0.6233 
+F-statistic: 27.25 on 2 and 85 DF,  p-value: 7.158e-10
+"

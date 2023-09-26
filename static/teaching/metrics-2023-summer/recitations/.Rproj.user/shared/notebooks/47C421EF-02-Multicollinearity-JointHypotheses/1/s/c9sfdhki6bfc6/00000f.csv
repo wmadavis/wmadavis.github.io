@@ -1,0 +1,7 @@
+"0","earnings.example <- earnings %>%"
+"0","  # Create a dummy variable that's 1 for all women (sex == 1) who are white (race == 1)"
+"0","  mutate(ww = sex == 1 & race ==1) %>%"
+"0","  # Create a dummy that's a 1 if they are in the desired age range"
+"0","  mutate(age.4050 = (age >= 40 & age < 50)) %>%"
+"0","  # Subset to the people for whom both these dummies are == 1"
+"0","  filter(ww == 1 & age.4050 == 1)"

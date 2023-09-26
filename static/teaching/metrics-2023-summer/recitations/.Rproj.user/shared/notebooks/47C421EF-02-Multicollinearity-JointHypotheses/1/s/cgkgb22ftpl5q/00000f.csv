@@ -1,0 +1,5 @@
+"0","sqrt(sum(earnings.lm$residuals^2)/df.residual(earnings.lm))"
+"1","[1]"
+"1"," 25421.6"
+"1","
+"

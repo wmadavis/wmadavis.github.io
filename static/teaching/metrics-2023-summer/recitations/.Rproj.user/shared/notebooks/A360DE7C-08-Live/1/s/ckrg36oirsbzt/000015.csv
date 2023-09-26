@@ -1,0 +1,4 @@
+"0",""
+"0","ggplot(fred, aes(x = Date, y = m2)) +"
+"0","  theme_bw() +"
+"0","  geom_line() + xlab('Year') + ylab('') + ggtitle('Time series of M2 money supply, quarterly')"

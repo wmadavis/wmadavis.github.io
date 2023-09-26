@@ -1,0 +1,5 @@
+"0","dyn <- coefplot(oil.dyn, drop = 'Constant',"
+"0","         main = 'The effect of oil prices on IP growth rate\nDynamic multipliers',"
+"0","         xlab = 'Lag',"
+"0","         ci.join = T, ci.lty = 0, ci.fill = T, ci.fill.par = list(col = 'lightblue'),"
+"0","         pt.join = T)"

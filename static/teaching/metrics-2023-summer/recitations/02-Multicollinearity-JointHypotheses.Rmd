@@ -1,0 +1,463 @@
+---
+title: "Recitation 2: Multicollinearity and Joint Hypotheses"
+author: "Matthew Alampay Davis"
+date: June 6, 2023
+output:
+  pdf_document: default
+---
+
+Let's get into the habit of loading all our packages in the opening "preamble" chunk:
+
+```{r, include = F}
+# Load all packages used in this Notebook
+library(estimatr) # lm_robust
+library(haven) # read_dta and other file types, alternative to readstata13
+library(tidyverse) # Data cleaning
+library(car) # Joint hypothesis
+library(stargazer) # Summarize multiple lm regressions in one table
+
+# Load all datasets used in this Notebook
+smoking <- read_dta('data/birthweight_smoking.dta')
+cps <- read_dta('data/CPS2015.dta')
+earnings <- read_dta('data/Earnings_and_Height.dta')
+```
+
+A few things to note here. The chunk above is what we might call the 'preamble', basically just the preliminary stuff we run at the start of a script or notebook. Here, we're using it to load all packages and all datasets we'll use throughout so that we don't have to worry about them later; much more convenient to do them all at once at the beginning than think about the ordering of commmands in different parts of the Notebook.
+
+Since the preamble often produces a lot of output, we might want to omit it from the pdf file we eventually produce. We can do this by beginning the chunk with {r, include = FALSE} instead of just {r}.
+
+Some of the packages loaded above are ones we've used before. The last two packages are new so install those packages if you haven't already. 'magrittr' (named after the artist Rene Magritte) expands on the 'piping' grammar of tidyverse packages, very useful for convenient data manipulation and cleaning. We'll get to this later.
+
+The 'car' package allows us to perform linear hypothesis tests of the type that will be useful in this week's problem set and future ones. So we will use this package whenever we are given a question that asks us to use a regression result to conduct a joint hypothesis test like $H_0: \beta_1 = \beta_2 = 0$ (covered here) or even more complicated linear hypotheses like $H_0: \beta_1 = -\beta_2$ or $H_0: \beta_1 = \beta_3$ or even $H_0: \beta_1 = 2\beta_3 + 4\beta_5$ if we wanted (subject of coming lectures).
+
+# More R Basics
+
+## Missing data
+
+Occasionally we'll run into a dataset that is incomplete because it has missing values. One example of this is the in-built *airquality* dataset:
+
+```{r}
+summary(airquality)
+```
+
+Look at the variables *Ozone* and *Solar.R*. The last row says these variables have 37 NA's and 7 NA's respectively. NA is how most coding languages refer to missing data. This means that when we want to compute a statistic of some of that variable, we'll get an error:
+
+```{r}
+mean(airquality$Ozone)
+sd(airquality$Ozone)
+```
+
+There are a couple of ways around this. For statistics like mean, standard deviation, variance, etc., these functions come with an argument that ignores all NA's in the vector we're looking at. *na.rm* is short for "NA remove":
+
+```{r}
+mean(airquality$Ozone, na.rm = TRUE) # make sure to use all caps for TRUE and FALSE
+sd(airquality$Solar.R, na.rm = T) # capital T is shorthand for TRUE, same with F for FALSE
+```
+
+We may want to create an object that is the same as airquality, but with all observations that have an NA for any of the variables gets removed:
+
+```{r}
+complete.airquality <- na.omit(airquality) # Omit all rows with an NA
+summary(complete.airquality)
+```
+
+Notice that the two datasets have different numbers of rows: all the rows with an NA in it have been removed:
+
+```{r}
+nrow(airquality)
+nrow(complete.airquality)
+```
+
+We can also use the familiar *filter* function from the dplyr package to remove all observations that have NAs for a specific variable
+
+```{r}
+# Use filtering to keep only observations for which Solar.R variable is not NA
+airquality2 <- dplyr::filter(airquality, is.na(`Solar.R`)==FALSE)
+summary(airquality2)
+nrow(airquality2)
+```
+
+## Indexing
+
+We can pick out the nth element of a vector or dataframe just by using square brackets:
+
+```{r}
+cps$age2[1]
+```
+
+gives us the squared age of the first observation. This index works because we are looking at a vector, which is one dimensional. In comparison a data.frame is two-dimensional:
+
+```{r}
+head(cps)
+dim(cps)
+```
+
+If we wanted to pick the element in the fifth row and third column, we'd just use [5,3] as so:
+
+```{r}
+cps[5,3]
+```
+
+Just remember the first number is the row and the second is the column. We can also say
+
+```{r}
+cps[5, 'age']
+```
+
+And if we wanted, for example, every column pertaining to the fifth observation, we would just leave the second argument blank to include all columns available:
+
+```{r}
+cps[5,]
+```
+
+# Data manipulation and cleaning: Across the "tidyverse"
+
+We're here introducing some basic data-cleaning functions from a variety of packages which are designed to be mutually compatible. This ecosystem of packages can be loaded all at once as one umbrella package called the "tidyverse". Here are some of its most useful functions:
+
+## Subsetting: filter() and select()
+
+We already know how to subset data by rows using the filter function:
+
+```{r}
+table(earnings$educ)
+test <- filter(earnings, educ >= 12)
+table(test$educ)
+```
+
+This reduces the earnings dataset to only include observations with at least a high school education. Similarly, we can reduce the dataset by removing variables while retaining all observations:
+
+```{r}
+names(earnings)
+test <- select(earnings,
+               age, race, earnings, height, weight, educ)
+head(test)
+```
+
+The first argument is the dataset we want to subset, then every argument after that separated by commas are the variables we want to keep. This also allows us to change the ordering of our columns.
+
+## Creating and transforming variables: mutate()
+
+Now suppose we want to create a new variable in our dataset that is a transformation of already existing ones. Suppose we wanted to create a new variable "college" which is going to be a 1 for any observation with an education of at least 16 years and a 0 otherwise.
+
+We might know one way of doing this already:
+
+```{r}
+# Creates a dummy variable that's TRUE or FALSE for education > 16
+test$college <- test$educ >= 16
+# Converts this to a number where TRUE == 1 and FALSE == 0
+test$college <- as.numeric(test$college)
+table(test$college)
+```
+
+A more convenient way to do this and create many such transformed variables at a time is the 'mutate' function. We can create the same variable but let's also add similar ones corresponding to different education levels:
+
+```{r}
+earnings <- mutate(earnings,
+                   lt.hs = as.numeric(educ < 12),
+                   hs = as.numeric(educ == 12),
+                   some.college = as.numeric(12 < educ & educ < 16),
+                   college = as.numeric(educ >= 16)) %>%
+  # Some more examples
+  mutate(log.age = log(age),
+         age.sq = age^2,
+         no.college = 1-college)
+head(earnings)
+```
+
+Notice the "%\>%" connecting the two mutate commands. This is called a "pipe" as it conveniently joins successive functions. Essentially it takes the output of whatever's on the left of the "%\>%" and immediately uses it as the first argument of the function on the right of the "%\>%.
+
+Here's another example: suppose we want to identify the observations corresponding to white women between the ages of 40 and 50 and then among this group:
+
+```{r}
+earnings.example <- earnings %>%
+  # Create a dummy variable that's 1 for all women (sex == 1) who are white (race == 1)
+  mutate(ww = sex == 1 & race ==1) %>%
+  # Create a dummy that's a 1 if they are in the desired age range
+  mutate(age.4050 = (age >= 40 & age < 50)) %>%
+  # Subset to the people for whom both these dummies are == 1
+  filter(ww == 1 & age.4050 == 1)
+```
+
+We can take it even further by using the "%\$%" pipe, which is used to refer to variables within the object to its left. Here's an example tabulating the education level of the group defined above:
+
+```{r}
+# With pipes
+earnings.example %$%
+  # Select the college variable in the earnings.example data:
+  college %>%
+  # Use the table function to count how many people have a college degree
+  table() %>%
+  # Convert these counts to a percentage
+  prop.table()
+
+# Without pipes, as one command
+prop.table(table(earnings.example$college))
+```
+
+# More with regressions
+
+## Multicollinearity and dropping a regressor/covariate
+
+We know from lectures that multicollinearity occurs when one regressor is a linear combination of the other regressors. For example, above we created four dummy variables corresponding to those will less than a high school education, those with only a high school education, those who went to college but didn't graduate, and those with at least a bachelor's degree. Clearly, all observations will have a 1 for one of the variables and a 0 for all the others; they are mutually exclusive and exhaustive.
+
+If we wanted to look at the relative effects of these different levels of education while controlling for age, we would have to remove a regressor from our regression equation. By default, R and Stata prefer to drop one of the collinear education variables:
+
+```{r}
+intercept.model <- lm_robust(earnings ~ lt.hs + hs + some.college + college + age,
+                             se_type = 'HC1',
+                             earnings)
+summary(intercept.model)
+```
+
+Alternatively, we could drop the intercept and retain both dummy variables. This is because the intercept (which is just a constant) is collinear with the sum of the dummy variables (also a constant: these sum to 1+0+0+0 = 1 for all observations).
+
+We can implement this by simply adding a "+0" or "-1" to our formula:
+
+```{r}
+no.intercept.1 <- lm_robust(earnings ~ 0 + lt.hs + hs + some.college + college + age,
+                          se_type = 'HC1',
+                          earnings)
+summary(no.intercept.1)
+
+no.intercept.2 <- lm_robust(earnings ~ -1 + height + lt.hs + hs + some.college + college,
+                          se_type = 'HC1',
+                          earnings)
+summary(no.intercept.2)
+```
+
+Even though they result in different coefficient estimates, the methods are equivalent; the resulting coefficients are only different because they are measuring different relative effects. But with one regression's estimates, you can always back out the other regression's estimates.
+
+## Root Mean Squared Error
+
+We encountered one minor difference between lm and lm_robust models last week: you can directly pull the residuals form an lm model but you have to manually construct them for lm_robust models:
+
+```{r}
+earnings.lm <- lm(earnings ~ -1 + college + no.college, earnings)
+summary(earnings.lm)
+earnings.lmrobust <- lm_robust(earnings ~ -1 + college + no.college,
+                               se_type = 'HC1',
+                               earnings)
+summary(earnings.lmrobust)
+```
+
+Relatedly, the other difference you'll notice between lm and lm_robust models is that RMSE appears in the output for lm models ("Residual standard error: 25420") but not in lm_robust models. To get the RMSE for the latter, you can simply take the square root of its residual mean variance:
+
+```{r}
+sqrt(earnings.lmrobust$res_var)
+```
+
+You can also use the sigma function on the lm model:
+
+```{r}
+sigma(earnings.lm)
+```
+
+You could also compute it manually (maybe as a sanity check), accounting for degrees of freedom "df.residual":
+
+```{r}
+sqrt(sum(earnings.lm$residuals^2)/df.residual(earnings.lm))
+```
+
+## R-squared
+
+```{r}
+# For lm_robust models:
+earnings.lmrobust$r.squared
+earnings.lmrobust$adj.r.squared
+
+# For lm models:
+summ.lm <- summary(earnings.lm)
+summ.lm$r.squared
+summ.lm$adj.r.squared
+```
+
+## F-statistic
+
+```{r}
+# For lm_robust models:
+earnings.lmrobust$fstatistic
+
+# For lm models:
+summ.lm$fstatistic
+```
+
+Keep in mind the F-statistics found in regression outputs correspond to a specific F-statistic: the one jointly testing the significance of *all* regressors. We may be interested in testing the joint significance of only a subset of regressors.
+
+# Joint hypothesis tests
+
+This week, we'll be interested in joint hypothesis tests, which test hypotheses of the following variety:
+
+$$
+\begin{aligned}
+H_0: &\ \beta_1 = \beta_2 = \beta_3 = 0\\
+H_1: &\ \text{At least one of these coefficients is non-zero}
+\end{aligned}
+$$
+
+Like our standard single-regressor significance test, testing this hypothesis requires estimating a test statistic and evaluating its significance. For this, we'll want to install the *car* package (apparently short for "companion to applied regression"). In particular, we'll want to use the function *linearHypothesis*.
+
+Imagine we ran the following regression to predict future earnings:
+
+```{r}
+joint.model <- lm_robust(earnings ~ college + height + weight + race + age,
+                         se_type = 'HC1',
+                         earnings)
+summary(joint.model)
+```
+
+Now suppose we wanted to test whether college education and height are jointly significant as predictors of future earnings. We'd run the following command to derive the corresponding F-statistic:
+
+```{r}
+linearHypothesis(joint.model, c('college = 0', 'height = 0'))
+```
+
+This gives us a Chi-squared statistic of 2297, corresponding to a p-value very close to zero.
+
+In this course, we will typically test joint significance using the F-statistic instead:
+
+```{r}
+linearHypothesis(joint.model, c('college = 0', 'height = 0'),
+                 test = 'F')
+```
+
+Our F-statistic is 1148.5 and the p-value is identical to the Chi-squared test
+
+We could also do the same with non-robust standard errors:
+
+```{r}
+joint.model.homo <- lm(earnings ~ college + height + weight + race + age, earnings)
+```
+
+Because of the assumption of homoskedasticity, the corresponding test statistics will come out slightly different:
+
+```{r}
+linearHypothesis(joint.model.homo, c('college = 0', 'height = 0'),
+                 test = 'F')
+```
+
+The F-statistic is slightly larger but the conclusion is unchanged. We can also use this lm model to recover the original robust result by specifying the difference in standard errors as an argument to the linearHypothesis function:
+
+```{r}
+linearHypothesis(joint.model.homo, c('college = 0', 'height = 0'), white.adjust = 'hc1',
+                 test = 'F')
+```
+
+It should then be straightforward to extend this exercise if you want to jointly test even more variables: just add them to the vector of equations in the linearHypothesis function.
+
+# Practice Problem 1: Stock-Watson Empirical Exercise 6.1
+
+Here, we're just doing the subquestions a, b, and d. Part c is a bit time-consuming but a good exercise for understanding the concept of control variables using the getting an understanding of what control variables do using the Frisch-Waugh Theorem.
+
+### Part a
+
+```{r}
+birth.model.a <- lm_robust(birthweight ~ smoker,
+                           data = smoking, se_type = 'HC1')
+summary(birth.model.a)
+```
+
+The estimated effect of smoking on birthweight is -253.2 grams for every unit increase in the smoker variable
+
+## Part b
+
+```{r}
+birth.model.b <- lm_robust(birthweight ~ smoker + alcohol + nprevist,
+                           data = smoking, se_type = 'HC1')
+summary(birth.model.b)
+```
+
+(i) Smoking may be correlated with both alcohol and the number of pre-natal doctor visits, thus satisfying (1) in Key Concept 6.1. Moreover, both alcohol consumption and the number of doctor visits may have their own independent affects on birthweight, thus satisfying (2) in Key Concept 6.1.
+
+(ii) The estimate is somewhat smaller: it has fallen to 217 grams from 253 grams, so the regression in (a) may suffer from omitted variable bias.
+
+(iii) Predicting Jane's baby's birth weight
+
+```{r}
+3051.25-217.58*1-30.49*0+34.07*8
+```
+
+Alternatively, we know what values she has for all the covariates in order:
+
+```{r}
+# Jane smoked (x1 = 1), did not drink (x2 = 0), had eight visits (x3 = 8)
+jane <- data.frame(smoker = 1,
+                   alcohol = 0,
+                   nprevist = 8)
+# Use the regression to predict her child's birthweight:
+predict(birth.model.b, newdata = jane)
+```
+
+(iv) 
+
+```{r}
+birth.model.b$r.squared
+birth.model.b$adj.r.squared
+```
+
+They are nearly identical because the sample size is very large; the degrees of freedom adjustment will be small in comparison
+
+(v) Nprevist is a control variable. It captures, for example, mother's access to healthcare and health. Because Nprevist is a control variable, its coefficient does not have a causal interpretation.
+
+## Part d
+
+```{r}
+birth.model.d <- lm_robust(birthweight ~ smoker + alcohol + tripre0 + tripre2 + tripre3, data = smoking, se_type = 'stata')
+summary(birth.model.d)
+```
+
+(i) Tripre1 is omitted to avoid perfect multicollinearity. (Tripre0+ Tripre1+ Tripre2+ Tripre3 = 1, the value of the "constant" regressor that determines the intercept). The regression would not run, or the software will report results from an arbitrary normalization if Tripre0, Tripre1, Tripre2, Tripre3, and the constant term all included in the regression.
+
+(ii) Babies born to women who had no prenatal doctor visits (Tripre0 = 1) had birthweights that on average were 698.0 grams (1.5 lbs) lower than babies from others who saw a doctor during the first trimester (Tripre1 = 1).
+
+(iii) Babies born to women whose first doctor visit was during the second trimester (Tripre2 = 1) had birthweights that on average were 100.8 grams (0.2 lbs) lower than babies from others who saw a doctor during the first trimester (Tripre1 = 1). Babies born to women whose first doctor visit was during the third trimester (Tripre3 = 1) had birthweights that on average were 137 grams (0.3 lbs) lower than babies from others who saw a doctor during the first trimester (Tripre1 = 1).
+
+(iv) No. The multiple $R^2$ has decreased from 0.073 to 0.046.
+
+# Bonus: Stock-Watson Empirical Exercise 7.2 (b and c)
+
+In the empirical exercises on earning and height in Chapters 4 and 5, you estimated a relatively large and statistically significant effect of a worker's height on his or her earnings. One explanation for this result is omitted variable bias: Height is correlated with an omitted factor that affects earnings. For example, Case and Paxson (2008) suggest that cognitive ability (or intelligence) is the omitted factor. The mechanism they describe is straightforward: Poor nutrition and other harmful environmental factors in utero and in early childhood have, on average, deleterious effects on both cognitive and physical development. Cognitive ability affects earnings later in life and thus is an omitted variable in the regression.
+
+If the mechanism described above is correct, the estimated effect of height on earnings should disappear if a variable measuring cognitive ability is included in the regression. Unfortunately, there isn't a direct measure of cognitive ability in the data set, but the data set does include years of education for each individual. Because students with higher cognitive ability are more likely to attend school longer, years of education might serve as a control variable for cognitive ability; in this case, including education in the regression will eliminate, or at least attenuate, the omitted variable bias problem.
+
+## Use the years of education variable (educ) to construct four indicator variables for whether a worker has less than a high school diploma, a high school diploma , some college , a bachelor's degree or higher.
+
+We already did this in the notes above
+
+## ii) For women only, run a regression of (1) Earnings on Height and (2) Earnings on Height, including LT_HS, HS, and Some_Col as control variables.
+
+```{r}
+earnings.w <- filter(earnings, sex == 1)
+mod1 <- lm(earnings ~ height, earnings.w)
+mod2 <- lm(earnings ~ height + lt.hs + hs + some.college, earnings.w)
+```
+
+### iii) Compare the estimated coefficient on Height in regressions (1) and (2). Is there a large change in the coefficient? Has it changed in a way consistent with the cognitive ability explanation? Explain.
+
+```{r}
+# Only works for lm models
+stargazer(mod1, mod2, type = 'text')
+```
+
+There is a large change in the coefficient, strongly suggestive of the presence of omitted variable bias in the first regression.
+
+### iv) The regression omits the control variable College. Why?
+
+Multicollinearity: all education variables would be a linear combination of the other three. Unless you remove the constant, there is no excluded group to be compared to. You could run a regression with college, but then you'd have to remove the intercept.
+
+### v) Test the joint null hypothesis that the coefficients on the education variables are equal to 0
+
+```{r}
+linearHypothesis(mod2,
+                 c('lt.hs = 0', 'hs = 0', 'some.college = 0'),
+                 test = 'F')
+```
+
+The F-statistic is very large: 456.94 corresponding to an essentially 0 p-value. We reject the null hypothesis that the coefficients on all these education variables are 0.
+
+### vi) Discuss the values of the estimated coefficients on LT_HS, HS, and Some_Col. Explain their relative values.)
+
+```{r}
+stargazer(mod2, type = 'text')
+```
+
+The omitted category are those with at least a college education. The coefficients on the other variables are then interpreted as the additional expected salary relative to college-educated people. We see these values are negative and increasingly so for lower levels of education. This suggests expected earnings increase with educational attainment.
