@@ -52,11 +52,7 @@ Below are the weekly guides I produced from the Summer 2023 iteration of my clas
 
 If I were to update this material, I’d add notes on .Rprofile and .Rproj files and on writing scripts to call regularly used libraries and functions.
 
-##### 1. Introduction to R and R Notebooks
-
-+ Notes ([Rmd](/teaching/metrics-2023-summer/01-R-Introduction.Rmd) | [PDF](/teaching/metrics-2023-summer/01-R-Introduction.pdf))
-+ Practice problems: [Rmd](/teaching/metrics-2023-summer/01-R-Introduction.Rmd) | [PDF](/teaching/metrics-2023-summer/01-R-Introduction.pdf)
-+ [Written practice problems](/teaching/metrics-2023-summer/01-PracticeProblems-iPad.pdf)
+##### 1. Introduction to R and R Notebooks: Notes ([Rmd](/teaching/metrics-2023-summer/01-R-Introduction.Rmd) | [PDF](/teaching/metrics-2023-summer/01-R-Introduction.pdf)) | Practice problems ([Rmd](/teaching/metrics-2023-summer/01-R-Introduction.Rmd) | [PDF](/teaching/metrics-2023-summer/01-R-Introduction.pdf)) | [Written practice problems](/teaching/metrics-2023-summer/01-PracticeProblems-iPad.pdf)
 
 ##### 2. Multicollinearity, joint hypothesis testing, and the tidyverse
 
@@ -132,16 +128,11 @@ These slides are weekly elaborations on a specific newly introduced concept and 
 
 ##### 7. [General equilibrium](/teaching/micro-2022-fall/07-GeneralEquilibrium.pdf)
 
-##### 8. [Exchange economies and the Edgeworth box](/teaching/micro-2022-fall/08-ExchangeEconomies-MarketClearing-NonInteriorSolutions.pdf)
-
-+ Bonus: By student request, [an applied derivation of IC equations and intersections for accurate graphing](/teaching/micro-2022-fall/08-GraphingExample.pdf)
+##### 8. [Exchange economies and the Edgeworth box](/teaching/micro-2022-fall/08-ExchangeEconomies-MarketClearing-NonInteriorSolutions.pdf) | Bonus: By student request, [an applied derivation of IC equations and intersections for accurate graphing](/teaching/micro-2022-fall/08-GraphingExample.pdf)
 
 ##### 9. [Models of monopolistic and oligopolistic competition](/teaching/micro-2022-fall/09-ImperfectCompetition.pdf)
 
-##### 10. Pre-final review
-
-+ [Comparing models of oligopolistic competition](/teaching/micro-2022-fall/10-FinalReview.pdf)
-+ [High-level summary and takeaways from the course](/teaching/micro-2022-fall/10-CourseSummary.pdf)
+##### 10. Pre-final review: [Comparing models of oligopolistic competition](/teaching/micro-2022-fall/10-FinalReview.pdf) | [High-level summary and takeaways from the course](/teaching/micro-2022-fall/10-CourseSummary.pdf)
 
 ---
 
