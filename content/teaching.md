@@ -3,16 +3,18 @@ title: "Teaching"
 aliases: /teaching/
 url: /teaching/
 disableAnchoredHeadings: false
-description: "Page for teaching resources"
+description: "Summaries and resources for courses I've TA'd for during my teaching career at Columbia University"
 showToc: true
 TocOpen: true
 UseHugoToc: true
 
 ---
 
+Summaries and resources for courses I've TA'd for during my teaching career at Columbia University
+
 ### Senior seminars and research workshops (ECON-GU4999)
 
-Sessions taught: Fall 2023, Spring 2024. 
+**Sessions taught: Fall 2023, Spring 2024**  
 
 Prerequisites
 
@@ -30,7 +32,7 @@ Serving as the department's research consultant TA providing guidance and prepar
 
 ### [Introduction to econometrics (ECON-UN3412)](https://github.com/wmadavis/Teaching-IntroEconometrics)
 
-Sessions taught: Fall 2020, Spring 2021, Fall 2021, Summer 2023  
+**Sessions taught: Fall 2020, Spring 2021, Fall 2021, Summer 2023**  
 
 Prerequisites
 
@@ -38,7 +40,7 @@ Prerequisites
 + Calculus III
 + Introduction to probability and statistics with calculus
 
-ECON-UN3412 introduces students to multiple regression and related methods for analyzing data in economics and related disciplines. Additional topics include regression with discrete random variables, instrumental variables regression, analysis of random experiments and quasi-experiments, and regression with time series data. Students will learn how to conduct – and how to critique – empirical studies in economics and related fields. Accordingly, the emphasis of the course is on empirical applications.
+> ECON-UN3412 introduces students to multiple regression and related methods for analyzing data in economics and related disciplines. Additional topics include regression with discrete random variables, instrumental variables regression, analysis of random experiments and quasi-experiments, and regression with time series data. Students will learn how to conduct – and how to critique – empirical studies in economics and related fields. Accordingly, the emphasis of the course is on empirical applications.
 
 #### Resources
 
@@ -107,15 +109,14 @@ If I were to teach this course again, I’d replace the working directories cove
 
 ### [Intermediate microeconomics (ECON-UN3211)](https://github.com/wmadavis/Teaching-IntermediateMicro)
 
-
-Sessions taught: Spring 2022, Fall 2022  
+**Sessions taught: Spring 2022, Fall 2022**  
 
 Prerequisites
 
 + Principles of Economics
 + Calculus III
 
-The purpose of this course is to offer a solid, intermediate-level training in theoretical microeconomics. We will try to achieve a more in-depth understanding of how the standard theoretical models of microeconomics work. The course consists of three parts. We will start out by analyzing consumer decision-making. We then turn to the behavior of firms. Finally, the third part of the course studies the interaction of consumers and firms in goods markets.  
+> The purpose of this course is to offer a solid, intermediate-level training in theoretical microeconomics. We will try to achieve a more in-depth understanding of how the standard theoretical models of microeconomics work. The course consists of three parts. We will start out by analyzing consumer decision-making. We then turn to the behavior of firms. Finally, the third part of the course studies the interaction of consumers and firms in goods markets.  
 
 Textbook
 
@@ -162,6 +163,6 @@ These slides are weekly elaborations on a specific newly introduced concept and 
 
 ### The global economy (ECON-UN2257)
 
-Sessions taught: Spring 2023  
+**Sessions taught: Spring 2023**  
 
-This international economics course is targeted towards non-economics students, focusing on current events and the increasing international interdependence of the world economy. Topics incude: (i) why countries trade, what goods and services will be traded, how the gains from trade are distributed and the tools of commercial policy; (ii) the movement of labor and capital across borders; value of transnational countries and production processes across countries; (iii) international finance issues including exchange rates, balance of payments and open economy macroeconomic adjustment.
+> This international economics course is targeted towards non-economics students, focusing on current events and the increasing international interdependence of the world economy. Topics incude: (i) why countries trade, what goods and services will be traded, how the gains from trade are distributed and the tools of commercial policy; (ii) the movement of labor and capital across borders; value of transnational countries and production processes across countries; (iii) international finance issues including exchange rates, balance of payments and open economy macroeconomic adjustment.

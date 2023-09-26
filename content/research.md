@@ -10,10 +10,13 @@ UseHugoToc: true
 
 ---
 
-### Large potential reduction in economic damages under UN mitigation targets  
-Marshall Burke, Matthew Alampay Davis, Noah S. Diffenbaugh (2018)  
-[Nature, 557, 549-553](https://www.nature.com/articles/s41586-018-0071-9)
- 
+### [Large potential reduction in economic damages under UN mitigation targets](https://doi.org/10.1038/s41586-018-0071-9)
+
+**Marshall Burke, Matthew Alampay Davis, Noah S. Diffenbaugh (2018)**  
+*[Nature, 557, 549-553](https://www.nature.com/articles/s41586-018-0071-9)*
+
+#### Summary
+
 + [Ungated link](/papers/BurkeDavisDiffenbaugh2018.pdf)
 + [Non-technical video summary](http://www.youtube.com/watch?v=DafZSeIGLNE)
 + [Replication files](https://github.com/wmadavis/BDD2018)
@@ -35,9 +38,12 @@ We present an empirical framework for evaluating the economic benefits of the 20
 
 ---
 
-### Combining satellite imagery and machine learning to predict poverty  
-Neal Jean, Marshall Burke, Michael Xie, Matthew Alampay Davis, David B. Lobell, Stefano Ermon (2016)  
-[Science, 353 (6301), 790-794](https://www.science.org/doi/10.1126/science.aaf7894)
+### [Combining satellite imagery and machine learning to predict poverty](https://doi.org/10.1126/science.aaf7894)
+
+**Neal Jean, Marshall Burke, Michael Xie, Matthew Alampay Davis, David B. Lobell, Stefano Ermon (2016)**  
+*[Science, 353 (6301), 790-794](https://www.science.org/doi/10.1126/science.aaf7894)*
+
+#### Summary
 
 + [Ungated link](/papers/JeanEtAl2016.pdf)
 + [Replication files](https://github.com/nealjean/predicting-poverty)
