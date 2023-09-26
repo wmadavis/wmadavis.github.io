@@ -10,13 +10,17 @@ UseHugoToc: true
 
 ---
 
-*(Columbia students can use their university email to book office hours [here](https://calendly.com/wmadavis/))*
+* Columbia students can use their university email to book office hours [here](https://calendly.com/wmadavis/).*
 
-*Using this space to share some of the resources I’ve prepared during my teaching career at Columbia. I’ve also seen some of my material paywalled on Course Hero so please just take it from here for free. I have also included some notes from graduate coursework I've taken.*  
+*Using this space to share some of the resources I’ve prepared during my TA career at Columbia and for my graduate-level coursework at Oxford and Columbia. I’ve seen some of my notes paywalled on Course Hero so please just take it from here for free.*
 
-*I cannot guarantee a response but feel free to email clarifying questions about any of this material. Video recordings of my classes may be available upon request to those looking to follow along at their own pace or supplement their own studies, especially those from developing countries.*  
+*I cannot guarantee a response but feel free to email clarifying questions or pointing out errors in any of this material. Video recordings of my econometrics and microeconomics classes may be available upon request to those looking to follow along or supplement their own studies, particularly those from developing countries.*  
 
 *Any errors are due to the professors who taught me wrong or the students who didn’t point them out.*  
+
+*Out of respect for the non-predatory academic publishing industry, I discourage you from finding a free version of this textbook or any other by [Googling their titles, their authors, and adding “pdf” at the end](https://www.google.com/search?q=Introduction+to+Econometrics+watson+4th+edition+pdf&sca_esv=568605030&sxsrf=AM9HkKm2WdaM2SNR0--eUd572Acbx9Egyg%3A1695760925959&ei=HUITZaOMOqOs5NoP5biHSA&ved=0ahUKEwjjjvbckcmBAxUjFlkFHWXcAQkQ4dUDCBA&uact=5&oq=Introduction+to+Econometrics+watson+4th+edition+pdf&gs_lp=Egxnd3Mtd2l6LXNlcnAiM0ludHJvZHVjdGlvbiB0byBFY29ub21ldHJpY3Mgd2F0c29uIDR0aCBlZGl0aW9uIHBkZjIGEAAYFhgeSO8pUN4EWNEocAR4AZABAZgBmQGgAbYTqgEFMTAuMTS4AQPIAQD4AQL4AQHCAgoQABhHGNYEGLADwgIFEC4YgATCAgUQABiABMICFBAuGIAEGJcFGNwEGN4EGOAE2AEBwgIHECMYigUYJ8ICCBAAGIoFGIYD4gMEGAAgQYgGAZAGCLoGBggBEAEYFA&sclient=gws-wiz-serp&bshm=rime/1). Failing that, I am hereby disavowing [Sci-Hub](https://sci-hub.se/database) as a resource for such searches as well.*
+
+---
 
 ### Senior seminars and research workshops (ECON-GU4999)
 
@@ -41,8 +45,6 @@ Serving as the department's research consultant TA providing guidance and prepar
 **Fall 2020, Spring 2021, Fall 2021, Summer 2023**  
 
 Textbook: “Introduction to Econometrics” — James Stock and Mark Watson (2019, 2020)
-
-**Out of respect for the non-predatory academic publishing industry, I discourage you from finding a free version of this textbook or any other by [Googling their titles, their authors, and adding “pdf” at the end](https://www.google.com/search?q=Introduction+to+Econometrics+watson+4th+edition+pdf&sca_esv=568605030&sxsrf=AM9HkKm2WdaM2SNR0--eUd572Acbx9Egyg%3A1695760925959&ei=HUITZaOMOqOs5NoP5biHSA&ved=0ahUKEwjjjvbckcmBAxUjFlkFHWXcAQkQ4dUDCBA&uact=5&oq=Introduction+to+Econometrics+watson+4th+edition+pdf&gs_lp=Egxnd3Mtd2l6LXNlcnAiM0ludHJvZHVjdGlvbiB0byBFY29ub21ldHJpY3Mgd2F0c29uIDR0aCBlZGl0aW9uIHBkZjIGEAAYFhgeSO8pUN4EWNEocAR4AZABAZgBmQGgAbYTqgEFMTAuMTS4AQPIAQD4AQL4AQHCAgoQABhHGNYEGLADwgIFEC4YgATCAgUQABiABMICFBAuGIAEGJcFGNwEGN4EGOAE2AEBwgIHECMYigUYJ8ICCBAAGIoFGIYD4gMEGAAgQYgGAZAGCLoGBggBEAEYFA&sclient=gws-wiz-serp&bshm=rime/1). Failing that, I am hereby disavowing [Sci-Hub](https://sci-hub.se/database) as a resource for such searches as well.**
 
 Prerequisites
 
@@ -101,7 +103,7 @@ If I were to update this material, I’d add notes on .Rprofile and .Rproj files
 + [The control variable approach to IV regression](/teaching/metrics-2023-summer/07-ControlVariableApproach.pdf)
 
 ##### 8. Big data, time series and dynamic causal effects
-)
+
 + [Rmd](/teaching/metrics-2023-summer/08-TimeSeries-DynamicCausalEffects.Rmd)
 + [pdf](/teaching/metrics-2023-summer/08-TimeSeries-DynamicCausalEffects.pdf)
 + [Big data practice problems](/teaching/metrics-2023-summer/08-bigDataPracticeProblems.pdf)
