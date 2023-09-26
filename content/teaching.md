@@ -44,50 +44,52 @@ Prerequisites
 
 > *ECON-UN3412 introduces students to multiple regression and related methods for analyzing data in economics and related disciplines. Additional topics include regression with discrete random variables, instrumental variables regression, analysis of random experiments and quasi-experiments, and regression with time series data. Students will learn how to conduct – and how to critique – empirical studies in economics and related fields. Accordingly, the emphasis of the course is on empirical applications.*
 
+#### Material
+
 Columbia teaches its undergraduates econometrics using Stata, an expensive statistical software whose wide use persists because it’s what most professors learned themselves. The first semester I taught this course, I prepared supplementary material and solutions to provide students the option to instead use R, a free and more flexible open-source alternative preferred by most industries outside academic social science. After some initial trepidation about departing from the official software of instruction, students seemed to find its object-oriented programming much more intuitive and appreciated its usefulness and accessibility beyond the semester course. I refined my material and continued teaching exclusively in R in subsequent semesters and all in all, I think I cost Stata Corporation upwards of $10,000 in lost single-semester license fees.
 
 Below are the weekly guides I produced from the Summer 2023 iteration of my classes, which is accelerated and condensed relative to the regular semester course. These materials include a subset of practice problems but exclude problem sets, exams, practice exams, and their solutions. Most datasets referenced are available for free on the textbook's official website (or else (here)[https://www.princeton.edu/~mwatson/Stock-Watson_4E/Stock-Watson-Resources-4e.html]). Instruction here assumes no prior experience with programming other than installation of R and RStudio. It introduces and makes use of R Notebooks saved as R Markdown (.Rmd) files, a convenient way of integrating in-line R scripting with intuitive word processing to produce handsome problem sets and reports either as pdfs or HTML files. If you’re following on your own, open the Rmd files in RStudio to see the input and the pdf files to see what the resultant output looks like.
 
 If I were to update this material, I’d add notes on .Rprofile and .Rproj files and on writing scripts to call regularly used libraries and functions.
 
-#### 1. Introduction to R and R Notebooks
+##### 1. Introduction to R and R Notebooks
 
 + Notes ([Rmd](/teaching/metrics-2023-summer/01-R-Introduction.Rmd) | [PDF](/teaching/metrics-2023-summer/01-R-Introduction.pdf))
 + Practice problems: [Rmd](/teaching/metrics-2023-summer/01-R-Introduction.Rmd) | [PDF](/teaching/metrics-2023-summer/01-R-Introduction.pdf)
 + [iPad practice problems](/teaching/metrics-2023-summer/01-PracticeProblems-iPad.pdf)
 
-#### 2. Multicollinearity, joint hypothesis testing, and the tidyverse
+##### 2. Multicollinearity, joint hypothesis testing, and the tidyverse
 
 + Notes ([Rmd](/teaching/metrics-2023-summer/02-Multicollinearity-JointHypotheses.Rmd) | [PDF](/teaching/metrics-2023-summer/02-Multicollinearity-JointHypotheses.pdf))
 
-#### 3. Exam 1 review
+##### 3. Exam 1 review
 
 + [Notes](/teaching/metrics-2023-summer/03-ExtraNotes.pdf)
 
-#### 4. Nonlinear regression
+##### 4. Nonlinear regression
 
 + Notes ([Rmd](/teaching/metrics-2023-summer/04-NonLinearRegression.Rmd) | [PDF](/teaching/metrics-2023-summer/04-NonLinearRegression.pdf))
 
-#### 5. Panel data methods and binary dependent variables
+##### 5. Panel data methods and binary dependent variables
 
 + Notes ([Rmd](/teaching/metrics-2023-summer/05-Panels-BinaryDVs.Rmd) | [PDF](/teaching/metrics-2023-summer/05-Panels-BinaryDVs.pdf))
 + Bonus: [fixed effects](/teaching/metrics-2023-summer/05-FixedEffects.pdf)
 
-#### 6. Exam 2 review
+##### 6. Exam 2 review
 
 + Not provided here
 
-#### 7. Instrumental variables and quasi-experiments
+##### 7. Instrumental variables and quasi-experiments
 
 + Notes ([Rmd](/teaching/metrics-2023-summer/07-Instruments-Experiments.Rmd) | [PDF](/teaching/metrics-2023-summer/07-Instruments-Experiments.pdf))
 + Bonus: [the control variable approach to IV regression](/teaching/metrics-2023-summer/07-ControlVariableApproach.pdf)
 
-#### 8. Big data, time series and dynamic causal effects
+##### 8. Big data, time series and dynamic causal effects
 
 + Notes ([Rmd](/teaching/metrics-2023-summer/08-TimeSeries-DynamicCausalEffects.Rmd) | [PDF](/teaching/metrics-2023-summer/08-TimeSeries-DynamicCausalEffects.pdf))
 + Bonus: [Big data practice problems](/teaching/metrics-2023-summer/08-bigDataPracticeProblems.pdf)
 
-#### 9. Exam 3 review
+##### 9. Exam 3 review
 
 + [Notes](/teaching/metrics/2023-summer/09-Exam3-Review.pdf)
 
@@ -110,31 +112,33 @@ Prerequisites
 
 These slides are weekly elaborations on a specific newly introduced concept and so do not represent comprehensive coverage of the course material. They’re also not necessarily self-contained; I sometimes supplemented my slides with blackboard work and conversation with students, which is not always captured in the annotations. Course material is also instructor-specific; if you’re reading this as a Columbia student taking the same course, it may not correspond to the treatment or selection of topics your particular instructor chooses to cover. For example, compared to my Spring 2022 coverage, the following material from Fall 2022 covers a wider range of topics but omits some material such as the method of Lagrange multipliers.
 
-#### 0. Pre-course material
+#### Material
+
+##### 0. Pre-course material
 
 + [Review of prerequisite calculus and optimization methods](/teaching/micro-2022-fall/00-OptimizationReview.pdf)
 + [Logistics and introduction to the course](/teaching/micro-2022-fall/00-Logistics.pdf)
 + [Running log of responses to student emails and and corrections to weekly slides](/teaching/micro-2022-fall/00-RunningUpdates.pdf)
 
-#### 1. [Consumer optimization](/teaching/micro-2022-fall/01-ConsumerOptimization.pdf)
+##### 1. [Consumer optimization](/teaching/micro-2022-fall/01-ConsumerOptimization.pdf)
 
-#### 2. [Hicksian demand and special well-behaved preferences](/teaching/micro-2022-fall/02-HicksianDemand-SpecialPreferences.pdf)
+##### 2. [Hicksian demand and special well-behaved preferences](/teaching/micro-2022-fall/02-HicksianDemand-SpecialPreferences.pdf)
 
-#### 3. [Comparative statics and Slutsky decomposition of price effects](/teaching/micro-2022-fall/03-ComparativeStatics-IncomeSubstitutionEffects.pdf)
+##### 3. [Comparative statics and Slutsky decomposition of price effects](/teaching/micro-2022-fall/03-ComparativeStatics-IncomeSubstitutionEffects.pdf)
 
-#### 4. [Hicksian decomposition of price effects and introduction to welfare](/teaching/micro-2022-fall/04-HicksianDecomposition-Welfare.pdf)
+##### 4. [Hicksian decomposition of price effects and introduction to welfare](/teaching/micro-2022-fall/04-HicksianDecomposition-Welfare.pdf)
 
-#### 5. [Producer Theory I: Cost minimization](/teaching/micro-2022-fall/05-ProducerTheory-CostMinimization.pdf)
+##### 5. [Producer Theory I: Cost minimization](/teaching/micro-2022-fall/05-ProducerTheory-CostMinimization.pdf)
 
-#### 6. [Producer Theory II: Profit maximization under perfect competition](/teaching/micro-2022-fall/06-ProducerTheory-ProfitMaximization-MarketEquilibrium.pdf)
+##### 6. [Producer Theory II: Profit maximization under perfect competition](/teaching/micro-2022-fall/06-ProducerTheory-ProfitMaximization-MarketEquilibrium.pdf)
 
-#### 7. [General equilibrium](/teaching/micro-2022-fall/07-GeneralEquilibrium.pdf)
+##### 7. [General equilibrium](/teaching/micro-2022-fall/07-GeneralEquilibrium.pdf)
 
-#### 8. [Exchange economies and the Edgeworth box](/teaching/micro-2022-fall/08-ExchangeEconomies-MarketClearing-NonInteriorSolutions.pdf)
+##### 8. [Exchange economies and the Edgeworth box](/teaching/micro-2022-fall/08-ExchangeEconomies-MarketClearing-NonInteriorSolutions.pdf)
 
 Bonus: By student request, [an applied derivation of IC equations and intersections for accurate graphing](/teaching/micro-2022-fall/08-GraphingExample.pdf)
 
-#### 9. [Models of monopolistic and oligopolistic competition](/teaching/micro-2022-fall/09-ImperfectCompetition.pdf)
+##### 9. [Models of monopolistic and oligopolistic competition](/teaching/micro-2022-fall/09-ImperfectCompetition.pdf)
 
 #### 10. Pre-final review
 
@@ -158,20 +162,25 @@ Bonus: By student request, [an applied derivation of IC equations and intersecti
 
 *An incomplete archive of notes of variable quality from the two graduate schools I’ve attended. I may scan and upload my handwritten notes once I can regain access to them. The gold standard is still [Luke Stein’s first-year notes from the Stanford core sequence](https://faculty.babson.edu/lcdstein/steincoresummary.pdf).*
 
-#### Columbia PhD (Year 1)
+#### Columbia PhD
+
+Year 1:
 
 + **Econometrics I, Part II**: Asymptotic theory, restricted estimation, and resampling
 + **Econometrics II, Part II**: Resampling, multiple testing, quantile regression, non-parametrics, and treatment effects
 + **Macroeconomics I, Part I** (incomplete summary): Introduction to growth theory
 + **Macroeconomics I, Part II**: General equilibrium theory, real business cycles, and an introduction to macro-finance
 
-#### Oxford MPhil (Year 2)
+#### Oxford MPhil
+
+
+##### Year 1
+
++ **Macroeconomics**: Qualitative summary of the entire year of material: neoclassical growth theory, macro-finance, monetary economics, macroeconomic policy
++ **Macro-finance**: consumption CAPM, exotic preferences, disaster risk, evidence on financial crises, financial frictions, the Great Recession, liquidity, quantitative easing, and financial bubbles
+
+##### Year 2
 
 + **Advanced Microeconomics**: Contracts under information asymmetries, bargaining, and theories of the firm. Notes make reference to figures that are handwritten and not included
 + **Political Economy of Development**:  Literature review: culture and institutions, political reform and political failure, corruption, and conflict
 + **Applied microeconomics**: production function estimation (incomplete short summary), problems and accounting
-
-#### Oxford MPhil (Year 1)
-
-+ **Macroeconomics**: Qualitative summary of the entire year of material: neoclassical growth theory, macro-finance, monetary economics, macroeconomic policy
-+ **Macro-finance**: consumption CAPM, exotic preferences, disaster risk, evidence on financial crises, financial frictions, the Great Recession, liquidity, quantitative easing, and financial bubbles
