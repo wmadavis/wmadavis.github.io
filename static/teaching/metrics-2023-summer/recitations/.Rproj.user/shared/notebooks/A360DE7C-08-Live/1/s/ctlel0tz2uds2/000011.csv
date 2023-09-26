@@ -1,5 +1,0 @@
-"0","cumdyn <- coefplot(oil.cumdyn, drop = 'Constant', ci.join = T,"
-"0","         main = 'The effect of oil prices on IP growth rate\nCumulative dynamic multipliers',"
-"0","         xlab = 'Lag',"
-"0","         ci.lty = 0, ci.fill = T, ci.fill.par = list(col = 'red'),"
-"0","         pt.join = T)"

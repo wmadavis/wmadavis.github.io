@@ -1,3 +1,0 @@
-"0","fred %<>% mutate(ygrowth = log(gdp)-lag(log(gdp)),"
-"0","                 mgrowth = log(m2)-lag(log(m2)),"
-"0","                 ggrowth = log(gov)-lag(log(gov)))"

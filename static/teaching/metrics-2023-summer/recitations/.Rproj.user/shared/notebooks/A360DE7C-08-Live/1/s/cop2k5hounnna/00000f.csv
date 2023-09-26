@@ -1,4 +1,0 @@
-"0","ggplot(macro, aes(x = Date, y = Oil)) +"
-"0","  theme_bw() + # A black-and-white theme I like over the gray default"
-"0","  geom_line() + # Draw a line graph using Date on the x and Oil on the y"
-"0","  xlab('Date') + ggtitle('Time series of O') + ylab('')"

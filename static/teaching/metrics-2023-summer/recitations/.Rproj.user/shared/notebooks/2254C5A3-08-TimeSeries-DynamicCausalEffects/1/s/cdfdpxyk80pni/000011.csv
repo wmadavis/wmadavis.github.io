@@ -1,2 +1,0 @@
-"0","coefplot(oil.cumdyn, drop = c('Constant', 'lag(Oil, 18)'),"
-"0","         main = 'Cumulative multipliers', xlab = 'Lag')"

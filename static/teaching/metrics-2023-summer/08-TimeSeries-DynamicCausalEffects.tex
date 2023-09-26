@@ -1,0 +1,1116 @@
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+%
+\documentclass[
+]{article}
+\usepackage{amsmath,amssymb}
+\usepackage{iftex}
+\ifPDFTeX
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
+  \usepackage{unicode-math} % this also loads fontspec
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+\usepackage{lmodern}
+\ifPDFTeX\else
+  % xetex/luatex font selection
+\fi
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+\usepackage{xcolor}
+\usepackage[margin=1in]{geometry}
+\usepackage{color}
+\usepackage{fancyvrb}
+\newcommand{\VerbBar}{|}
+\newcommand{\VERB}{\Verb[commandchars=\\\{\}]}
+\DefineVerbatimEnvironment{Highlighting}{Verbatim}{commandchars=\\\{\}}
+% Add ',fontsize=\small' for more characters per line
+\usepackage{framed}
+\definecolor{shadecolor}{RGB}{248,248,248}
+\newenvironment{Shaded}{\begin{snugshade}}{\end{snugshade}}
+\newcommand{\AlertTok}[1]{\textcolor[rgb]{0.94,0.16,0.16}{#1}}
+\newcommand{\AnnotationTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textbf{\textit{#1}}}}
+\newcommand{\AttributeTok}[1]{\textcolor[rgb]{0.13,0.29,0.53}{#1}}
+\newcommand{\BaseNTok}[1]{\textcolor[rgb]{0.00,0.00,0.81}{#1}}
+\newcommand{\BuiltInTok}[1]{#1}
+\newcommand{\CharTok}[1]{\textcolor[rgb]{0.31,0.60,0.02}{#1}}
+\newcommand{\CommentTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textit{#1}}}
+\newcommand{\CommentVarTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textbf{\textit{#1}}}}
+\newcommand{\ConstantTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{#1}}
+\newcommand{\ControlFlowTok}[1]{\textcolor[rgb]{0.13,0.29,0.53}{\textbf{#1}}}
+\newcommand{\DataTypeTok}[1]{\textcolor[rgb]{0.13,0.29,0.53}{#1}}
+\newcommand{\DecValTok}[1]{\textcolor[rgb]{0.00,0.00,0.81}{#1}}
+\newcommand{\DocumentationTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textbf{\textit{#1}}}}
+\newcommand{\ErrorTok}[1]{\textcolor[rgb]{0.64,0.00,0.00}{\textbf{#1}}}
+\newcommand{\ExtensionTok}[1]{#1}
+\newcommand{\FloatTok}[1]{\textcolor[rgb]{0.00,0.00,0.81}{#1}}
+\newcommand{\FunctionTok}[1]{\textcolor[rgb]{0.13,0.29,0.53}{\textbf{#1}}}
+\newcommand{\ImportTok}[1]{#1}
+\newcommand{\InformationTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textbf{\textit{#1}}}}
+\newcommand{\KeywordTok}[1]{\textcolor[rgb]{0.13,0.29,0.53}{\textbf{#1}}}
+\newcommand{\NormalTok}[1]{#1}
+\newcommand{\OperatorTok}[1]{\textcolor[rgb]{0.81,0.36,0.00}{\textbf{#1}}}
+\newcommand{\OtherTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{#1}}
+\newcommand{\PreprocessorTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textit{#1}}}
+\newcommand{\RegionMarkerTok}[1]{#1}
+\newcommand{\SpecialCharTok}[1]{\textcolor[rgb]{0.81,0.36,0.00}{\textbf{#1}}}
+\newcommand{\SpecialStringTok}[1]{\textcolor[rgb]{0.31,0.60,0.02}{#1}}
+\newcommand{\StringTok}[1]{\textcolor[rgb]{0.31,0.60,0.02}{#1}}
+\newcommand{\VariableTok}[1]{\textcolor[rgb]{0.00,0.00,0.00}{#1}}
+\newcommand{\VerbatimStringTok}[1]{\textcolor[rgb]{0.31,0.60,0.02}{#1}}
+\newcommand{\WarningTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textbf{\textit{#1}}}}
+\usepackage{graphicx}
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{-\maxdimen} % remove section numbering
+\usepackage{booktabs}
+\usepackage{tikz}
+\usetikzlibrary{fit}
+\usepackage{colortbl}
+\ifLuaTeX
+  \usepackage{selnolig}  % disable illegal ligatures
+\fi
+\IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\urlstyle{same}
+\hypersetup{
+  pdftitle={Recitation 8: Time Series and Big Data},
+  pdfauthor={Matthew Davis},
+  hidelinks,
+  pdfcreator={LaTeX via pandoc}}
+
+\title{Recitation 8: Time Series and Big Data}
+\author{Matthew Davis}
+\date{July 18, 2023}
+
+\begin{document}
+\maketitle
+
+\hypertarget{practice-problem-1-the-st.-louis-model}{%
+\section{Practice Problem 1: The St.~Louis
+Model}\label{practice-problem-1-the-st.-louis-model}}
+
+A model that attracted quite a bit of interest in macroeconomics in the
+1970s was the St.~Louis model. The underlying idea was to calculate
+fiscal and monetary policy impact and long-run \emph{cumulative dynamic
+multipliers}, by relating real output (growth) to real government
+expenditure (growth) and real money supply (growth). The assumption was
+that both government expenditures and the money supply were exogenous.
+
+In order to investigate the effect of a fiscal and monetary policies on
+output, you want to estimate a St.~Louis type model using your quarterly
+data (i.e., make sure to use HAC standard errors) and report your
+results.
+
+\hypertarget{a-and-b-download-fred-data}{%
+\subsection{(a) and (b) Download FRED
+Data}\label{a-and-b-download-fred-data}}
+
+\hypertarget{visit-the-federal-reserve-bank-of-st.-louis-where-you-have-access-to-the-fred-and-download-the-data-for-the-required-three-variables-i.e.-real-gdp-gdpc1-real-money-supply-m2real-and-real-government-expenditure-gcec1.}{%
+\paragraph{Visit the Federal Reserve Bank of St.~Louis where you have
+access to the FRED and download the data for the required three
+variables (i.e., real GDP (GDPC1), real money supply (M2REAL), and real
+government expenditure
+(GCEC1)).}\label{visit-the-federal-reserve-bank-of-st.-louis-where-you-have-access-to-the-fred-and-download-the-data-for-the-required-three-variables-i.e.-real-gdp-gdpc1-real-money-supply-m2real-and-real-government-expenditure-gcec1.}}
+
+Don't need to learn this, but a convenient way of doing this is using
+the Quandl package to download the data directly
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\FunctionTok{Quandl.api\_key}\NormalTok{(}\StringTok{\textquotesingle{}xHu2y3xExQ6bGkGqcYEi\textquotesingle{}}\NormalTok{) }\CommentTok{\# This is my personal API key}
+\NormalTok{gdp }\OtherTok{\textless{}{-}} \FunctionTok{Quandl}\NormalTok{(}\StringTok{\textquotesingle{}FRED/GDPC1\textquotesingle{}}\NormalTok{)}
+\NormalTok{m2 }\OtherTok{\textless{}{-}} \FunctionTok{Quandl}\NormalTok{(}\StringTok{\textquotesingle{}FRED/M2REAL\textquotesingle{}}\NormalTok{)}
+\NormalTok{gov }\OtherTok{\textless{}{-}} \FunctionTok{Quandl}\NormalTok{(}\StringTok{\textquotesingle{}FRED/GCEC1\textquotesingle{}}\NormalTok{)}
+
+\FunctionTok{head}\NormalTok{(gdp)}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+##         Date    Value
+## 1 2021-10-01 19805.96
+## 2 2021-07-01 19478.89
+## 3 2021-04-01 19368.31
+## 4 2021-01-01 19055.65
+## 5 2020-10-01 18767.78
+## 6 2020-07-01 18560.77
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\FunctionTok{head}\NormalTok{(m2)}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+##         Date  Value
+## 1 2021-12-01 7724.4
+## 2 2021-11-01 7696.6
+## 3 2021-10-01 7660.0
+## 4 2021-09-01 7657.1
+## 5 2021-08-01 7629.0
+## 6 2021-07-01 7560.6
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\FunctionTok{head}\NormalTok{(gov)}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+##         Date    Value
+## 1 2021-10-01 3356.829
+## 2 2021-07-01 3381.574
+## 3 2021-04-01 3373.765
+## 4 2021-01-01 3390.921
+## 5 2020-10-01 3356.030
+## 6 2020-07-01 3360.238
+\end{verbatim}
+
+\hypertarget{the-real-money-supply-m2-is-available-on-a-monthly-frequency-basis-dont-forget-to-convert-it-into-a-quarterly-frequency-variable-to-match-it-with-the-other-two-variables.-hint-is-m2-a-stock-or-flow-variable-although-you-may-take-the-last-month-of-each-quarter-or-the-three-month-average-as-your-quarterly-value-here-use-the-first-month-of-each-quarter.}{%
+\paragraph{\texorpdfstring{The real money supply \emph{m2} is available
+on a monthly frequency basis: don't forget to convert it into a
+quarterly frequency variable to match it with the other two variables.
+Hint: Is \emph{m2} a stock or flow variable? Although, you may take the
+last month of each quarter or the three-month average as your quarterly
+value, here use the first month of each
+quarter.}{The real money supply m2 is available on a monthly frequency basis: don't forget to convert it into a quarterly frequency variable to match it with the other two variables. Hint: Is m2 a stock or flow variable? Although, you may take the last month of each quarter or the three-month average as your quarterly value, here use the first month of each quarter.}}\label{the-real-money-supply-m2-is-available-on-a-monthly-frequency-basis-dont-forget-to-convert-it-into-a-quarterly-frequency-variable-to-match-it-with-the-other-two-variables.-hint-is-m2-a-stock-or-flow-variable-although-you-may-take-the-last-month-of-each-quarter-or-the-three-month-average-as-your-quarterly-value-here-use-the-first-month-of-each-quarter.}}
+
+Since M2 is a stock variable, you can take the value of this series
+corresponding to the first month of each quarter to get the quarterly
+values of this variable.
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{fred }\OtherTok{\textless{}{-}} \FunctionTok{left\_join}\NormalTok{(gdp, m2, }\AttributeTok{by =} \StringTok{\textquotesingle{}Date\textquotesingle{}}\NormalTok{) }\SpecialCharTok{\%\textgreater{}\%}
+  \FunctionTok{left\_join}\NormalTok{(gov, }\AttributeTok{by =} \StringTok{\textquotesingle{}Date\textquotesingle{}}\NormalTok{)}
+\FunctionTok{head}\NormalTok{(fred)}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+##         Date  Value.x Value.y    Value
+## 1 2021-10-01 19805.96  7660.0 3356.829
+## 2 2021-07-01 19478.89  7560.6 3381.574
+## 3 2021-04-01 19368.31  7550.3 3373.765
+## 4 2021-01-01 19055.65  7396.4 3390.921
+## 5 2020-10-01 18767.78  7201.0 3356.030
+## 6 2020-07-01 18560.77  7084.5 3360.238
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{fred }\SpecialCharTok{\%\textless{}\textgreater{}\%} \FunctionTok{rename}\NormalTok{(}\AttributeTok{gdp =}\NormalTok{ Value.x,}
+                 \AttributeTok{m2 =}\NormalTok{ Value.y,}
+                 \AttributeTok{gov =}\NormalTok{ Value)}
+\FunctionTok{head}\NormalTok{(fred)}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+##         Date      gdp     m2      gov
+## 1 2021-10-01 19805.96 7660.0 3356.829
+## 2 2021-07-01 19478.89 7560.6 3381.574
+## 3 2021-04-01 19368.31 7550.3 3373.765
+## 4 2021-01-01 19055.65 7396.4 3390.921
+## 5 2020-10-01 18767.78 7201.0 3356.030
+## 6 2020-07-01 18560.77 7084.5 3360.238
+\end{verbatim}
+
+Notice that our time variable, Date, is not just a number variable but a
+`Date' variable.
+
+\hypertarget{the-sample-period-should-be-from-first-quarter-of-1960-to-the-fourth-quarter-of-2019-i.e.-1960q1-to-2019q4.}{%
+\paragraph{The sample period should be from first quarter of 1960 to the
+fourth quarter of 2019 (i.e., 1960q1 to
+2019q4).}\label{the-sample-period-should-be-from-first-quarter-of-1960-to-the-fourth-quarter-of-2019-i.e.-1960q1-to-2019q4.}}
+
+Quarters in this dataset are defined by the first day of the first month
+in that quarter, i.e.~the 1st of January, April, July, and October
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{fred }\SpecialCharTok{\%\textless{}\textgreater{}\%} \FunctionTok{filter}\NormalTok{(Date }\SpecialCharTok{\textgreater{}=} \StringTok{\textquotesingle{}1960{-}01{-}01\textquotesingle{}}\NormalTok{) }\SpecialCharTok{\%\textgreater{}\%}
+  \FunctionTok{filter}\NormalTok{(Date }\SpecialCharTok{\textless{}=} \StringTok{\textquotesingle{}2019{-}12{-}31\textquotesingle{}}\NormalTok{)}
+\end{Highlighting}
+\end{Shaded}
+
+As a sanity check, let's plot one of these variables as a line graph:
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\FunctionTok{ggplot}\NormalTok{(fred, }\FunctionTok{aes}\NormalTok{(}\AttributeTok{x =}\NormalTok{ Date, }\AttributeTok{y =}\NormalTok{ m2)) }\SpecialCharTok{+}
+  \FunctionTok{theme\_bw}\NormalTok{() }\SpecialCharTok{+}
+  \FunctionTok{geom\_line}\NormalTok{() }\SpecialCharTok{+}
+  \FunctionTok{xlab}\NormalTok{(}\StringTok{\textquotesingle{}Year\textquotesingle{}}\NormalTok{) }\SpecialCharTok{+}
+  \FunctionTok{ylab}\NormalTok{(}\StringTok{\textquotesingle{}\textquotesingle{}}\NormalTok{) }\SpecialCharTok{+}
+  \FunctionTok{ggtitle}\NormalTok{(}\StringTok{\textquotesingle{}Time series of M2 money supply, quarterly\textquotesingle{}}\NormalTok{)}
+\end{Highlighting}
+\end{Shaded}
+
+\includegraphics{08-TimeSeries-DynamicCausalEffects_files/figure-latex/unnamed-chunk-5-1.pdf}
+
+We can also derive the autocorrelations for this series either as a plot
+of a corellogram\ldots{}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\FunctionTok{acf}\NormalTok{(fred}\SpecialCharTok{$}\NormalTok{m2,}
+    \AttributeTok{na.action =}\NormalTok{ na.pass) }\CommentTok{\# ignore any missing data/gaps in the time series}
+\end{Highlighting}
+\end{Shaded}
+
+\includegraphics{08-TimeSeries-DynamicCausalEffects_files/figure-latex/unnamed-chunk-6-1.pdf}
+
+Or by displaying the estimated autocorrelations, say up to 15 lags:
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\FunctionTok{acf}\NormalTok{(fred}\SpecialCharTok{$}\NormalTok{m2,}
+    \AttributeTok{na.action =}\NormalTok{ na.exclude, }\CommentTok{\# Ignore any missing data}
+    \AttributeTok{lag.max =} \DecValTok{15}\NormalTok{, }\CommentTok{\# Number of lags to include}
+    \AttributeTok{plot =} \ConstantTok{FALSE}\NormalTok{)}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## 
+## Autocorrelations of series 'fred$m2', by lag
+## 
+##     0     1     2     3     4     5     6     7     8     9    10    11    12 
+## 1.000 0.981 0.962 0.944 0.925 0.906 0.887 0.868 0.849 0.830 0.810 0.791 0.771 
+##    13    14    15 
+## 0.752 0.734 0.715
+\end{verbatim}
+
+\hypertarget{compute-the-growth-rates-of-these-three-variables-after-you-first-transform-them-into-natural-logarithm-and-namelabel-them-ygrowth-mgrowth-and-ggrowth}{%
+\paragraph{\texorpdfstring{Compute the growth rates of these three
+variables after you first transform them into natural logarithm and
+name/label them \emph{ygrowth}, \emph{mgrowth}, and
+\emph{ggrowth}}{Compute the growth rates of these three variables after you first transform them into natural logarithm and name/label them ygrowth, mgrowth, and ggrowth}}\label{compute-the-growth-rates-of-these-three-variables-after-you-first-transform-them-into-natural-logarithm-and-namelabel-them-ygrowth-mgrowth-and-ggrowth}}
+
+For a variable \(X_t\), we'll compute the growth rate \(x_t\) using the
+following transformation:
+
+\[
+x_t = \log(X_t)-\log(X_{t-1})
+\]
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{fred }\SpecialCharTok{\%\textless{}\textgreater{}\%} \FunctionTok{mutate}\NormalTok{(}\AttributeTok{ygrowth =} \FunctionTok{log}\NormalTok{(gdp)}\SpecialCharTok{{-}}\FunctionTok{lag}\NormalTok{(}\FunctionTok{log}\NormalTok{(gdp)),}
+                 \AttributeTok{mgrowth =} \FunctionTok{log}\NormalTok{(m2)}\SpecialCharTok{{-}}\FunctionTok{lag}\NormalTok{(}\FunctionTok{log}\NormalTok{(m2)),}
+                 \AttributeTok{ggrowth =} \FunctionTok{log}\NormalTok{(gov)}\SpecialCharTok{{-}}\FunctionTok{lag}\NormalTok{(}\FunctionTok{log}\NormalTok{(gov)))}
+\end{Highlighting}
+\end{Shaded}
+
+\hypertarget{c-estimate-a-distributed-lag-model-of-ygrowth-on-current-period-mgrowth-the-effect-of-a-monetary-policy-on-current-quarters-output-growth}{%
+\subsection{\texorpdfstring{(c) Estimate a distributed lag model of
+\emph{ygrowth} on current-period \emph{mgrowth}, the effect of a
+monetary policy on current quarter's output
+growth}{(c) Estimate a distributed lag model of ygrowth on current-period mgrowth, the effect of a monetary policy on current quarter's output growth}}\label{c-estimate-a-distributed-lag-model-of-ygrowth-on-current-period-mgrowth-the-effect-of-a-monetary-policy-on-current-quarters-output-growth}}
+
+\hypertarget{d-estimate-a-distributed-lag-model-of-ygrowth-on-current-period-ggrowth-the-effect-of-a-fiscal-policy-on-current-quarters-output-growth}{%
+\subsection{\texorpdfstring{(d) Estimate a distributed lag model of
+\emph{ygrowth} on current-period \emph{ggrowth}, the effect of a fiscal
+policy on current quarter's output
+growth}{(d) Estimate a distributed lag model of ygrowth on current-period ggrowth, the effect of a fiscal policy on current quarter's output growth}}\label{d-estimate-a-distributed-lag-model-of-ygrowth-on-current-period-ggrowth-the-effect-of-a-fiscal-policy-on-current-quarters-output-growth}}
+
+We'll use our familiar feols package to estimate a series of distributed
+lag models. We'll find it convenient to use the same panel methods for
+time series, allowing us to use mostly the same commands we've used
+before. This will require us to define our unit and and time variables
+(since fixest is intended for panel datasets). Since time series are
+essentially just panel datasets with \(T\) time periods but only \(N=1\)
+units, let's just create a unit variable that takes on an arbitrary
+value for all observations:
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{fred }\SpecialCharTok{\%\textless{}\textgreater{}\%} \FunctionTok{mutate}\NormalTok{(}\AttributeTok{unit =} \StringTok{\textquotesingle{}same\textquotesingle{}}\NormalTok{)}
+\end{Highlighting}
+\end{Shaded}
+
+This will also be necessary to make use of the other new component: new
+standard errors for time series and panel datasets which are robust to
+both heteroskedasticity and autocorrelation (HAC). We call these
+Newey-West (NW) standard errors and they are convenientliy calculated
+using the \(NW(m)\) function.
+
+These standard errors require us to determine the appropriate lag
+truncation parameter \(m\). This is a matter of applying the
+rule-of-thumb formula from the textbook and rounding up:
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{m }\OtherTok{\textless{}{-}} \FloatTok{0.75}\SpecialCharTok{*}\FunctionTok{nrow}\NormalTok{(fred)}\SpecialCharTok{\^{}}\NormalTok{(}\DecValTok{1}\SpecialCharTok{/}\DecValTok{3}\NormalTok{)}
+\NormalTok{m}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## [1] 4.660849
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\CommentTok{\# Round up}
+\NormalTok{m }\OtherTok{\textless{}{-}} \FunctionTok{ceiling}\NormalTok{(m)}
+\NormalTok{m}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## [1] 5
+\end{verbatim}
+
+Last note: we can of course use the same functions to estimate
+autoregressive models AR(p). In this case, we do not want to use HAC
+standard errors and in addition, we'll want to specify iid standard
+errors so we don't cluster standard errors
+
+Now we can estimate the desired models:
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{mod.c }\OtherTok{\textless{}{-}} \FunctionTok{feols}\NormalTok{(ygrowth }\SpecialCharTok{\textasciitilde{}}\NormalTok{ mgrowth, fred,}
+               \AttributeTok{panel.id =} \FunctionTok{c}\NormalTok{(}\StringTok{\textquotesingle{}unit\textquotesingle{}}\NormalTok{, }\StringTok{\textquotesingle{}Date\textquotesingle{}}\NormalTok{),}
+               \AttributeTok{vcov =} \FunctionTok{NW}\NormalTok{(}\DecValTok{5}\NormalTok{))}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## NOTE: 1 observation removed because of NA values (LHS: 1, RHS: 1).
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{mod.d }\OtherTok{\textless{}{-}} \FunctionTok{feols}\NormalTok{(ygrowth }\SpecialCharTok{\textasciitilde{}}\NormalTok{ ggrowth, fred,}
+               \AttributeTok{panel.id =} \FunctionTok{c}\NormalTok{(}\StringTok{\textquotesingle{}unit\textquotesingle{}}\NormalTok{, }\StringTok{\textquotesingle{}Date\textquotesingle{}}\NormalTok{),}
+               \AttributeTok{vcov =} \FunctionTok{NW}\NormalTok{(}\DecValTok{5}\NormalTok{))}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## NOTE: 1 observation removed because of NA values (LHS: 1, RHS: 1).
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\FunctionTok{etable}\NormalTok{(mod.c, mod.d, }\AttributeTok{markdown =}\NormalTok{ T)}
+\end{Highlighting}
+\end{Shaded}
+
+\begingroup
+\centering
+\begin{tabular}{lcc}
+   \tabularnewline \midrule \midrule
+   Dependent Variable: & \multicolumn{2}{c}{ygrowth}\\
+   Model:         & (1)             & (2)\\  
+   \midrule
+   \emph{Variables}\\
+   Constant       & -0.0066$^{***}$ & -0.0064$^{***}$\\   
+                  & (0.0008)        & (0.0007)\\   
+   mgrowth        & 0.1135          &   \\   
+                  & (0.0781)        &   \\   
+   ggrowth        &                 & 0.2148$^{***}$\\   
+                  &                 & (0.0520)\\   
+   \midrule
+   \emph{Fit statistics}\\
+   Observations   & 239             & 239\\  
+   R$^2$          & 0.02722         & 0.06508\\  
+   Adjusted R$^2$ & 0.02312         & 0.06114\\  
+   \midrule \midrule
+   \multicolumn{3}{l}{\emph{Newey-West (L=5) standard-errors in parentheses}}\\
+   \multicolumn{3}{l}{\emph{Signif. Codes: ***: 0.01, **: 0.05, *: 0.1}}\\
+\end{tabular}
+\par\endgroup
+
+\hypertarget{e-estimate-a-distributed-lag-model-of-ygrowth-on-current-and-next-quarters-monetary-policy-on-output-growth}{%
+\subsection{\texorpdfstring{(e) Estimate a distributed lag model of
+\emph{ygrowth} on current and next quarter's monetary policy on output
+growth}{(e) Estimate a distributed lag model of ygrowth on current and next quarter's monetary policy on output growth}}\label{e-estimate-a-distributed-lag-model-of-ygrowth-on-current-and-next-quarters-monetary-policy-on-output-growth}}
+
+\hypertarget{f-estimate-a-distributed-lag-model-of-ygrowth-on-current-and-next-quarters-fiscal-policy}{%
+\subsection{\texorpdfstring{(f) Estimate a distributed lag model of
+\emph{ygrowth} on current and next quarter's fiscal
+policy}{(f) Estimate a distributed lag model of ygrowth on current and next quarter's fiscal policy}}\label{f-estimate-a-distributed-lag-model-of-ygrowth-on-current-and-next-quarters-fiscal-policy}}
+
+To clarify the ambiguous language of the question, we are being asked to
+regress GDP growth between period t and t+1 to changes to
+monetary/fiscal policy between periods t and t+1 and changes to
+monetary/fiscal policy between periods t-1 and t.
+
+Other than the standard errors, the other new component here is that our
+models are ``dynamic'', meaning they relate observations from different
+time periods to one another. Here, we'll find it very convenient to make
+use of the fixest package, which has functions l(), d(), and f(), which
+allow us to refer to lagged, differenced, and lead terms in a regression
+formula without having to manually create new variables.
+
+Estimating the above models:
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{mod.e }\OtherTok{\textless{}{-}} \FunctionTok{feols}\NormalTok{(ygrowth }\SpecialCharTok{\textasciitilde{}} \FunctionTok{l}\NormalTok{(mgrowth, }\DecValTok{0}\SpecialCharTok{:}\DecValTok{1}\NormalTok{), fred,}
+               \AttributeTok{panel.id =} \FunctionTok{c}\NormalTok{(}\StringTok{\textquotesingle{}unit\textquotesingle{}}\NormalTok{, }\StringTok{\textquotesingle{}Date\textquotesingle{}}\NormalTok{),}
+               \AttributeTok{vcov =} \FunctionTok{NW}\NormalTok{(}\DecValTok{5}\NormalTok{))}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## NOTE: 2 observations removed because of NA values (LHS: 1, RHS: 2).
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{mod.f }\OtherTok{\textless{}{-}} \FunctionTok{feols}\NormalTok{(ygrowth }\SpecialCharTok{\textasciitilde{}} \FunctionTok{l}\NormalTok{(ggrowth, }\DecValTok{0}\SpecialCharTok{:}\DecValTok{1}\NormalTok{),}
+\NormalTok{               fred,}\AttributeTok{panel.id =} \FunctionTok{c}\NormalTok{(}\StringTok{\textquotesingle{}unit\textquotesingle{}}\NormalTok{, }\StringTok{\textquotesingle{}Date\textquotesingle{}}\NormalTok{),}
+               \AttributeTok{vcov =} \FunctionTok{NW}\NormalTok{(}\DecValTok{5}\NormalTok{))}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## NOTE: 2 observations removed because of NA values (LHS: 1, RHS: 2).
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\CommentTok{\# Or combining them into one command}
+\NormalTok{mods.ef }\OtherTok{\textless{}{-}} \FunctionTok{feols}\NormalTok{(ygrowth }\SpecialCharTok{\textasciitilde{}} \FunctionTok{sw}\NormalTok{(}\FunctionTok{l}\NormalTok{(mgrowth, }\DecValTok{0}\SpecialCharTok{:}\DecValTok{1}\NormalTok{),}
+                                 \FunctionTok{l}\NormalTok{(ggrowth, }\DecValTok{0}\SpecialCharTok{:}\DecValTok{1}\NormalTok{)),}
+\NormalTok{                 fred,}\AttributeTok{panel.id =} \FunctionTok{c}\NormalTok{(}\StringTok{\textquotesingle{}unit\textquotesingle{}}\NormalTok{, }\StringTok{\textquotesingle{}Date\textquotesingle{}}\NormalTok{),}
+                 \AttributeTok{vcov =} \FunctionTok{NW}\NormalTok{(}\DecValTok{5}\NormalTok{))}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## NOTE: 1 observation removed because of NA values (LHS: 1).
+##       |-> this msg only concerns the variables common to all estimations
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\FunctionTok{etable}\NormalTok{(mods.ef, }\AttributeTok{markdown =}\NormalTok{ T)}
+\end{Highlighting}
+\end{Shaded}
+
+\begingroup
+\centering
+\begin{tabular}{lcc}
+   \tabularnewline \midrule \midrule
+   Dependent Variable: & \multicolumn{2}{c}{ygrowth}\\
+   Model:         & (1)             & (2)\\  
+   \midrule
+   \emph{Variables}\\
+   Constant       & -0.0058$^{***}$ & -0.0067$^{***}$\\   
+                  & (0.0008)        & (0.0006)\\   
+   mgrowth        & 0.0165          &   \\   
+                  & (0.0629)        &   \\   
+   l(mgrowth,1)   & 0.2069$^{***}$  &   \\   
+                  & (0.0650)        &   \\   
+   ggrowth        &                 & 0.2313$^{***}$\\   
+                  &                 & (0.0512)\\   
+   l(ggrowth,1)   &                 & -0.0622\\   
+                  &                 & (0.0454)\\   
+   \midrule
+   \emph{Fit statistics}\\
+   Observations   & 238             & 238\\  
+   R$^2$          & 0.09842         & 0.07352\\  
+   Adjusted R$^2$ & 0.09075         & 0.06563\\  
+   \midrule \midrule
+   \multicolumn{3}{l}{\emph{Newey-West (L=5) standard-errors in parentheses}}\\
+   \multicolumn{3}{l}{\emph{Signif. Codes: ***: 0.01, **: 0.05, *: 0.1}}\\
+\end{tabular}
+\par\endgroup
+
+Notice the second argument in the lag function l() can take on a vector
+of numbers if we want to include multiple lags (including lag 0 here).
+
+\hypertarget{what-is-the-impact-multiplier-explain-the-meaning.}{%
+\paragraph{What is the impact multiplier? Explain the
+meaning.}\label{what-is-the-impact-multiplier-explain-the-meaning.}}
+
+\hypertarget{what-is-the-cumulative-multiplier-explain-the-meaning.}{%
+\paragraph{What is the cumulative multiplier? Explain the
+meaning.}\label{what-is-the-cumulative-multiplier-explain-the-meaning.}}
+
+\hypertarget{g-estimate-a-distributed-lag-model-of-ygrowth-on-the-change-i.e.-the-first-difference-in-current-and-four-lags-of-mgrowth-and-ggrowth-to-mimic-the-original-st.-louis-equation}{%
+\subsection{\texorpdfstring{(g) Estimate a distributed lag model of
+\emph{ygrowth} on the change (i.e., the \emph{first difference}) in
+current and four lags of \emph{mgrowth} and \emph{ggrowth} (to mimic the
+original St.~Louis
+Equation)}{(g) Estimate a distributed lag model of ygrowth on the change (i.e., the first difference) in current and four lags of mgrowth and ggrowth (to mimic the original St.~Louis Equation)}}\label{g-estimate-a-distributed-lag-model-of-ygrowth-on-the-change-i.e.-the-first-difference-in-current-and-four-lags-of-mgrowth-and-ggrowth-to-mimic-the-original-st.-louis-equation}}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\CommentTok{\# Create first{-}differenced versions of our regressors}
+\NormalTok{fred }\SpecialCharTok{\%\textless{}\textgreater{}\%} \FunctionTok{mutate}\NormalTok{(}\AttributeTok{diff.mgrowth =}\NormalTok{ mgrowth}\SpecialCharTok{{-}}\FunctionTok{lag}\NormalTok{(mgrowth),}
+                 \AttributeTok{diff.ggrowth =}\NormalTok{ ggrowth}\SpecialCharTok{{-}}\FunctionTok{lag}\NormalTok{(ggrowth))}
+
+\NormalTok{mod.g }\OtherTok{\textless{}{-}} \FunctionTok{feols}\NormalTok{(ygrowth }\SpecialCharTok{\textasciitilde{}} \FunctionTok{l}\NormalTok{(diff.mgrowth, }\DecValTok{0}\SpecialCharTok{:}\DecValTok{3}\NormalTok{) }\SpecialCharTok{+} \FunctionTok{l}\NormalTok{(mgrowth, }\DecValTok{4}\NormalTok{) }\SpecialCharTok{+} \FunctionTok{l}\NormalTok{(diff.ggrowth, }\DecValTok{0}\SpecialCharTok{:}\DecValTok{3}\NormalTok{) }\SpecialCharTok{+} \FunctionTok{l}\NormalTok{(ggrowth, }\DecValTok{4}\NormalTok{),}
+\NormalTok{               fred, }\AttributeTok{panel.id =} \FunctionTok{c}\NormalTok{(}\StringTok{\textquotesingle{}unit\textquotesingle{}}\NormalTok{, }\StringTok{\textquotesingle{}Date\textquotesingle{}}\NormalTok{),}
+               \AttributeTok{vcov =} \FunctionTok{NW}\NormalTok{(}\DecValTok{5}\NormalTok{))}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## NOTE: 6 observations removed because of NA values (LHS: 1, RHS: 6).
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\FunctionTok{etable}\NormalTok{(mod.g, }\AttributeTok{markdown =}\NormalTok{ T)}
+\end{Highlighting}
+\end{Shaded}
+
+\begingroup
+\centering
+\begin{tabular}{lc}
+   \tabularnewline \midrule \midrule
+   Dependent Variable: & ygrowth\\  
+   Model:              & (1)\\  
+   \midrule
+   \emph{Variables}\\
+   Constant            & -0.0066$^{***}$\\   
+                       & (0.0008)\\   
+   diff.mgrowth        & 0.1687$^{***}$\\   
+                       & (0.0485)\\   
+   l(diff.mgrowth,1)   & 0.1505$^{**}$\\   
+                       & (0.0591)\\   
+   l(diff.mgrowth,2)   & 0.0415\\   
+                       & (0.0744)\\   
+   l(diff.mgrowth,3)   & -0.0163\\   
+                       & (0.0627)\\   
+   l(mgrowth,4)        & 0.1120$^{**}$\\   
+                       & (0.0461)\\   
+   diff.ggrowth        & -0.0158\\   
+                       & (0.0524)\\   
+   l(diff.ggrowth,1)   & -0.2164$^{***}$\\   
+                       & (0.0640)\\   
+   l(diff.ggrowth,2)   & -0.1462$^{**}$\\   
+                       & (0.0657)\\   
+   l(diff.ggrowth,3)   & -0.1472$^{***}$\\   
+                       & (0.0488)\\   
+   l(ggrowth,4)        & 0.0346\\   
+                       & (0.0498)\\   
+   \midrule
+   \emph{Fit statistics}\\
+   Observations        & 234\\  
+   R$^2$               & 0.18118\\  
+   Adjusted R$^2$      & 0.14446\\  
+   \midrule \midrule
+   \multicolumn{2}{l}{\emph{Newey-West (L=5) standard-errors in parentheses}}\\
+   \multicolumn{2}{l}{\emph{Signif. Codes: ***: 0.01, **: 0.05, *: 0.1}}\\
+\end{tabular}
+\par\endgroup
+
+\hypertarget{h-assuming-that-money-and-government-expenditures-are-exogenous-what-do-the-coefficients-represent-calculate-the-h-period-cumulative-dynamic-multipliers-from-these.}{%
+\subsection{\texorpdfstring{(h) Assuming that money and government
+expenditures are exogenous, what do the coefficients represent?
+Calculate the \emph{h}-period cumulative dynamic multipliers from
+these.}{(h) Assuming that money and government expenditures are exogenous, what do the coefficients represent? Calculate the h-period cumulative dynamic multipliers from these.}}\label{h-assuming-that-money-and-government-expenditures-are-exogenous-what-do-the-coefficients-represent-calculate-the-h-period-cumulative-dynamic-multipliers-from-these.}}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{stl.est }\OtherTok{\textless{}{-}} \FunctionTok{coeftable}\NormalTok{(mod.g)}
+\NormalTok{stl.est}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+##                        Estimate   Std. Error    t value     Pr(>|t|)
+## (Intercept)        -0.006592834 0.0007511044 -8.7775207 3.636806e-16
+## diff.mgrowth        0.168727833 0.0484537481  3.4822452 5.936453e-04
+## l(diff.mgrowth, 1)  0.150496282 0.0591134932  2.5458871 1.154554e-02
+## l(diff.mgrowth, 2)  0.041516018 0.0744361091  0.5577403 5.775572e-01
+## l(diff.mgrowth, 3) -0.016273219 0.0626708169 -0.2596618 7.953539e-01
+## l(mgrowth, 4)       0.112017586 0.0461457772  2.4274721 1.596348e-02
+## diff.ggrowth       -0.015797496 0.0524098815 -0.3014221 7.633615e-01
+## l(diff.ggrowth, 1) -0.216419889 0.0639485787 -3.3842799 8.372077e-04
+## l(diff.ggrowth, 2) -0.146205740 0.0657339718 -2.2242037 2.709386e-02
+## l(diff.ggrowth, 3) -0.147186933 0.0488436594 -3.0134297 2.868565e-03
+## l(ggrowth, 4)       0.034571318 0.0497538378  0.6948473 4.878433e-01
+## attr(,"type")
+## [1] "Newey-West (L=5)"
+\end{verbatim}
+
+Assuming money and government expenditures are exogenous, the
+coefficients estimated represent the (monetary/fiscal) cumulative
+multipliers. If you differenced them out, they would represent the
+dynamic multipliers. The coefficients are easy to plot when estimated
+through fixest:
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\CommentTok{\# Collect the cumulative multipliers}
+\NormalTok{cumu }\OtherTok{\textless{}{-}} \FunctionTok{data.frame}\NormalTok{(}\AttributeTok{Estimate =}\NormalTok{ stl.est[}\SpecialCharTok{{-}}\DecValTok{1}\NormalTok{,}\StringTok{\textquotesingle{}Estimate\textquotesingle{}}\NormalTok{]) }\SpecialCharTok{\%\textgreater{}\%}
+  \FunctionTok{mutate}\NormalTok{(}\AttributeTok{Lag =} \FunctionTok{rep}\NormalTok{(}\DecValTok{0}\SpecialCharTok{:}\DecValTok{4}\NormalTok{, }\DecValTok{2}\NormalTok{),}
+         \AttributeTok{Policy =} \FunctionTok{rep}\NormalTok{(}\FunctionTok{c}\NormalTok{(}\StringTok{\textquotesingle{}Monetary\textquotesingle{}}\NormalTok{, }\StringTok{\textquotesingle{}Fiscal\textquotesingle{}}\NormalTok{), }\AttributeTok{each =} \DecValTok{5}\NormalTok{))}
+\NormalTok{dyna }\OtherTok{\textless{}{-}} \FunctionTok{group\_by}\NormalTok{(cumu, Policy) }\SpecialCharTok{\%\textgreater{}\%}
+  \FunctionTok{mutate}\NormalTok{(}\AttributeTok{Estimate =} \FunctionTok{ifelse}\NormalTok{(Lag }\SpecialCharTok{==} \DecValTok{0}\NormalTok{, Estimate, Estimate}\SpecialCharTok{{-}}\FunctionTok{lag}\NormalTok{(Estimate)))}
+
+\NormalTok{multipliers }\OtherTok{\textless{}{-}} \FunctionTok{rbind}\NormalTok{(cumu, dyna) }\SpecialCharTok{\%\textgreater{}\%}
+  \FunctionTok{mutate}\NormalTok{(}\AttributeTok{Multiplier =} \FunctionTok{rep}\NormalTok{(}\FunctionTok{c}\NormalTok{(}\StringTok{\textquotesingle{}Cumulative\textquotesingle{}}\NormalTok{, }\StringTok{\textquotesingle{}Dynamic\textquotesingle{}}\NormalTok{), }\AttributeTok{each =} \DecValTok{10}\NormalTok{))}
+
+\NormalTok{multi.table }\OtherTok{\textless{}{-}} \FunctionTok{pivot\_wider}\NormalTok{(multipliers,}
+                           \AttributeTok{names\_from =} \FunctionTok{c}\NormalTok{(Policy, Multiplier),}
+                           \AttributeTok{values\_from =}\NormalTok{ Estimate)}
+\FunctionTok{print}\NormalTok{(multi.table)}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## # A tibble: 5 x 5
+##     Lag Monetary_Cumulative Fiscal_Cumulative Monetary_Dynamic Fiscal_Dynamic
+##   <int>               <dbl>             <dbl>            <dbl>          <dbl>
+## 1     0              0.169            -0.0158           0.169       -0.0158  
+## 2     1              0.150            -0.216           -0.0182      -0.201   
+## 3     2              0.0415           -0.146           -0.109        0.0702  
+## 4     3             -0.0163           -0.147           -0.0578      -0.000981
+## 5     4              0.112             0.0346           0.128        0.182
+\end{verbatim}
+
+\hypertarget{how-can-you-test-for-the-statistical-significance-of-the-cumulative-dynamic-multipliers-and-the-long-run-cumulative-dynamic-multiplier}{%
+\paragraph{How can you test for the statistical significance of the
+cumulative dynamic multipliers and the long-run cumulative dynamic
+multiplier?}\label{how-can-you-test-for-the-statistical-significance-of-the-cumulative-dynamic-multipliers-and-the-long-run-cumulative-dynamic-multiplier}}
+
+\hypertarget{i-sketch-the-estimated-dynamic-and-cumulative-dynamic-fiscal-and-monetary-multipliers-similar-to-fig-16.2-in-the-textbook}{%
+\subsection{(i) Sketch the estimated dynamic and cumulative dynamic
+fiscal and monetary multipliers (similar to Fig 16.2 in the
+textbook)}\label{i-sketch-the-estimated-dynamic-and-cumulative-dynamic-fiscal-and-monetary-multipliers-similar-to-fig-16.2-in-the-textbook}}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\FunctionTok{ggplot}\NormalTok{(multipliers, }\FunctionTok{aes}\NormalTok{(}\AttributeTok{x =}\NormalTok{ Lag, }\AttributeTok{y =}\NormalTok{ Estimate, }\AttributeTok{color =}\NormalTok{ Multiplier)) }\SpecialCharTok{+}
+  \FunctionTok{theme\_bw}\NormalTok{() }\SpecialCharTok{+}
+  \FunctionTok{geom\_line}\NormalTok{() }\SpecialCharTok{+}
+  \FunctionTok{theme}\NormalTok{(}\AttributeTok{legend.position =} \StringTok{\textquotesingle{}top\textquotesingle{}}\NormalTok{) }\SpecialCharTok{+}
+  \FunctionTok{ggtitle}\NormalTok{(}\StringTok{\textquotesingle{}Estimated multipliers\textquotesingle{}}\NormalTok{) }\SpecialCharTok{+}
+  \FunctionTok{xlab}\NormalTok{(}\StringTok{\textquotesingle{}Lags\textquotesingle{}}\NormalTok{) }\SpecialCharTok{+} \FunctionTok{ylab}\NormalTok{(}\StringTok{\textquotesingle{}\textquotesingle{}}\NormalTok{) }\SpecialCharTok{+} \FunctionTok{facet\_grid}\NormalTok{(}\SpecialCharTok{\textasciitilde{}}\NormalTok{ Policy)}
+\end{Highlighting}
+\end{Shaded}
+
+\includegraphics{08-TimeSeries-DynamicCausalEffects_files/figure-latex/unnamed-chunk-16-1.pdf}
+
+\hypertarget{j-for-these-coefficients-to-represent-dynamic-ultipliers-the-money-supply-and-government-expenditures-must-be-exogenous-variables.-explain-why-this-is-unlikely-to-be-the-case.-as-a-result-what-importance-should-you-attach-to-the-above-results}{%
+\subsection{(j) For these coefficients to represent dynamic ultipliers,
+the money supply and government expenditures must be exogenous
+variables. Explain why this is unlikely to be the case. As a result,
+what importance should you attach to the above
+results?}\label{j-for-these-coefficients-to-represent-dynamic-ultipliers-the-money-supply-and-government-expenditures-must-be-exogenous-variables.-explain-why-this-is-unlikely-to-be-the-case.-as-a-result-what-importance-should-you-attach-to-the-above-results}}
+
+There is little reason to believe that these government instruments are
+exogenous. Even if the monetary base and those components of government
+expenditures which do not respond to business cycle fluctuations had
+been chosen rather than the above regressors, these instruments respond
+to changes in the growth rate of GDP.
+
+In fact, government reaction functions were also estimated at the time
+to capture how government instruments respond to changes in target
+variables. As a result, the regressors will be correlated with the error
+term, OLS estimation is inconsistent, and inference not dependable. It
+is hard to imagine how useable information can be retrieved from these
+numbers.
+
+\hypertarget{practice-problem-2-stock-watson-empirical-exercise-16.1}{%
+\section{Practice Problem 2: Stock-Watson Empirical Exercise
+16.1}\label{practice-problem-2-stock-watson-empirical-exercise-16.1}}
+
+Note that the textbook leads you to the data hosted on the official
+textbook website. This data does not match what's in the textbook or the
+solutions! It doesn't even have the variables you need to answer any of
+these subquestions. I had to find the original dataset on an unofficial
+website so download it from my recitation folder instead:
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{macro }\OtherTok{\textless{}{-}} \FunctionTok{read\_excel}\NormalTok{(}\StringTok{\textquotesingle{}data/UsMacro\_Monthly.xlsx\textquotesingle{}}\NormalTok{)}
+\FunctionTok{head}\NormalTok{(macro)}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## # A tibble: 6 x 6
+##    Year Month    IP   Oil   CPI  PCED
+##   <dbl> <dbl> <dbl> <dbl> <dbl> <dbl>
+## 1  1947     1  13.6    NA  21.5    NA
+## 2  1947     2  13.7    NA  21.6    NA
+## 3  1947     3  13.7    NA  22      NA
+## 4  1947     4  13.6    NA  22      NA
+## 5  1947     5  13.7    NA  22.0    NA
+## 6  1947     6  13.7    NA  22.1    NA
+\end{verbatim}
+
+\hypertarget{part-a-compute-the-monthly-growth-rate-in-ip-expressed-in-percentage-points.-what-are-the-mean-and-standard-deviation-of-ip-growth-over-the-1960m12017m12-sample-period-what-are-the-units-for-ip-growth-percent-percent-per-annum-percent-per-month-or-something-else}{%
+\subsection{Part a: Compute the monthly growth rate in IP, expressed in
+percentage points. What are the mean and standard deviation of IP growth
+over the 1960:M1--2017:M12 sample period? What are the units for IP
+growth (percent, percent per annum, percent per month, or something
+else)?}\label{part-a-compute-the-monthly-growth-rate-in-ip-expressed-in-percentage-points.-what-are-the-mean-and-standard-deviation-of-ip-growth-over-the-1960m12017m12-sample-period-what-are-the-units-for-ip-growth-percent-percent-per-annum-percent-per-month-or-something-else}}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{macro }\SpecialCharTok{\%\textless{}\textgreater{}\%} \FunctionTok{mutate}\NormalTok{(}\AttributeTok{ip.growth =} \DecValTok{100}\SpecialCharTok{*}\NormalTok{(}\FunctionTok{log}\NormalTok{(IP)}\SpecialCharTok{{-}}\FunctionTok{log}\NormalTok{(}\FunctionTok{lag}\NormalTok{(IP))))}
+
+\NormalTok{macro.sample }\OtherTok{\textless{}{-}} \FunctionTok{filter}\NormalTok{(macro, Year }\SpecialCharTok{\textgreater{}=} \DecValTok{1960} \SpecialCharTok{\&}\NormalTok{ Year }\SpecialCharTok{\textless{}=} \DecValTok{2017}\NormalTok{)}
+\FunctionTok{mean}\NormalTok{(macro.sample}\SpecialCharTok{$}\NormalTok{ip.growth)}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## [1] 0.2235496
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\FunctionTok{sd}\NormalTok{(macro.sample}\SpecialCharTok{$}\NormalTok{ip.growth)}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## [1] 0.7781159
+\end{verbatim}
+
+So we have a mean of about 0.22 and a standard deviation of about 0.75.
+This is slightly different from the provided solutions, which seem to be
+using a sample from the period 1952-2009 for some reason (different
+textbook?) rather than 1960-2017.
+
+\hypertarget{part-b-plot-the-value-of-o_t.-why-are-so-many-values-of-o_t-equal-to-0-why-arent-some-values-of-o_t-negative}{%
+\subsection{\texorpdfstring{Part b: Plot the value of \(O_t\). Why are
+so many values of \(O_t\) equal to 0? Why aren't some values of \(O_t\)
+negative?}{Part b: Plot the value of O\_t. Why are so many values of O\_t equal to 0? Why aren't some values of O\_t negative?}}\label{part-b-plot-the-value-of-o_t.-why-are-so-many-values-of-o_t-equal-to-0-why-arent-some-values-of-o_t-negative}}
+
+We want to plot the value of oil. Let's create a Date variable that
+combines the info in Year and Month first:
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{macro }\SpecialCharTok{\%\textless{}\textgreater{}\%} \FunctionTok{mutate}\NormalTok{(}\AttributeTok{Date =} \FunctionTok{as.Date}\NormalTok{(}\FunctionTok{ISOdate}\NormalTok{(Year, Month, }\DecValTok{1}\NormalTok{)))}
+\end{Highlighting}
+\end{Shaded}
+
+Here, the 1 just tells R to assign it the first day of the month.
+
+Now let's plot the oil time series:
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\FunctionTok{ggplot}\NormalTok{(macro, }\FunctionTok{aes}\NormalTok{(}\AttributeTok{x =}\NormalTok{ Date, }\AttributeTok{y =}\NormalTok{ Oil)) }\SpecialCharTok{+}
+  \FunctionTok{theme\_bw}\NormalTok{() }\SpecialCharTok{+} \CommentTok{\# A black{-}and{-}white theme I like over the gray default}
+  \FunctionTok{geom\_line}\NormalTok{() }\SpecialCharTok{+} \CommentTok{\# Draw a line graph using Date on the x and Oil on the y}
+  \FunctionTok{xlab}\NormalTok{(}\StringTok{\textquotesingle{}Date\textquotesingle{}}\NormalTok{) }\SpecialCharTok{+} \FunctionTok{ggtitle}\NormalTok{(}\StringTok{\textquotesingle{}Time series of O\textquotesingle{}}\NormalTok{) }\SpecialCharTok{+} \FunctionTok{ylab}\NormalTok{(}\StringTok{\textquotesingle{}\textquotesingle{}}\NormalTok{)}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## Warning: Removed 12 rows containing missing values (`geom_line()`).
+\end{verbatim}
+
+\includegraphics{08-TimeSeries-DynamicCausalEffects_files/figure-latex/unnamed-chunk-20-1.pdf}
+
+From Exercise 16.1, O here is defined as ``the greater of 0 or the
+percentage point difference between oil prices at date t and their
+maximum value during the past three years.'' Thus it equals 0 whenever
+the price of oil is less than the maximum during the previous three
+years.
+
+\hypertarget{part-c-estimate-a-distributed-lag-model-regressing-ip-growth-against-the-current-value-and-18-lagged-values-of-o-including-an-intercept.-what-value-of-the-hac-standard-error-truncation-parameter-did-you-choose-why}{%
+\subsection{Part c: Estimate a distributed lag model regressing IP
+growth against the current value and 18 lagged values of O, including an
+intercept. What value of the HAC standard error truncation parameter did
+you choose?
+Why?}\label{part-c-estimate-a-distributed-lag-model-regressing-ip-growth-against-the-current-value-and-18-lagged-values-of-o-including-an-intercept.-what-value-of-the-hac-standard-error-truncation-parameter-did-you-choose-why}}
+
+We are estimating a distributed lag model of IP growth onto the current
+and 18 lagged values of the variable \(O_t\).
+
+First, let's calculate the HAC truncation parameter m:
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{m }\OtherTok{\textless{}{-}}  \FloatTok{0.75}\SpecialCharTok{*}\FunctionTok{nrow}\NormalTok{(macro)}\SpecialCharTok{\^{}}\NormalTok{(}\DecValTok{1}\SpecialCharTok{/}\DecValTok{3}\NormalTok{)}
+\NormalTok{m }\OtherTok{\textless{}{-}} \FunctionTok{ceiling}\NormalTok{(m)}
+\NormalTok{m}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## [1] 7
+\end{verbatim}
+
+Estimating the requested distributed lag model:
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\CommentTok{\# Create an id variable like before}
+\NormalTok{macro }\SpecialCharTok{\%\textless{}\textgreater{}\%} \FunctionTok{mutate}\NormalTok{(}\AttributeTok{id =} \DecValTok{999}\NormalTok{)}
+\NormalTok{oil.dyn }\OtherTok{\textless{}{-}} \FunctionTok{feols}\NormalTok{(ip.growth }\SpecialCharTok{\textasciitilde{}} \FunctionTok{l}\NormalTok{(Oil, }\DecValTok{0}\SpecialCharTok{:}\DecValTok{18}\NormalTok{), macro,}
+                   \AttributeTok{panel.id =} \SpecialCharTok{\textasciitilde{}}\NormalTok{ id }\SpecialCharTok{+}\NormalTok{ Date,}
+                   \AttributeTok{vcov =} \FunctionTok{NW}\NormalTok{(m))}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## NOTE: 30 observations removed because of NA values (LHS: 1, RHS: 30).
+\end{verbatim}
+
+\hypertarget{part-d-taken-as-a-group-are-the-coefficients-on-o_t-statistically-significantly-different-from-0}{%
+\subsection{\texorpdfstring{Part d: Taken as a group, are the
+coefficients on \(O_t\) statistically significantly different from
+0?}{Part d: Taken as a group, are the coefficients on O\_t statistically significantly different from 0?}}\label{part-d-taken-as-a-group-are-the-coefficients-on-o_t-statistically-significantly-different-from-0}}
+
+Printing the regression output, including an F-test on all these
+regressors:
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\FunctionTok{etable}\NormalTok{(oil.dyn, }\AttributeTok{fitstat =} \SpecialCharTok{\textasciitilde{}}\NormalTok{ wald }\SpecialCharTok{+}\NormalTok{ wald.p, }\AttributeTok{markdown =}\NormalTok{ T)}
+\end{Highlighting}
+\end{Shaded}
+
+\begingroup
+\centering
+\begin{tabular}{lc}
+   \tabularnewline \midrule \midrule
+   Dependent Variable:           & ip.growth\\  
+   Model:                        & (1)\\  
+   \midrule
+   \emph{Variables}\\
+   Constant                      & 0.4275$^{***}$\\   
+                                 & (0.0675)\\   
+   Oil                           & 0.1553\\   
+                                 & (0.8532)\\   
+   l(Oil,1)                      & -0.9760\\   
+                                 & (0.9559)\\   
+   l(Oil,2)                      & -1.403$^{*}$\\   
+                                 & (0.7918)\\   
+   l(Oil,3)                      & -0.8315\\   
+                                 & (0.9295)\\   
+   l(Oil,4)                      & -0.4064\\   
+                                 & (0.8824)\\   
+   l(Oil,5)                      & -0.4202\\   
+                                 & (0.7929)\\   
+   l(Oil,6)                      & -2.555$^{*}$\\   
+                                 & (1.472)\\   
+   l(Oil,7)                      & -0.2286\\   
+                                 & (0.9797)\\   
+   l(Oil,8)                      & 0.8800\\   
+                                 & (1.008)\\   
+   l(Oil,9)                      & -1.639\\   
+                                 & (1.028)\\   
+   l(Oil,10)                     & -3.923$^{**}$\\   
+                                 & (1.872)\\   
+   l(Oil,11)                     & -2.607\\   
+                                 & (1.954)\\   
+   l(Oil,12)                     & -0.2247\\   
+                                 & (1.292)\\   
+   l(Oil,13)                     & -1.555\\   
+                                 & (1.131)\\   
+   l(Oil,14)                     & -1.483\\   
+                                 & (0.9120)\\   
+   l(Oil,15)                     & -1.479$^{*}$\\   
+                                 & (0.8443)\\   
+   l(Oil,16)                     & -0.1002\\   
+                                 & (0.9037)\\   
+   l(Oil,17)                     & 0.4981\\   
+                                 & (0.7493)\\   
+   l(Oil,18)                     & 0.0096\\   
+                                 & (0.9699)\\   
+   \midrule
+   \emph{Fit statistics}\\
+   Wald (joint nullity)          & 1.7399\\  
+   Wald (joint nullity), p-value & 0.02607\\  
+   \midrule \midrule
+   \multicolumn{2}{l}{\emph{Newey-West (L=7) standard-errors in parentheses}}\\
+   \multicolumn{2}{l}{\emph{Signif. Codes: ***: 0.01, **: 0.05, *: 0.1}}\\
+\end{tabular}
+\par\endgroup
+
+Or alternatively:
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\FunctionTok{wald}\NormalTok{(oil.dyn)}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## Wald test, H0: joint nullity of Oil, l(Oil, 1), l(Oil, 2), l(Oil, 3), l(Oil, 4), l(Oil, 5) and 13 others
+##  stat = 1.73988, p-value = 0.02607, on 19 and 706 DoF, VCOV: Newey-West (L=7).
+\end{verbatim}
+
+With a p-value of 0.026, we can reject the hypothesis of nullity in the
+Oil regressors at a 5\% significance level
+
+\hypertarget{part-e-construct-graphs-like-those-in-figure-16.2-showing-the-estimated-dynamic-multipliers-cumulative-multipliers-and-95-confidence-intervals.-comment-on-the-real-world-size-of-the-multipliers.}{%
+\subsection{Part e: Construct graphs like those in Figure 16.2, showing
+the estimated dynamic multipliers, cumulative multipliers, and 95\%
+confidence intervals. Comment on the real-world size of the
+multipliers.}\label{part-e-construct-graphs-like-those-in-figure-16.2-showing-the-estimated-dynamic-multipliers-cumulative-multipliers-and-95-confidence-intervals.-comment-on-the-real-world-size-of-the-multipliers.}}
+
+The above model captured dynamic (non-cumulative) effects. To capture
+cumulative effects, we would run a related model of up to
+\emph{seventeen} lags of \emph{differenced} Oil values and then include
+the 18th lag of \emph{non-differenced} Oil. This means we'll need to
+create a new variable that is the first difference of the Oil variable:
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{macro }\SpecialCharTok{\%\textless{}\textgreater{}\%} \FunctionTok{mutate}\NormalTok{(}\AttributeTok{diff.Oil =}\NormalTok{ Oil}\SpecialCharTok{{-}}\FunctionTok{lag}\NormalTok{(Oil))}
+\NormalTok{oil.cumdyn }\OtherTok{\textless{}{-}} \FunctionTok{feols}\NormalTok{(ip.growth }\SpecialCharTok{\textasciitilde{}} \FunctionTok{l}\NormalTok{(diff.Oil, }\DecValTok{0}\SpecialCharTok{:}\DecValTok{17}\NormalTok{) }\SpecialCharTok{+} \FunctionTok{l}\NormalTok{(Oil, }\DecValTok{18}\NormalTok{),}
+\NormalTok{                        macro,}
+                        \AttributeTok{panel.id =} \SpecialCharTok{\textasciitilde{}}\NormalTok{ id }\SpecialCharTok{+}\NormalTok{ Date,}
+                        \AttributeTok{vcov =} \FunctionTok{NW}\NormalTok{(m))}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## NOTE: 30 observations removed because of NA values (LHS: 1, RHS: 30).
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\FunctionTok{etable}\NormalTok{(oil.dyn, oil.cumdyn)}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+##                            oil.dyn         oil.cumdyn
+## Dependent Var.:          ip.growth          ip.growth
+##                                                      
+## Constant        0.4275*** (0.0675) 0.4275*** (0.0675)
+## Oil                0.1553 (0.8532)                   
+## l(Oil,1)          -0.9760 (0.9559)                   
+## l(Oil,2)          -1.403. (0.7918)                   
+## l(Oil,3)          -0.8315 (0.9295)                   
+## l(Oil,4)          -0.4064 (0.8824)                   
+## l(Oil,5)          -0.4202 (0.7929)                   
+## l(Oil,6)           -2.555. (1.472)                   
+## l(Oil,7)          -0.2286 (0.9797)                   
+## l(Oil,8)            0.8800 (1.008)                   
+## l(Oil,9)            -1.639 (1.028)                   
+## l(Oil,10)          -3.923* (1.872)                   
+## l(Oil,11)           -2.607 (1.954)                   
+## l(Oil,12)          -0.2247 (1.292)                   
+## l(Oil,13)           -1.555 (1.131)                   
+## l(Oil,14)          -1.483 (0.9120)                   
+## l(Oil,15)         -1.479. (0.8443)                   
+## l(Oil,16)         -0.1002 (0.9037)                   
+## l(Oil,17)          0.4981 (0.7493)                   
+## l(Oil,18)          0.0096 (0.9699)  -18.29*** (4.478)
+## diff.Oil                              0.1553 (0.8532)
+## l(diff.Oil,1)                         -0.8207 (1.150)
+## l(diff.Oil,2)                          -2.224 (1.391)
+## l(diff.Oil,3)                         -3.055. (1.786)
+## l(diff.Oil,4)                         -3.462. (1.964)
+## l(diff.Oil,5)                         -3.882. (2.298)
+## l(diff.Oil,6)                         -6.437* (2.884)
+## l(diff.Oil,7)                         -6.666* (2.813)
+## l(diff.Oil,8)                         -5.786* (2.708)
+## l(diff.Oil,9)                         -7.425* (2.903)
+## l(diff.Oil,10)                       -11.35** (3.579)
+## l(diff.Oil,11)                      -13.96*** (3.917)
+## l(diff.Oil,12)                      -14.18*** (4.259)
+## l(diff.Oil,13)                      -15.74*** (4.472)
+## l(diff.Oil,14)                      -17.22*** (4.682)
+## l(diff.Oil,15)                      -18.70*** (4.653)
+## l(diff.Oil,16)                      -18.80*** (4.493)
+## l(diff.Oil,17)                      -18.30*** (4.441)
+## _______________ __________________ __________________
+## S.E. type         Newey-West (L=7)   Newey-West (L=7)
+## Observations                   726                726
+## R2                         0.07860            0.07860
+## Adj. R2                    0.05380            0.05380
+## ---
+## Signif. codes: 0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
+\end{verbatim}
+
+Then it is easy to draw the desired graphs using fixest's coefplot
+function:
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\FunctionTok{coefplot}\NormalTok{(oil.dyn, }\AttributeTok{drop =} \StringTok{\textquotesingle{}Constant\textquotesingle{}}\NormalTok{,}
+         \AttributeTok{main =} \StringTok{\textquotesingle{}Dynamic multipliers\textquotesingle{}}\NormalTok{, }\AttributeTok{xlab =} \StringTok{\textquotesingle{}Lag\textquotesingle{}}\NormalTok{)}
+\end{Highlighting}
+\end{Shaded}
+
+\includegraphics{08-TimeSeries-DynamicCausalEffects_files/figure-latex/unnamed-chunk-26-1.pdf}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\FunctionTok{coefplot}\NormalTok{(oil.cumdyn, }\AttributeTok{drop =} \FunctionTok{c}\NormalTok{(}\StringTok{\textquotesingle{}Constant\textquotesingle{}}\NormalTok{, }\StringTok{\textquotesingle{}lag(Oil, 18)\textquotesingle{}}\NormalTok{),}
+         \AttributeTok{main =} \StringTok{\textquotesingle{}Cumulative multipliers\textquotesingle{}}\NormalTok{, }\AttributeTok{xlab =} \StringTok{\textquotesingle{}Lag\textquotesingle{}}\NormalTok{)}
+\end{Highlighting}
+\end{Shaded}
+
+\includegraphics{08-TimeSeries-DynamicCausalEffects_files/figure-latex/unnamed-chunk-26-2.pdf}
+
+Or with some customization:
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{dyn }\OtherTok{\textless{}{-}} \FunctionTok{coefplot}\NormalTok{(oil.dyn, }\AttributeTok{drop =} \StringTok{\textquotesingle{}Constant\textquotesingle{}}\NormalTok{,}
+         \AttributeTok{main =} \StringTok{\textquotesingle{}The effect of oil prices on IP growth rate}\SpecialCharTok{\textbackslash{}n}\StringTok{Dynamic multipliers\textquotesingle{}}\NormalTok{,}
+         \AttributeTok{xlab =} \StringTok{\textquotesingle{}Lag\textquotesingle{}}\NormalTok{,}
+         \AttributeTok{ci.join =}\NormalTok{ T, }\AttributeTok{ci.lty =} \DecValTok{0}\NormalTok{, }\AttributeTok{ci.fill =}\NormalTok{ T, }\AttributeTok{ci.fill.par =} \FunctionTok{list}\NormalTok{(}\AttributeTok{col =} \StringTok{\textquotesingle{}lightblue\textquotesingle{}}\NormalTok{),}
+         \AttributeTok{pt.join =}\NormalTok{ T)}
+\end{Highlighting}
+\end{Shaded}
+
+\includegraphics{08-TimeSeries-DynamicCausalEffects_files/figure-latex/unnamed-chunk-27-1.pdf}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{cumdyn }\OtherTok{\textless{}{-}} \FunctionTok{coefplot}\NormalTok{(oil.cumdyn, }\AttributeTok{drop =} \StringTok{\textquotesingle{}Constant\textquotesingle{}}\NormalTok{, }\AttributeTok{ci.join =}\NormalTok{ T,}
+         \AttributeTok{main =} \StringTok{\textquotesingle{}The effect of oil prices on IP growth rate}\SpecialCharTok{\textbackslash{}n}\StringTok{Cumulative dynamic multipliers\textquotesingle{}}\NormalTok{,}
+         \AttributeTok{xlab =} \StringTok{\textquotesingle{}Lag\textquotesingle{}}\NormalTok{,}
+         \AttributeTok{ci.lty =} \DecValTok{0}\NormalTok{, }\AttributeTok{ci.fill =}\NormalTok{ T, }\AttributeTok{ci.fill.par =} \FunctionTok{list}\NormalTok{(}\AttributeTok{col =} \StringTok{\textquotesingle{}red\textquotesingle{}}\NormalTok{),}
+         \AttributeTok{pt.join =}\NormalTok{ T)}
+\end{Highlighting}
+\end{Shaded}
+
+\includegraphics{08-TimeSeries-DynamicCausalEffects_files/figure-latex/unnamed-chunk-27-2.pdf}
+
+\hypertarget{practice-problems-3-5-stock-watson-non-empirical-exercises-14.1-14.2-14.5-on-ipad}{%
+\section{Practice Problems 3-5: Stock-Watson non-empirical exercises
+14.1, 14.2, 14.5 on
+iPad}\label{practice-problems-3-5-stock-watson-non-empirical-exercises-14.1-14.2-14.5-on-ipad}}
+
+\end{document}

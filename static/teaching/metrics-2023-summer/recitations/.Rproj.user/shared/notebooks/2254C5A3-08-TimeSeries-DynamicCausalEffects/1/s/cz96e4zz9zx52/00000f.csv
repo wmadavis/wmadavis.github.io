@@ -1,6 +1,0 @@
-"0","ggplot(multipliers, aes(x = Lag, y = Estimate, color = Multiplier)) +"
-"0","  theme_bw() +"
-"0","  geom_line() +"
-"0","  theme(legend.position = 'top') +"
-"0","  ggtitle('Estimated multipliers') +"
-"0","  xlab('Lags') + ylab('') + facet_grid(~ Policy)"

@@ -1,7 +1,0 @@
-"0","# Create an id variable like before"
-"0","macro %<>% mutate(id = 999)"
-"0","oil.dyn <- feols(ip.growth ~ l(Oil, 0:18), macro,"
-"0","                   panel.id = ~ id + Date,"
-"0","                   vcov = NW(m))"
-"2","NOTE: 30 observations removed because of NA values (LHS: 1, RHS: 30).
-"

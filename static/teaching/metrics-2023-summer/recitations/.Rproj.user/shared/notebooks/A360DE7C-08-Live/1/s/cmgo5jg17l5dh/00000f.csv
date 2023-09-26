@@ -1,2 +1,0 @@
-"0","macro <- read_excel('data/UsMacro_Monthly.xlsx')"
-"0","head(macro)"

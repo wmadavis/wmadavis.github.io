@@ -1,6 +1,0 @@
-"0","Quandl.api_key('xHu2y3xExQ6bGkGqcYEi') # This is my personal API key"
-"0","gdp <- Quandl('FRED/GDPC1')"
-"0","m2 <- Quandl('FRED/M2REAL')"
-"0","gov <- Quandl('FRED/GCEC1')"
-"0",""
-"0","head(gdp)"

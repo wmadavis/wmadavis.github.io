@@ -1,2 +1,0 @@
-"0","mod.example <- feols(weeksworked ~ agem1 + black + hispan + othrace | morekids ~ samesex + boy1st,"
-"0","                     data = fert)"

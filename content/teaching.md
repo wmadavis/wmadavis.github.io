@@ -12,7 +12,7 @@ UseHugoToc: true
 
 *(Columbia students can use their university email to book office hours [here](https://calendly.com/wmadavis/))*
 
-*Using this space to share some of the resources I’ve prepared during my teaching career at Columbia. I’ve also seen some of my material paywalled on Course Hero so please just take it from here for free. I have also included some notes from graduate coursework I've taken.  *  
+*Using this space to share some of the resources I’ve prepared during my teaching career at Columbia. I’ve also seen some of my material paywalled on Course Hero so please just take it from here for free. I have also included some notes from graduate coursework I've taken.*  
 
 *I cannot guarantee a response but feel free to email clarifying questions about any of this material. Video recordings of my classes may be available upon request to those looking to follow along at their own pace or supplement their own studies, especially those from developing countries.*  
 
@@ -52,64 +52,57 @@ Prerequisites
 
 Columbia teaches its undergraduates econometrics using Stata, an expensive statistical software whose wide use persists because it’s what most professors learned themselves. The first semester I taught this course, I prepared supplementary material and solutions to provide students the option to instead use R, a free and more flexible open-source alternative like Python and Julia preferred by most industries outside academic social science. After some initial trepidation about departing from the official software of instruction, students seemed to find its object-oriented programming much more intuitive and appreciated its usefulness and accessibility beyond the semester course. I refined my material and continued teaching exclusively in R in subsequent semesters and all in all, I think I cost Stata Corporation upwards of $10,000 in lost single-semester license fees.
 
-Below are the weekly guides I produced, mostly from the Summer 2023 iteration of my classes. These exclude problem sets, exams, practice exams, and their solutions. Most datasets referenced are available for free on the textbook's official website. Instruction here assumes no prior experience with programming other than installation of R and RStudio. It introduces and makes use of R Notebooks saved as R Markdown (.Rmd) files, a convenient way of integrating in-line R scripting with intuitive word processing to produce handsome problem sets and reports either as pdfs or HTML files. If you’re following on your own, open the Rmd files in RStudio to see the input and the pdf files to see what the resultant output looks like.
+Below are the weekly guides I produced from the Summer 2023 iterations of my classes, which is accelerated and condensed relative to the regular semester course. These materials exclude problem sets, exams, practice exams, and their solutions. Most datasets referenced are available for free on the textbook's official website. Instruction here assumes no prior experience with programming other than installation of R and RStudio. It introduces and makes use of R Notebooks saved as R Markdown (.Rmd) files, a convenient way of integrating in-line R scripting with intuitive word processing to produce handsome problem sets and reports either as pdfs or HTML files. If you’re following on your own, open the Rmd files in RStudio to see the input and the pdf files to see what the resultant output looks like.
 
-If I were to teach this course again, I’d replace the working directories coverage with an introduction to R Projects and the here() function, which I’ve since integrated into my own coding practice. It’s a minor and very intuitive adjustment that quickly makes up for the time spent learning it so there’s actually no time tradeoff here. Until then, here’s a guide that would immediately put you ahead of probably 95% of professional social scientists in terms of project management hygiene and coding etiquette. Packages used throughout are not necessarily my favorites (for example, fixest is clearly the cutting edge for panel data methods), but were chosen to produce estimates identical to Stata’s.
+If I were to update this material, I’d add notes on .Rprofile and .Rproj files and on writing scripts to call regularly used libraries and functions.
 
-**(links below to be updated eventually)**
+##### 1. Introduction to R and R Notebooks
 
-##### 1. Introduction to R Notebooks
++ Introduction to R
+     + [Rmd](/teaching/metrics-2023-summer/01-R-Introduction.Rmd)
+     + [pdf](/teaching/metrics-2023-summer/01-R-Introduction.pdf)
++ Practice problems
+     + [Rmd](/teaching/metrics-2023-summer/01-R-Introduction.Rmd)
+     + [pdf](/teaching/metrics-2023-summer/01-R-Introduction.pdf)
+     + [iPad practice problems](/teaching/metrics-2023-summer/01-PracticeProblems-iPad.pdf)
 
-+ Rmd
-+ pdf
-+ Written practice problems
+##### 2. Multicollinearity, joint hypothesis testing, and the tidyverse
 
-##### 2. Downloading R packages, loading datasets, working directories, and regressions
++ [Rmd](/teaching/metrics-2023-summer/02-Multicollinearity-JointHypotheses.Rmd)
++ [pdf](/teaching/metrics-2023-summer/02-Multicollinearity-JointHypotheses.pdf)
 
-+ Rmd
-+ pdf
-+ bonus points of emphasis
+##### 3. [Exam 1 review]
 
-##### 3. Cleaning data, control variables, multiple regression, and hypothesis testing
++ [Points of emphasis](/teaching/metrics-2023-summer/03-ExtraNotes.pdf)
 
-+ Rmd
-+ pdf
-+ bonus material on bad controls, bonus points of emphasis
+##### 4. Nonlinear regression
 
-##### 4. Indexing, interaction terms, and using regressions for “predictions”
++ [Rmd](/teaching/metrics-2023-summer/04-NonLinearRegression.Rmd)
++ [pdf](/teaching/metrics-2023-summer/04-NonLinearRegression.pdf)
 
-+ Rmd
-+ pdf
+##### 5. Panel data methods and binary dependent variables
 
-##### 5. Panel data methods and cluster-robust standard errors
++ [Rmd](/teaching/metrics-2023-summer/05-Panels-BinaryDVs.Rmd)
++ [pdf](/teaching/metrics-2023-summer/05-Panels-BinaryDVs.pdf)
++ [Bonus: fixed effects](/teaching/metrics-2023-summer/05-FixedEffects.pdf)
 
-+ Rmd
-+ pdf
-+ bonus material on fixed effects
+##### 6. Exam 2 review
 
-##### 6. Pre-midterm tips
++ Not provided here
 
-##### 7. Binary dependent variables (linear probability, probit, and logit)
+##### 7. Instrumental variables and quasi-experiments
 
-+ Rmd
-+ pdf
++ [Rmd](/teaching/metrics-2023-summer/07-Instruments-Experiments.Rmd)
++ [pdf](/teaching/metrics-2023-summer/07-Instruments-Experiments.pdf)
++ [The control variable approach to IV regression](/teaching/metrics-2023-summer/07-ControlVariableApproach.pdf)
 
-##### 8. Instrumental variables
+##### 8. Big data, time series and dynamic causal effects
+)
++ [Rmd](/teaching/metrics-2023-summer/08-TimeSeries-DynamicCausalEffects.Rmd)
++ [pdf](/teaching/metrics-2023-summer/08-TimeSeries-DynamicCausalEffects.pdf)
++ [Big data practice problems](/teaching/metrics-2023-summer/08-bigDataPracticeProblems.pdf)
 
-+ Rmd
-+ pdf
-+ Written practice problems
-
-##### 9. Time series methods and merging datasets
-
-+ Rmd
-+ pdf
-+ Written practice problems
-
-##### 10. Pre-final tips
-
-+ Rmd
-+ pdf
+##### 9. [Exam 3 review](/teaching/metrics/2023-summer/09-Exam3-Review.pdf)
 
 ---
 
@@ -130,40 +123,38 @@ Textbook
 
 #### Resources
 
-(to be updated)
-
 These slides are weekly elaborations on a specific newly introduced concept and so do not represent comprehensive coverage of the course material. They’re also not necessarily self-contained; I sometimes supplemented my slides with blackboard work and conversation with students, which is not always captured in the annotations. Course material is also instructor-specific; if you’re reading this as a Columbia student taking the same course, it may not correspond to the treatment or selection of topics your particular instructor chooses to cover. For example, compared to my Spring 2022 coverage, the following material from Fall 2022 covers a wider range of topics but omits some material such as the method of Lagrange multipliers.
 
 ##### 0. Pre-course material
 
 + [Review of prerequisite calculus and optimization methods](/teaching/micro-2022-fall/00-OptimizationReview.pdf)
-+ Logistics and introduction to the course
++ [Logistics and introduction to the course](/teaching/micro-2022-fall/00-Logistics.pdf)
++ [Running log of responses to student emails and and corrections to weekly slides](/teaching/micro-2022-fall/00-RunningUpdates.pdf)
 
-##### 1. Consumer optimization
+##### 1. [Consumer optimization](/teaching/micro-2022-fall/01-ConsumerOptimization.pdf)
 
-##### 2. Hicksian demand and special well-behaved preferences
+##### 2. [Hicksian demand and special well-behaved preferences](/teaching/micro-2022-fall/02-HicksianDemand-SpecialPreferences.pdf)
 
-##### 3. Comparative statics and Slutsky decomposition of price effects
+##### 3. [Comparative statics and Slutsky decomposition of price effects](/teaching/micro-2022-fall/03-ComparativeStatics-IncomeSubstitutionEffects.pdf)
 
-##### 4. Hicksian decomposition of price effects and introduction to welfare
+##### 4. [Hicksian decomposition of price effects and introduction to welfare](/teaching/micro-2022-fall/04-HicksianDecomposition-Welfare.pdf)
 
-##### 5. Producer Theory I: Cost minimization
+##### 5. [Producer Theory I: Cost minimization](/teaching/micro-2022-fall/05-ProducerTheory-CostMinimization.pdf)
 
-##### 6. Producer Theory II: Profit maximization under perfect competition
+##### 6. [Producer Theory II: Profit maximization under perfect competition](/teaching/micro-2022-fall/06-ProducerTheory-ProfitMaximization-MarketEquilibrium.pdf)
 
-##### 7. General equilibrium
+##### 7. [General equilibrium](/teaching/micro-2022-fall/07-GeneralEquilibrium.pdf)
 
-##### 8. Exchange economies and the Edgeworth boxBonus: by student request, an applied derivation of IC equations and intersections for accurate graphing 
+##### 8. [Exchange economies and the Edgeworth box](/teaching/micro-2022-fall/08-ExchangeEconomies-MarketClearing-NonInteriorSolutions.pdf)
 
-##### 9. Models of monopolistic and oligopolistic competition
+Bonus: By student request, [an applied derivation of IC equations and intersections for accurate graphing](/teaching/micro-2022-fall/08-GraphingExample.pdf)
+
+##### 9. [Models of monopolistic and oligopolistic competition](/teaching/micro-2022-fall/09-ImperfectCompetition.pdf)
 
 ##### 10. Pre-final review
 
-##### 11. Running log of responses to student emails and and corrections to weekly slides
-
-##### 12. Comparing models of oligopolistic competition
-
-##### 13. High-level summary and takeaways from the course
++ [Comparing models of oligopolistic competition](/teaching/micro-2022-fall/10-FinalReview.pdf)
++ [High-level summary and takeaways from the course](/teaching/micro-2022-fall/10-CourseSummary.pdf)
 
 ---
 

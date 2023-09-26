@@ -1,3 +1,0 @@
-"0","mod.rf <- feols(morekids ~ samesex + boy1st, fert)"
-"0","fert$rf.residuals <- mod.rf$residuals"
-"0","fert$morekids.predictions <- mod.rf$fitted.values"

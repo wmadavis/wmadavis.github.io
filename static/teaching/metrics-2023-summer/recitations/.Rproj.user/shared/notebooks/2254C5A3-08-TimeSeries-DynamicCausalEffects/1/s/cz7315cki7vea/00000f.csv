@@ -1,3 +1,0 @@
-"0","fred <- left_join(gdp, m2, by = 'Date') %>%"
-"0","  left_join(gov, by = 'Date')"
-"0","head(fred)"

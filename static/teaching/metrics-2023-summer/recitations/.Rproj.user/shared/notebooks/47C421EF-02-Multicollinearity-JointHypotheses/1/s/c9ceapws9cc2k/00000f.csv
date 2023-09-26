@@ -1,1 +1,0 @@
-"0","joint.model.homo <- lm(earnings ~ college + height + weight + race + age, earnings)"

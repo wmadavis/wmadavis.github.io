@@ -1,2 +1,0 @@
-"0","mod.endog <- feols(weeksworked ~ 1 | morekids ~ samesex + boy1st,"
-"0","                   data = fert)"
