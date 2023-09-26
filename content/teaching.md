@@ -134,7 +134,7 @@ These slides are weekly elaborations on a specific newly introduced concept and 
 
 ##### 8. [Exchange economies and the Edgeworth box](/teaching/micro-2022-fall/08-ExchangeEconomies-MarketClearing-NonInteriorSolutions.pdf)
 
-Bonus: By student request, [an applied derivation of IC equations and intersections for accurate graphing](/teaching/micro-2022-fall/08-GraphingExample.pdf)
++ Bonus: By student request, [an applied derivation of IC equations and intersections for accurate graphing](/teaching/micro-2022-fall/08-GraphingExample.pdf)
 
 ##### 9. [Models of monopolistic and oligopolistic competition](/teaching/micro-2022-fall/09-ImperfectCompetition.pdf)
 
