@@ -132,40 +132,40 @@ Textbook
 
 These slides are weekly elaborations on a specific newly introduced concept and so do not represent comprehensive coverage of the course material. They’re also not necessarily self-contained; I sometimes supplemented my slides with blackboard work and conversation with students, which is not always captured in the annotations. Course material is also instructor-specific; if you’re reading this as a Columbia student taking the same course, it may not correspond to the treatment or selection of topics your particular instructor chooses to cover. For example, compared to my Spring 2022 coverage, the following material from Fall 2022 covers a wider range of topics but omits some material such as the method of Lagrange multipliers.
 
-##### Pre-course material
+##### 0. Pre-course material
 
 + Review of prerequisite calculus and optimization methods
 + Logistics and introduction to the course
 
-##### Consumer optimization
+##### 1. Consumer optimization
 
-##### Hicksian demand and special well-behaved preferences
+##### 2. Hicksian demand and special well-behaved preferences
 
-##### Comparative statics and Slutsky decomposition of price effects
+##### 3. Comparative statics and Slutsky decomposition of price effects
 
-##### Hicksian decomposition of price effects and introduction to welfare
+##### 4. Hicksian decomposition of price effects and introduction to welfare
 
-##### Producer Theory I: Cost minimization
+##### 5. Producer Theory I: Cost minimization
 
-##### Producer Theory II: Profit maximization under perfect competition
+##### 6. Producer Theory II: Profit maximization under perfect competition
 
-##### General equilibrium
+##### 7. General equilibrium
 
-##### Exchange economies and the Edgeworth boxBonus: by student request, an applied derivation of IC equations and intersections for accurate graphing 
+##### 8. Exchange economies and the Edgeworth boxBonus: by student request, an applied derivation of IC equations and intersections for accurate graphing 
 
-##### Models of monopolistic and oligopolistic competition
+##### 9. Models of monopolistic and oligopolistic competition
 
-##### Pre-final review
+##### 10. Pre-final review
 
-##### Running log of responses to student emails and and corrections to weekly slides
+##### 11. Running log of responses to student emails and and corrections to weekly slides
 
-##### Comparing models of oligopolistic competition
+##### 12. Comparing models of oligopolistic competition
 
-##### High-level summary and takeaways from the course
+##### 13. High-level summary and takeaways from the course
 
 ---
 
-## The Global Economy (ECON-UN2257)
+## The global economy (ECON-UN2257)
 
 Sessions taught: Spring 2023
 
