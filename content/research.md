@@ -15,8 +15,6 @@ UseHugoToc: true
 **Marshall Burke, Matthew Alampay Davis, Noah S. Diffenbaugh (2018)**  
 *[Nature, 557, 549-553](https://www.nature.com/articles/s41586-018-0071-9)*
 
-#### Summary
-
 + [Ungated link](/papers/BurkeDavisDiffenbaugh2018.pdf)
 + [Non-technical video summary](http://www.youtube.com/watch?v=DafZSeIGLNE)
 + [Replication files](https://github.com/wmadavis/BDD2018)
@@ -43,8 +41,6 @@ We present an empirical framework for evaluating the economic benefits of the 20
 **Neal Jean, Marshall Burke, Michael Xie, Matthew Alampay Davis, David B. Lobell, Stefano Ermon (2016)**  
 *[Science, 353 (6301), 790-794](https://www.science.org/doi/10.1126/science.aaf7894)*
 
-#### Summary
-
 + [Ungated link](/papers/JeanEtAl2016.pdf)
 + [Replication files](https://github.com/nealjean/predicting-poverty)
 + [Troubleshooting archive](https://github.com/nealjean/predicting-poverty/issues?q=is%3Aissue+is%3Aclosed)
@@ -67,13 +63,12 @@ Here's a [non-technical animated summary](http://www.youtube.com/watch?v=DafZSeI
 
 ### Work in progress
 
-#### Climate inequality
+#### Global inequality in the climate century
 
 + Early version (2019) supervised by [Elizabeth Baldwin](http://elizabeth-baldwin.me.uk/) and [David F. Hendry](https://www.nuffield.ox.ac.uk/people/profiles/david-hendry/) named Oxford’s first ‘exceptional’-class (mark of 80+) graduate economics thesis in at least four years
 + Revised version (2023) supervised by [Suresh Naidu](https://sites.santafe.edu/~snaidu/) awarded Columbia’s Wueller Prize for runner-up best pre-dissertation proposal
 
-#### Weather shocks, gender norms, and intimate-partner violence  
-(with [Tanushree Goyal]((https://www.tanushreegoyal.com/)))
+#### Weather shocks, gender norms, and intimate-partner violence (with [Tanushree Goyal](https://www.tanushreegoyal.com/))
 
 #### Climate democracy
 

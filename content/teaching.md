@@ -14,7 +14,7 @@ Summaries and resources for courses I've TA'd for during my teaching career at C
 
 ### Senior seminars and research workshops (ECON-GU4999)
 
-**Sessions taught: Fall 2023, Spring 2024**  
+**Fall 2023, Spring 2024**  
 
 Prerequisites
 
@@ -26,25 +26,25 @@ Serving as the department's research consultant TA providing guidance and prepar
 
 #### Resources
 
-(to be updated soon)
+(to be updated)
 
 ---
 
 ### [Introduction to econometrics (ECON-UN3412)](https://github.com/wmadavis/Teaching-IntroEconometrics)
 
-**Sessions taught: Fall 2020, Spring 2021, Fall 2021, Summer 2023**  
+**Fall 2020, Spring 2021, Fall 2021, Summer 2023**  
 
 Prerequisites
 
-+ Intermediate microeconomics or intermediate macroeconomics
++ Intermediate microeconomics/macroeconomics
 + Calculus III
 + Introduction to probability and statistics with calculus
 
-> ECON-UN3412 introduces students to multiple regression and related methods for analyzing data in economics and related disciplines. Additional topics include regression with discrete random variables, instrumental variables regression, analysis of random experiments and quasi-experiments, and regression with time series data. Students will learn how to conduct – and how to critique – empirical studies in economics and related fields. Accordingly, the emphasis of the course is on empirical applications.
+> *ECON-UN3412 introduces students to multiple regression and related methods for analyzing data in economics and related disciplines. Additional topics include regression with discrete random variables, instrumental variables regression, analysis of random experiments and quasi-experiments, and regression with time series data. Students will learn how to conduct – and how to critique – empirical studies in economics and related fields. Accordingly, the emphasis of the course is on empirical applications.*
 
 #### Resources
 
-(links to be updated soon)
+(links to be updated)
 
 Columbia teaches its undergraduates econometrics using Stata, an expensive statistical software whose wide use persists because it’s what most professors learned themselves. The first semester I taught this course, I prepared supplementary material and solutions to provide students the option to instead use R, a free and more flexible open-source alternative like Python and Julia preferred by most industries outside academic social science. After some initial trepidation about departing from the official software of instruction, students seemed to find its object-oriented programming much more intuitive and appreciated its usefulness and accessibility beyond the semester course. I refined my material and continued teaching exclusively in R in subsequent semesters and all in all, I think I cost Stata Corporation upwards of $10,000 in lost single-semester license fees.
 
@@ -109,14 +109,14 @@ If I were to teach this course again, I’d replace the working directories cove
 
 ### [Intermediate microeconomics (ECON-UN3211)](https://github.com/wmadavis/Teaching-IntermediateMicro)
 
-**Sessions taught: Spring 2022, Fall 2022**  
+**Spring 2022, Fall 2022**  
 
 Prerequisites
 
 + Principles of Economics
 + Calculus III
 
-> The purpose of this course is to offer a solid, intermediate-level training in theoretical microeconomics. We will try to achieve a more in-depth understanding of how the standard theoretical models of microeconomics work. The course consists of three parts. We will start out by analyzing consumer decision-making. We then turn to the behavior of firms. Finally, the third part of the course studies the interaction of consumers and firms in goods markets.  
+> *The purpose of this course is to offer a solid, intermediate-level training in theoretical microeconomics. We will try to achieve a more in-depth understanding of how the standard theoretical models of microeconomics work. The course consists of three parts. We will start out by analyzing consumer decision-making. We then turn to the behavior of firms. Finally, the third part of the course studies the interaction of consumers and firms in goods markets.*  
 
 Textbook
 
@@ -124,7 +124,7 @@ Textbook
 
 #### Resources
 
-(to be updated soon, placeholders for now)
+(to be updated)
 
 These slides are weekly elaborations on a specific newly introduced concept and so do not represent comprehensive coverage of the course material. They’re also not necessarily self-contained; I sometimes supplemented my slides with blackboard work and conversation with students, which is not always captured in the annotations. Course material is also instructor-specific; if you’re reading this as a Columbia student taking the same course, it may not correspond to the treatment or selection of topics your particular instructor chooses to cover. For example, compared to my Spring 2022 coverage, the following material from Fall 2022 covers a wider range of topics but omits some material such as the method of Lagrange multipliers.
 
@@ -163,6 +163,6 @@ These slides are weekly elaborations on a specific newly introduced concept and 
 
 ### The global economy (ECON-UN2257)
 
-**Sessions taught: Spring 2023**  
+**Spring 2023**  
 
-> This international economics course is targeted towards non-economics students, focusing on current events and the increasing international interdependence of the world economy. Topics incude: (i) why countries trade, what goods and services will be traded, how the gains from trade are distributed and the tools of commercial policy; (ii) the movement of labor and capital across borders; value of transnational countries and production processes across countries; (iii) international finance issues including exchange rates, balance of payments and open economy macroeconomic adjustment.
+> *This international economics course is targeted towards non-economics students, focusing on current events and the increasing international interdependence of the world economy. Topics incude: (i) why countries trade, what goods and services will be traded, how the gains from trade are distributed and the tools of commercial policy; (ii) the movement of labor and capital across borders; value of transnational countries and production processes across countries; (iii) international finance issues including exchange rates, balance of payments and open economy macroeconomic adjustment.*  
