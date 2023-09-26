@@ -18,8 +18,8 @@ menu:
         - name: Research
           url: /research/
           weight: 2
-        - name: Teaching
-          url: /teaching/
+        - name: Courses
+          url: /courses/
           weight: 3
         - name: Resources
           url: /resources/
@@ -70,8 +70,8 @@ params:
               url: /CV-AlampayDavis.pdf
             - name: Research
               url: /research/
-            - name: Teaching
-              url: /teaching/
+            - name: Courses
+              url: /courses/
             - name: Resources
               url: /resources/
             - name: Posts
