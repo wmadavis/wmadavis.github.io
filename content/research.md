@@ -13,7 +13,9 @@ UseHugoToc: true
 ### [Large potential reduction in economic damages under UN mitigation targets](https://doi.org/10.1038/s41586-018-0071-9)
 
 **[Marshall Burke](https://web.stanford.edu/~mburke/), Matthew Alampay Davis, [Noah S. Diffenbaugh](https://profiles.stanford.edu/noah-diffenbaugh) (2018)**  
-*[Nature, 557, 549-553](https://www.nature.com/articles/s41586-018-0071-9)*
+*Nature, 557, 549-553*
+
+![Figure 4: The impact of global warming on global GDP per capita, relative to a world without warming, for different forcing levels.](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41586-018-0071-9/MediaObjects/41586_2018_71_Fig4_HTML.jpg)
 
 + [Ungated link](/papers/BurkeDavisDiffenbaugh2018.pdf)
 + [Non-technical video summary](http://www.youtube.com/watch?v=DafZSeIGLNE)
@@ -30,16 +32,14 @@ We present an empirical framework for evaluating the economic benefits of the 20
 
 [New York Times](https://www.nytimes.com/2018/10/15/climate/trump-climate-change-fact-check.html?smid=tw-nytimes&smtyp=cur), [The Guardian](https://www.theguardian.com/us-news/2018/oct/15/fact-check-donald-trumps-claims-versus-climate-science), [Governors of New York, California, and Washington](https://www.usatoday.com/story/opinion/2018/06/01/climate-change-work-continues-trumps-paris-retreat-governors-column/661059002/), [IPCC Special Report on Global Warming of 1.5°C (SR15)](https://www.ipcc.ch/sr15/chapter/chapter-3/), [MSNBC (TV)](https://www.msnbc.com/morning-joe/watch/-we-are-entering-into-an-unprecedented-climate-1445411907673?fbclid=IwAR1pVWunxrM0UWURQKo06aSEMqZPFG6dZ_PZS4VDxbbn7u2cONwY_OaT5MY), [“The Uninhabitable Earth” by David Wallace-Wells](https://www.penguinrandomhouse.com/books/586541/the-uninhabitable-earth-by-david-wallace-wells/), [Rezo](https://www.nytimes.com/2019/05/25/world/europe/rezo-cdu-youtube-germany.html), [Bernie Sanders](https://berniesanders.com/issues/the-green-new-deal/), [US House Committee on Financial Services](https://financialservices.house.gov/calendar/eventsingle.aspx?EventID=404231#Wbcast03222017), [IPCC Sixth Assessment Report (AR6-WGII)](https://www.ipcc.ch/report/ar6/wg2/)
 
-#### Figure 4
-
-![The impact of global warming on global GDP per capita, relative to a world without warming, for different forcing levels.](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41586-018-0071-9/MediaObjects/41586_2018_71_Fig4_HTML.jpg)
-
 ---
 
 ### [Combining satellite imagery and machine learning to predict poverty](https://doi.org/10.1126/science.aaf7894)
 
 **[Neal Jean](https://nealjean.com/), [Marshall Burke](https://web.stanford.edu/~mburke/), [Michael Xie](https://cs.stanford.edu/~eix/), Matthew Alampay Davis, [David B. Lobell](https://fse.fsi.stanford.edu/people/david_lobell), [Stefano Ermon](https://cs.stanford.edu/~ermon/) (2016)**  
-*[Science, 353 (6301), 790-794](https://www.science.org/doi/10.1126/science.aaf7894)*
+*Science, 353 (6301), 790-794*
+
+![](/papers/PovertyMap.png)
 
 + [Ungated link](/papers/JeanEtAl2016.pdf)
 + [Replication files](https://github.com/nealjean/predicting-poverty)
@@ -54,10 +54,6 @@ Here's a [non-technical animated summary](http://www.youtube.com/watch?v=DafZSeI
 #### Press
 
 + [Science](http://science.sciencemag.org/content/353/6301/753), [Stanford](https://news.stanford.edu/2016/08/18/combining-satellite-data-machine-learning-to-map-poverty/), [The Washington Post](https://www.washingtonpost.com/news/wonk/wp/2016/08/24/how-satellite-images-are-helping-find-the-worlds-hidden-poor/?noredirect=on&utm_term=.ad5ca2f277da), [BBC](https://www.bbc.co.uk/news/science-environment-37122748), [Scientific American](https://www.scientificamerican.com/article/2016-world-changing-ideas/), [The Atlantic](https://www.theatlantic.com/technology/archive/2016/08/can-satellites-learn-to-see-poverty/497153/), [The Onion](https://www.theonion.com/satellite-images-could-predict-poverty-1819563263), [Bill Gates](https://twitter.com/BillGates/status/773188644014350336), [CGDev critique](https://www.cgdev.org/blog/can-we-measure-poverty-outer-space)
-
-#### Poverty map
-
-![](/papers/PovertyMap.png)
 
 ---
 
