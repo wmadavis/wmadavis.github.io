@@ -24,7 +24,7 @@ UseHugoToc: true
 
 ### Senior seminars and research workshops
 
-**ECON-GU4999: Fall 2023, Spring 2024**  
+**Fall 2023, Spring 2024**  
 
 Serving as the economics department's research consultant TA providing guidance and preparing workshops for undergraduate and master's students conducting research as part of the honors program, the nine senior seminars, or as part-time research assistants. Resources to be uploaded here as they're produced.
 
@@ -32,7 +32,7 @@ Serving as the economics department's research consultant TA providing guidance 
 
 ### [Introduction to econometrics](https://github.com/wmadavis/Teaching-IntroEconometrics)
 
-**(ECON-UN3412): Fall 2020, Spring 2021, Fall 2021, Summer 2023**  
+**Fall 2020, Spring 2021, Fall 2021, Summer 2023**  
 
 Textbook: “Introduction to Econometrics” — James Stock and Mark Watson (2019, 2020)
 
@@ -52,13 +52,13 @@ If I were to update this material, I’d add notes on .Rprofile and .Rproj files
 
 #### 1. Introduction to R and R Notebooks
 
-+ Notes: [Rmd](/teaching/metrics-2023-summer/01-R-Introduction.Rmd) | [PDF](/teaching/metrics-2023-summer/01-R-Introduction.pdf)
++ Notes ([Rmd](/teaching/metrics-2023-summer/01-R-Introduction.Rmd) | [PDF](/teaching/metrics-2023-summer/01-R-Introduction.pdf))
 + Practice problems: [Rmd](/teaching/metrics-2023-summer/01-R-Introduction.Rmd) | [PDF](/teaching/metrics-2023-summer/01-R-Introduction.pdf)
 + [iPad practice problems](/teaching/metrics-2023-summer/01-PracticeProblems-iPad.pdf)
 
 #### 2. Multicollinearity, joint hypothesis testing, and the tidyverse
 
-+ Notes: [Rmd](/teaching/metrics-2023-summer/02-Multicollinearity-JointHypotheses.Rmd) | [PDF](/teaching/metrics-2023-summer/02-Multicollinearity-JointHypotheses.pdf)
++ Notes ([Rmd](/teaching/metrics-2023-summer/02-Multicollinearity-JointHypotheses.Rmd) | [PDF](/teaching/metrics-2023-summer/02-Multicollinearity-JointHypotheses.pdf))
 
 #### 3. Exam 1 review
 
@@ -66,12 +66,12 @@ If I were to update this material, I’d add notes on .Rprofile and .Rproj files
 
 #### 4. Nonlinear regression
 
-+ Notes: [Rmd](/teaching/metrics-2023-summer/04-NonLinearRegression.Rmd) | [PDF](/teaching/metrics-2023-summer/04-NonLinearRegression.pdf)
++ Notes ([Rmd](/teaching/metrics-2023-summer/04-NonLinearRegression.Rmd) | [PDF](/teaching/metrics-2023-summer/04-NonLinearRegression.pdf))
 
 #### 5. Panel data methods and binary dependent variables
 
-+ Notes: [Rmd](/teaching/metrics-2023-summer/05-Panels-BinaryDVs.Rmd) | [PDF](/teaching/metrics-2023-summer/05-Panels-BinaryDVs.pdf)
-+ [Bonus: fixed effects](/teaching/metrics-2023-summer/05-FixedEffects.pdf)
++ Notes ([Rmd](/teaching/metrics-2023-summer/05-Panels-BinaryDVs.Rmd) | [PDF](/teaching/metrics-2023-summer/05-Panels-BinaryDVs.pdf))
++ Bonus: [fixed effects](/teaching/metrics-2023-summer/05-FixedEffects.pdf)
 
 #### 6. Exam 2 review
 
@@ -79,13 +79,13 @@ If I were to update this material, I’d add notes on .Rprofile and .Rproj files
 
 #### 7. Instrumental variables and quasi-experiments
 
-+ Notes [Rmd](/teaching/metrics-2023-summer/07-Instruments-Experiments.Rmd) | [PDF](/teaching/metrics-2023-summer/07-Instruments-Experiments.pdf)
-+ [The control variable approach to IV regression](/teaching/metrics-2023-summer/07-ControlVariableApproach.pdf)
++ Notes ([Rmd](/teaching/metrics-2023-summer/07-Instruments-Experiments.Rmd) | [PDF](/teaching/metrics-2023-summer/07-Instruments-Experiments.pdf))
++ Bonus: [the control variable approach to IV regression](/teaching/metrics-2023-summer/07-ControlVariableApproach.pdf)
 
 #### 8. Big data, time series and dynamic causal effects
 
-+ Notes: [Rmd](/teaching/metrics-2023-summer/08-TimeSeries-DynamicCausalEffects.Rmd) | [PDF](/teaching/metrics-2023-summer/08-TimeSeries-DynamicCausalEffects.pdf)
-+ [Big data practice problems](/teaching/metrics-2023-summer/08-bigDataPracticeProblems.pdf)
++ Notes ([Rmd](/teaching/metrics-2023-summer/08-TimeSeries-DynamicCausalEffects.Rmd) | [PDF](/teaching/metrics-2023-summer/08-TimeSeries-DynamicCausalEffects.pdf))
++ Bonus: [Big data practice problems](/teaching/metrics-2023-summer/08-bigDataPracticeProblems.pdf)
 
 #### 9. Exam 3 review
 
@@ -95,7 +95,7 @@ If I were to update this material, I’d add notes on .Rprofile and .Rproj files
 
 ### [Intermediate microeconomics](https://github.com/wmadavis/Teaching-IntermediateMicro)
 
-**ECON-UN3211: Spring 2022, Fall 2022**  
+**Spring 2022, Fall 2022**  
 
 Textbook
 
@@ -145,7 +145,7 @@ Bonus: By student request, [an applied derivation of IC equations and intersecti
 
 ### The global economy
 
-**ECON-UN2257: Spring 2023**  
+**Spring 2023**  
 
 > *This international economics course is targeted towards non-economics students, focusing on current events and the increasing international interdependence of the world economy. Topics incude: (i) why countries trade, what goods and services will be traded, how the gains from trade are distributed and the tools of commercial policy; (ii) the movement of labor and capital across borders; value of transnational countries and production processes across countries; (iii) international finance issues including exchange rates, balance of payments and open economy macroeconomic adjustment.*  
 
