@@ -10,7 +10,7 @@ UseHugoToc: true
 
 ---
 
-Summaries and resources for courses I've TA'd for during my teaching career at Columbia University
+Resources for courses I've TA'd for during my career at Columbia University
 
 ### Senior seminars and research workshops (ECON-GU4999)
 
@@ -44,13 +44,14 @@ Prerequisites
 
 #### Resources
 
-(links to be updated)
-
 Columbia teaches its undergraduates econometrics using Stata, an expensive statistical software whose wide use persists because it’s what most professors learned themselves. The first semester I taught this course, I prepared supplementary material and solutions to provide students the option to instead use R, a free and more flexible open-source alternative like Python and Julia preferred by most industries outside academic social science. After some initial trepidation about departing from the official software of instruction, students seemed to find its object-oriented programming much more intuitive and appreciated its usefulness and accessibility beyond the semester course. I refined my material and continued teaching exclusively in R in subsequent semesters and all in all, I think I cost Stata Corporation upwards of $10,000 in lost single-semester license fees.
 
 Below are the weekly guides I produced, mostly from the Summer 2023 iteration of my classes. These exclude problem sets, exams, practice exams, and their solutions. Most datasets referenced are available for free on the textbook's official website. Instruction here assumes no prior experience with programming other than installation of R and RStudio. It introduces and makes use of R Notebooks saved as R Markdown (.Rmd) files, a convenient way of integrating in-line R scripting with intuitive word processing to produce handsome problem sets and reports either as pdfs or HTML files. If you’re following on your own, open the Rmd files in RStudio to see the input and the pdf files to see what the resultant output looks like.
 
 If I were to teach this course again, I’d replace the working directories coverage with an introduction to R Projects and the here() function, which I’ve since integrated into my own coding practice. It’s a minor and very intuitive adjustment that quickly makes up for the time spent learning it so there’s actually no time tradeoff here. Until then, here’s a guide that would immediately put you ahead of probably 95% of professional social scientists in terms of project management hygiene and coding etiquette. Packages used throughout are not necessarily my favorites (for example, fixest is clearly the cutting edge for panel data methods), but were chosen to produce estimates identical to Stata’s.
+
+
+(links below to be updated)
 
 ##### 1. Introduction to R Notebooks
 

@@ -10,7 +10,7 @@ UseHugoToc: true
 
 ---
 
-**Using this space to collate grad-school advisory resources I’ve personally found the most constructive. I make this qualification because plenty of advice I’ve seen widely circulated over the years absolutely would not work for me: my advice for reading advice is to feel emboldened to reject it.**
+*Using this space to collate grad-school advisory resources I’ve personally found the most constructive. I make this qualification because plenty of advice I’ve seen widely circulated over the years absolutely would not work for me: my advice for reading advice is to feel emboldened to reject it.*
 
 ### Academic advice
 
@@ -48,7 +48,7 @@ UseHugoToc: true
 + **Political Economy of Development**:  Literature review: culture and institutions, political reform and political failure, corruption, and conflict
 + **Applied microeconomics**: production function estimation (incomplete short summary), problems and accounting
 
-### Oxford MPhil (Year 1)
+#### Oxford MPhil (Year 1)
 
 + **Macroeconomics**: Qualitative summary of the entire year of material: neoclassical growth theory, macro-finance, monetary economics, macroeconomic policy
 + **Macro-finance**: consumption CAPM, exotic preferences, disaster risk, evidence on financial crises, financial frictions, the Great Recession, liquidity, quantitative easing, and financial bubbles

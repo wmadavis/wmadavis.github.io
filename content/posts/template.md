@@ -1,9 +1,9 @@
 ---
 title: "Example blog post" 
 date: 2023-09-10
-url: /blog/template
+url: /posts/template
 aliases:
-    - /blog/template.html
+    - /posts/template.html
 tags: ["blogging","template","example","inequality"]
 author: "Matthew Alampay Davis"
 description: "Example blog post." 

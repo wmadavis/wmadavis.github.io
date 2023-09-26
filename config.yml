@@ -24,9 +24,12 @@ menu:
         - name: Resources
           url: /resources/
           weight: 4
+        - name: Posts
+          url: /posts/
+          weight: 5
         - name: Other
           url: /other/
-          weight: 5
+          weight: 6
 
 params:
     description: "Academic website for W. Matthew Alampay Davis"
@@ -71,6 +74,8 @@ params:
               url: /teaching/
             - name: Resources
               url: /resources/
+            - name: Posts
+              url: /posts/
             - name: Other
               url: /other/
     socialIcons:
