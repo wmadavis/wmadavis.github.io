@@ -12,9 +12,7 @@ UseHugoToc: true
 
 ### Senior seminars and research workshops (ECON-GU4999)
 
-Sessions taught: Fall 2023, Spring 2024
-
-##### Course description
+Sessions taught: Fall 2023, Spring 2024. 
 
 Prerequisites
 
@@ -32,9 +30,7 @@ Serving as the department's research consultant TA providing guidance and prepar
 
 ### [Introduction to econometrics (ECON-UN3412)](https://github.com/wmadavis/Teaching-IntroEconometrics)
 
-Sessions taught: Fall 2020, Spring 2021, Fall 2021, Summer 2023
-
-##### Course description
+Sessions taught: Fall 2020, Spring 2021, Fall 2021, Summer 2023  
 
 Prerequisites
 
@@ -112,16 +108,14 @@ If I were to teach this course again, I’d replace the working directories cove
 ### [Intermediate microeconomics (ECON-UN3211)](https://github.com/wmadavis/Teaching-IntermediateMicro)
 
 
-Sessions taught: Spring 2022, Fall 2022
-
-##### Course description
+Sessions taught: Spring 2022, Fall 2022  
 
 Prerequisites
 
 + Principles of Economics
 + Calculus III
 
-The purpose of this course is to offer a solid, intermediate-level training in theoretical microeconomics. We will try to achieve a more in-depth understanding of how the standard theoretical models of microeconomics work. The course consists of three parts. We will start out by analyzing consumer decision-making. We then turn to the behavior of firms. Finally, the third part of the course studies the interaction of consumers and firms in goods markets.
+The purpose of this course is to offer a solid, intermediate-level training in theoretical microeconomics. We will try to achieve a more in-depth understanding of how the standard theoretical models of microeconomics work. The course consists of three parts. We will start out by analyzing consumer decision-making. We then turn to the behavior of firms. Finally, the third part of the course studies the interaction of consumers and firms in goods markets.  
 
 Textbook
 
@@ -168,8 +162,6 @@ These slides are weekly elaborations on a specific newly introduced concept and 
 
 ### The global economy (ECON-UN2257)
 
-Sessions taught: Spring 2023
-
-##### Course description
+Sessions taught: Spring 2023  
 
 This international economics course is targeted towards non-economics students, focusing on current events and the increasing international interdependence of the world economy. Topics incude: (i) why countries trade, what goods and services will be traded, how the gains from trade are distributed and the tools of commercial policy; (ii) the movement of labor and capital across borders; value of transnational countries and production processes across countries; (iii) international finance issues including exchange rates, balance of payments and open economy macroeconomic adjustment.

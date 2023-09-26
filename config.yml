@@ -106,7 +106,7 @@ markup:
         style: xcode
     tableOfContents:
         endLevel: 4
-        ordered: false
+        ordered: true
         startLevel: 3
 
 # max number of characters:
