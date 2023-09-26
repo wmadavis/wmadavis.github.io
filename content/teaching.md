@@ -50,7 +50,7 @@ Columbia teaches its undergraduates econometrics using Stata, an expensive stati
 
 Below are the weekly guides I produced from the Summer 2023 iteration of my classes, which is accelerated and condensed relative to the regular semester course. These materials include a subset of practice problems but exclude problem sets, exams, practice exams, and their solutions. Most datasets referenced are available for free on the textbook's official website (or else (here)[https://www.princeton.edu/~mwatson/Stock-Watson_4E/Stock-Watson-Resources-4e.html]). Instruction here assumes no prior experience with programming other than installation of R and RStudio. It introduces and makes use of R Notebooks saved as R Markdown (.Rmd) files, a convenient way of integrating in-line R scripting with intuitive word processing to produce handsome problem sets and reports either as pdfs or HTML files. If you’re following on your own, open the Rmd files in RStudio to see the input and the pdf files to see what the resultant output looks like.
 
-If I were to update this material, I’d add notes on .Rprofile and .Rproj files and on writing scripts to call regularly used libraries and functions.
+If I were to update this material, I’d integrate .Rprofile and .Rproj files into the problem set pipeline to simplify students' calling frequently used libraries and functions.
 
 ##### 1. Introduction to R and R Notebooks
 
