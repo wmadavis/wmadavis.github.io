@@ -18,9 +18,9 @@ Summaries and resources for courses I've TA'd for during my teaching career at C
 
 Prerequisites
 
-+ ECON UN3211: Intermediate microeconomics
-+ ECON UN3213: Intermediate macroeconomics
-+ ECON UN3412: Introduction to econometrics
++ Intermediate microeconomics
++ Intermediate macroeconomics
++ Introduction to econometrics
 
 Serving as the department's research consultant TA providing guidance and preparing workshops for economics students conducting research as part of the honors program, the nine senior seminars, or as part-time research assistants.
 
