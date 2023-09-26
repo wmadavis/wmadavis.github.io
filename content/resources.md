@@ -3,16 +3,14 @@ title: "Resources"
 aliases: /resources/
 url: /resources/
 disableAnchoredHeadings: false
-description: "Research resources not produced by me"
+description: "Economics resources not produced by me"
 showToc: true
 TocOpen: true
 UseHugoToc: true
 
 ---
 
-*(Resources for courses I've taught or have taken are found in the Teaching page)*  
-
-*Using this space to collate academic resources I’ve personally found the most constructive. I make this qualification because plenty of advice I’ve seen widely circulated over the years absolutely would not work for me: my advice for reading advice is to feel emboldened to reject it.*  
+*Using this space to collate academic resources I’ve personally found the most constructive. I make this qualification because plenty of advice I’ve seen widely circulated over the years absolutely would not work for me: my advice for reading advice is to feel emboldened to reject it. Resources for specific courses I've taught or have taken are found in the [Teaching](/teaching/) page.*
 
 ### Academic advice
 
