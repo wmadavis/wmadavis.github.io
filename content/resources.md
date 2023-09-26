@@ -10,7 +10,9 @@ UseHugoToc: true
 
 ---
 
-*Using this space to collate grad-school advisory resources I’ve personally found the most constructive. I make this qualification because plenty of advice I’ve seen widely circulated over the years absolutely would not work for me: my advice for reading advice is to feel emboldened to reject it.*
+*(Resources for courses I've taught or have taken are found in the Teaching page)*
+
+*Using this space to collate academic resources I’ve personally found the most constructive. I make this qualification because plenty of advice I’ve seen widely circulated over the years absolutely would not work for me: my advice for reading advice is to feel emboldened to reject it.*  
 
 ### Academic advice
 
@@ -37,32 +39,6 @@ How to find research ideas, among other valuable insights on topics such as co-a
 + A guide to full-time research assistant positions (jobs now called “pre-docs”) as a stepping stone to quantitative social-science PhDs: what they are, how to land them, and how to do well in them ([Coly Elhai, Quan Le, Kai Matheson, and Carolyn Tsao](https://raguide.github.io/))
 + A short reflection on not getting into any PhD programs, informed by my experience blanking the first time I applied in 2017
 + Many people find the first year of the PhD brutal, especially those in programs like mine that may cut some students based on their coursework performance. Here’s a short post on my take written after passing.
-
----
-
-### Graduate coursework notes
-
-(working links coming eventually)
-
-*An incomplete archive of notes of variable quality from the two graduate schools I’ve attended. I may scan and upload my handwritten notes once I can regain access to them. The gold standard is still [Luke Stein’s first-year notes from the Stanford core sequence](https://faculty.babson.edu/lcdstein/steincoresummary.pdf).*
-
-#### Columbia PhD (Year 1)
-
-+ **Econometrics I, Part II**: Asymptotic theory, restricted estimation, and resampling
-+ **Econometrics II, Part II**: Resampling, multiple testing, quantile regression, non-parametrics, and treatment effects
-+ **Macroeconomics I, Part I** (incomplete summary): Introduction to growth theory
-+ **Macroeconomics I, Part II**: General equilibrium theory, real business cycles, and an introduction to macro-finance
-
-#### Oxford MPhil (Year 2)
-
-+ **Advanced Microeconomics**: Contracts under information asymmetries, bargaining, and theories of the firm. Notes make reference to figures that are handwritten and not included
-+ **Political Economy of Development**:  Literature review: culture and institutions, political reform and political failure, corruption, and conflict
-+ **Applied microeconomics**: production function estimation (incomplete short summary), problems and accounting
-
-#### Oxford MPhil (Year 1)
-
-+ **Macroeconomics**: Qualitative summary of the entire year of material: neoclassical growth theory, macro-finance, monetary economics, macroeconomic policy
-+ **Macro-finance**: consumption CAPM, exotic preferences, disaster risk, evidence on financial crises, financial frictions, the Great Recession, liquidity, quantitative easing, and financial bubbles
 
 ---
 

@@ -10,7 +10,13 @@ UseHugoToc: true
 
 ---
 
-Resources for courses I've TA'd for during my career at Columbia University
+*(Columbia students can use their university email to book office hours [here](https://calendly.com/wmadavis/))*
+
+*Using this space to share some of the resources I’ve prepared during my teaching career at Columbia. I’ve also seen some of my material paywalled on Course Hero so please just take it from here for free. I have also included some notes from graduate coursework I've taken.  *  
+
+*I cannot guarantee a response but feel free to email clarifying questions about any of this material. Video recordings of my classes may be available upon request to those looking to follow along at their own pace or supplement their own studies, especially those from developing countries.*  
+
+*Any errors are due to the professors who taught me wrong or the students who didn’t point them out.*  
 
 ### Senior seminars and research workshops (ECON-GU4999)
 
@@ -50,8 +56,7 @@ Below are the weekly guides I produced, mostly from the Summer 2023 iteration of
 
 If I were to teach this course again, I’d replace the working directories coverage with an introduction to R Projects and the here() function, which I’ve since integrated into my own coding practice. It’s a minor and very intuitive adjustment that quickly makes up for the time spent learning it so there’s actually no time tradeoff here. Until then, here’s a guide that would immediately put you ahead of probably 95% of professional social scientists in terms of project management hygiene and coding etiquette. Packages used throughout are not necessarily my favorites (for example, fixest is clearly the cutting edge for panel data methods), but were chosen to produce estimates identical to Stata’s.
 
-
-(links below to be updated)
+**(links below to be updated eventually)**
 
 ##### 1. Introduction to R Notebooks
 
@@ -167,3 +172,30 @@ These slides are weekly elaborations on a specific newly introduced concept and 
 **Spring 2023**  
 
 > *This international economics course is targeted towards non-economics students, focusing on current events and the increasing international interdependence of the world economy. Topics incude: (i) why countries trade, what goods and services will be traded, how the gains from trade are distributed and the tools of commercial policy; (ii) the movement of labor and capital across borders; value of transnational countries and production processes across countries; (iii) international finance issues including exchange rates, balance of payments and open economy macroeconomic adjustment.*  
+
+
+---
+
+### Graduate coursework notes
+
+(working links coming eventually)
+
+*An incomplete archive of notes of variable quality from the two graduate schools I’ve attended. I may scan and upload my handwritten notes once I can regain access to them. The gold standard is still [Luke Stein’s first-year notes from the Stanford core sequence](https://faculty.babson.edu/lcdstein/steincoresummary.pdf).*
+
+#### Columbia PhD (Year 1)
+
++ **Econometrics I, Part II**: Asymptotic theory, restricted estimation, and resampling
++ **Econometrics II, Part II**: Resampling, multiple testing, quantile regression, non-parametrics, and treatment effects
++ **Macroeconomics I, Part I** (incomplete summary): Introduction to growth theory
++ **Macroeconomics I, Part II**: General equilibrium theory, real business cycles, and an introduction to macro-finance
+
+#### Oxford MPhil (Year 2)
+
++ **Advanced Microeconomics**: Contracts under information asymmetries, bargaining, and theories of the firm. Notes make reference to figures that are handwritten and not included
++ **Political Economy of Development**:  Literature review: culture and institutions, political reform and political failure, corruption, and conflict
++ **Applied microeconomics**: production function estimation (incomplete short summary), problems and accounting
+
+#### Oxford MPhil (Year 1)
+
++ **Macroeconomics**: Qualitative summary of the entire year of material: neoclassical growth theory, macro-finance, monetary economics, macroeconomic policy
++ **Macro-finance**: consumption CAPM, exotic preferences, disaster risk, evidence on financial crises, financial frictions, the Great Recession, liquidity, quantitative easing, and financial bubbles
