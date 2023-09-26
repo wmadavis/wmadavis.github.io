@@ -18,13 +18,16 @@ UseHugoToc: true
 
 ---
 
-### Teaching
+## Teaching
 
 *Out of respect for the non-predatory academic publishing industry, I discourage you from finding a free version of any textbooks mentioned here or elsewhere by Googling their titles, their authors, the edition number, and adding “pdf” at the end. Failing that, I am also hereby disavowing [Sci-Hub](https://sci-hub.se/database) as a resource for obtaining this material as well.*
 
 *I cannot guarantee a response but feel free to email clarifying questions. Video recordings of my econometrics and microeconomics classes may be available upon request to those looking to follow along or supplement their own studies, particularly those from developing countries.*  
 
-#### Senior seminars and research workshops
+---
+
+
+### Senior seminars and research workshops
 
 ##### Fall 2023, Spring 2024
 
@@ -32,7 +35,7 @@ Serving as the economics department's research consultant TA providing guidance 
 
 ---
 
-#### [Introduction to econometrics](https://github.com/wmadavis/Teaching-IntroEconometrics)
+### [Introduction to econometrics](https://github.com/wmadavis/Teaching-IntroEconometrics)
 
 ##### Fall 2020, Spring 2021, Fall 2021, Summer 2023
 
@@ -46,50 +49,58 @@ Prerequisites
 + Calculus III
 + Introduction to probability and statistics with calculus
 
-Textbook: [Introduction to Econometrics -- James Stock and Mark Watson (2019, 2020)](https://www.google.com/search?q=Introduction+to+Econometrics+watson+4th+edition+pdf&sca_esv=568605030&sxsrf=AM9HkKm2WdaM2SNR0--eUd572Acbx9Egyg%3A1695760925959&ei=HUITZaOMOqOs5NoP5biHSA&ved=0ahUKEwjjjvbckcmBAxUjFlkFHWXcAQkQ4dUDCBA&uact=5&oq=Introduction+to+Econometrics+watson+4th+edition+pdf&gs_lp=Egxnd3Mtd2l6LXNlcnAiM0ludHJvZHVjdGlvbiB0byBFY29ub21ldHJpY3Mgd2F0c29uIDR0aCBlZGl0aW9uIHBkZjIGEAAYFhgeSO8pUN4EWNEocAR4AZABAZgBmQGgAbYTqgEFMTAuMTS4AQPIAQD4AQL4AQHCAgoQABhHGNYEGLADwgIFEC4YgATCAgUQABiABMICFBAuGIAEGJcFGNwEGN4EGOAE2AEBwgIHECMYigUYJ8ICCBAAGIoFGIYD4gMEGAAgQYgGAZAGCLoGBggBEAEYFA&sclient=gws-wiz-serp&bshm=rime/1))  
-
 ##### Material
+
+[Introduction to Econometrics -- James Stock and Mark Watson (2019, 2020)](https://www.google.com/search?q=Introduction+to+Econometrics+watson+4th+edition+pdf&sca_esv=568605030&sxsrf=AM9HkKm2WdaM2SNR0--eUd572Acbx9Egyg%3A1695760925959&ei=HUITZaOMOqOs5NoP5biHSA&ved=0ahUKEwjjjvbckcmBAxUjFlkFHWXcAQkQ4dUDCBA&uact=5&oq=Introduction+to+Econometrics+watson+4th+edition+pdf&gs_lp=Egxnd3Mtd2l6LXNlcnAiM0ludHJvZHVjdGlvbiB0byBFY29ub21ldHJpY3Mgd2F0c29uIDR0aCBlZGl0aW9uIHBkZjIGEAAYFhgeSO8pUN4EWNEocAR4AZABAZgBmQGgAbYTqgEFMTAuMTS4AQPIAQD4AQL4AQHCAgoQABhHGNYEGLADwgIFEC4YgATCAgUQABiABMICFBAuGIAEGJcFGNwEGN4EGOAE2AEBwgIHECMYigUYJ8ICCBAAGIoFGIYD4gMEGAAgQYgGAZAGCLoGBggBEAEYFA&sclient=gws-wiz-serp&bshm=rime/1)
 
 Columbia teaches its undergraduates econometrics using Stata, an expensive statistical software whose wide use persists because it’s what most professors learned themselves. The first semester I taught this course, I prepared supplementary material and solutions to provide students the option to instead use R, a free and more flexible open-source alternative preferred by most industries outside academic social science. After some initial trepidation about departing from the official software of instruction, students seemed to find its object-oriented programming much more intuitive and appreciated its usefulness and accessibility beyond the semester course. I refined my material and continued teaching exclusively in R in subsequent semesters and all in all, I think I cost Stata Corporation upwards of $10,000 in lost single-semester license fees.
 
-Below are the weekly guides I produced from the Summer 2023 iteration of my classes, which is accelerated and condensed relative to the regular semester course. These materials include a subset of practice problems but exclude problem sets, exams, practice exams, and their solutions. Most datasets referenced are available for free on the textbook's official website (or else [here](https://www.princeton.edu/~mwatson/Stock-Watson_4E/Stock-Watson-Resources-4e.html). Instruction here assumes no prior experience with programming other than installation of R and RStudio. It introduces and makes use of R Notebooks saved as R Markdown (.Rmd) files, a convenient way of integrating in-line R scripting with intuitive word processing to produce handsome problem sets and reports either as pdfs or HTML files. If you’re following on your own, open the Rmd files in RStudio to see the input and the pdf files to see what the resultant output looks like.
+Below are the weekly guides I produced from the Summer 2023 iteration of my classes, which is accelerated and condensed relative to the regular semester course. These materials include a subset of practice problems but exclude problem sets, exams, practice exams, and their solutions. Most datasets referenced are available for free on the textbook's official website (or else [here.](https://www.princeton.edu/~mwatson/Stock-Watson_4E/Stock-Watson-Resources-4e.html)) Instruction here assumes no prior experience with programming other than installation of R and RStudio. It introduces and makes use of R Notebooks saved as R Markdown (.Rmd) files, a convenient way of integrating in-line R scripting with intuitive word processing to produce handsome problem sets and reports either as pdfs or HTML files. If you’re following on your own, open the Rmd files in RStudio to see the input and the pdf files to see what the resultant output looks like.
 
 If I were to update this material, I’d integrate .Rprofile and .Rproj files into the problem set pipeline to simplify students' calling frequently used libraries and functions.
 
 ##### 1. Introduction to R and R Notebooks
 
-###### Class notes ([Rmd](/teaching/metrics-2023-summer/01-R-Introduction.Rmd) | [PDF](/teaching/metrics-2023-summer/01-R-Introduction.pdf)) || Data practice problems ([Rmd](/teaching/metrics-2023-summer/01-R-Introduction.Rmd) | [PDF](/teaching/metrics-2023-summer/01-R-Introduction.pdf))
-###### Written practice problems ([PDF](/teaching/metrics-2023-summer/01-PracticeProblems-iPad.pdf))
+###### Class notes [(Rmd](/teaching/metrics-2023-summer/01-R-Introduction.Rmd) | [PDF)](/teaching/metrics-2023-summer/01-R-Introduction.pdf)
+###### Data practice problems [(Rmd](/teaching/metrics-2023-summer/01-R-Introduction.Rmd) | [PDF)](/teaching/metrics-2023-summer/01-R-Introduction.pdf)
+###### [Written practice problems](/teaching/metrics-2023-summer/01-PracticeProblems-iPad.pdf)
 
 ##### 2. Multicollinearity, joint hypothesis testing, and the tidyverse
 
-###### Class notes ([Rmd](/teaching/metrics-2023-summer/02-Multicollinearity-JointHypotheses.Rmd) | [PDF](/teaching/metrics-2023-summer/02-Multicollinearity-JointHypotheses.pdf))
+###### Class notes [(Rmd](/teaching/metrics-2023-summer/02-Multicollinearity-JointHypotheses.Rmd) | [PDF)](/teaching/metrics-2023-summer/02-Multicollinearity-JointHypotheses.pdf)
 
-##### 3. Exam 1 review: points of emphasis ([PDF](/teaching/metrics-2023-summer/03-ExtraNotes.pdf))
+##### 3. Exam 1 review
+
+###### [Points of emphasis](/teaching/metrics-2023-summer/03-ExtraNotes.pdf))
 
 ##### 4. Nonlinear regression
 
-###### Class notes ([Rmd](/teaching/metrics-2023-summer/04-NonLinearRegression.Rmd) | [PDF](/teaching/metrics-2023-summer/04-NonLinearRegression.pdf))
+###### Class notes [(Rmd](/teaching/metrics-2023-summer/04-NonLinearRegression.Rmd) | [PDF)](/teaching/metrics-2023-summer/04-NonLinearRegression.pdf)
 
 ##### 5. Panel data methods and binary dependent variables
 
-###### Class notes ([Rmd](/teaching/metrics-2023-summer/05-Panels-BinaryDVs.Rmd) | [PDF](/teaching/metrics-2023-summer/05-Panels-BinaryDVs.pdf))
+###### Class notes [(Rmd](/teaching/metrics-2023-summer/05-Panels-BinaryDVs.Rmd) | [PDF)](/teaching/metrics-2023-summer/05-Panels-BinaryDVs.pdf)
 
-##### 6. Exam 2 review: intuition for fixed effects ([PDF](/teaching/metrics-2023-summer/05-FixedEffects.pdf))
+##### 6. Exam 2 review
+
+###### [Intuition for fixed effects](/teaching/metrics-2023-summer/05-FixedEffects.pdf)
 
 ##### 7. Instrumental variables and quasi-experiments
 
-###### Class notes (([Rmd](/teaching/metrics-2023-summer/07-Instruments-Experiments.Rmd) | [PDF](/teaching/metrics-2023-summer/07-Instruments-Experiments.pdf)) || The control variable approach to IV regression ([PDF](/teaching/metrics-2023-summer/07-ControlVariableApproach.pdf))
+###### Class notes [(Rmd](/teaching/metrics-2023-summer/07-Instruments-Experiments.Rmd) | [PDF)](/teaching/metrics-2023-summer/07-Instruments-Experiments.pdf)
+###### [Intuition for the control variable approach to IV regression](/teaching/metrics-2023-summer/07-ControlVariableApproach.pdf)
 
 ##### 8. Big data, time series and dynamic causal effects
 
-###### Class notes ([Rmd](/teaching/metrics-2023-summer/08-TimeSeries-DynamicCausalEffects.Rmd) | [PDF](/teaching/metrics-2023-summer/08-TimeSeries-DynamicCausalEffects.pdf)) || Additional big data practice problems ([PDF](/teaching/metrics-2023-summer/08-bigDataPracticeProblems.pdf))
+###### Class notes [(Rmd](/teaching/metrics-2023-summer/08-TimeSeries-DynamicCausalEffects.Rmd) | [PDF)](/teaching/metrics-2023-summer/08-TimeSeries-DynamicCausalEffects.pdf)
+###### [Additional big data practice problems](/teaching/metrics-2023-summer/08-bigDataPracticeProblems.pdf)
 
-##### 9. Exam 3 review: final points of emphasis ([PDF](/teaching/metrics/2023-summer/09-Exam3-Review.pdf))
+##### 9. Exam 3 review
+###### [Final points of emphasis](/teaching/metrics/2023-summer/09-Exam3-Review.pdf)
 
 ---
 
-#### [Intermediate microeconomics](https://github.com/wmadavis/Teaching-IntermediateMicro)
+### [Intermediate microeconomics](https://github.com/wmadavis/Teaching-IntermediateMicro)
 
 ##### Spring 2022, Fall 2022
 
@@ -140,38 +151,36 @@ These slides are weekly elaborations on a specific newly introduced concept and 
 
 ---
 
-#### The global economy
+### The global economy
 
 ##### Spring 2023
 
 > *This international economics course is targeted towards non-economics students, focusing on current events and the increasing international interdependence of the world economy. Topics incude: (i) why countries trade, what goods and services will be traded, how the gains from trade are distributed and the tools of commercial policy; (ii) the movement of labor and capital across borders; value of transnational countries and production processes across countries; (iii) international finance issues including exchange rates, balance of payments and open economy macroeconomic adjustment.*  
 
-
+---
 ---
 
-### Graduate coursework
+## Graduate coursework
 
 *An incomplete archive of notes of variable quality from the two graduate schools I’ve attended. I may scan and upload my handwritten notes once I can regain access to them. The gold standard is still Luke Stein’s impeccable [first-year notes from the Stanford core sequence](https://faculty.babson.edu/lcdstein/steincoresummary.pdf).*
 
 (working links coming... eventually)
 
-#### Columbia PhD core
-
-##### Year 1:
+### Columbia PhD Core
 
 + **Econometrics I, Part II**: Asymptotic theory, restricted estimation, and resampling
 + **Econometrics II, Part II**: Resampling, multiple testing, quantile regression, non-parametrics, and treatment effects
 + **Macroeconomics I, Part I** (incomplete summary): Introduction to growth theory
 + **Macroeconomics I, Part II**: General equilibrium theory, real business cycles, and an introduction to macro-finance
 
-#### Oxford PhD core and fields
+### Oxford M.Phil/D.Phil
 
-##### Year 1 Core
+#### Core
 
 + **Macroeconomics**: Qualitative summary of the entire year of material: neoclassical growth theory, macro-finance, monetary economics, macroeconomic policy
 + **Macro-finance**: consumption CAPM, exotic preferences, disaster risk, evidence on financial crises, financial frictions, the Great Recession, liquidity, quantitative easing, and financial bubbles
 
-##### Year 2 Fields
+#### Fields
 
 + **Advanced Microeconomics**: Contracts under information asymmetries, bargaining, and theories of the firm. Notes make reference to figures that are handwritten and not included
 + **Political Economy of Development**:  Literature review: culture and institutions, political reform and political failure, corruption, and conflict
