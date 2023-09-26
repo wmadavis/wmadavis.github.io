@@ -147,7 +147,7 @@ These slides are weekly elaborations on a specific newly introduced concept and 
 
 ---
 
-## Graduate coursework
+### Graduate coursework
 
 (working links coming... eventually)
 
@@ -163,7 +163,6 @@ These slides are weekly elaborations on a specific newly introduced concept and 
 + **Macroeconomics I, Part II**: General equilibrium theory, real business cycles, and an introduction to macro-finance
 
 #### Oxford M.Phil core and fields
-
 
 ##### Year 1 Core
 
