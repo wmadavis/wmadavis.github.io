@@ -66,7 +66,7 @@ Here's a [non-technical animated summary](http://www.youtube.com/watch?v=DafZSeI
 
 #### Weather shocks, gender norms, and intimate-partner violence
 
-##### with [Tanushree Goyal](https://www.tanushreegoyal.com/))
+##### (with [Tanushree Goyal](https://www.tanushreegoyal.com/))
 
 #### Climate democracy
 
