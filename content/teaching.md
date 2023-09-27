@@ -44,44 +44,23 @@ Below are the weekly guides I produced from the Summer 2023 iteration of my clas
 
 If I were to update this material, I’d integrate .Rprofile and .Rproj files into the problem set pipeline to simplify students' calling frequently used libraries and functions.
 
-##### 1. Introduction to R and R Notebooks
+##### 1. Introduction to R and R Notebooks $\cdot$ [(Rmd](/courses/metrics-2023-summer/01-R-Introduction.Rmd) $\cdot$ [PDF)](/courses/metrics-2023-summer/01-R-Introduction.pdf) $\cdot$ Data practice problems [(Rmd](/courses/metrics-2023-summer/01-R-Introduction.Rmd) $\cdot$ [PDF)](/courses/metrics-2023-summer/01-R-Introduction.pdf) $\cdot$ [Written practice problems](/courses/metrics-2023-summer/01-PracticeProblems-iPad.pdf)
 
-###### Class notes [(Rmd](/courses/metrics-2023-summer/01-R-Introduction.Rmd) $\cdot$ [PDF)](/courses/metrics-2023-summer/01-R-Introduction.pdf)
-###### Data practice problems [(Rmd](/courses/metrics-2023-summer/01-R-Introduction.Rmd) $\cdot$ [PDF)](/courses/metrics-2023-summer/01-R-Introduction.pdf)
-###### [Written practice problems](/courses/metrics-2023-summer/01-PracticeProblems-iPad.pdf)
+##### 2. Multicollinearity, joint hypothesis testing, and the tidyverse $\cdot$ [(Rmd](/courses/metrics-2023-summer/02-Multicollinearity-JointHypotheses.Rmd) $\cdot$ [PDF)](/courses/metrics-2023-summer/02-Multicollinearity-JointHypotheses.pdf)
 
-##### 2. Multicollinearity, joint hypothesis testing, and the tidyverse
+##### 3. Exam 1 review [(PDF)](/courses/metrics-2023-summer/03-ExtraNotes.pdf)
 
-###### Class notes [(Rmd](/courses/metrics-2023-summer/02-Multicollinearity-JointHypotheses.Rmd) $\cdot$ [PDF)](/courses/metrics-2023-summer/02-Multicollinearity-JointHypotheses.pdf)
+##### 4. Nonlinear regression $\cdot$ [(Rmd](/courses/metrics-2023-summer/04-NonLinearRegression.Rmd) $\cdot$ [PDF)](/courses/metrics-2023-summer/04-NonLinearRegression.pdf)
 
-##### 3. Exam 1 review
+##### 5. Panel data methods and binary dependent variables $\cdot$ [(Rmd](/courses/metrics-2023-summer/05-Panels-BinaryDVs.Rmd) $\cdot$ [PDF)](/courses/metrics-2023-summer/05-Panels-BinaryDVs.pdf)
 
-###### [Points of emphasis](/courses/metrics-2023-summer/03-ExtraNotes.pdf)
+##### 6. Exam 2 review [(PDF)](/courses/metrics-2023-summer/05-FixedEffects.pdf)
 
-##### 4. Nonlinear regression
+##### 7. Instrumental variables and quasi-experiments $\cdot$ [(Rmd](/courses/metrics-2023-summer/07-Instruments-Experiments.Rmd) $\cdot$ [PDF)](/courses/metrics-2023-summer/07-Instruments-Experiments.pdf) $\cdot$ [Intuition for the control variable approach to IV regression](/courses/metrics-2023-summer/07-ControlVariableApproach.pdf)
 
-###### Class notes [(Rmd](/courses/metrics-2023-summer/04-NonLinearRegression.Rmd) $\cdot$ [PDF)](/courses/metrics-2023-summer/04-NonLinearRegression.pdf)
+##### 8. Big data, time series and dynamic causal effects $\cdot$ [(Rmd](/courses/metrics-2023-summer/08-TimeSeries-DynamicCausalEffects.Rmd) $\cdot$ [PDF)](/courses/metrics-2023-summer/08-TimeSeries-DynamicCausalEffects.pdf) $\cdot$ [Additional big data practice problems](/courses/metrics-2023-summer/08-bigDataPracticeProblems.pdf)
 
-##### 5. Panel data methods and binary dependent variables
-
-###### Class notes [(Rmd](/courses/metrics-2023-summer/05-Panels-BinaryDVs.Rmd) $\cdot$ [PDF)](/courses/metrics-2023-summer/05-Panels-BinaryDVs.pdf)
-
-##### 6. Exam 2 review
-
-###### [Intuition for fixed effects](/courses/metrics-2023-summer/05-FixedEffects.pdf)
-
-##### 7. Instrumental variables and quasi-experiments
-
-###### Class notes [(Rmd](/courses/metrics-2023-summer/07-Instruments-Experiments.Rmd) $\cdot$ [PDF)](/courses/metrics-2023-summer/07-Instruments-Experiments.pdf)
-###### [Intuition for the control variable approach to IV regression](/courses/metrics-2023-summer/07-ControlVariableApproach.pdf)
-
-##### 8. Big data, time series and dynamic causal effects
-
-###### Class notes [(Rmd](/courses/metrics-2023-summer/08-TimeSeries-DynamicCausalEffects.Rmd) $\cdot$ [PDF)](/courses/metrics-2023-summer/08-TimeSeries-DynamicCausalEffects.pdf)
-###### [Additional big data practice problems](/courses/metrics-2023-summer/08-bigDataPracticeProblems.pdf)
-
-##### 9. Exam 3 review
-###### [Final points of emphasis](/courses/metrics/2023-summer/09-Exam3-Review.pdf)
+##### 9. Exam 3 review $\cdot$ [(PDF)](/courses/metrics/2023-summer/09-Exam3-Review.pdf)
 
 ---
 
@@ -102,33 +81,33 @@ If I were to update this material, I’d integrate .Rprofile and .Rproj files in
 
 These slides are weekly elaborations on a specific newly introduced concept and so do not represent comprehensive coverage of the course material. They’re also not necessarily self-contained; I sometimes supplemented my slides with blackboard work and conversation with students, which is not always captured in the annotations. Course material is also instructor-specific; if you’re reading this as a Columbia student taking the same course, it may not correspond to the treatment or selection of topics your particular instructor chooses to cover. For example, compared to my Spring 2022 coverage, the following material from Fall 2022 covers a wider range of topics but omits some material such as the method of Lagrange multipliers.
 
-##### 0. [Review of prerequisite calculus and optimization methods](/courses/micro-2022-fall/00-OptimizationReview.pdf)
+##### 0. Review of prerequisite calculus and optimization methods [(PDF)](/courses/micro-2022-fall/00-OptimizationReview.pdf)
 
-##### 1. [Consumer optimization](/courses/micro-2022-fall/01-ConsumerOptimization.pdf)
+##### 1. Consumer optimization $\cdot$ [(PDF)](/courses/micro-2022-fall/01-ConsumerOptimization.pdf)
 
-##### 2. [Hicksian demand and special well-behaved preferences](/courses/micro-2022-fall/02-HicksianDemand-SpecialPreferences.pdf)
+##### 2. Hicksian demand and special well-behaved preferences $\cdot$ [(PDF)](/courses/micro-2022-fall/02-HicksianDemand-SpecialPreferences.pdf)
 
-##### 3. [Comparative statics and Slutsky decomposition of price effects](/courses/micro-2022-fall/03-ComparativeStatics-IncomeSubstitutionEffects.pdf)
+##### 3. Comparative statics and Slutsky decomposition of price effects $\cdot$ [(PDF)](/courses/micro-2022-fall/03-ComparativeStatics-IncomeSubstitutionEffects.pdf)
 
-##### 4. [Hicksian decomposition of price effects and introduction to welfare](/courses/micro-2022-fall/04-HicksianDecomposition-Welfare.pdf)
+##### 4. Hicksian decomposition of price effects and introduction to welfare $\cdot$ [(PDF)](/courses/micro-2022-fall/04-HicksianDecomposition-Welfare.pdf)
 
-##### 5. [Producer Theory I: Cost minimization](/courses/micro-2022-fall/05-ProducerTheory-CostMinimization.pdf)
+##### 5. Producer Theory I: Cost minimization $\cdot$ [(PDF)](/courses/micro-2022-fall/05-ProducerTheory-CostMinimization.pdf)
 
-##### 6. [Producer Theory II: Profit maximization under perfect competition](/courses/micro-2022-fall/06-ProducerTheory-ProfitMaximization-MarketEquilibrium.pdf)
+##### 6. Producer Theory II: Profit maximization under perfect competition $\cdot$ [(PDF)](/courses/micro-2022-fall/06-ProducerTheory-ProfitMaximization-MarketEquilibrium.pdf)
 
-##### 7. [General equilibrium](/courses/micro-2022-fall/07-GeneralEquilibrium.pdf)
+##### 7. General equilibrium $\cdot$ [(PDF)](/courses/micro-2022-fall/07-GeneralEquilibrium.pdf)
 
-##### 8. [Exchange economies and the Edgeworth box](/courses/micro-2022-fall/08-ExchangeEconomies-MarketClearing-NonInteriorSolutions.pdf)
+##### 8. [Exchange economies and the Edgeworth box $\cdot$ [(PDF)](/courses/micro-2022-fall/08-ExchangeEconomies-MarketClearing-NonInteriorSolutions.pdf)
 
-##### 9. [Models of monopolistic and oligopolistic competition](/courses/micro-2022-fall/09-ImperfectCompetition.pdf)
+##### 9. Models of monopolistic and oligopolistic competition $\cdot$ [(PDF)](/courses/micro-2022-fall/09-ImperfectCompetition.pdf)
 
-##### 10. [Comparing models of oligopolistic competition](/courses/micro-2022-fall/10-FinalReview.pdf)
+##### 10. Comparing models of oligopolistic competition $\cdot$ $\cdot$ [(PDF)](/courses/micro-2022-fall/10-FinalReview.pdf)
 
-##### Other
+##### A1. [Running log of responses to student emails and and corrections to weekly slides](/courses/micro-2022-fall/00-RunningUpdates.pdf)
 
-###### [Running log of responses to student emails and and corrections to weekly slides](/courses/micro-2022-fall/00-RunningUpdates.pdf)
-###### Week 8: by student request, [an applied derivation of IC equations and intersections for accurate graphing](/courses/micro-2022-fall/08-GraphingExample.pdf)
-###### Week 10: [High-level summary and takeaways from the course](/courses/micro-2022-fall/10-CourseSummary.pdf)
+##### A2. Week 8: by student request, [an applied derivation of IC equations and intersections for accurate graphing](/courses/micro-2022-fall/08-GraphingExample.pdf)
+
+##### A3. Week 10: [High-level summary and takeaways from the course](/courses/micro-2022-fall/10-CourseSummary.pdf)
 
 ---
 
