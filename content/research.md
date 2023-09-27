@@ -68,7 +68,7 @@ We train a convolutional neural network to identify low-level features of image 
 
 #### Paper materials and links
 
-+ Paper links: [(Official](https://doi.org/10.1126/science.aaf7894) $\cdot$ [ungated)](/papers/JeanEtAl2016.pdf)
++ Paper links: [(official](https://doi.org/10.1126/science.aaf7894) $\cdot$ [ungated)](/papers/JeanEtAl2016.pdf)
 + Replication files: [(code and data](https://github.com/nealjean/predicting-poverty) $\cdot$ [closed issues)](https://github.com/nealjean/predicting-poverty/issues?q=is%3Aissue+is%3Aclosed)
 + Authors' blog posts: [summary](http://www.g-feed.com/2016/08/economics-from-space.html) $\cdot$ [genesis](http://www.g-feed.com/2016/08/risk-aversion-in-science.html) $\cdot$ [update](http://www.g-feed.com/2017/02/targeting-poverty-with-satellites.html)
 + [Sustain Lab website](http://sustain.stanford.edu/predicting-poverty)
