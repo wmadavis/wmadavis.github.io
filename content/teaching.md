@@ -90,7 +90,7 @@ If I were to update this material, I’d integrate .Rprofile and .Rproj files in
 
 These slides are weekly elaborations on a specific newly introduced concept and so do not represent comprehensive coverage of the course material. They’re also not necessarily self-contained; I sometimes supplemented my slides with blackboard work and conversation with students, which is not always captured in the annotations. Course material is also instructor-specific; if you’re reading this as a Columbia student taking the same course, it may not correspond to the treatment or selection of topics your particular instructor chooses to cover. For example, compared to my Spring 2022 coverage, the following material from Fall 2022 covers a wider range of topics but omits some material such as the method of Lagrange multipliers.
 
-##### 0. Review of prerequisite calculus and optimization methods [PDF](/teaching/micro-2022-fall/00-OptimizationReview.pdf)
+##### 0. Review of prerequisite calculus and optimization methods $\cdot$ [PDF](/teaching/micro-2022-fall/00-OptimizationReview.pdf)
 
 ##### 1. Consumer optimization $\cdot$ [PDF](/teaching/micro-2022-fall/01-ConsumerOptimization.pdf)
 
