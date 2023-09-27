@@ -86,6 +86,8 @@ If I were to update this material, I’d integrate .Rprofile and .Rproj files in
 ##### 9. Exam 3 review
 ###### [Final points of emphasis](/courses/metrics/2023-summer/09-Exam3-Review.pdf)
 
+---
+
 ### Intermediate microeconomics
 
 *Sessions taught: Spring 2022, Fall 2022*  
@@ -131,13 +133,17 @@ These slides are weekly elaborations on a specific newly introduced concept and 
 ###### Week 8: by student request, [an applied derivation of IC equations and intersections for accurate graphing](/courses/micro-2022-fall/08-GraphingExample.pdf)
 ###### Week 10: [High-level summary and takeaways from the course](/courses/micro-2022-fall/10-CourseSummary.pdf)
 
+---
+
 ### Senior seminars and research workshops 
 
 *Sessions taught: Fall 2023, Spring 2024*  
 
 #### Material
 
-In production
+In progress
+
+---
 
 ### The global economy
 
@@ -146,12 +152,11 @@ In production
 > *This international economics course is targeted towards non-economics students, focusing on current events and the increasing international interdependence of the world economy. Topics incude: (i) why countries trade, what goods and services will be traded, how the gains from trade are distributed and the tools of commercial policy; (ii) the movement of labor and capital across borders; value of transnational countries and production processes across countries; (iii) international finance issues including exchange rates, balance of payments and open economy macroeconomic adjustment.*  
 
 ---
+---
 
 ## Graduate coursework
 
-*An incomplete archive of notes of variable quality from the two graduate schools I’ve attended. I may scan and upload my handwritten notes once I can regain access to them. The gold standard is still Luke Stein’s impeccable [first-year notes from the Stanford core sequence](https://faculty.babson.edu/lcdstein/steincoresummary.pdf).*
-
-(working links coming... eventually)
+*An incomplete archive of notes of variable quality from the two graduate schools I’ve attended. I may scan and upload my handwritten notes once I can regain access to them. The gold standard is still Luke Stein’s impeccable [first-year notes from the Stanford core sequence](https://faculty.babson.edu/lcdstein/steincoresummary.pdf). Working links below coming... eventually.*
 
 
 ### Columbia PhD core
