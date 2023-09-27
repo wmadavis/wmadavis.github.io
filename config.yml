@@ -12,7 +12,7 @@ taxonomies:
 
 menu:
     main:
-        - name: Vita
+        - name: Vita (pdf)
           url: /CV-AlampayDavis.pdf
           weight: 1  
         - name: Research
@@ -56,7 +56,7 @@ params:
     profileMode:
           enabled: true
           title: Matthew Alampay Davis
-          subtitle: "I’m a fifth-year PhD candidate at Columbia University’s department of economics. My research interests are in the political economy of development, inequality, and the environment. In ongoing projects, I study the distributional consequences of climate change and the transmission of gendered violence and norms in the Global South. This site is a work in progress as I'm transitioning to a new host and looking for a less grumpy profile picture."
+          subtitle: "I’m a fifth-year PhD candidate at Columbia University’s department of economics. My research interests are in the political economy of development, inequality, and the environment. In ongoing projects, I study the distributional and political consequences of climate change and the transmission of gendered violence and norms in the Global South. This site is a work in progress as I'm transitioning to a new host and looking for a less grumpy profile picture."
           imageUrl: "/profile.jpeg"
           imageWidth: 160
           imageHeight: 160
@@ -66,7 +66,7 @@ params:
           imageHeight: 160
           imageTitle: Matthew Alampay Davis
           buttons:
-            - name: Vita
+            - name: Vita (pdf)
               url: /CV-AlampayDavis.pdf
             - name: Research
               url: /research/
