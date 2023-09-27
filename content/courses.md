@@ -37,7 +37,7 @@ UseHugoToc: true
 + Calculus III
 + Introduction to probability and statistics with calculus
 
-#### [Material](https://github.com/wmadavis/Teaching-IntroEconometrics)
+#### Material
 
 
 [Introduction to Econometrics -- James Stock and Mark Watson (2019, 2020)](https://www.google.com/search?q=Introduction+to+Econometrics+watson+4th+edition+pdf&sca_esv=568605030&sxsrf=AM9HkKm2WdaM2SNR0--eUd572Acbx9Egyg%3A1695760925959&ei=HUITZaOMOqOs5NoP5biHSA&ved=0ahUKEwjjjvbckcmBAxUjFlkFHWXcAQkQ4dUDCBA&uact=5&oq=Introduction+to+Econometrics+watson+4th+edition+pdf&gs_lp=Egxnd3Mtd2l6LXNlcnAiM0ludHJvZHVjdGlvbiB0byBFY29ub21ldHJpY3Mgd2F0c29uIDR0aCBlZGl0aW9uIHBkZjIGEAAYFhgeSO8pUN4EWNEocAR4AZABAZgBmQGgAbYTqgEFMTAuMTS4AQPIAQD4AQL4AQHCAgoQABhHGNYEGLADwgIFEC4YgATCAgUQABiABMICFBAuGIAEGJcFGNwEGN4EGOAE2AEBwgIHECMYigUYJ8ICCBAAGIoFGIYD4gMEGAAgQYgGAZAGCLoGBggBEAEYFA&sclient=gws-wiz-serp&bshm=rime/1)
@@ -50,13 +50,13 @@ If I were to update this material, I’d integrate .Rprofile and .Rproj files in
 
 ##### 1. Introduction to R and R Notebooks
 
-###### Class notes [(Rmd](/courses/metrics-2023-summer/01-R-Introduction.Rmd) | [PDF)](/courses/metrics-2023-summer/01-R-Introduction.pdf)
-###### Data practice problems [(Rmd](/courses/metrics-2023-summer/01-R-Introduction.Rmd) | [PDF)](/courses/metrics-2023-summer/01-R-Introduction.pdf)
+###### Class notes [(Rmd](/courses/metrics-2023-summer/01-R-Introduction.Rmd) $\cdot$ [PDF)](/courses/metrics-2023-summer/01-R-Introduction.pdf)
+###### Data practice problems [(Rmd](/courses/metrics-2023-summer/01-R-Introduction.Rmd) $\cdot$ [PDF)](/courses/metrics-2023-summer/01-R-Introduction.pdf)
 ###### [Written practice problems](/courses/metrics-2023-summer/01-PracticeProblems-iPad.pdf)
 
 ##### 2. Multicollinearity, joint hypothesis testing, and the tidyverse
 
-###### Class notes [(Rmd](/courses/metrics-2023-summer/02-Multicollinearity-JointHypotheses.Rmd) | [PDF)](/courses/metrics-2023-summer/02-Multicollinearity-JointHypotheses.pdf)
+###### Class notes [(Rmd](/courses/metrics-2023-summer/02-Multicollinearity-JointHypotheses.Rmd) $\cdot$ [PDF)](/courses/metrics-2023-summer/02-Multicollinearity-JointHypotheses.pdf)
 
 ##### 3. Exam 1 review
 
@@ -64,11 +64,11 @@ If I were to update this material, I’d integrate .Rprofile and .Rproj files in
 
 ##### 4. Nonlinear regression
 
-###### Class notes [(Rmd](/courses/metrics-2023-summer/04-NonLinearRegression.Rmd) | [PDF)](/courses/metrics-2023-summer/04-NonLinearRegression.pdf)
+###### Class notes [(Rmd](/courses/metrics-2023-summer/04-NonLinearRegression.Rmd) $\cdot$ [PDF)](/courses/metrics-2023-summer/04-NonLinearRegression.pdf)
 
 ##### 5. Panel data methods and binary dependent variables
 
-###### Class notes [(Rmd](/courses/metrics-2023-summer/05-Panels-BinaryDVs.Rmd) | [PDF)](/courses/metrics-2023-summer/05-Panels-BinaryDVs.pdf)
+###### Class notes [(Rmd](/courses/metrics-2023-summer/05-Panels-BinaryDVs.Rmd) $\cdot$ [PDF)](/courses/metrics-2023-summer/05-Panels-BinaryDVs.pdf)
 
 ##### 6. Exam 2 review
 
@@ -76,12 +76,12 @@ If I were to update this material, I’d integrate .Rprofile and .Rproj files in
 
 ##### 7. Instrumental variables and quasi-experiments
 
-###### Class notes [(Rmd](/courses/metrics-2023-summer/07-Instruments-Experiments.Rmd) | [PDF)](/courses/metrics-2023-summer/07-Instruments-Experiments.pdf)
+###### Class notes [(Rmd](/courses/metrics-2023-summer/07-Instruments-Experiments.Rmd) $\cdot$ [PDF)](/courses/metrics-2023-summer/07-Instruments-Experiments.pdf)
 ###### [Intuition for the control variable approach to IV regression](/courses/metrics-2023-summer/07-ControlVariableApproach.pdf)
 
 ##### 8. Big data, time series and dynamic causal effects
 
-###### Class notes [(Rmd](/courses/metrics-2023-summer/08-TimeSeries-DynamicCausalEffects.Rmd) | [PDF)](/courses/metrics-2023-summer/08-TimeSeries-DynamicCausalEffects.pdf)
+###### Class notes [(Rmd](/courses/metrics-2023-summer/08-TimeSeries-DynamicCausalEffects.Rmd) $\cdot$ [PDF)](/courses/metrics-2023-summer/08-TimeSeries-DynamicCausalEffects.pdf)
 ###### [Additional big data practice problems](/courses/metrics-2023-summer/08-bigDataPracticeProblems.pdf)
 
 ##### 9. Exam 3 review
@@ -100,7 +100,7 @@ If I were to update this material, I’d integrate .Rprofile and .Rproj files in
 + Principles of Economics
 + Calculus III
 
-#### [Material](https://github.com/wmadavis/courses-IntermediateMicro)
+#### Material
 
 ["Intermediate Microeconomics with Calculus” --- Hal Varian (2014)](https://www.google.com/search?q=intermediate+microeconomics+with+calculus+hal+varian+pdf&oq=intermediate&gs_lcrp=EgZjaHJvbWUqCAgCEEUYJxg7Mg8IABBFGDkYgwEYsQMYgAQyCAgBEEUYJxg7MggIAhBFGCcYOzINCAMQABiDARixAxiABDINCAQQABiDARixAxiABDITCAUQLhiDARjHARixAxjRAxiABDINCAYQABiDARixAxiABDIGCAcQRRg90gEIMjg4NmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8&bshm=rime/1)  
 
