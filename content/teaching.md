@@ -45,23 +45,23 @@ Below are the weekly guides I produced from the Summer 2023 iteration of my clas
 
 If I were to update this material, I’d integrate .Rprofile and .Rproj files into the problem set pipeline to simplify students' calling frequently used libraries and functions.
 
-##### 1. Introduction to R and R Notebooks $\cdot$ [(Rmd](/teaching/metrics-2023-summer/01-R-Introduction.Rmd) | [PDF)](/teaching/metrics-2023-summer/01-R-Introduction.pdf)
+##### 1. Introduction to R and R Notebooks $\cdot$ [RMD](/teaching/metrics-2023-summer/01-R-Introduction.Rmd) | [PDF](/teaching/metrics-2023-summer/01-R-Introduction.pdf)
 
-##### 2. Multicollinearity, joint hypothesis testing, and the tidyverse $\cdot$ [(Rmd](/teaching/metrics-2023-summer/02-Multicollinearity-JointHypotheses.Rmd) | [PDF)](/teaching/metrics-2023-summer/02-Multicollinearity-JointHypotheses.pdf)
+##### 2. Multicollinearity, joint hypothesis testing, and the tidyverse $\cdot$ [RMD](/teaching/metrics-2023-summer/02-Multicollinearity-JointHypotheses.Rmd) | [PDF](/teaching/metrics-2023-summer/02-Multicollinearity-JointHypotheses.pdf)
 
-##### 3. Exam 1 review $\cdot$ [(PDF)](/teaching/metrics-2023-summer/03-ExtraNotes.pdf)
+##### 3. Exam 1 review $\cdot$ [PDF](/teaching/metrics-2023-summer/03-ExtraNotes.pdf)
 
-##### 4. Nonlinear regression $\cdot$ [(Rmd](/teaching/metrics-2023-summer/04-NonLinearRegression.Rmd) | [PDF)](/teaching/metrics-2023-summer/04-NonLinearRegression.pdf)
+##### 4. Nonlinear regression $\cdot$ [RMD](/teaching/metrics-2023-summer/04-NonLinearRegression.Rmd) | [PDF](/teaching/metrics-2023-summer/04-NonLinearRegression.pdf)
 
-##### 5. Panel data methods and binary dependent variables $\cdot$ [(Rmd](/teaching/metrics-2023-summer/05-Panels-BinaryDVs.Rmd) | [PDF)](/teaching/metrics-2023-summer/05-Panels-BinaryDVs.pdf)
+##### 5. Panel data methods and binary dependent variables $\cdot$ [RMD](/teaching/metrics-2023-summer/05-Panels-BinaryDVs.Rmd) | [PDF](/teaching/metrics-2023-summer/05-Panels-BinaryDVs.pdf)
 
-##### 6. Exam 2 review $\cdot$ [(PDF)](/teaching/metrics-2023-summer/05-FixedEffects.pdf)
+##### 6. Exam 2 review $\cdot$ [PDF](/teaching/metrics-2023-summer/05-FixedEffects.pdf)
 
-##### 7. Instrumental variables and quasi-experiments $\cdot$ [(Rmd](/teaching/metrics-2023-summer/07-Instruments-Experiments.Rmd) | [PDF)](/teaching/metrics-2023-summer/07-Instruments-Experiments.pdf)
+##### 7. Instrumental variables and quasi-experiments $\cdot$ [RMD](/teaching/metrics-2023-summer/07-Instruments-Experiments.Rmd) | [PDF](/teaching/metrics-2023-summer/07-Instruments-Experiments.pdf)
 
-##### 8. Big data, time series and dynamic causal effects $\cdot$ [(Rmd](/teaching/metrics-2023-summer/08-TimeSeries-DynamicCausalEffects.Rmd) | [PDF)](/teaching/metrics-2023-summer/08-TimeSeries-DynamicCausalEffects.pdf)
+##### 8. Big data, time series and dynamic causal effects $\cdot$ [RMD](/teaching/metrics-2023-summer/08-TimeSeries-DynamicCausalEffects.Rmd) | [PDF](/teaching/metrics-2023-summer/08-TimeSeries-DynamicCausalEffects.pdf)
 
-##### 9. Exam 3 review [(PDF)](/teaching/metrics/2023-summer/09-Exam3-Review.pdf)
+##### 9. Exam 3 review [PDF](/teaching/metrics/2023-summer/09-Exam3-Review.pdf)
 
 ---
 
