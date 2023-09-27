@@ -7,6 +7,11 @@ description: "Summaries and resources for courses I've TA'd for during my teachi
 showToc: true
 TocOpen: true
 UseHugoToc: true
+markup:
+    tableOfContents:
+        endLevel: 3
+        ordered: false
+        startLevel: 2
 
 ---
 
@@ -183,9 +188,3 @@ These slides are weekly elaborations on a specific newly introduced concept and 
 + **Advanced Microeconomics**: Contracts under information asymmetries, bargaining, and theories of the firm. Notes make reference to figures that are handwritten and not included
 + **Political Economy of Development**:  Literature review: culture and institutions, political reform and political failure, corruption, and conflict
 + **Applied microeconomics**: production function estimation (incomplete short summary), problems and accounting
-
-markup:
-    tableOfContents:
-        endLevel: 3
-        ordered: false
-        startLevel: 2
