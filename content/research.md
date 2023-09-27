@@ -13,7 +13,7 @@ UseHugoToc: true
 ### Large potential reduction in economic damages under UN mitigation targets
 
 [Marshall Burke](https://web.stanford.edu/~mburke/), Matthew Alampay Davis, [Noah S. Diffenbaugh](https://profiles.stanford.edu/noah-diffenbaugh) (2018)  
-[*Nature, 557, 549-553*](https://doi.org/10.1038/s41586-018-0071-9)  
+*Nature, 557, 549-553*
 
 We present an empirical framework for evaluating the economic benefits of the 2015 Paris Agreement’s temperature targets of 1.5°C and 2.0°. Our findings decompose the large uncertainties involved in such projection exercises and stress the inequity in impacts: it is a stark result that poorer countries that have historically contributed least to carbon emissions have the most the gain from mitigation of global warming.
 
@@ -21,6 +21,7 @@ We present an empirical framework for evaluating the economic benefits of the 20
 
 #### Paper materials and links
 
++ [Official link](](https://doi.org/10.1038/s41586-018-0071-9)
 + [Ungated link](/papers/BurkeDavisDiffenbaugh2018.pdf)
 + [Non-technical video summary](http://www.youtube.com/watch?v=DafZSeIGLNE)
 + [Replication files](https://github.com/wmadavis/BDD2018)
@@ -39,7 +40,7 @@ We present an empirical framework for evaluating the economic benefits of the 20
 ### Combining satellite imagery and machine learning to predict poverty
 
 [Neal Jean](https://nealjean.com/), [Marshall Burke](https://web.stanford.edu/~mburke/), [Michael Xie](https://cs.stanford.edu/~eix/), Matthew Alampay Davis, [David B. Lobell](https://fse.fsi.stanford.edu/people/david_lobell), [Stefano Ermon](https://cs.stanford.edu/~ermon/) (2016)  
-[*Science, 353 (6301), 790-794*]((https://doi.org/10.1126/science.aaf7894)  
+*Science, 353 (6301), 790-794*. 
 
 We train a convolutional neural network to identify low-level features of image data useful for classification tasks. We then assign the CNN the related task of condensing high-resolution daytime satellite images into lower-dimensional vectors of features covariant with the areas’ corresponding night-time luminosities, which we consider imperfect proxies for levels of economic activity. Ridge regression models then relate these feature vectors to data from representative household surveys conducted in Uganda, Tanzania, Nigeria, Malawi, and Rwanda to generate fine-scale “poverty maps”, regionally disaggregated estimates of the distribution of consumption expenditure and asset wealth. Cross-validation analyses show that our transfer learning method compares favorably to existing and expensive methods at out-of-sample prediction, suggesting potential applications for interventions targeting poverty in data-scarce areas. We emphasize our pipeline uses only public data and software, enabling cheap replication and potential scalability to help address the infrequency and prohibitive expense of household surveys.
 
@@ -47,6 +48,7 @@ We train a convolutional neural network to identify low-level features of image 
 
 #### Paper materials and links
 
++ [Official link](https://doi.org/10.1126/science.aaf7894)
 + [Ungated link](/papers/JeanEtAl2016.pdf)
 + Github: [replication files](https://github.com/nealjean/predicting-poverty) $\cdot$ [issues](https://github.com/nealjean/predicting-poverty/issues?q=is%3Aissue+is%3Aclosed)
 + Authors' blog posts: [summary](http://www.g-feed.com/2016/08/economics-from-space.html) $\cdot$ [genesis](http://www.g-feed.com/2016/08/risk-aversion-in-science.html) $\cdot$ [update](http://www.g-feed.com/2017/02/targeting-poverty-with-satellites.html)
