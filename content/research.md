@@ -21,8 +21,7 @@ We present an empirical framework for evaluating the economic benefits of the 20
 
 #### Paper materials and links
 
-+ [Official link](https://doi.org/10.1038/s41586-018-0071-9)
-+ [Ungated link](/papers/BurkeDavisDiffenbaugh2018.pdf)
++ Paper links: [(official](https://doi.org/10.1038/s41586-018-0071-9) $\cdot$ [ungated)](/papers/BurkeDavisDiffenbaugh2018.pdf)
 + [Non-technical video summary](http://www.youtube.com/watch?v=DafZSeIGLNE)
 + [Replication files](https://github.com/wmadavis/BDD2018)
 + [ECHO Lab website](https://www.stanfordecholab.com/)
@@ -69,8 +68,7 @@ We train a convolutional neural network to identify low-level features of image 
 
 #### Paper materials and links
 
-+ [Official link](https://doi.org/10.1126/science.aaf7894)
-+ [Ungated link](/papers/JeanEtAl2016.pdf)
++ Paper links: [(Official](https://doi.org/10.1126/science.aaf7894) $\cdot$ [ungated)](/papers/JeanEtAl2016.pdf)
 + Github: [replication files](https://github.com/nealjean/predicting-poverty) $\cdot$ [issues](https://github.com/nealjean/predicting-poverty/issues?q=is%3Aissue+is%3Aclosed)
 + Authors' blog posts: [summary](http://www.g-feed.com/2016/08/economics-from-space.html) $\cdot$ [genesis](http://www.g-feed.com/2016/08/risk-aversion-in-science.html) $\cdot$ [update](http://www.g-feed.com/2017/02/targeting-poverty-with-satellites.html)
 + [Sustain Lab website](http://sustain.stanford.edu/predicting-poverty)
