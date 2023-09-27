@@ -1,3 +1,9 @@
+*Columbia students can use their university email to book office hours [here](https://calendly.com/wmadavis/).*
+
+*Using this space to share some of the resources I’ve prepared during my TA career at Columbia and my graduate-level coursework at Oxford and Columbia. I’ve seen some of my notes paywalled on Course Hero so please just take it from here for free.*
+
+*Please reach out if you notice any mistakes or typos in this material. Any and all errors are due to the professors who taught me wrong or the students who didn’t point them out.*  
+
 ---
 title: "Courses"
 aliases: /courses/
@@ -7,14 +13,6 @@ description: "Summaries and resources for courses I've TA'd for during my teachi
 showToc: true
 TocOpen: true
 UseHugoToc: true
-
----
-
-*Columbia students can use their university email to book office hours [here](https://calendly.com/wmadavis/).*
-
-*Using this space to share some of the resources I’ve prepared during my TA career at Columbia and my graduate-level coursework at Oxford and Columbia. I’ve seen some of my notes paywalled on Course Hero so please just take it from here for free.*
-
-*Please reach out if you notice any mistakes or typos in this material. Any and all errors are due to the professors who taught me wrong or the students who didn’t point them out.*  
 
 ---
 
