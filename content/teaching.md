@@ -33,7 +33,7 @@ UseHugoToc: true
 + Calculus III
 + Introduction to probability and statistics with calculus
 
-#### Material
+#### Prepared material
 
 
 [Introduction to Econometrics -- James Stock and Mark Watson (2019, 2020)](https://www.google.com/search?q=Introduction+to+Econometrics+watson+4th+edition+pdf&sca_esv=568605030&sxsrf=AM9HkKm2WdaM2SNR0--eUd572Acbx9Egyg%3A1695760925959&ei=HUITZaOMOqOs5NoP5biHSA&ved=0ahUKEwjjjvbckcmBAxUjFlkFHWXcAQkQ4dUDCBA&uact=5&oq=Introduction+to+Econometrics+watson+4th+edition+pdf&gs_lp=Egxnd3Mtd2l6LXNlcnAiM0ludHJvZHVjdGlvbiB0byBFY29ub21ldHJpY3Mgd2F0c29uIDR0aCBlZGl0aW9uIHBkZjIGEAAYFhgeSO8pUN4EWNEocAR4AZABAZgBmQGgAbYTqgEFMTAuMTS4AQPIAQD4AQL4AQHCAgoQABhHGNYEGLADwgIFEC4YgATCAgUQABiABMICFBAuGIAEGJcFGNwEGN4EGOAE2AEBwgIHECMYigUYJ8ICCBAAGIoFGIYD4gMEGAAgQYgGAZAGCLoGBggBEAEYFA&sclient=gws-wiz-serp&bshm=rime/1)
@@ -87,7 +87,7 @@ If I were to update this material, I’d integrate .Rprofile and .Rproj files in
 + Principles of Economics
 + Calculus III
 
-#### Material
+#### Prepared material
 
 ["Intermediate Microeconomics with Calculus” --- Hal Varian (2014)](https://www.google.com/search?q=intermediate+microeconomics+with+calculus+hal+varian+pdf&oq=intermediate&gs_lcrp=EgZjaHJvbWUqCAgCEEUYJxg7Mg8IABBFGDkYgwEYsQMYgAQyCAgBEEUYJxg7MggIAhBFGCcYOzINCAMQABiDARixAxiABDINCAQQABiDARixAxiABDITCAUQLhiDARjHARixAxjRAxiABDINCAYQABiDARixAxiABDIGCAcQRRg90gEIMjg4NmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8&bshm=rime/1)  
 
@@ -127,7 +127,7 @@ These slides are weekly elaborations on a specific newly introduced concept and 
 
 *Sessions taught: Fall 2023, Spring 2024*  
 
-#### Material
+#### Prepared material
 
 In progress
 
@@ -137,30 +137,4 @@ In progress
 
 *Session taught: Spring 2023*  
 
-> *This international economics course is targeted towards non-economics students, focusing on current events and the increasing international interdependence of the world economy. Topics incude: (i) why countries trade, what goods and services will be traded, how the gains from trade are distributed and the tools of commercial policy; (ii) the movement of labor and capital across borders; value of transnational countries and production processes across countries; (iii) international finance issues including exchange rates, balance of payments and open economy macroeconomic adjustment.*  
-
-
-## Graduate coursework
-
-*An incomplete archive of notes of variable quality from the two graduate schools I’ve attended. I may scan and upload my handwritten notes once I can regain access to them. 
-
-
-### Columbia PhD core
-
-+ **Econometrics I, Part II**: Asymptotic theory, restricted estimation, and resampling
-+ **Econometrics II, Part II**: Resampling, multiple testing, quantile regression, non-parametrics, and treatment effects
-+ **Macroeconomics I, Part I** (incomplete summary): Introduction to growth theory
-+ **Macroeconomics I, Part II**: General equilibrium theory, real business cycles, and an introduction to macro-finance
-
-### Oxford M.Phil/D.Phil core and fields
-
-*Year 1 Core*
-
-+ **Macroeconomics**: Qualitative summary of the entire year of material: neoclassical growth theory, macro-finance, monetary economics, macroeconomic policy
-+ **Macro-finance**: consumption CAPM, exotic preferences, disaster risk, evidence on financial crises, financial frictions, the Great Recession, liquidity, quantitative easing, and financial bubbles
-
-*Year 2 Fields*
-
-+ **Advanced Microeconomics**: Contracts under information asymmetries, bargaining, and theories of the firm. Notes make reference to figures that are handwritten and not included
-+ **Political Economy of Development**:  Literature review: culture and institutions, political reform and political failure, corruption, and conflict
-+ **Applied microeconomics**: production function estimation (incomplete short summary), problems and accounting
+> *This international economics course is targeted towards non-economics students, focusing on current events and the increasing international interdependence of the world economy. Topics incude: (i) why countries trade, what goods and services will be traded, how the gains from trade are distributed and the tools of commercial policy; (ii) the movement of labor and capital across borders; value of transnational countries and production processes across countries; (iii) international finance issues including exchange rates, balance of payments and open economy macroeconomic adjustment.*
