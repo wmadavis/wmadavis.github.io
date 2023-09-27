@@ -1,9 +1,3 @@
-*Columbia students can use their university email to book office hours [here](https://calendly.com/wmadavis/).*
-
-*Using this space to share some of the resources I’ve prepared during my TA career at Columbia and my graduate-level coursework at Oxford and Columbia. I’ve seen some of my notes paywalled on Course Hero so please just take it from here for free.*
-
-*Please reach out if you notice any mistakes or typos in this material. Any and all errors are due to the professors who taught me wrong or the students who didn’t point them out.*  
-
 ---
 title: "Courses"
 aliases: /courses/
@@ -16,23 +10,34 @@ UseHugoToc: true
 
 ---
 
+*Using this space to share some of the resources I’ve prepared during my TA career at Columbia and my graduate-level coursework at Oxford and Columbia. I’ve seen some of my notes paywalled on Course Hero so please just take it from here for free.*
+
+*Please reach out if you notice any mistakes or typos in this material. Any and all errors are due to the professors who taught me wrong or the students who didn’t point them out.*  
+
 ## Teaching
+
+*Columbia students can use their university email to book office hours [here](https://calendly.com/wmadavis/).*
 
 *Out of respect for the hard work of academic publishers, I am officially discouraging you from finding a free version of any textbooks mentioned here or elsewhere by Googling their titles, their authors, the edition number, and adding “pdf” at the end. Failing that, I am also hereby disavowing [Sci-Hub](https://sci-hub.se/database) as a resource for obtaining this material as well.*
 
 *I cannot guarantee a response but feel free to email clarifying questions. Video recordings of my econometrics and microeconomics classes may be available upon request to those looking to follow along or supplement their own studies, particularly those from developing countries.*  
 
-### Introduction to econometrics (Fall 2020, Spring 2021, Fall 2021, Summer 2023)
+### Introduction to econometrics
+
+#### Summary
+
+##### Sessions taught: Fall 2020, Spring 2021, Fall 2021, Summer 2023)
 
 > *ECON-UN3412 introduces students to multiple regression and related methods for analyzing data in economics and related disciplines. Additional topics include regression with discrete random variables, instrumental variables regression, analysis of random experiments and quasi-experiments, and regression with time series data. Students will learn how to conduct – and how to critique – empirical studies in economics and related fields. Accordingly, the emphasis of the course is on empirical applications.*
 
-Prerequisites
+##### Prerequisites
 
 + Intermediate microeconomics/macroeconomics
 + Calculus III
 + Introduction to probability and statistics with calculus
 
 #### Material
+
 
 [Introduction to Econometrics -- James Stock and Mark Watson (2019, 2020)](https://www.google.com/search?q=Introduction+to+Econometrics+watson+4th+edition+pdf&sca_esv=568605030&sxsrf=AM9HkKm2WdaM2SNR0--eUd572Acbx9Egyg%3A1695760925959&ei=HUITZaOMOqOs5NoP5biHSA&ved=0ahUKEwjjjvbckcmBAxUjFlkFHWXcAQkQ4dUDCBA&uact=5&oq=Introduction+to+Econometrics+watson+4th+edition+pdf&gs_lp=Egxnd3Mtd2l6LXNlcnAiM0ludHJvZHVjdGlvbiB0byBFY29ub21ldHJpY3Mgd2F0c29uIDR0aCBlZGl0aW9uIHBkZjIGEAAYFhgeSO8pUN4EWNEocAR4AZABAZgBmQGgAbYTqgEFMTAuMTS4AQPIAQD4AQL4AQHCAgoQABhHGNYEGLADwgIFEC4YgATCAgUQABiABMICFBAuGIAEGJcFGNwEGN4EGOAE2AEBwgIHECMYigUYJ8ICCBAAGIoFGIYD4gMEGAAgQYgGAZAGCLoGBggBEAEYFA&sclient=gws-wiz-serp&bshm=rime/1)
 
@@ -83,11 +88,15 @@ If I were to update this material, I’d integrate .Rprofile and .Rproj files in
 ##### 9. Exam 3 review
 ###### [Final points of emphasis](/courses/metrics/2023-summer/09-Exam3-Review.pdf)
 
-### Intermediate microeconomics (Spring 2022, Fall 2022)
+### Intermediate microeconomics
+
+#### Summary
+
+##### Sessions taught: Spring 2022, Fall 2022
 
 > *The purpose of this course is to offer a solid, intermediate-level training in theoretical microeconomics. We will try to achieve a more in-depth understanding of how the standard theoretical models of microeconomics work. The course consists of three parts. We will start out by analyzing consumer decision-making. We then turn to the behavior of firms. Finally, the third part of the course studies the interaction of consumers and firms in goods markets.*    
 
-Prerequisites
+##### Prerequisites
 
 + Principles of Economics
 + Calculus III
@@ -128,9 +137,19 @@ These slides are weekly elaborations on a specific newly introduced concept and 
 ###### Week 8: by student request, [an applied derivation of IC equations and intersections for accurate graphing](/courses/micro-2022-fall/08-GraphingExample.pdf)
 ###### Week 10: [High-level summary and takeaways from the course](/courses/micro-2022-fall/10-CourseSummary.pdf)
 
-### Senior seminars and research workshops (Fall 2023, Spring 2024)
+### Senior seminars and research workshops 
 
-### The global economy (Spring 2023)
+#### Summary
+
+##### Sessions taught: Fall 2023, Spring 2024
+
+#### Material (TBD)
+
+### The global economy
+
+#### Summary
+
+##### Session taught: Spring 2023
 
 > *This international economics course is targeted towards non-economics students, focusing on current events and the increasing international interdependence of the world economy. Topics incude: (i) why countries trade, what goods and services will be traded, how the gains from trade are distributed and the tools of commercial policy; (ii) the movement of labor and capital across borders; value of transnational countries and production processes across countries; (iii) international finance issues including exchange rates, balance of payments and open economy macroeconomic adjustment.*  
 
