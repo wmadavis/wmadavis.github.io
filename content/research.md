@@ -21,7 +21,7 @@ We present an empirical framework for evaluating the economic benefits of the 20
 
 #### Paper materials and links
 
-+ [Official link](](https://doi.org/10.1038/s41586-018-0071-9)
++ [Official link](https://doi.org/10.1038/s41586-018-0071-9)
 + [Ungated link](/papers/BurkeDavisDiffenbaugh2018.pdf)
 + [Non-technical video summary](http://www.youtube.com/watch?v=DafZSeIGLNE)
 + [Replication files](https://github.com/wmadavis/BDD2018)
