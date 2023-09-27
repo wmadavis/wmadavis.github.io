@@ -18,13 +18,13 @@ UseHugoToc: true
 + A short reflection on not getting into any PhD programs, informed by my experience blanking the first time I applied in 2017 (link coming soon)
 + Many people find the first year of the PhD brutal, especially those in programs like mine that may cut some students based on their coursework performance. Here’s a short post on my take written after passing. (link coming soon)
 
-### Academic skill. development
+### Academic skill development
 
-+ Most academics largely taught themselves how to code. Some tips here specific to R on remedying bad practices they probably picked up by doing so. ([Jennifer Bryan and Jim Hester](https://rstats.wtf/project-oriented-workflow.html), particularly Sections 2 and 3 on project-oriented workflows)
++ Most academics largely taught themselves how to code. Some tips here specific to R on remedying bad practices they probably picked up by doing so. [(Jennifer Bryan and Jim Hester](https://rstats.wtf/project-oriented-workflow.html), particularly Sections 2 and 3 on project-oriented workflows))
 + Anatomy of an applied micro talk ([Jesse Shapiro)](https://scholar.harvard.edu/files/shapiro/files/applied_micro_slides.pdf)
 + A style guide for mathematical writing ([Donald E. Knuth, Tracy Larrabee, and Paul M. Roberts)](https://jmlr.csail.mit.edu/reviewing-papers/knuth_mathematical_writing.pdf), particularly Section 1)
-+ How to critique academic work, helpful for referee reports and seminar discussion ([Macartan Humphreys)](https://macartan.github.io/teaching/how-to-critique))
-+ How to build an economic model in your spare time ([Hal Varian](https://people.ischool.berkeley.edu/~hal/Papers/how.pdf)
++ How to critique academic work, helpful for referee reports and seminar discussion [(Macartan Humphreys)](https://macartan.github.io/teaching/how-to-critique)
++ How to build an economic model in your spare time ([Hal Varian](https://people.ischool.berkeley.edu/~hal/Papers/how.pdf))
 
 ### Doing research
 
