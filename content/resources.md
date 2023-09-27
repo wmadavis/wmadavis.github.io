@@ -10,7 +10,7 @@ UseHugoToc: true
 
 ---
 
-*Using this space to collate academic resources I’ve personally found the most constructive. I make this qualification because plenty of advice I’ve seen widely circulated over the years absolutely would not work for me: my advice for reading advice is to feel emboldened to reject it. Resources for specific courses I've taught or have taken are found in the [Teaching](/teaching/) page.*
+*Using this space to collate academic resources I’ve personally found the most constructive. I make this qualification because plenty of advice I’ve seen widely circulated over the years absolutely would not work for me: my advice for reading advice is to feel emboldened to reject it. Resources for specific courses I've taught or taken are found in the [Courses](/courses/) page.*
 
 ### Preparing for grad school
 
