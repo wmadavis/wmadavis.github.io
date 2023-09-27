@@ -1,7 +1,7 @@
 ---
-title: "Courses"
-aliases: /courses/
-url: /courses/
+title: "Teaching"
+aliases: /teaching/
+url: /teaching/
 disableAnchoredHeadings: false
 description: "Summaries and resources for courses I've TA'd for during my teaching career at Columbia University"
 showToc: true
@@ -9,20 +9,17 @@ TocOpen: true
 UseHugoToc: true
 ---
 
-*Using this space to share some of the resources I’ve prepared during my TA career at Columbia and my graduate-level coursework at Oxford and Columbia. I’ve seen some of my notes paywalled on Course Hero so please just take it from here for free.*  
+*Using this space to share some of the resources I’ve prepared during my TA career at Columbia. I’ve seen some of my notes paywalled on Course Hero so please just take it from here for free. Columbia students can use their university email to book office hours [here](https://calendly.com/wmadavis/).*  
+
+*I cannot guarantee a response but feel free to email clarifying questions. Video recordings of my econometrics and microeconomics classes may be requested, particularly for those from developing countries.*  
+
+
+*Out of respect for the hard work of academic publishers, I am officially discouraging you from finding a free version of any textbooks mentioned here or elsewhere by Googling their titles, their authors, the edition number, and adding “pdf” at the end. Failing that, I am also hereby disavowing [Sci-Hub](https://sci-hub.se/database) as a resource for obtaining this material as well.*
+
 
 *Please reach out if you notice any mistakes or typos in this material. Any and all errors are due to the professors who taught me wrong or the students who didn’t point them out.*  
 
 ---
-
-## Teaching
-
-*Columbia students can use their university email to book office hours [here](https://calendly.com/wmadavis/).*
-
-*Out of respect for the hard work of academic publishers, I am officially discouraging you from finding a free version of any textbooks mentioned here or elsewhere by Googling their titles, their authors, the edition number, and adding “pdf” at the end. Failing that, I am also hereby disavowing [Sci-Hub](https://sci-hub.se/database) as a resource for obtaining this material as well.*
-
-*I cannot guarantee a response but feel free to email clarifying questions. Video recordings of my econometrics and microeconomics classes may be available upon request to those looking to follow along or supplement their own studies, particularly those from developing countries.*  
-
 
 ### Introduction to econometrics
 
@@ -151,12 +148,10 @@ In progress
 
 > *This international economics course is targeted towards non-economics students, focusing on current events and the increasing international interdependence of the world economy. Topics incude: (i) why countries trade, what goods and services will be traded, how the gains from trade are distributed and the tools of commercial policy; (ii) the movement of labor and capital across borders; value of transnational countries and production processes across countries; (iii) international finance issues including exchange rates, balance of payments and open economy macroeconomic adjustment.*  
 
----
----
 
 ## Graduate coursework
 
-*An incomplete archive of notes of variable quality from the two graduate schools I’ve attended. I may scan and upload my handwritten notes once I can regain access to them. The gold standard is still Luke Stein’s impeccable [first-year notes from the Stanford core sequence](https://faculty.babson.edu/lcdstein/steincoresummary.pdf). Working links below coming... eventually.*
+*An incomplete archive of notes of variable quality from the two graduate schools I’ve attended. I may scan and upload my handwritten notes once I can regain access to them. 
 
 
 ### Columbia PhD core

@@ -84,8 +84,6 @@ We train a convolutional neural network to identify low-level features of image 
 [The Onion](https://www.theonion.com/satellite-images-could-predict-poverty-1819563263) $\cdot$ [Bill Gates](https://twitter.com/BillGates/status/773188644014350336) $\cdot$
 [CGDev](https://www.cgdev.org/blog/can-we-measure-poverty-outer-space)
 
-<blockquote class="twitter-tweet" data-theme="light"><p lang="en" dir="ltr">Satellite Images Could Predict Poverty <a href="https://t.co/9v1TSMPYML">https://t.co/9v1TSMPYML</a> <a href="https://twitter.com/hashtag/WhatDoYouThink?src=hash&amp;ref_src=twsrc%5Etfw">#WhatDoYouThink</a>? <a href="https://t.co/XDUWkt318q">pic.twitter.com/XDUWkt318q</a></p>&mdash; The Onion (@TheOnion) <a href="https://twitter.com/TheOnion/status/768098397094117376?ref_src=twsrc%5Etfw">August 23, 2016</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 ---
 
 ### Work in progress

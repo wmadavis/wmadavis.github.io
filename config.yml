@@ -18,8 +18,8 @@ menu:
         - name: Research
           url: /research/
           weight: 2
-        - name: Courses
-          url: /courses/
+        - name: Teaching
+          url: /teaching/
           weight: 3
         - name: Resources
           url: /resources/
@@ -70,25 +70,29 @@ params:
               url: /CV-AlampayDavis.pdf
             - name: Research
               url: /research/
-            - name: Courses
-              url: /courses/
+            - name: Teaching
+              url: /teaching/
             - name: Resources
               url: /resources/
             - name: Posts
               url: /posts/
+            - name: Contact
+              url: /contact/
             - name: Other
               url: /other/
     socialIcons:
         - name: Email
           url: mailto:wm.alampaydavis@gmail.com
-        - name: Google Scholar
-          url: https://scholar.google.com/citations?user=ri2tMA8AAAAJ
         - name: GitHub
           url: https://github.com/wmadavis?tab=repositories
-        - name: Office hours
-          url: https://calendly.com/wmadavis
+        - name: Google Scholar
+          url: https://scholar.google.com/citations?user=ri2tMA8AAAAJ
         - name: Twitter
           url: https://twitter.com/alampaydavis
+        - name: Bluesky
+          url: https://bsky.app/profile/matthewdavis.bsky.social
+        - name: Office hours
+          url: https://calendly.com/wmadavis
         - name: Location
           url: /contact/
 

@@ -1,5 +1,6 @@
 ---
 title: "Contact"
+url: /contact/
 hidemeta: true
 description: "Columbia economics department on Google maps"
 showToc: false
@@ -10,6 +11,7 @@ UseHugoToc: false
 + [wm.alampaydavis@gmail.com](mailto:wm.alampaydavis@gmail.com)
 + [alampay.davis@columbia.edu](mailto:alampay.davis@columbia.edu)
 + [Github](https://github.com/wmadavis?tab=repositories)
++ [Office hours](https://calendly.com/wmadavis)
 
 Columbia University  
 International Affairs Building, Fl. 11  
