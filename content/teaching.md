@@ -32,7 +32,8 @@ Prerequisites
 
 > *ECON-UN3412 introduces students to multiple regression and related methods for analyzing data in economics and related disciplines. Additional topics include regression with discrete random variables, instrumental variables regression, analysis of random experiments and quasi-experiments, and regression with time series data. Students will learn how to conduct – and how to critique – empirical studies in economics and related fields. Accordingly, the emphasis of the course is on empirical applications.*  
 
-Text: [Introduction to Econometrics -- James Stock and Mark Watson (2019, 2020)](https://www.google.com/search?q=Introduction+to+Econometrics+watson+4th+edition+pdf&sca_esv=568605030&sxsrf=AM9HkKm2WdaM2SNR0--eUd572Acbx9Egyg%3A1695760925959&ei=HUITZaOMOqOs5NoP5biHSA&ved=0ahUKEwjjjvbckcmBAxUjFlkFHWXcAQkQ4dUDCBA&uact=5&oq=Introduction+to+Econometrics+watson+4th+edition+pdf&gs_lp=Egxnd3Mtd2l6LXNlcnAiM0ludHJvZHVjdGlvbiB0byBFY29ub21ldHJpY3Mgd2F0c29uIDR0aCBlZGl0aW9uIHBkZjIGEAAYFhgeSO8pUN4EWNEocAR4AZABAZgBmQGgAbYTqgEFMTAuMTS4AQPIAQD4AQL4AQHCAgoQABhHGNYEGLADwgIFEC4YgATCAgUQABiABMICFBAuGIAEGJcFGNwEGN4EGOAE2AEBwgIHECMYigUYJ8ICCBAAGIoFGIYD4gMEGAAgQYgGAZAGCLoGBggBEAEYFA&sclient=gws-wiz-serp&bshm=rime/1)
+[Text]((https://www.google.com/search?q=Introduction+to+Econometrics+watson+4th+edition+pdf&sca_esv=568605030&sxsrf=AM9HkKm2WdaM2SNR0--eUd572Acbx9Egyg%3A1695760925959&ei=HUITZaOMOqOs5NoP5biHSA&ved=0ahUKEwjjjvbckcmBAxUjFlkFHWXcAQkQ4dUDCBA&uact=5&oq=Introduction+to+Econometrics+watson+4th+edition+pdf&gs_lp=Egxnd3Mtd2l6LXNlcnAiM0ludHJvZHVjdGlvbiB0byBFY29ub21ldHJpY3Mgd2F0c29uIDR0aCBlZGl0aW9uIHBkZjIGEAAYFhgeSO8pUN4EWNEocAR4AZABAZgBmQGgAbYTqgEFMTAuMTS4AQPIAQD4AQL4AQHCAgoQABhHGNYEGLADwgIFEC4YgATCAgUQABiABMICFBAuGIAEGJcFGNwEGN4EGOAE2AEBwgIHECMYigUYJ8ICCBAAGIoFGIYD4gMEGAAgQYgGAZAGCLoGBggBEAEYFA&sclient=gws-wiz-serp&bshm=rime/1)
+): "Introduction to Econometrics" -- James Stock and Mark Watson (2019, 2020)
 
 #### Prepared material
 
@@ -72,7 +73,7 @@ Prerequisites
 
 > *The purpose of this course is to offer a solid, intermediate-level training in theoretical microeconomics. We will try to achieve a more in-depth understanding of how the standard theoretical models of microeconomics work. The course consists of three parts. We will start out by analyzing consumer decision-making. We then turn to the behavior of firms. Finally, the third part of the course studies the interaction of consumers and firms in goods markets.*  
 
-Text: ["Intermediate Microeconomics with Calculus” --- Hal Varian (2014)](https://www.google.com/search?q=intermediate+microeconomics+with+calculus+hal+varian+pdf&oq=intermediate&gs_lcrp=EgZjaHJvbWUqCAgCEEUYJxg7Mg8IABBFGDkYgwEYsQMYgAQyCAgBEEUYJxg7MggIAhBFGCcYOzINCAMQABiDARixAxiABDINCAQQABiDARixAxiABDITCAUQLhiDARjHARixAxjRAxiABDINCAYQABiDARixAxiABDIGCAcQRRg90gEIMjg4NmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8&bshm=rime/1)  
+[Text]((https://www.google.com/search?q=intermediate+microeconomics+with+calculus+hal+varian+pdf&oq=intermediate&gs_lcrp=EgZjaHJvbWUqCAgCEEUYJxg7Mg8IABBFGDkYgwEYsQMYgAQyCAgBEEUYJxg7MggIAhBFGCcYOzINCAMQABiDARixAxiABDINCAQQABiDARixAxiABDITCAUQLhiDARjHARixAxjRAxiABDINCAYQABiDARixAxiABDIGCAcQRRg90gEIMjg4NmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8&bshm=rime/1)): "Intermediate Microeconomics with Calculus” -- Hal Varian (2014)
 
 #### Prepared material
 
