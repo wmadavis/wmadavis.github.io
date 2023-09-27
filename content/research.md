@@ -12,17 +12,19 @@ UseHugoToc: true
 
 ### [Large potential reduction in economic damages under UN mitigation targets](https://doi.org/10.1038/s41586-018-0071-9)
 
-**[Marshall Burke](https://web.stanford.edu/~mburke/), Matthew Alampay Davis, [Noah S. Diffenbaugh](https://profiles.stanford.edu/noah-diffenbaugh) (2018)**  
-*Nature, 557, 549-553*
+*[Marshall Burke](https://web.stanford.edu/~mburke/), Matthew Alampay Davis, [Noah S. Diffenbaugh](https://profiles.stanford.edu/noah-diffenbaugh) (2018)*  
+Nature, 557, 549-553
+
+We present an empirical framework for evaluating the economic benefits of the 2015 Paris Agreement’s temperature targets of 1.5°C and 2.0°. Our findings decompose the large uncertainties involved in such projection exercises and stress the inequity in impacts: it is a stark result that poorer countries that have historically contributed least to carbon emissions have the most the gain from mitigation of global warming.
 
 ![Figure 4: The impact of global warming on global GDP per capita, relative to a world without warming, for different forcing levels.](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41586-018-0071-9/MediaObjects/41586_2018_71_Fig4_HTML.jpg)
+
+#### Links and replication files
 
 + [Ungated link](/papers/BurkeDavisDiffenbaugh2018.pdf)
 + [Non-technical video summary](http://www.youtube.com/watch?v=DafZSeIGLNE)
 + [Replication files](https://github.com/wmadavis/BDD2018)
-+ [Lab website](https://www.stanfordecholab.com/)
-
-We present an empirical framework for evaluating the economic benefits of the 2015 Paris Agreement’s temperature targets of 1.5°C and 2.0°. Our findings decompose the large uncertainties involved in such projection exercises and stress the inequity in impacts: it is a stark result that poorer countries that have historically contributed least to carbon emissions have the most the gain from mitigation of global warming.
++ [ECHO Lab website](https://www.stanfordecholab.com/)
 
 ##### Press
 
@@ -36,19 +38,20 @@ We present an empirical framework for evaluating the economic benefits of the 20
 
 ### [Combining satellite imagery and machine learning to predict poverty](https://doi.org/10.1126/science.aaf7894)
 
-**[Neal Jean](https://nealjean.com/), [Marshall Burke](https://web.stanford.edu/~mburke/), [Michael Xie](https://cs.stanford.edu/~eix/), Matthew Alampay Davis, [David B. Lobell](https://fse.fsi.stanford.edu/people/david_lobell), [Stefano Ermon](https://cs.stanford.edu/~ermon/) (2016)**  
-*Science, 353 (6301), 790-794*
+*[Neal Jean](https://nealjean.com/), [Marshall Burke](https://web.stanford.edu/~mburke/), [Michael Xie](https://cs.stanford.edu/~eix/), Matthew Alampay Davis, [David B. Lobell](https://fse.fsi.stanford.edu/people/david_lobell), [Stefano Ermon](https://cs.stanford.edu/~ermon/) (2016)*  
+Science, 353 (6301), 790-794
+
+We train a convolutional neural network to identify low-level features of image data useful for classification tasks. We then assign the CNN the related task of condensing high-resolution daytime satellite images into lower-dimensional vectors of features covariant with the areas’ corresponding night-time luminosities, which we consider imperfect proxies for levels of economic activity. Ridge regression models then relate these feature vectors to data from representative household surveys conducted in Uganda, Tanzania, Nigeria, Malawi, and Rwanda to generate fine-scale “poverty maps”, regionally disaggregated estimates of the distribution of consumption expenditure and asset wealth. Cross-validation analyses show that our transfer learning method compares favorably to existing and expensive methods at out-of-sample prediction, suggesting potential applications for interventions targeting poverty in data-scarce areas. We emphasize our pipeline uses only public data and software, enabling cheap replication and potential scalability to help address the infrequency and prohibitive expense of household surveys.
 
 ![](/papers/PovertyMap.png)
+
+#### Links and replication files
 
 + [Ungated link](/papers/JeanEtAl2016.pdf)
 + Github: [Replication files](https://github.com/nealjean/predicting-poverty) | [Issues](https://github.com/nealjean/predicting-poverty/issues?q=is%3Aissue+is%3Aclosed)
 + Authors' blog posts: [genesis](http://www.g-feed.com/2016/08/risk-aversion-in-science.html) | [summary](http://www.g-feed.com/2016/08/economics-from-space.html) | [update](http://www.g-feed.com/2017/02/targeting-poverty-with-satellites.html)
-+ [Lab website](http://sustain.stanford.edu/predicting-poverty)
-
-We train a convolutional neural network to identify low-level features of image data useful for classification tasks. We then assign the CNN the related task of condensing high-resolution daytime satellite images into lower-dimensional vectors of features covariant with the areas’ corresponding night-time luminosities, which we consider imperfect proxies for levels of economic activity. Ridge regression models then relate these feature vectors to data from representative household surveys conducted in Uganda, Tanzania, Nigeria, Malawi, and Rwanda to generate fine-scale “poverty maps”, regionally disaggregated estimates of the distribution of consumption expenditure and asset wealth. Cross-validation analyses show that our transfer learning method compares favorably to existing and expensive methods at out-of-sample prediction, suggesting potential applications for interventions targeting poverty in data-scarce areas. We emphasize our pipeline uses only public data and software, enabling cheap replication and potential scalability to help address the infrequency and prohibitive expense of household surveys.
-
-Here's a [non-technical animated summary](http://www.youtube.com/watch?v=DafZSeIGLNE)
++ [Sustain Lab website](http://sustain.stanford.edu/predicting-poverty)
++ [Non-technical animated summary](http://www.youtube.com/watch?v=DafZSeIGLNE)
 
 ##### Press
 
@@ -65,7 +68,7 @@ Here's a [non-technical animated summary](http://www.youtube.com/watch?v=DafZSeI
 
 #### Environmental disruption of gendered violence and cultural persistence
 
-+ with [Tanushree Goyal](https://www.tanushreegoyal.com/)
+###### with [Tanushree Goyal](https://www.tanushreegoyal.com/)
 
 #### Climate and political transition
 
