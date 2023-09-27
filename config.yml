@@ -12,7 +12,7 @@ taxonomies:
 
 menu:
     main:
-        - name: Vita (pdf)
+        - name: CV (pdf)
           url: /CV-AlampayDavis.pdf
           weight: 1  
         - name: Research
@@ -66,7 +66,7 @@ params:
           imageHeight: 160
           imageTitle: Matthew Alampay Davis
           buttons:
-            - name: Vita (pdf)
+            - name: CV (pdf)
               url: /CV-AlampayDavis.pdf
             - name: Research
               url: /research/
