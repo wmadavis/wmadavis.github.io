@@ -119,35 +119,33 @@ Prerequisites
 
 These slides are weekly elaborations on a specific newly introduced concept and so do not represent comprehensive coverage of the course material. They’re also not necessarily self-contained; I sometimes supplemented my slides with blackboard work and conversation with students, which is not always captured in the annotations. Course material is also instructor-specific; if you’re reading this as a Columbia student taking the same course, it may not correspond to the treatment or selection of topics your particular instructor chooses to cover. For example, compared to my Spring 2022 coverage, the following material from Fall 2022 covers a wider range of topics but omits some material such as the method of Lagrange multipliers.
 
-##### 0. Pre-course material
+###### 0. [Review of prerequisite calculus and optimization methods](/teaching/micro-2022-fall/00-OptimizationReview.pdf)
 
-###### Review of prerequisite calculus and optimization methods ([PDF](/teaching/micro-2022-fall/00-OptimizationReview.pdf))
-######  Running log of responses to student emails and and corrections to weekly slides ([PDF](/teaching/micro-2022-fall/00-RunningUpdates.pdf))
+##### 1. [Consumer optimization](/teaching/micro-2022-fall/01-ConsumerOptimization.pdf)
 
-##### 1. Consumer optimization ([PDF](/teaching/micro-2022-fall/01-ConsumerOptimization.pdf))
+##### 2. [Hicksian demand and special well-behaved preferences](/teaching/micro-2022-fall/02-HicksianDemand-SpecialPreferences.pdf)
 
-##### 2. Hicksian demand and special well-behaved preferences ([PDF](/teaching/micro-2022-fall/02-HicksianDemand-SpecialPreferences.pdf))
+##### 3. [Comparative statics and Slutsky decomposition of price effects](/teaching/micro-2022-fall/03-ComparativeStatics-IncomeSubstitutionEffects.pdf)
 
-##### 3. Comparative statics and Slutsky decomposition of price effects ([PDF](/teaching/micro-2022-fall/03-ComparativeStatics-IncomeSubstitutionEffects.pdf))
+##### 4. [Hicksian decomposition of price effects and introduction to welfare](/teaching/micro-2022-fall/04-HicksianDecomposition-Welfare.pdf)
 
-##### 4. Hicksian decomposition of price effects and introduction to welfare ([PDF](/teaching/micro-2022-fall/04-HicksianDecomposition-Welfare.pdf))
+##### 5. [Producer Theory I: Cost minimization](/teaching/micro-2022-fall/05-ProducerTheory-CostMinimization.pdf)
 
-##### 5. Producer Theory I: Cost minimization ([PDF](/teaching/micro-2022-fall/05-ProducerTheory-CostMinimization.pdf))
+##### 6. [Producer Theory II: Profit maximization under perfect competition](/teaching/micro-2022-fall/06-ProducerTheory-ProfitMaximization-MarketEquilibrium.pdf)
 
-##### 6. Producer Theory II: Profit maximization under perfect competition ([PDF](/teaching/micro-2022-fall/06-ProducerTheory-ProfitMaximization-MarketEquilibrium.pdf))
+##### 7. [General equilibrium](/teaching/micro-2022-fall/07-GeneralEquilibrium.pdf)
 
-##### 7. General equilibrium ([PDF](/teaching/micro-2022-fall/07-GeneralEquilibrium.pdf))
+##### 8. [Exchange economies and the Edgeworth box](/teaching/micro-2022-fall/08-ExchangeEconomies-MarketClearing-NonInteriorSolutions.pdf)
 
-##### 8. Exchange economies and the Edgeworth box ([PDF](/teaching/micro-2022-fall/08-ExchangeEconomies-MarketClearing-NonInteriorSolutions.pdf)
+##### 9. [Models of monopolistic and oligopolistic competition](/teaching/micro-2022-fall/09-ImperfectCompetition.pdf)
 
-###### By student request, an applied derivation of IC equations and intersections for accurate graphing ([PDF](/teaching/micro-2022-fall/08-GraphingExample.pdf))
+##### 10. [Comparing models of oligopolistic competition](/teaching/micro-2022-fall/10-FinalReview.pdf)
 
-##### 9. Models of monopolistic and oligopolistic competition ([PDF](/teaching/micro-2022-fall/09-ImperfectCompetition.pdf))
+##### Other
 
-##### 10. Pre-final review
-
-###### Comparing models of oligopolistic competition ([PDF](/teaching/micro-2022-fall/10-FinalReview.pdf))
-###### High-level summary and takeaways from the course ([PDF](/teaching/micro-2022-fall/10-CourseSummary.pdf))
+###### [Running log of responses to student emails and and corrections to weekly slides](/teaching/micro-2022-fall/00-RunningUpdates.pdf)
+###### Week 8: by student request, [an applied derivation of IC equations and intersections for accurate graphing](/teaching/micro-2022-fall/08-GraphingExample.pdf)
+###### Week 10: [High-level summary and takeaways from the course](/teaching/micro-2022-fall/10-CourseSummary.pdf)
 
 ---
 
