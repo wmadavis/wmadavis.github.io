@@ -16,7 +16,7 @@ UseHugoToc: true
 
 + A guide to full-time research assistant positions (jobs now called “pre-docs”) as a stepping stone to quantitative social-science PhDs [(Coly Elhai, Quan Le, Kai Matheson, and Carolyn Tsao](https://raguide.github.io/))
 + A short reflection on not getting into any PhD programs, informed by my experience blanking the first time I applied in 2017 (link coming soon)
-+ I have made some of my notes from the PhD coursework sequences from both graduate schools I've attended available on here in the past. But Luke Stein’s impeccable [first-year notes from the Stanford core sequence](https://faculty.babson.edu/lcdstein/steincoresummary.pdf) put them to shame. The gold standard.
++ I have made some of my notes from the PhD coursework sequences from both graduate schools I've attended available on here in the past but Luke Stein’s impeccable [notes from the Stanford core sequence](https://faculty.babson.edu/lcdstein/steincoresummary.pdf) put them to shame. The gold standard.
 + Many people find the first year of the PhD brutal, especially those in programs like mine that may cut some students based on their coursework performance. Here’s a short post on my take written after passing. (link coming soon)
 
 ### Academic skill development
