@@ -30,6 +30,9 @@ menu:
         - name: Contact
           url: /contact/
           weight: 6
+        - name: Other
+          url: /other/
+          weight: 7
 
 params:
     description: "Academic website for W. Matthew Alampay Davis"

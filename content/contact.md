@@ -2,7 +2,7 @@
 title: "Contact"
 url: /contact/
 hidemeta: true
-description: "Columbia economics department on Google maps"
+description: "Contact information"
 showToc: false
 TocOpen: false
 UseHugoToc: false
