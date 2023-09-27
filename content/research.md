@@ -71,8 +71,7 @@ We train a convolutional neural network to identify low-level features of image 
 + Replication files: [(code and data](https://github.com/nealjean/predicting-poverty) $\cdot$ [closed issues)](https://github.com/nealjean/predicting-poverty/issues?q=is%3Aissue+is%3Aclosed)
 + Authors' blog posts: [summary](http://www.g-feed.com/2016/08/economics-from-space.html) $\cdot$ [genesis](http://www.g-feed.com/2016/08/risk-aversion-in-science.html) $\cdot$ [update](http://www.g-feed.com/2017/02/targeting-poverty-with-satellites.html)
 + [Sustain Lab website](http://sustain.stanford.edu/predicting-poverty)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DafZSeIGLNE?si=MaJP_p3c86dEV-EG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
++ [Non-technical animated video summary](https://www.youtube.com/watch?v=DafZSeIGLNE)
 
 ##### Press
 
@@ -84,6 +83,8 @@ We train a convolutional neural network to identify low-level features of image 
 [The Atlantic](https://www.theatlantic.com/technology/archive/2016/08/can-satellites-learn-to-see-poverty/497153/) $\cdot$
 [The Onion](https://www.theonion.com/satellite-images-could-predict-poverty-1819563263) $\cdot$ [Bill Gates](https://twitter.com/BillGates/status/773188644014350336) $\cdot$
 [CGDev](https://www.cgdev.org/blog/can-we-measure-poverty-outer-space)
+
+<blockquote class="twitter-tweet" data-theme="light"><p lang="en" dir="ltr">Satellite Images Could Predict Poverty <a href="https://t.co/9v1TSMPYML">https://t.co/9v1TSMPYML</a> <a href="https://twitter.com/hashtag/WhatDoYouThink?src=hash&amp;ref_src=twsrc%5Etfw">#WhatDoYouThink</a>? <a href="https://t.co/XDUWkt318q">pic.twitter.com/XDUWkt318q</a></p>&mdash; The Onion (@TheOnion) <a href="https://twitter.com/TheOnion/status/768098397094117376?ref_src=twsrc%5Etfw">August 23, 2016</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
