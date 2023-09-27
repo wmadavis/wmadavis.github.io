@@ -22,7 +22,7 @@ UseHugoToc: true
 
 Fall 2020 $\cdot$ Spring 2021 $\cdot$ Fall 2021 $\cdot$ Summer 2023  
 
-> *ECON-UN3412 introduces students to multiple regression and related methods for analyzing data in economics and related disciplines. Additional topics include regression with discrete random variables, instrumental variables regression, analysis of random experiments and quasi-experiments, and regression with time series data. Students will learn how to conduct – and how to critique – empirical studies in economics and related fields. Accordingly, the emphasis of the course is on empirical applications.*  
+> *"ECON-UN3412 introduces students to multiple regression and related methods for analyzing data in economics and related disciplines. Additional topics include regression with discrete random variables, instrumental variables regression, analysis of random experiments and quasi-experiments, and regression with time series data. Students will learn how to conduct – and how to critique – empirical studies in economics and related fields. Accordingly, the emphasis of the course is on empirical applications."*  
 
 Text: [*Introduction to Econometrics*](https://www.sea-stat.com/wp-content/uploads/2020/08/James-H.-Stock-Mark-W.-Watson-Introduction-to-Econometrics-Global-Edition-Pearson-Education-Limited-2020.pdf), James Stock and Mark Watson (2019, 2020)
 
@@ -58,7 +58,7 @@ Instruction here presumes no prior experience with programming other than instal
 
 Spring 2022 $\cdot$ Fall 2022  
 
-> *The purpose of this course is to offer a solid, intermediate-level training in theoretical microeconomics. We will try to achieve a more in-depth understanding of how the standard theoretical models of microeconomics work. The course consists of three parts. We will start out by analyzing consumer decision-making. We then turn to the behavior of firms. Finally, the third part of the course studies the interaction of consumers and firms in goods markets.*  
+> *"The purpose of this course is to offer a solid, intermediate-level training in theoretical microeconomics. We will try to achieve a more in-depth understanding of how the standard theoretical models of microeconomics work. The course consists of three parts. We will start out by analyzing consumer decision-making. We then turn to the behavior of firms. Finally, the third part of the course studies the interaction of consumers and firms in goods markets."*  
 
 Text: [*Intermediate Microeconomics with Calculus*](https://fac.ksu.edu.sa/sites/default/files/microeco-_varian.pdf), Hal Varian (2014)
 
@@ -96,7 +96,9 @@ These slides are weekly elaborations on a specific newly introduced concept and 
 
 ---
 
-### Senior seminars and research workshops 
+### Economics department research consultant
+
+Weekly office hours available to all economics students conducting research for the ten senior thesis seminars or as part-time research assistants. Also tasked with designing and delivering research workshops for honors students.
 
 Fall 2023 $\cdot$ Spring 2024
 
@@ -110,6 +112,6 @@ In progress
 
 $\cdot Spring 2023 $\cdot$  
 
-> *This international economics course is targeted towards non-economics students, focusing on current events and the increasing international interdependence of the world economy. Topics incude: (i) why countries trade, what goods and services will be traded, how the gains from trade are distributed and the tools of commercial policy; (ii) the movement of labor and capital across borders; value of transnational countries and production processes across countries; (iii) international finance issues including exchange rates, balance of payments and open economy macroeconomic adjustment.*
+> *"This international economics course is targeted towards non-economics students, focusing on current events and the increasing international interdependence of the world economy. Topics incude: (i) why countries trade, what goods and services will be traded, how the gains from trade are distributed and the tools of commercial policy; (ii) the movement of labor and capital across borders; value of transnational countries and production processes across countries; (iii) international finance issues including exchange rates, balance of payments and open economy macroeconomic adjustment."*
 
 (Not permitted to share material)
