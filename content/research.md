@@ -63,7 +63,7 @@ We present an empirical framework for evaluating the economic benefits of the 20
 
 We train a convolutional neural network to identify low-level features of image data useful for classification tasks. We then assign the CNN the related task of condensing high-resolution daytime satellite images into lower-dimensional vectors of features covariant with the areas’ corresponding night-time luminosities, which we consider imperfect proxies for levels of economic activity. Ridge regression models then relate these feature vectors to data from representative household surveys conducted in Uganda, Tanzania, Nigeria, Malawi, and Rwanda to generate fine-scale “poverty maps”, regionally disaggregated estimates of the distribution of consumption expenditure and asset wealth. Cross-validation analyses show that our transfer learning method compares favorably to existing and expensive methods at out-of-sample prediction, suggesting potential applications for interventions targeting poverty in data-scarce areas. We emphasize our pipeline uses only public data and software, enabling cheap replication and potential scalability to help address the infrequency and prohibitive expense of household surveys.  
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DafZSeIGLNE?si=MaJP_p3c86dEV-EG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+![](/papers/PovertyMap.png)
 
 #### Paper materials and links
 
@@ -71,7 +71,8 @@ We train a convolutional neural network to identify low-level features of image 
 + Replication files: [(code and data](https://github.com/nealjean/predicting-poverty) $\cdot$ [closed issues)](https://github.com/nealjean/predicting-poverty/issues?q=is%3Aissue+is%3Aclosed)
 + Authors' blog posts: [summary](http://www.g-feed.com/2016/08/economics-from-space.html) $\cdot$ [genesis](http://www.g-feed.com/2016/08/risk-aversion-in-science.html) $\cdot$ [update](http://www.g-feed.com/2017/02/targeting-poverty-with-satellites.html)
 + [Sustain Lab website](http://sustain.stanford.edu/predicting-poverty)
-+ [Non-technical animated summary](http://www.youtube.com/watch?v=DafZSeIGLNE)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DafZSeIGLNE?si=MaJP_p3c86dEV-EG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ##### Press
 
@@ -81,10 +82,8 @@ We train a convolutional neural network to identify low-level features of image 
 [BBC](https://www.bbc.co.uk/news/science-environment-37122748) $\cdot$
 [Scientific American](https://www.scientificamerican.com/article/2016-world-changing-ideas/) $\cdot$
 [The Atlantic](https://www.theatlantic.com/technology/archive/2016/08/can-satellites-learn-to-see-poverty/497153/) $\cdot$
-[The Onion](https://www.theonion.com/satellite-images-could-predict-poverty-1819563263)) $\cdot$ [Bill Gates](https://twitter.com/BillGates/status/773188644014350336) $\cdot$
+[The Onion](https://www.theonion.com/satellite-images-could-predict-poverty-1819563263) $\cdot$ [Bill Gates](https://twitter.com/BillGates/status/773188644014350336) $\cdot$
 [CGDev](https://www.cgdev.org/blog/can-we-measure-poverty-outer-space)
-
-![](/papers/PovertyMap.png)
 
 ---
 
