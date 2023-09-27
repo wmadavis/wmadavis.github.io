@@ -100,7 +100,7 @@ If I were to update this material, I’d integrate .Rprofile and .Rproj files in
 + Principles of Economics
 + Calculus III
 
-#### [Material](https://github.com/wmadavis/courses-IntermediateMicro))
+#### [Material](https://github.com/wmadavis/courses-IntermediateMicro)
 
 ["Intermediate Microeconomics with Calculus” --- Hal Varian (2014)](https://www.google.com/search?q=intermediate+microeconomics+with+calculus+hal+varian+pdf&oq=intermediate&gs_lcrp=EgZjaHJvbWUqCAgCEEUYJxg7Mg8IABBFGDkYgwEYsQMYgAQyCAgBEEUYJxg7MggIAhBFGCcYOzINCAMQABiDARixAxiABDINCAQQABiDARixAxiABDITCAUQLhiDARjHARixAxjRAxiABDINCAYQABiDARixAxiABDIGCAcQRRg90gEIMjg4NmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8&bshm=rime/1)  
 
@@ -140,7 +140,9 @@ These slides are weekly elaborations on a specific newly introduced concept and 
 
 *Sessions taught: Fall 2023, Spring 2024*  
 
-#### Material (TBD)
+#### Material
+
+To be uploaded
 
 ---
 
