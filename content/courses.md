@@ -16,11 +16,9 @@ UseHugoToc: true
 
 *Please reach out if you notice any mistakes or typos in this material. Any and all errors are due to the professors who taught me wrong or the students who didn’t point them out.*  
 
----
-
 ## Teaching
 
-*Out of respect for the non-predatory academic publishing industry, I discourage you from finding a free version of any textbooks mentioned here or elsewhere by Googling their titles, their authors, the edition number, and adding “pdf” at the end. Failing that, I am also hereby disavowing [Sci-Hub](https://sci-hub.se/database) as a resource for obtaining this material as well.*
+*Out of respect for the hard work of academic publishers, I am officially discouraging you from finding a free version of any textbooks mentioned here or elsewhere by Googling their titles, their authors, the edition number, and adding “pdf” at the end. Failing that, I am also hereby disavowing [Sci-Hub](https://sci-hub.se/database) as a resource for obtaining this material as well.*
 
 *I cannot guarantee a response but feel free to email clarifying questions. Video recordings of my econometrics and microeconomics classes may be available upon request to those looking to follow along or supplement their own studies, particularly those from developing countries.*  
 
@@ -35,11 +33,11 @@ Serving as the economics department's research consultant TA providing guidance 
 
 ---
 
-### [Introduction to econometrics](https://github.com/wmadavis/Teaching-IntroEconometrics)
-
-##### Fall 2020, Spring 2021, Fall 2021, Summer 2023
+### Introduction to econometrics
 
 #### Course description
+
+##### Fall 2020, Spring 2021, Fall 2021, Summer 2023
 
 > *ECON-UN3412 introduces students to multiple regression and related methods for analyzing data in economics and related disciplines. Additional topics include regression with discrete random variables, instrumental variables regression, analysis of random experiments and quasi-experiments, and regression with time series data. Students will learn how to conduct – and how to critique – empirical studies in economics and related fields. Accordingly, the emphasis of the course is on empirical applications.*
 
@@ -60,6 +58,8 @@ Below are the weekly guides I produced from the Summer 2023 iteration of my clas
 If I were to update this material, I’d integrate .Rprofile and .Rproj files into the problem set pipeline to simplify students' calling frequently used libraries and functions.
 
 ##### 1. Introduction to R and R Notebooks
+
+###### [Github]((https://github.com/wmadavis/Teaching-IntroEconometrics))
 
 ###### Class notes [(Rmd](/courses/metrics-2023-summer/01-R-Introduction.Rmd) | [PDF)](/courses/metrics-2023-summer/01-R-Introduction.pdf)
 ###### Data practice problems [(Rmd](/courses/metrics-2023-summer/01-R-Introduction.Rmd) | [PDF)](/courses/metrics-2023-summer/01-R-Introduction.pdf)
@@ -100,15 +100,13 @@ If I were to update this material, I’d integrate .Rprofile and .Rproj files in
 
 ---
 
-### [Intermediate microeconomics](https://github.com/wmadavis/courses-IntermediateMicro)
-
-##### Spring 2022, Fall 2022
+### Intermediate microeconomics
 
 #### Course description
 
-> *The purpose of this course is to offer a solid, intermediate-level training in theoretical microeconomics. We will try to achieve a more in-depth understanding of how the standard theoretical models of microeconomics work. The course consists of three parts. We will start out by analyzing consumer decision-making. We then turn to the behavior of firms. Finally, the third part of the course studies the interaction of consumers and firms in goods markets.*  
+##### Spring 2022, Fall 2022
 
-Textbook: ["Intermediate Microeconomics with Calculus” --- Hal Varian (2014)](https://www.google.com/search?q=intermediate+microeconomics+with+calculus+hal+varian+pdf&oq=intermediate&gs_lcrp=EgZjaHJvbWUqCAgCEEUYJxg7Mg8IABBFGDkYgwEYsQMYgAQyCAgBEEUYJxg7MggIAhBFGCcYOzINCAMQABiDARixAxiABDINCAQQABiDARixAxiABDITCAUQLhiDARjHARixAxjRAxiABDINCAYQABiDARixAxiABDIGCAcQRRg90gEIMjg4NmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8&bshm=rime/1)  
+> *The purpose of this course is to offer a solid, intermediate-level training in theoretical microeconomics. We will try to achieve a more in-depth understanding of how the standard theoretical models of microeconomics work. The course consists of three parts. We will start out by analyzing consumer decision-making. We then turn to the behavior of firms. Finally, the third part of the course studies the interaction of consumers and firms in goods markets.*    
 
 Prerequisites
 
@@ -116,6 +114,10 @@ Prerequisites
 + Calculus III
 
 #### Material
+
+["Intermediate Microeconomics with Calculus” --- Hal Varian (2014)](https://www.google.com/search?q=intermediate+microeconomics+with+calculus+hal+varian+pdf&oq=intermediate&gs_lcrp=EgZjaHJvbWUqCAgCEEUYJxg7Mg8IABBFGDkYgwEYsQMYgAQyCAgBEEUYJxg7MggIAhBFGCcYOzINCAMQABiDARixAxiABDINCAQQABiDARixAxiABDITCAUQLhiDARjHARixAxjRAxiABDINCAYQABiDARixAxiABDIGCAcQRRg90gEIMjg4NmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8&bshm=rime/1)  
+
+[Github](https://github.com/wmadavis/courses-IntermediateMicro)
 
 These slides are weekly elaborations on a specific newly introduced concept and so do not represent comprehensive coverage of the course material. They’re also not necessarily self-contained; I sometimes supplemented my slides with blackboard work and conversation with students, which is not always captured in the annotations. Course material is also instructor-specific; if you’re reading this as a Columbia student taking the same course, it may not correspond to the treatment or selection of topics your particular instructor chooses to cover. For example, compared to my Spring 2022 coverage, the following material from Fall 2022 covers a wider range of topics but omits some material such as the method of Lagrange multipliers.
 
@@ -151,6 +153,8 @@ These slides are weekly elaborations on a specific newly introduced concept and 
 
 ### The global economy
 
+#### Course description
+
 ##### Spring 2023
 
 > *This international economics course is targeted towards non-economics students, focusing on current events and the increasing international interdependence of the world economy. Topics incude: (i) why countries trade, what goods and services will be traded, how the gains from trade are distributed and the tools of commercial policy; (ii) the movement of labor and capital across borders; value of transnational countries and production processes across countries; (iii) international finance issues including exchange rates, balance of payments and open economy macroeconomic adjustment.*  
@@ -164,7 +168,11 @@ These slides are weekly elaborations on a specific newly introduced concept and 
 
 (working links coming... eventually)
 
-#### Columbia PhD Core
+---
+
+### Columbia PhD
+
+#### Year 1 Core
 
 + **Econometrics I, Part II**: Asymptotic theory, restricted estimation, and resampling
 + **Econometrics II, Part II**: Resampling, multiple testing, quantile regression, non-parametrics, and treatment effects
@@ -173,12 +181,12 @@ These slides are weekly elaborations on a specific newly introduced concept and 
 
 ### Oxford M.Phil/D.Phil
 
-##### Core
+#### Year 1 Core
 
 + **Macroeconomics**: Qualitative summary of the entire year of material: neoclassical growth theory, macro-finance, monetary economics, macroeconomic policy
 + **Macro-finance**: consumption CAPM, exotic preferences, disaster risk, evidence on financial crises, financial frictions, the Great Recession, liquidity, quantitative easing, and financial bubbles
 
-##### Fields
+#### Year 2 Fields
 
 + **Advanced Microeconomics**: Contracts under information asymmetries, bargaining, and theories of the firm. Notes make reference to figures that are handwritten and not included
 + **Political Economy of Development**:  Literature review: culture and institutions, political reform and political failure, corruption, and conflict
