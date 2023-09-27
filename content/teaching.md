@@ -106,17 +106,17 @@ These slides are weekly elaborations on a specific newly introduced concept and 
 
 ##### 7. General equilibrium $\cdot$ [PDF](/teaching/micro-2022-fall/07-GeneralEquilibrium.pdf)
 
-##### 8. [Exchange economies and the Edgeworth box $\cdot$ [PDF](/teaching/micro-2022-fall/08-ExchangeEconomies-MarketClearing-NonInteriorSolutions.pdf)
+##### 8. Exchange economies and the Edgeworth box $\cdot$ [PDF](/teaching/micro-2022-fall/08-ExchangeEconomies-MarketClearing-NonInteriorSolutions.pdf)
 
 ##### 9. Models of monopolistic and oligopolistic competition $\cdot$ [PDF](/teaching/micro-2022-fall/09-ImperfectCompetition.pdf)
 
 ##### 10. Comparing models of oligopolistic competition $\cdot$ [PDF](/teaching/micro-2022-fall/10-FinalReview.pdf)
 
-##### A1. [Running log of responses to student emails and and corrections to weekly slides](/teaching/micro-2022-fall/00-RunningUpdates.pdf)
+##### A1. Running log of responses to student emails and and corrections to weekly slides $\cdot$ [PDF](/teaching/micro-2022-fall/00-RunningUpdates.pdf)
 
-##### A2. Week 8: by student request, [an applied derivation of IC equations and intersections for accurate graphing](/teaching/micro-2022-fall/08-GraphingExample.pdf)
+##### A2. Week 8: by student request, an applied derivation of IC equations and intersections for accurate graphing $\cdot$ [PDF](/teaching/micro-2022-fall/08-GraphingExample.pdf)
 
-##### A3. Week 10: [High-level summary and takeaways from the course](/teaching/micro-2022-fall/10-CourseSummary.pdf)
+##### A3. Week 10: High-level summary and takeaways from the course $\cdot$ [PDF](/teaching/micro-2022-fall/10-CourseSummary.pdf)
 
 ---
 
