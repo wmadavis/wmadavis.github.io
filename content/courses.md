@@ -24,13 +24,6 @@ UseHugoToc: true
 
 ---
 
-
-### Senior seminars and research workshops
-
-##### Fall 2023, Spring 2024
-
-Serving as the economics department's research consultant TA providing guidance and preparing workshops for undergraduate and master's students conducting research as part of the honors program, the nine senior seminars, or as part-time research assistants. Resources to be uploaded here as they're produced.
-
 ### Introduction to econometrics
 
 #### Course description
@@ -145,7 +138,11 @@ These slides are weekly elaborations on a specific newly introduced concept and 
 ###### Week 8: by student request, [an applied derivation of IC equations and intersections for accurate graphing](/courses/micro-2022-fall/08-GraphingExample.pdf)
 ###### Week 10: [High-level summary and takeaways from the course](/courses/micro-2022-fall/10-CourseSummary.pdf)
 
----
+### Senior seminars and research workshops
+
+##### Fall 2023, Spring 2024
+
+Serving as the economics department's research consultant TA providing guidance and preparing workshops for undergraduate and master's students conducting research as part of the honors program, the nine senior seminars, or as part-time research assistants. Resources to be uploaded here as they're produced.
 
 ### The global economy
 
