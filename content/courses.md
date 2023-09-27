@@ -31,8 +31,6 @@ UseHugoToc: true
 
 Serving as the economics department's research consultant TA providing guidance and preparing workshops for undergraduate and master's students conducting research as part of the honors program, the nine senior seminars, or as part-time research assistants. Resources to be uploaded here as they're produced.
 
----
-
 ### Introduction to econometrics
 
 #### Course description
@@ -98,8 +96,6 @@ If I were to update this material, I’d integrate .Rprofile and .Rproj files in
 ##### 9. Exam 3 review
 ###### [Final points of emphasis](/courses/metrics/2023-summer/09-Exam3-Review.pdf)
 
----
-
 ### Intermediate microeconomics
 
 #### Course description
@@ -160,7 +156,6 @@ These slides are weekly elaborations on a specific newly introduced concept and 
 > *This international economics course is targeted towards non-economics students, focusing on current events and the increasing international interdependence of the world economy. Topics incude: (i) why countries trade, what goods and services will be traded, how the gains from trade are distributed and the tools of commercial policy; (ii) the movement of labor and capital across borders; value of transnational countries and production processes across countries; (iii) international finance issues including exchange rates, balance of payments and open economy macroeconomic adjustment.*  
 
 ---
----
 
 ## Graduate coursework
 
@@ -168,7 +163,6 @@ These slides are weekly elaborations on a specific newly introduced concept and 
 
 (working links coming... eventually)
 
----
 
 ### Columbia PhD
 
