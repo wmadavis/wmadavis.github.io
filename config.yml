@@ -27,8 +27,8 @@ menu:
         - name: Posts
           url: /posts/
           weight: 5
-        - name: Other
-          url: /other/
+        - name: Contact
+          url: /contact/
           weight: 6
 
 params:
@@ -78,8 +78,6 @@ params:
               url: /posts/
             - name: Contact
               url: /contact/
-            - name: Other
-              url: /other/
     socialIcons:
         - name: Email
           url: mailto:wm.alampaydavis@gmail.com
