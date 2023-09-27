@@ -82,7 +82,7 @@ We train a convolutional neural network to identify low-level features of image 
 [Scientific American](https://www.scientificamerican.com/article/2016-world-changing-ideas/) $\cdot$
 [The Atlantic](https://www.theatlantic.com/technology/archive/2016/08/can-satellites-learn-to-see-poverty/497153/) $\cdot$
 [The Onion](https://www.theonion.com/satellite-images-could-predict-poverty-1819563263) $\cdot$ [Bill Gates](https://twitter.com/BillGates/status/773188644014350336) $\cdot$
-[CGDev](https://www.cgdev.org/blog/can-we-measure-poverty-outer-space)
+[Center for Global Development](https://www.cgdev.org/blog/can-we-measure-poverty-outer-space)
 
 ---
 
