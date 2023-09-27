@@ -71,7 +71,7 @@ If I were to update this material, I’d integrate .Rprofile and .Rproj files in
 
 #### 3. Exam 1 review
 
-###### [Points of emphasis](/teaching/metrics-2023-summer/03-ExtraNotes.pdf))
+###### [Points of emphasis](/teaching/metrics-2023-summer/03-ExtraNotes.pdf)
 
 #### 4. Nonlinear regression
 
