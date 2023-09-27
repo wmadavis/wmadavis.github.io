@@ -7,11 +7,6 @@ description: "Summaries and resources for courses I've TA'd for during my teachi
 showToc: true
 TocOpen: true
 UseHugoToc: true
-markup:
-    tableOfContents:
-        endLevel: 3
-        ordered: false
-        startLevel: 2
 
 ---
 
@@ -34,7 +29,7 @@ markup:
 
 ### Senior seminars and research workshops
 
-#### Fall 2023, Spring 2024
+##### Fall 2023, Spring 2024
 
 Serving as the economics department's research consultant TA providing guidance and preparing workshops for undergraduate and master's students conducting research as part of the honors program, the nine senior seminars, or as part-time research assistants. Resources to be uploaded here as they're produced.
 
@@ -42,9 +37,9 @@ Serving as the economics department's research consultant TA providing guidance 
 
 ### [Introduction to econometrics](https://github.com/wmadavis/Teaching-IntroEconometrics)
 
-#### Fall 2020, Spring 2021, Fall 2021, Summer 2023
+##### Fall 2020, Spring 2021, Fall 2021, Summer 2023
 
-##### Course description
+#### Course description
 
 > *ECON-UN3412 introduces students to multiple regression and related methods for analyzing data in economics and related disciplines. Additional topics include regression with discrete random variables, instrumental variables regression, analysis of random experiments and quasi-experiments, and regression with time series data. Students will learn how to conduct – and how to critique – empirical studies in economics and related fields. Accordingly, the emphasis of the course is on empirical applications.*
 
@@ -64,52 +59,52 @@ Below are the weekly guides I produced from the Summer 2023 iteration of my clas
 
 If I were to update this material, I’d integrate .Rprofile and .Rproj files into the problem set pipeline to simplify students' calling frequently used libraries and functions.
 
-#### 1. Introduction to R and R Notebooks
+##### 1. Introduction to R and R Notebooks
 
 ###### Class notes [(Rmd](/courses/metrics-2023-summer/01-R-Introduction.Rmd) | [PDF)](/courses/metrics-2023-summer/01-R-Introduction.pdf)
 ###### Data practice problems [(Rmd](/courses/metrics-2023-summer/01-R-Introduction.Rmd) | [PDF)](/courses/metrics-2023-summer/01-R-Introduction.pdf)
 ###### [Written practice problems](/courses/metrics-2023-summer/01-PracticeProblems-iPad.pdf)
 
-#### 2. Multicollinearity, joint hypothesis testing, and the tidyverse
+##### 2. Multicollinearity, joint hypothesis testing, and the tidyverse
 
 ###### Class notes [(Rmd](/courses/metrics-2023-summer/02-Multicollinearity-JointHypotheses.Rmd) | [PDF)](/courses/metrics-2023-summer/02-Multicollinearity-JointHypotheses.pdf)
 
-#### 3. Exam 1 review
+##### 3. Exam 1 review
 
 ###### [Points of emphasis](/courses/metrics-2023-summer/03-ExtraNotes.pdf)
 
-#### 4. Nonlinear regression
+##### 4. Nonlinear regression
 
 ###### Class notes [(Rmd](/courses/metrics-2023-summer/04-NonLinearRegression.Rmd) | [PDF)](/courses/metrics-2023-summer/04-NonLinearRegression.pdf)
 
-#### 5. Panel data methods and binary dependent variables
+##### 5. Panel data methods and binary dependent variables
 
 ###### Class notes [(Rmd](/courses/metrics-2023-summer/05-Panels-BinaryDVs.Rmd) | [PDF)](/courses/metrics-2023-summer/05-Panels-BinaryDVs.pdf)
 
-#### 6. Exam 2 review
+##### 6. Exam 2 review
 
 ###### [Intuition for fixed effects](/courses/metrics-2023-summer/05-FixedEffects.pdf)
 
-#### 7. Instrumental variables and quasi-experiments
+##### 7. Instrumental variables and quasi-experiments
 
 ###### Class notes [(Rmd](/courses/metrics-2023-summer/07-Instruments-Experiments.Rmd) | [PDF)](/courses/metrics-2023-summer/07-Instruments-Experiments.pdf)
 ###### [Intuition for the control variable approach to IV regression](/courses/metrics-2023-summer/07-ControlVariableApproach.pdf)
 
-#### 8. Big data, time series and dynamic causal effects
+##### 8. Big data, time series and dynamic causal effects
 
 ###### Class notes [(Rmd](/courses/metrics-2023-summer/08-TimeSeries-DynamicCausalEffects.Rmd) | [PDF)](/courses/metrics-2023-summer/08-TimeSeries-DynamicCausalEffects.pdf)
 ###### [Additional big data practice problems](/courses/metrics-2023-summer/08-bigDataPracticeProblems.pdf)
 
-#### 9. Exam 3 review
+##### 9. Exam 3 review
 ###### [Final points of emphasis](/courses/metrics/2023-summer/09-Exam3-Review.pdf)
 
 ---
 
 ### [Intermediate microeconomics](https://github.com/wmadavis/courses-IntermediateMicro)
 
-#### Spring 2022, Fall 2022
+##### Spring 2022, Fall 2022
 
-##### Course description
+#### Course description
 
 > *The purpose of this course is to offer a solid, intermediate-level training in theoretical microeconomics. We will try to achieve a more in-depth understanding of how the standard theoretical models of microeconomics work. The course consists of three parts. We will start out by analyzing consumer decision-making. We then turn to the behavior of firms. Finally, the third part of the course studies the interaction of consumers and firms in goods markets.*  
 
@@ -124,29 +119,29 @@ Prerequisites
 
 These slides are weekly elaborations on a specific newly introduced concept and so do not represent comprehensive coverage of the course material. They’re also not necessarily self-contained; I sometimes supplemented my slides with blackboard work and conversation with students, which is not always captured in the annotations. Course material is also instructor-specific; if you’re reading this as a Columbia student taking the same course, it may not correspond to the treatment or selection of topics your particular instructor chooses to cover. For example, compared to my Spring 2022 coverage, the following material from Fall 2022 covers a wider range of topics but omits some material such as the method of Lagrange multipliers.
 
-#### 0. [Review of prerequisite calculus and optimization methods](/courses/micro-2022-fall/00-OptimizationReview.pdf)
+##### 0. [Review of prerequisite calculus and optimization methods](/courses/micro-2022-fall/00-OptimizationReview.pdf)
 
-#### 1. [Consumer optimization](/courses/micro-2022-fall/01-ConsumerOptimization.pdf)
+##### 1. [Consumer optimization](/courses/micro-2022-fall/01-ConsumerOptimization.pdf)
 
-#### 2. [Hicksian demand and special well-behaved preferences](/courses/micro-2022-fall/02-HicksianDemand-SpecialPreferences.pdf)
+##### 2. [Hicksian demand and special well-behaved preferences](/courses/micro-2022-fall/02-HicksianDemand-SpecialPreferences.pdf)
 
-#### 3. [Comparative statics and Slutsky decomposition of price effects](/courses/micro-2022-fall/03-ComparativeStatics-IncomeSubstitutionEffects.pdf)
+##### 3. [Comparative statics and Slutsky decomposition of price effects](/courses/micro-2022-fall/03-ComparativeStatics-IncomeSubstitutionEffects.pdf)
 
-#### 4. [Hicksian decomposition of price effects and introduction to welfare](/courses/micro-2022-fall/04-HicksianDecomposition-Welfare.pdf)
+##### 4. [Hicksian decomposition of price effects and introduction to welfare](/courses/micro-2022-fall/04-HicksianDecomposition-Welfare.pdf)
 
-#### 5. [Producer Theory I: Cost minimization](/courses/micro-2022-fall/05-ProducerTheory-CostMinimization.pdf)
+##### 5. [Producer Theory I: Cost minimization](/courses/micro-2022-fall/05-ProducerTheory-CostMinimization.pdf)
 
-#### 6. [Producer Theory II: Profit maximization under perfect competition](/courses/micro-2022-fall/06-ProducerTheory-ProfitMaximization-MarketEquilibrium.pdf)
+##### 6. [Producer Theory II: Profit maximization under perfect competition](/courses/micro-2022-fall/06-ProducerTheory-ProfitMaximization-MarketEquilibrium.pdf)
 
-#### 7. [General equilibrium](/courses/micro-2022-fall/07-GeneralEquilibrium.pdf)
+##### 7. [General equilibrium](/courses/micro-2022-fall/07-GeneralEquilibrium.pdf)
 
-#### 8. [Exchange economies and the Edgeworth box](/courses/micro-2022-fall/08-ExchangeEconomies-MarketClearing-NonInteriorSolutions.pdf)
+##### 8. [Exchange economies and the Edgeworth box](/courses/micro-2022-fall/08-ExchangeEconomies-MarketClearing-NonInteriorSolutions.pdf)
 
-#### 9. [Models of monopolistic and oligopolistic competition](/courses/micro-2022-fall/09-ImperfectCompetition.pdf)
+##### 9. [Models of monopolistic and oligopolistic competition](/courses/micro-2022-fall/09-ImperfectCompetition.pdf)
 
-#### 10. [Comparing models of oligopolistic competition](/courses/micro-2022-fall/10-FinalReview.pdf)
+##### 10. [Comparing models of oligopolistic competition](/courses/micro-2022-fall/10-FinalReview.pdf)
 
-#### Other
+##### Other
 
 ###### [Running log of responses to student emails and and corrections to weekly slides](/courses/micro-2022-fall/00-RunningUpdates.pdf)
 ###### Week 8: by student request, [an applied derivation of IC equations and intersections for accurate graphing](/courses/micro-2022-fall/08-GraphingExample.pdf)
@@ -156,7 +151,7 @@ These slides are weekly elaborations on a specific newly introduced concept and 
 
 ### The global economy
 
-#### Spring 2023
+##### Spring 2023
 
 > *This international economics course is targeted towards non-economics students, focusing on current events and the increasing international interdependence of the world economy. Topics incude: (i) why countries trade, what goods and services will be traded, how the gains from trade are distributed and the tools of commercial policy; (ii) the movement of labor and capital across borders; value of transnational countries and production processes across countries; (iii) international finance issues including exchange rates, balance of payments and open economy macroeconomic adjustment.*  
 
@@ -169,7 +164,7 @@ These slides are weekly elaborations on a specific newly introduced concept and 
 
 (working links coming... eventually)
 
-### Columbia PhD Core
+#### Columbia PhD Core
 
 + **Econometrics I, Part II**: Asymptotic theory, restricted estimation, and resampling
 + **Econometrics II, Part II**: Resampling, multiple testing, quantile regression, non-parametrics, and treatment effects
@@ -178,12 +173,12 @@ These slides are weekly elaborations on a specific newly introduced concept and 
 
 ### Oxford M.Phil/D.Phil
 
-#### Core
+##### Core
 
 + **Macroeconomics**: Qualitative summary of the entire year of material: neoclassical growth theory, macro-finance, monetary economics, macroeconomic policy
 + **Macro-finance**: consumption CAPM, exotic preferences, disaster risk, evidence on financial crises, financial frictions, the Great Recession, liquidity, quantitative easing, and financial bubbles
 
-#### Fields
+##### Fields
 
 + **Advanced Microeconomics**: Contracts under information asymmetries, bargaining, and theories of the firm. Notes make reference to figures that are handwritten and not included
 + **Political Economy of Development**:  Literature review: culture and institutions, political reform and political failure, corruption, and conflict
