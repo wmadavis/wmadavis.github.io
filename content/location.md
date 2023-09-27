@@ -1,5 +1,5 @@
 ---
-title: "Location"
+title: "Contact"
 hidemeta: true
 description: "Columbia economics department on Google maps"
 showToc: false
@@ -7,11 +7,11 @@ TocOpen: false
 UseHugoToc: false
 ---
 
----
++ [wm.alampaydavis@gmail.com](mailto:wm.alampaydavis@gmail.com)
++ [alampay.davis@columbia.edu](mailto:alampay.davis@columbia.edu)
++ [Github](https://github.com/wmadavis?tab=repositories)
 
-#### Work address
-
-Economics Department, Columbia University  
+Columbia University  
 International Affairs Building, Fl. 11  
 420 West 118th Street  
 New York, NY 10027

@@ -23,7 +23,6 @@ We present an empirical framework for evaluating the economic benefits of the 20
 
 + Paper links: [(official](https://doi.org/10.1038/s41586-018-0071-9) $\cdot$ [ungated)](/papers/BurkeDavisDiffenbaugh2018.pdf)
 + [Replication files](https://github.com/wmadavis/BDD2018)
-+ [Non-technical video summary](http://www.youtube.com/watch?v=DafZSeIGLNE)
 + [ECHO Lab website](https://www.stanfordecholab.com/)
 
 ##### Press
@@ -62,9 +61,9 @@ We present an empirical framework for evaluating the economic benefits of the 20
 **[Neal Jean](https://nealjean.com/), [Marshall Burke](https://web.stanford.edu/~mburke/), [Michael Xie](https://cs.stanford.edu/~eix/), Matthew Alampay Davis, [David B. Lobell](https://fse.fsi.stanford.edu/people/david_lobell), [Stefano Ermon](https://cs.stanford.edu/~ermon/) (2016)**  
 *Science, 353 (6301), 790-794*  
 
-We train a convolutional neural network to identify low-level features of image data useful for classification tasks. We then assign the CNN the related task of condensing high-resolution daytime satellite images into lower-dimensional vectors of features covariant with the areas’ corresponding night-time luminosities, which we consider imperfect proxies for levels of economic activity. Ridge regression models then relate these feature vectors to data from representative household surveys conducted in Uganda, Tanzania, Nigeria, Malawi, and Rwanda to generate fine-scale “poverty maps”, regionally disaggregated estimates of the distribution of consumption expenditure and asset wealth. Cross-validation analyses show that our transfer learning method compares favorably to existing and expensive methods at out-of-sample prediction, suggesting potential applications for interventions targeting poverty in data-scarce areas. We emphasize our pipeline uses only public data and software, enabling cheap replication and potential scalability to help address the infrequency and prohibitive expense of household surveys.
+We train a convolutional neural network to identify low-level features of image data useful for classification tasks. We then assign the CNN the related task of condensing high-resolution daytime satellite images into lower-dimensional vectors of features covariant with the areas’ corresponding night-time luminosities, which we consider imperfect proxies for levels of economic activity. Ridge regression models then relate these feature vectors to data from representative household surveys conducted in Uganda, Tanzania, Nigeria, Malawi, and Rwanda to generate fine-scale “poverty maps”, regionally disaggregated estimates of the distribution of consumption expenditure and asset wealth. Cross-validation analyses show that our transfer learning method compares favorably to existing and expensive methods at out-of-sample prediction, suggesting potential applications for interventions targeting poverty in data-scarce areas. We emphasize our pipeline uses only public data and software, enabling cheap replication and potential scalability to help address the infrequency and prohibitive expense of household surveys.  
 
-![](/papers/PovertyMap.png)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DafZSeIGLNE?si=MaJP_p3c86dEV-EG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 #### Paper materials and links
 
@@ -84,6 +83,8 @@ We train a convolutional neural network to identify low-level features of image 
 [The Atlantic](https://www.theatlantic.com/technology/archive/2016/08/can-satellites-learn-to-see-poverty/497153/) $\cdot$
 [The Onion](https://www.theonion.com/satellite-images-could-predict-poverty-1819563263)) $\cdot$ [Bill Gates](https://twitter.com/BillGates/status/773188644014350336) $\cdot$
 [CGDev](https://www.cgdev.org/blog/can-we-measure-poverty-outer-space)
+
+![](/papers/PovertyMap.png)
 
 ---
 
