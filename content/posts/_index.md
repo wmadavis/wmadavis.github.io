@@ -1,6 +1,6 @@
 ---
-title: "Posts"
+title: "Blog"
 description: "Miscellaneous postings"
 ---
 
-Nothing here yet! Still importing from my old site.
+Under construction! Still transitioning older posts from my old site
