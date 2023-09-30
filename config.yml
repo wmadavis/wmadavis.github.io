@@ -86,14 +86,14 @@ params:
           url: mailto:wm.alampaydavis@gmail.com
         - name: GitHub
           url: https://github.com/wmadavis?tab=repositories
+        - name: Office hours
+          url: https://calendly.com/wmadavis
         - name: Google Scholar
           url: https://scholar.google.com/citations?user=ri2tMA8AAAAJ
         - name: Twitter
           url: https://twitter.com/alampaydavis
         - name: Bluesky
-          url: https://bsky.app/profile/matthewdavis.bsky.social
-        - name: Office hours
-          url: https://calendly.com/wmadavis
+          url: https://bsky.app/profile/wmadavis.com
         - name: Location
           url: /contact/
 
