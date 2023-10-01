@@ -11,7 +11,7 @@ UseHugoToc: true
 
 *Using this space to share some of the resources I’ve prepared during my TA career at Columbia. I’ve seen some of my notes paywalled on Course Hero so please just take it from here for free. Columbia students can use their university email to book office hours [here](https://calendly.com/wmadavis/).*  
 
-*Out of respect for the hard work of academic publishers, I am officially discouraging you from finding a free version of any textbooks mentioned here or elsewhere by Googling their titles, their authors, the edition number, and adding “pdf” at the end. Failing that, I am also hereby disavowing [Sci-Hub](https://sci-hub.se/database) as a resource for obtaining this material as well.*
+*Out of respect for the hard work of academic publishers, I discourage anyone from obtaining free copies of hundred-dollar textbooks mentioned here or elsewhere by typing their title, author, and edition number plus “pdf” into Google. In addition, I hereby disavow [Sci-Hub](https://sci-hub.se/database) as another resource for easily obtaining this material for free.*
 
 
 *Please reach out if you notice any mistakes or typos in this material. Any and all errors are due to the professors who taught me wrong or the students who didn’t point them out.*  
