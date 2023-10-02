@@ -98,13 +98,13 @@ These slides are weekly elaborations on a specific newly introduced concept and 
 
 ### Economics department research consultant
 
-Weekly office hours available to all economics students conducting research for the ten senior thesis seminars or as part-time research assistants. Also tasked with designing and delivering research workshops for honors students.
+Fall 2023 $\cdot$ Spring 2024  
 
-Fall 2023 $\cdot$ Spring 2024
+Weekly office hours available to all economics students conducting research for the ten senior thesis seminars or as part-time research assistants. Also tasked with designing and delivering research workshops for honors students.
 
 #### Prepared material
 
-In progress
+Coming soon!
 
 ---
 
@@ -114,4 +114,4 @@ Spring 2023
 
 > *"This international economics course is targeted towards non-economics students, focusing on current events and the increasing international interdependence of the world economy. Topics incude: (i) why countries trade, what goods and services will be traded, how the gains from trade are distributed and the tools of commercial policy; (ii) the movement of labor and capital across borders; value of transnational countries and production processes across countries; (iii) international finance issues including exchange rates, balance of payments and open economy macroeconomic adjustment."*
 
-(Not permitted to share material)
+*(Not permitted to share material)*
