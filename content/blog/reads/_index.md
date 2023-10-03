@@ -1,4 +1,4 @@
 ---
-title: "Links, lately"
-description: "Rounding up some interesting things I've been reading"
+title: "What I've been reading"
+description: "Links, lately"
 ---
