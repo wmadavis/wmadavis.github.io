@@ -112,6 +112,6 @@ markup:
         startLevel: 3
 
 # max number of characters:
-# * title: 70
+# * title: 300
 # * description: 120–155
 # * summary: 1000
