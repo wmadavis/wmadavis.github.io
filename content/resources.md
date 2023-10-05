@@ -10,22 +10,22 @@ UseHugoToc: true
 
 ---
 
-*Using this space to collate academic resources I’ve personally found the most constructive. I make this qualification because plenty of advice I’ve seen widely circulated over the years absolutely would not work for me: my advice for reading advice is to feel emboldened to reject it. Resources for specific courses I've taught or taken are found in the [Courses](/courses/) page.*
+*Using this space to collate academic resources I’ve personally found the most constructive. I make this qualification because plenty of advice I’ve seen widely circulated over the years absolutely would not work for me: my advice for reading advice is to feel emboldened to reject it.*
 
-### Grad-school prep and the first two years of the PhD
+### Preparing for grad school
 
 + A guide to full-time research assistant positions (jobs now called “pre-docs”) as a stepping stone to quantitative social-science PhDs [(Coly Elhai, Quan Le, Kai Matheson, and Carolyn Tsao)](https://raguide.github.io/)
-+ [On not getting into a PhD program](/posts/0003)
-+ [Academia as a series of checkpoints](/posts/0002), a short reflection written after finishing the first year of the PhD
++ [Taking off the academic blinders](/posts/0003)
++ [Thoughts on the first year of an economics PhD](/posts/0002)
 + I have made some of my notes from the PhD coursework sequences from both my graduate schools on here in the past but [Luke Stein’s impeccable notes on the Stanford core sequence](https://faculty.babson.edu/lcdstein/steincoresummary.pdf) put them to shame. The gold standard.
 
 ### Academic skill development
 
-+ Most academics largely taught themselves how to code. Some tips here specific to R on remedying bad practices they probably picked up by doing so. ([Jennifer Bryan and Jim Hester](https://rstats.wtf/), particularly Sections 2 and 3 on project-oriented workflows)
-+ The anatomy of an applied micro talk [(Jesse Shapiro)](https://scholar.harvard.edu/files/shapiro/files/applied_micro_slides.pdf)
-+ A style guide for mathematical writing ([Donald E. Knuth, Tracy Larrabee, and Paul M. Roberts)](https://jmlr.csail.mit.edu/reviewing-papers/knuth_mathematical_writing.pdf), particularly Section 1)
 + How to critique academic work, helpful for referee reports and seminar discussion [(Macartan Humphreys)](https://macartan.github.io/teaching/how-to-critique)
 + How to build an economic model in your spare time [(Hal Varian](https://people.ischool.berkeley.edu/~hal/Papers/how.pdf))
++ Most academics taught themselves how to code. Some tips here (specific to R) on remedying bad practices you probably picked up by doing so. ([Jennifer Bryan and Jim Hester](https://rstats.wtf/), particularly Sections 2 and 3 on project-oriented workflows)
++ The anatomy of an applied micro talk [(Jesse Shapiro)](https://scholar.harvard.edu/files/shapiro/files/applied_micro_slides.pdf)
++ A style guide for mathematical writing ([Donald E. Knuth, Tracy Larrabee, and Paul M. Roberts)](https://jmlr.csail.mit.edu/reviewing-papers/knuth_mathematical_writing.pdf), particularly Section 1)
 
 ### Doing research
 
