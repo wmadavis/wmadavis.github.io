@@ -21,6 +21,10 @@ UseHugoToc: true
 
 ### Academic skill development
 
++ [Programming cheat sheets for R packages](https://posit.co/resources/cheatsheets/)
+    + For most social science applications, the sheets on **dplyr**, **tidyr**, **stringr**, and **ggplot2** are most useful
+    + **magrittr**, **purrr**, and R Markdown are vastly underused, imo
+    + There are similarly good cheat sheets for Stata directly inspired by these ones. I'll link them here once StataCorp is nationalized.
 + How to critique academic work, helpful for referee reports and seminar discussion [(Macartan Humphreys)](https://macartan.github.io/teaching/how-to-critique)
 + How to build an economic model in your spare time [(Hal Varian](https://people.ischool.berkeley.edu/~hal/Papers/how.pdf))
 + Most academics taught themselves how to code. Some tips here (specific to R) on remedying bad practices you probably picked up by doing so. ([Jennifer Bryan and Jim Hester](https://rstats.wtf/), particularly Sections 2 and 3 on project-oriented workflows)
@@ -31,7 +35,7 @@ UseHugoToc: true
 
 + The transition from coursework to research [(Paul Niehaus)](https://medium.com/@paul.niehaus/doing-research-18cb310529e0)
 
-> *"An alternative way to create structure is to focus on your system. By system I mean the habits and routines you develop and practice on a regular basis. For example, attending the seminar each week, writing down three suggestions for ways to improve the paper, and meeting afterwards with a classmate to discuss your ideas is a practice you might incorporate into your system. In designing your system, your aim is to give yourself a high probability of eventually accomplishing your ultimate goal (come up with a great job market paper) even though you cannot predict with any certainty the sequence of events through which this will come about."*
+> *"An alternative way to create structure is to focus on your system. By system I mean the habits and routines you develop and practice on a regular basis. For example, attending the seminar each week, writing down three suggestions for ways to improve the paper, and meeting afterwards with a classmate to discuss your ideas is a practice you might incorporate into your system. In designing your system, your aim is to give yourself a high probability of eventually accomplishing your ultimate goal (come up with a great job market paper) even though you cannot predict with any certainty the sequence of events through which this will come about."*
 
 + How to find research ideas, among other valuable insights on topics such as co-authoring and choosing journals to submit to [(Susan Athey, int. Simon Bowmaker](https://static1.squarespace.com/static/56ec62678a65e20b89da5f33/t/5f481c378f691221f1a3fda8/1598561335875/athey.pdf), pp. 6-8)
 
