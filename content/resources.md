@@ -22,7 +22,7 @@ UseHugoToc: true
 ### Academic skill development
 
 + Most academics largely taught themselves how to code. Some tips here specific to R on remedying bad practices they probably picked up by doing so. ([Jennifer Bryan and Jim Hester](https://rstats.wtf/), particularly Sections 2 and 3 on project-oriented workflows)
-+ Anatomy of an applied micro talk [Jesse Shapiro)](https://scholar.harvard.edu/files/shapiro/files/applied_micro_slides.pdf)
++ The anatomy of an applied micro talk [(Jesse Shapiro)](https://scholar.harvard.edu/files/shapiro/files/applied_micro_slides.pdf)
 + A style guide for mathematical writing ([Donald E. Knuth, Tracy Larrabee, and Paul M. Roberts)](https://jmlr.csail.mit.edu/reviewing-papers/knuth_mathematical_writing.pdf), particularly Section 1)
 + How to critique academic work, helpful for referee reports and seminar discussion [(Macartan Humphreys)](https://macartan.github.io/teaching/how-to-critique)
 + How to build an economic model in your spare time [(Hal Varian](https://people.ischool.berkeley.edu/~hal/Papers/how.pdf))

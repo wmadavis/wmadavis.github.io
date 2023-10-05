@@ -18,6 +18,18 @@ UseHugoToc: true
 
 ---
 
+### Departmental research TA
+
+Fall 2023 $\cdot$ Spring 2024  
+
+Consultant to all undergraduate economics students conducting research (namely, senior honors students, senior seminar students, and part-time research assistants). Also tasked with designing and leading programming workshops for honors thesis students.
+
+#### Prepared material
+
+Coming soon
+
+---
+
 ### Introduction to econometrics
 
 Fall 2020 $\cdot$ Spring 2021 $\cdot$ Fall 2021 $\cdot$ Summer 2023  
@@ -93,18 +105,6 @@ These slides are weekly elaborations on a specific newly introduced concept and 
 ##### A2. Week 8: by student request, an applied derivation of IC equations and intersections for accurate graphing   |   [PDF](/teaching/micro-2022-fall/08-GraphingExample.pdf)
 
 ##### A3. Week 10: High-level summary and takeaways from the course   |   [PDF](/teaching/micro-2022-fall/10-CourseSummary.pdf)
-
----
-
-### Economics department research consultant
-
-Fall 2023 $\cdot$ Spring 2024  
-
-Weekly office hours available to all economics students conducting research for the ten senior thesis seminars or as part-time research assistants. Also tasked with designing and delivering research workshops for honors students.
-
-#### Prepared material
-
-Coming soon!
 
 ---
 
