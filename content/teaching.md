@@ -62,7 +62,7 @@ Instruction here presumes no prior experience with programming other than instal
 
 ##### 8. Big data, time series and dynamic causal effects   |   [RMD](/teaching/metrics-2023-summer/08-TimeSeries-DynamicCausalEffects.Rmd) $\cdot$ [PDF](/teaching/metrics-2023-summer/08-TimeSeries-DynamicCausalEffects.pdf)
 
-##### 9. Exam 3 review   |   [PDF](/teaching/metrics/2023-summer/09-Exam3-Review.pdf)
+##### 9. Exam 3 review   |   [PDF](/teaching/metrics-2023-summer/09-Exam3-Review.pdf)
 
 ---
 
