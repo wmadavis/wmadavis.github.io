@@ -17,13 +17,13 @@ UseHugoToc: true
 + A guide to full-time research assistant positions (jobs now called “pre-docs”) as a stepping stone to quantitative social-science PhDs [(Coly Elhai, Quan Le, Kai Matheson, and Carolyn Tsao)](https://raguide.github.io/)
 + [Taking off the academic blinders](/posts/0003)
 + [Thoughts on the first year of an economics PhD](/posts/0002)
-+ I have made some of my notes from the PhD coursework sequences from both my graduate schools on here in the past but [Luke Stein’s impeccable notes on the Stanford core sequence](https://faculty.babson.edu/lcdstein/steincoresummary.pdf) put them to shame. The gold standard.
++ I have made some of my notes from the PhD coursework sequences from both my graduate schools available on here in the past but [Luke Stein’s impeccable notes on the Stanford core sequence](https://faculty.babson.edu/lcdstein/steincoresummary.pdf) put them to shame.
 
 ### Academic skill development
 
 + [Programming cheat sheets for R packages](https://posit.co/resources/cheatsheets/)
-    + For most social science applications, the sheets on **dplyr**, **tidyr**, **stringr**, and **ggplot2** are most useful
-    + **magrittr**, **purrr**, and R Markdown are vastly underused, imo
+    + For most social science applications, the sheets on *dplyr*, *tidyr*, *stringr*, and *ggplot2* are most useful
+    + *magrittr*, *purrr*, and R Markdown are vastly underused, imo
     + There are similarly good cheat sheets for Stata directly inspired by these ones. I'll link them here once StataCorp is nationalized.
 + How to critique academic work, helpful for referee reports and seminar discussion [(Macartan Humphreys)](https://macartan.github.io/teaching/how-to-critique)
 + How to build an economic model in your spare time [(Hal Varian](https://people.ischool.berkeley.edu/~hal/Papers/how.pdf))
