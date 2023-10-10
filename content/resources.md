@@ -24,7 +24,7 @@ UseHugoToc: true
 + [Programming cheat sheets for R packages](https://posit.co/resources/cheatsheets/)
     + For most social science applications, the sheets on *dplyr*, *tidyr*, *stringr*, and *ggplot2* are most useful
     + *magrittr*, *purrr*, and R Markdown are vastly underused, imo
-    + There are similarly good cheat sheets for Stata directly inspired by these ones. I'll link them here once StataCorp is nationalized.
+    + Equivalents for $tata [here](https://geocenter.github.io/StataTraining/)
 + How to critique academic work, helpful for referee reports and seminar discussion [(Macartan Humphreys)](https://macartan.github.io/teaching/how-to-critique)
 + How to build an economic model in your spare time [(Hal Varian](https://people.ischool.berkeley.edu/~hal/Papers/how.pdf))
 + Most academics taught themselves how to code. Some tips here (specific to R) on remedying bad practices you probably picked up by doing so. ([Jennifer Bryan and Jim Hester](https://rstats.wtf/), particularly Sections 2 and 3 on project-oriented workflows)
