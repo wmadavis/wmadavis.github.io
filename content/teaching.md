@@ -11,7 +11,7 @@ UseHugoToc: true
 
 *Using this space to share some of the material I've prepared and resources used during my TA career. I've seen some of my notes paywalled on Course Hero so please just take it from here for free. Columbia students and research assistants can use their university email to book office hours [here](https://calendly.com/wmadavis/).*  
 
-*Out of respect for the hard work of academic publishers, I discourage anyone from obtaining free copies of the $100+ dollar textbooks mentioned here or elsewhere by typing their title, author, and edition number plus “pdf” into Google. In addition, I hereby disavow [Sci-Hub](https://sci-hub.se/database) as another resource for easily obtaining this material for free.*
+*Out of respect for the hard work of academic publishers, I discourage anyone from obtaining free copies of textbooks mentioned here or elsewhere by typing their title, author, and edition number plus “pdf” into Google. In addition, I disavow [Sci-Hub](https://sci-hub.se/database) as another resource for easily obtaining this material for free.*
 
 *Please reach out if you notice any mistakes or typos in this material. Any and all errors are due to the professors who taught me wrong or the students who didn’t point them out.*  
 
@@ -21,7 +21,7 @@ UseHugoToc: true
 
 Fall 2023 $\cdot$ Spring 2024  
 
-Consultant to all undergraduate economics students conducting research (namely, junior and senior seminar students, honors thesis students, and part-time research assistants). Also tasked with designing and leading programming workshops on script-writing and project-oriented workflows for thesis students. Resourced used to prepare these workshops are enumerated [here](/teaching/courses/data-ta)
+Consultant to all undergraduate economics students conducting research (namely, junior and senior seminar students, honors thesis students, and part-time research assistants). Also tasked with designing and leading programming workshops on script-writing and project-oriented workflows for thesis students. Materials prepared and resources used to prepare these workshops are enumerated [here](/teaching/data-ta).
 
 ---
 
@@ -109,4 +109,4 @@ Spring 2023
 
 > *"This international economics course is targeted towards non-economics students, focusing on current events and the increasing international interdependence of the world economy. Topics incude: (i) why countries trade, what goods and services will be traded, how the gains from trade are distributed and the tools of commercial policy; (ii) the movement of labor and capital across borders; value of transnational countries and production processes across countries; (iii) international finance issues including exchange rates, balance of payments and open economy macroeconomic adjustment."*
 
-*(Not permitted to share material)*
+*I am not permitted to share material*

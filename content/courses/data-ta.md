@@ -1,7 +1,7 @@
 ---
 title: "Departmental research TA"
-aliases: /teaching/courses/data-ta
-url: /teaching/data-ta
+aliases: /courses/research-ta
+url: /teaching/research-ta
 disableAnchoredHeadings: false
 description: "Resources used for preparation of research workshops"
 showToc: true
@@ -11,12 +11,12 @@ UseHugoToc: true
 
 ### Basics
 
-+ [Cheatsheet for using R](/teaching/research-2023/tidyverse-cheatsheet.pdf) ([source](https://posit.co/resources/cheatsheets/)). The most relevant sheets:
++ [Cheatsheet for using R](/teaching/research-2023/tidyverse-cheatsheet.pdf) [(source)](https://posit.co/resources/cheatsheets/). The most relevant sheets:
     + Data cleaning: *dplyr* and *tidyr*
     + Figures: *ggplot2*
     + Working with character/word vectors: stringr
     + If you plan on using R Notebooks: *rmarkdown*
-+ [Cheatsheet for using $tata here](/teaching/research-2023/tidyverse-cheatsheet.pdf) ([source](https://geocenter.github.io/StataTraining/portfolio/01_resource/))
++ [Cheatsheet for using Stata here](/teaching/research-2023/tidyverse-cheatsheet.pdf) [(source)](https://geocenter.github.io/StataTraining/portfolio/01_resource/)
 
 ### Workshop 1: script-writing](/teaching/research-2023/Workshop-Slides.pdf)
 
