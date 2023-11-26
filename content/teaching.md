@@ -23,7 +23,7 @@ Fall 2023 $\cdot$ Spring 2024
 
 Consultant to all undergraduate economics students conducting research (namely, junior and senior seminar students, honors thesis students, and part-time research assistants). Also tasked with designing and leading programming workshops on script-writing and project-oriented workflows for thesis students.
 
-Materials prepared and resources used to prepare these workshops are enumerated [here](/teaching/research-ta).
+Materials prepared and resources used to prepare these workshops are enumerated [here.](/teaching/research-ta)
 
 ---
 

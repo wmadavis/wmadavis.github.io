@@ -9,7 +9,7 @@ TocOpen: true
 UseHugoToc: true
 ---
 
-### Basics
+### General
 
 + [Cheatsheet for using R](/teaching/research-2023/tidyverse-cheatsheet.pdf) [(source)](https://posit.co/resources/cheatsheets/). The most relevant sheets by function:
     + Data cleaning: *dplyr* and *tidyr*
@@ -30,11 +30,9 @@ UseHugoToc: true
 
 ### [Workshop 2: project-oriented workflows](/teaching/research-2023/Workshop2-Slides.pdf)
 
-General:
-
 + [A guide to code and data for researchers](https://web.stanford.edu/~gentzkow/research/CodeAndData.pdf)
 
-R:
+R-specific:
 
 + [Why use R Projects?](https://rstats.wtf/projects) (the other chapters here are great too)
     + A more basic guide [here](https://stat545.com/r-basics.html)
@@ -43,7 +41,7 @@ R:
 + A bit more advanced: [R profiles](https://rstats.wtf/r-startup.html)
 + [Setting seeds](https://r-coder.com/set-seed-r/) for replicability
 
-Stata:
+Stata-specific:
 
 + [Stata's equivalent of R's *here* package for relative filepaths](https://github.com/korenmiklos/here)
 + [Workflows for automating tables](https://lukestein.github.io/stata-latex-workflows/gallery/)
