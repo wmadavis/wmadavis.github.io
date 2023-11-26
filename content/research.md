@@ -27,6 +27,8 @@ We present an empirical framework for evaluating the economic benefits of the 20
 
 ##### Press
 
+<iframe width="852" height="480" src="https://www.youtube.com/embed/40JS3W4um7o" title="Marshall Burke on The Daily Show" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 [Nature](https://www.nature.com/articles/d41586-018-05198-7) $\cdot$
 [Stanford](https://news.stanford.edu/2018/05/23/reducing-emissions-save-trillions/) $\cdot$
 [Bloomberg](https://www.bna.com/money-fewer-woes-n57982093114/) $\cdot$
@@ -39,7 +41,7 @@ We present an empirical framework for evaluating the economic benefits of the 20
 [The New Yorker](https://www.newyorker.com/news/news-desk/the-false-choice-between-economic-growth-and-combatting-climate-change) $\cdot$
 [Business Insider](https://www.businessinsider.com/climate-change-capitalism-economic-threat-worse-than-depression-2019-2?r=US&IR=T) $\cdot$
 [Rolling Stone](https://www.rollingstone.com/politics/politics-news/why-the-green-new-deal-is-cheap-actually-965794/) $\cdot$
-[The Daily Show](https://www.youtube.com/watch?v=40JS3W4um7o)
+[The Daily Show (TV)](https://www.youtube.com/watch?v=40JS3W4um7o)
 
 ##### Citations
 
