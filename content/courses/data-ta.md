@@ -18,7 +18,7 @@ UseHugoToc: true
     + If you plan on using R Notebooks: *rmarkdown*
 + [Cheatsheet for using Stata here](/teaching/research-2023/tidyverse-cheatsheet.pdf) [(source)](https://geocenter.github.io/StataTraining/portfolio/01_resource/)
 
-### Workshop 1: script-writing](/teaching/research-2023/Workshop1-Slides.pdf)
+### [Workshop 1: script-writing](/teaching/research-2023/Workshop1-Slides.pdf)
 
 + See my [econometrics notes below](/teaching/#introduction-to-econometrics) for a refresher on R, R Notebooks, and for an intro econometrics refresher.
 + R: [*fixest*](https://cran.r-project.org/web/packages/fixest/vignettes/fixest_walkthrough.html) package (as opposed to lm or plm) for running regressions
@@ -29,7 +29,7 @@ UseHugoToc: true
 + R: [*magrittr* for piping](https://magrittr.tidyverse.org/) for very intuitive and readable script-writing especially for data processing. An intro [here](https://www.datacamp.com/tutorial/pipe-r-tutorial).
 + Stata: an intro to [data cleaning functions](https://geocenter.github.io/StataTraining/part2/)
 
-### Workshop 2: project-oriented workflows](/teaching/research-2023/Workshop2-Slides.pdf)
+### [Workshop 2: project-oriented workflows](/teaching/research-2023/Workshop2-Slides.pdf)
 
 General:
 
