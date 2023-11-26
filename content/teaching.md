@@ -9,10 +9,9 @@ TocOpen: true
 UseHugoToc: true
 ---
 
-*Using this space to share some of the resources I’ve prepared during my TA career at Columbia. I’ve seen some of my notes paywalled on Course Hero so please just take it from here for free. Columbia students can use their university email to book office hours [here](https://calendly.com/wmadavis/).*  
+*Using this space to share some of the material I've prepared and resources used during my TA career. I've seen some of my notes paywalled on Course Hero so please just take it from here for free. Columbia students and research assistants can use their university email to book office hours [here](https://calendly.com/wmadavis/).*  
 
 *Out of respect for the hard work of academic publishers, I discourage anyone from obtaining free copies of the $100+ dollar textbooks mentioned here or elsewhere by typing their title, author, and edition number plus “pdf” into Google. In addition, I hereby disavow [Sci-Hub](https://sci-hub.se/database) as another resource for easily obtaining this material for free.*
-
 
 *Please reach out if you notice any mistakes or typos in this material. Any and all errors are due to the professors who taught me wrong or the students who didn’t point them out.*  
 
@@ -22,11 +21,82 @@ UseHugoToc: true
 
 Fall 2023 $\cdot$ Spring 2024  
 
-Consultant to all undergraduate economics students conducting research (namely, senior honors students, senior seminar students, and part-time research assistants). Also tasked with designing and leading programming workshops for honors thesis students.
+Consultant to all undergraduate economics students conducting research (namely, junior and senior seminar students, honors thesis students, and part-time research assistants). Also tasked with designing and leading programming workshops for thesis students. Sharing some of the resources used to prepare these workshops below:
 
 #### Prepared material
 
-Coming soon
+##### Basics
+
++ [Cheatsheet for using R](/teaching/research-2023/tidyverse-cheatsheet.pdf) ([source](https://posit.co/resources/cheatsheets/)). The most relevant sheets:
+    + Data cleaning: *dplyr* and *tidyr*
+    + Figures: *ggplot2*
+    + Working with character/word vectors: stringr
+    + If you plan on using R Notebooks: *rmarkdown*
++ [Cheatsheet for using $tata here](/teaching/research-2023/tidyverse-cheatsheet.pdf) ([source](https://geocenter.github.io/StataTraining/portfolio/01_resource/))
+
+##### Workshop 1: script-writing](/teaching/research-2023/Worskhop1-Slides.pdf)
+
++ See my [econometrics notes below](/teaching/#introduction-to-econometrics) for a refresher on R, R Notebooks, and for an intro econometrics refresher.
++ R: [*fixest*](https://cran.r-project.org/web/packages/fixest/vignettes/fixest_walkthrough.html) package (as opposed to lm or plm) for running regressions
+    + faster and flexible formula writing
+    + easier and intuitive to adjust fixed effects, lags and lead of variables without creating new variables yourself, using preferred standard errors,
+    + can estimate a family of regression models simultaneously using the same formula (see link)
+    + its **etable** function provides a nice pipeline for creating very customizable tables automatically (better in my opinion than the usual suggestion, which is the stargazer package)
++ R: [*magrittr* for piping](https://magrittr.tidyverse.org/) for very intuitive and readable script-writing especially for data processing. An intro [here](https://www.datacamp.com/tutorial/pipe-r-tutorial).
++ Stata: an intro to [data cleaning functions](https://geocenter.github.io/StataTraining/part2/)
+
+##### Workshop 2: project-oriented workflows](/teaching/research-2023/Worskhop2-Slides.pdf)
+
+General:
+
++ [A guide to code and data for researchers](https://web.stanford.edu/~gentzkow/research/CodeAndData.pdf)
+
+R:
+
++ [Why use R Projects?](https://rstats.wtf/projects) (the other chapters here are great too)
+    + A more basic guide [here](https://stat545.com/r-basics.html)
++ [Relative filepaths using the *here* package](https://here.r-lib.org/)
++ [A guide to R Notebooks](https://bookdown.org/yihui/rmarkdown/notebook.html)
++ A bit more advanced: [R profiles](https://rstats.wtf/r-startup.html)
++ [Setting seeds](https://r-coder.com/set-seed-r/) for replicability
+
+Stata:
+
++ [Stata's equivalent of R's *here* package for relative filepaths](https://github.com/korenmiklos/here)
++ [Workflows for automating tables](https://lukestein.github.io/stata-latex-workflows/gallery/)
++ More advanced: [Stata's equivalent of R Profiles](https://www.stata.com/support/faqs/programming/profile-do-file/)
++ More advanced: [Jupyter Notebooks for Stata](https://www.stata.com/features/overview/jupyter-notebooks/)
++ [Setting seeds](https://www.stata.com/manuals13/rsetseed.pdf) for replicability
+
+##### Other material
+
+Topics I'd cover if I had more time:
+
++ Debugging tips: how to identify bugs in your code
++ Using ChatGPT as a coding resource. Error prone but really valuable if you ask questions well. It also generates reproducible examples if you ask. Some things I use it for:
+    + "How do I do [task] in Stata?"
+    + "How do I implement [task] in R using [package, e.g. the tidyverse]?"
+    + Copy and paste a chunk of code and then ask what each line is doing
+    + [pasted code] What's a more efficient way of accomplishing the same thing?"
+    + "This is my code: [pasted code]. I get an error that says [X]. Where is my mistake?"
++ Writing your own functions
+    + [A guide in R](https://www.dataquest.io/blog/write-functions-in-r/)
+    + [A guide in Python](https://www.w3schools.com/python/python_functions.asp)
++ Implementing different kinds of regressions (I do this a little bit in my econometrics notes)
++ Customizing regression tables
++ Data visualization
+    + R: see the ggplot2 cheatsheet
+    + Stata: see the commands in the cheatsheet and [here](https://geocenter.github.io/StataTraining/part4/)'s a guided introduction
+
+Other possibly helpful resources:
+
++ Trello for keeping notes, maintaining to-do lists, storing relevant documents, summarizing research meetings, etc. Sychronizes across all devices.
++ [How to present an applied micro paper](https://scholar.harvard.edu/files/shapiro/files/applied_micro_slides.pdf)
++ Browser extensions
+    + **EZProxy Redirect** to access online resources that Columbia has subscriptions to when away from university internet and without using a VPN
+    + **Simple Mass Downloader** to download all files contained in a web page
++ Literature review
+    + Google Scholar search is obvious but also click on the "Cited by" link under a search result to find other relevant and possibly more up to date papers and methods or see if someone’s already done what you want to do
 
 ---
 
@@ -56,7 +126,7 @@ Instruction here presumes no prior experience with programming other than instal
 
 ##### 5. Panel data methods and binary dependent variables   |   [RMD](/teaching/metrics-2023-summer/05-Panels-BinaryDVs.Rmd) $\cdot$ [PDF](/teaching/metrics-2023-summer/05-Panels-BinaryDVs.pdf)
 
-##### 6. Exam 2 review   |   [PDF](/teaching/metrics-2023-summer/05-FixedEffects.pdf)
+##### 6. Exam 2 review   |   [PDF](/teaching/metrics-2023-summer/06-FixedEffects.pdf)
 
 ##### 7. Instrumental variables and quasi-experiments   |   [RMD](/teaching/metrics-2023-summer/07-Instruments-Experiments.Rmd) $\cdot$ [PDF](/teaching/metrics-2023-summer/07-Instruments-Experiments.pdf)
 
