@@ -21,13 +21,9 @@ UseHugoToc: true
 
 ### Academic skill development
 
-+ [Programming cheat sheets for R packages](https://posit.co/resources/cheatsheets/)
-    + For most social science applications, the sheets on *dplyr*, *tidyr*, *stringr*, and *ggplot2* are most useful
-    + *magrittr*, *purrr*, and R Markdown are vastly underused, imo
-    + Equivalents for $tata [here](https://geocenter.github.io/StataTraining/)
 + How to critique academic work, helpful for referee reports and seminar discussion [(Macartan Humphreys)](https://macartan.github.io/teaching/how-to-critique)
 + How to build an economic model in your spare time [(Hal Varian](https://people.ischool.berkeley.edu/~hal/Papers/how.pdf))
-+ Most academics taught themselves how to code. Some tips here (specific to R) on remedying bad practices you probably picked up by doing so. ([Jennifer Bryan and Jim Hester](https://rstats.wtf/), particularly Sections 2 and 3 on project-oriented workflows)
++ Most academics taught themselves how to code. Some tips here (specific to R) on remedying bad habits ([Jennifer Bryan and Jim Hester](https://rstats.wtf/), particularly Sections 2 and 3 on project-oriented workflows)
 + The anatomy of an applied micro talk [(Jesse Shapiro)](https://scholar.harvard.edu/files/shapiro/files/applied_micro_slides.pdf)
 + A style guide for mathematical writing ([Donald E. Knuth, Tracy Larrabee, and Paul M. Roberts)](https://jmlr.csail.mit.edu/reviewing-papers/knuth_mathematical_writing.pdf), particularly Section 1)
 
