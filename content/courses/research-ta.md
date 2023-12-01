@@ -1,6 +1,6 @@
 ---
 title: "Departmental research consultant"
-aliases: /teaching/research-ta
+aliases: /teaching/data-ta
 url: /teaching/research-ta
 disableAnchoredHeadings: false
 description: "Resources used for preparation of research workshops"
