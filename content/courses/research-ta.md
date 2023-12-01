@@ -1,5 +1,5 @@
 ---
-title: "Departmental research consultant"
+title: "Data/Research TA Resources"
 aliases: /teaching/data-ta
 url: /teaching/research-ta
 disableAnchoredHeadings: false
