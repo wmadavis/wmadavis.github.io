@@ -11,20 +11,22 @@ UseHugoToc: true
 
 ### General
 
-+ [Cheatsheet for using R](/teaching/research-2023/tidyverse-cheatsheet.pdf) [(source)](https://posit.co/resources/cheatsheets/). The most relevant sheets by function:
-    + Data cleaning: *dplyr* and *tidyr*
-    + Figures: *ggplot2*
-    + Working with character/word vectors: *stringr*
-    + If you plan on using R Notebooks: *rmarkdown*
-+ [Cheatsheet for using Stata here](/teaching/research-2023/tidyverse-cheatsheet.pdf) [(source)](https://geocenter.github.io/StataTraining/portfolio/01_resource/)
++ [Cheatsheet of R commands for data work](/teaching/research-2023/tidyverse-cheatsheet.pdf).
+    + Data cleaning: **dplyr** and **tidyr**
+    + Figures: **ggplot2**
+    + Working with character/word vectors: **stringr**
+    + If you plan on using R Notebooks: **rmarkdown**
+    + [Original source](https://posit.co/resources/cheatsheets/)
++ [Cheatsheet of Stata commands for data work used Stata commands](/teaching/research-2023/tidyverse-cheatsheet.pdf)
+    + [Original source](https://geocenter.github.io/StataTraining/portfolio/01_resource/)
 
 ### [Workshop 1: script-writing](/teaching/research-2023/Workshop1-Slides.pdf)
 
 + See my [econometrics notes below](/teaching/#introduction-to-econometrics) for a refresher on R, R Notebooks, and for an intro econometrics refresher.
-+ R: [*fixest*](https://cran.r-project.org/web/packages/fixest/vignettes/fixest_walkthrough.html) for running regressions (as opposed to lm or plm)
++ R: [**fixest**](https://cran.r-project.org/web/packages/fixest/vignettes/fixest_walkthrough.html) for running regressions (as opposed to lm or plm)
     + faster estimation
     + flexible formula writing allows simultaneous estimation of many similar regression models, much simpler and more convenient inclusion of leads, lags, and differences of variables, and intuitive specification of standard errors
-    + its **etable** function provides a nice pipeline for creating very customizable tables automatically (better in my opinion than the usual suggestion, which is the stargazer package)
+    + its *etable* function provides a nice pipeline for creating very customizable tables automatically (better in my opinion than the usual suggestion, which is the stargazer package)
 + R: [*magrittr* for piping](https://magrittr.tidyverse.org/) for very intuitive and readable script-writing especially for data processing. An intro [here](https://www.datacamp.com/tutorial/pipe-r-tutorial).
 + Stata: an intro to [data cleaning functions](https://geocenter.github.io/StataTraining/part2/)
 
@@ -74,7 +76,7 @@ Topics I'd cover with more time
 + Trello for keeping notes, maintaining to-do lists, storing relevant documents, summarizing research meetings, etc. Sychronizes across all devices.
 + [How to present an applied micro paper](https://scholar.harvard.edu/files/shapiro/files/applied_micro_slides.pdf)
 + Browser extensions
-    + **EZProxy Redirect** to access online resources that Columbia has subscriptions to when away from university internet and without using a VPN
-    + **Simple Mass Downloader** to download all files contained in a web page
+    + *EZProxy Redirect* to access online resources that Columbia has subscriptions to when away from university internet and without using a VPN
+    + *Simple Mass Downloader* to download all files contained in a web page
 + Literature review
     + Google Scholar search is obvious but also click on the "Cited by" link under a search result to find other relevant and possibly more up to date papers and methods or see if someone’s already done what you want to do
