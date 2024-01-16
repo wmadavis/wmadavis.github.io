@@ -11,7 +11,7 @@ UseHugoToc: false
 [wm.alampaydavis@gmail.com](mailto:wm.alampaydavis@gmail.com)  
 [alampay.davis@columbia.edu](mailto:alampay.davis@columbia.edu)
 
-Department of Economics
+Department of Economics  
 Columbia University  
 International Affairs Building, Fl. 11  
 420 West 118th Street  
