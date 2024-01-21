@@ -17,7 +17,6 @@ UseHugoToc: true
 + A guide to full-time research assistant positions (jobs now called “pre-docs”) as a stepping stone to quantitative social-science PhDs [(Coly Elhai, Quan Le, Kai Matheson, and Carolyn Tsao)](https://raguide.github.io/)
 + [Taking off the academic blinders](/posts/0003)
 + [Thoughts on the first year of an economics PhD](/posts/0002)
-+ I have made some of my notes from the PhD coursework sequences from both my graduate schools available on here in the past but [Luke Stein’s impeccable notes on the Stanford core sequence](https://faculty.babson.edu/lcdstein/steincoresummary.pdf) put them to shame.
 + I have made some of my notes from the PhD coursework sequences from both my graduate schools available on here in the past but [Luke Stein’s impeccable notes on the Stanford core sequence](https://faculty.babson.edu/lcdstein/steincoresummary.pdf) put them to shame
 
 ### Academic skill development
