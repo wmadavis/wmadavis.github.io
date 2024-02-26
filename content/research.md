@@ -15,7 +15,7 @@ UseHugoToc: true
 **[Marshall Burke](https://web.stanford.edu/~mburke/) $\cdot$ Matthew Alampay Davis $\cdot$ [Noah S. Diffenbaugh](https://profiles.stanford.edu/noah-diffenbaugh) (2018)**  
 *Nature, 557, 549-553*
 
-We present an empirical framework for evaluating the economic benefits of the 2015 Paris Agreement’s temperature targets of 1.5°C and 2.0°. Our findings decompose the large uncertainties involved in such projection exercises and stress the inequity in impacts: it is a stark result that poorer countries that have historically contributed least to carbon emissions have the most the gain from mitigation of global warming.
+We present an empirical framework for evaluating the economic benefits of the 2015 Paris Agreement’s temperature targets of 1.5° and 2.0°C. Our findings decompose the large uncertainties involved in such projection exercises and stress the inequity in impacts: it is a stark result that poorer countries that have historically contributed least to carbon emissions have the most to gain from mitigating global warming.
 
 ![Figure 4: The impact of global warming on global GDP per capita, relative to a world without warming, for different forcing levels.](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41586-018-0071-9/MediaObjects/41586_2018_71_Fig4_HTML.jpg)
 
