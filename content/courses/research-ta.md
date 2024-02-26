@@ -26,7 +26,7 @@ UseHugoToc: true
     + faster estimation
     + flexible formula writing allows simultaneous estimation of many similar regression models, much simpler and more convenient inclusion of leads, lags, and differences of variables, and intuitive specification of standard errors
     + its *etable* function provides a nice pipeline for creating very customizable tables automatically (better in my opinion than the usual suggestion, which is the stargazer package)
-+ R: [*magrittr* for piping](https://magrittr.tidyverse.org/) for very intuitive and readable script-writing especially for data processing. An intro [here](https://www.datacamp.com/tutorial/pipe-r-tutorial).
++ R: [**magrittr**](https://magrittr.tidyverse.org/) for very intuitive and readable script-writing especially for data processing. An intro [here](https://www.datacamp.com/tutorial/pipe-r-tutorial).
 + Stata: an intro to [data cleaning functions](https://geocenter.github.io/StataTraining/part2/)
 
 ### [Workshop 2: project-oriented workflows](/teaching/research-2023/Workshop2-Slides.pdf)
