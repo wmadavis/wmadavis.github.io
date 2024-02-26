@@ -21,7 +21,6 @@ UseHugoToc: true
     + [Original source](https://geocenter.github.io/StataTraining/portfolio/01_resource/)
 
 ### [Workshop 1: script-writing](/teaching/research-2023/Workshop1-Slides.pdf)
-
 + See my [econometrics notes below](/teaching/#introduction-to-econometrics) for a refresher on R, R Notebooks, and for an intro econometrics refresher.
 + R: [**fixest**](https://cran.r-project.org/web/packages/fixest/vignettes/fixest_walkthrough.html) for running regressions (as opposed to lm or plm)
     + faster estimation
@@ -56,12 +55,12 @@ Stata-specific:
 Topics I'd cover with more time
 
 + Debugging tips: how to identify bugs in your code
-+ Using ChatGPT as a coding resource. Error prone but really valuable if you ask questions well. It also generates reproducible examples if you ask. Some things I use it for:
++ Using ChatGPT as a coding resource. It is quite error prone (especially for Stata since it isn't open source) but invaluable when it does work. Some things I use it for:
     + "How do I do [task] in Stata?"
     + "How do I implement [task] in R using [package, e.g. the tidyverse]?"
     + Copy and paste a chunk of code and then ask what each line is doing
     + [pasted code] What's a more efficient way of accomplishing the same thing?"
-    + "This is my code: [pasted code]. I get an error that says [X]. Where is my mistake?"
+    + "This is my code: [pasted code]. I get an error that says [error]. Where is my mistake?"
 + Writing your own functions
     + [A guide in R](https://www.dataquest.io/blog/write-functions-in-r/)
     + [A guide in Python](https://www.w3schools.com/python/python_functions.asp)
