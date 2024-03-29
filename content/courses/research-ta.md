@@ -17,7 +17,7 @@ UseHugoToc: true
     + Working with character/word vectors: **stringr**
     + If you plan on using R Notebooks: **rmarkdown**
     + [Original source](https://posit.co/resources/cheatsheets/)
-+ [Cheatsheet of Stata commands for data work used Stata commands](/teaching/research-2023/tidyverse-cheatsheet.pdf)
++ [Cheatsheet of Stata commands for data work](/teaching/research-2023/tidyverse-cheatsheet.pdf)
     + [Original source](https://geocenter.github.io/StataTraining/portfolio/01_resource/)
 
 ### [Workshop 1: script-writing](/teaching/research-2023/Workshop1-Slides.pdf)
