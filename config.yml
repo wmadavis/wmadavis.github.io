@@ -88,7 +88,7 @@ params:
         - name: Location
           url: /contact/
         - name: Twitter
-          url: twitter.com/tropicsentence
+          url: https://twitter.com/tropicsentence
 
     assets:
         disableHLJS: true
