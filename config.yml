@@ -79,16 +79,12 @@ params:
     socialIcons:
         - name: Email
           url: mailto:wm.alampaydavis@gmail.com
-        - name: Office hours
-          url: https://calendly.com/wmadavis
         - name: Google Scholar
           url: https://scholar.google.com/citations?user=ri2tMA8AAAAJ
         - name: GitHub
           url: https://github.com/wmadavis?tab=repositories
         - name: Location
           url: /contact/
-        - name: Twitter
-          url: https://twitter.com/tropicsentence
 
     assets:
         disableHLJS: true
