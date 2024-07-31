@@ -40,7 +40,7 @@ We present an empirical framework for evaluating the economic benefits of the 20
 + [Replication files](https://github.com/wmadavis/BDD2018)
 + [ECHO Lab website](https://www.stanfordecholab.com/)
 
-##### Press
+#### Press
 
 <iframe width="852" height="480" src="https://www.youtube.com/embed/40JS3W4um7o" title="Marshall Burke on The Daily Show" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -58,7 +58,7 @@ We present an empirical framework for evaluating the economic benefits of the 20
 [Rolling Stone](https://www.rollingstone.com/politics/politics-news/why-the-green-new-deal-is-cheap-actually-965794/) $\cdot$
 [The Daily Show (TV)](https://www.youtube.com/watch?v=40JS3W4um7o)
 
-##### Citations
+##### Other citations
 
 [New York Times](https://www.nytimes.com/2018/10/15/climate/trump-climate-change-fact-check.html?smid=tw-nytimes&smtyp=cur) $\cdot$
 [The Guardian](https://www.theguardian.com/us-news/2018/oct/15/fact-check-donald-trumps-claims-versus-climate-science) $\cdot$
@@ -90,7 +90,7 @@ We train a convolutional neural network to identify low-level features of image 
 + [Sustain Lab website](http://sustain.stanford.edu/predicting-poverty)
 + [Non-technical animated video summary](https://www.youtube.com/watch?v=DafZSeIGLNE)
 
-##### Press
+#### Press
 
 [Science](http://science.sciencemag.org/content/353/6301/753) $\cdot$
 [Stanford](https://news.stanford.edu/2016/08/18/combining-satellite-data-machine-learning-to-map-poverty/) $\cdot$
