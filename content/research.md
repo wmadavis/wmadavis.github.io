@@ -10,6 +10,21 @@ UseHugoToc: true
 
 ---
 
+### Work in progress
+
+#### Climate inequality (Job Market Paper)
+
++ Early version (2019) supervised by [Elizabeth Baldwin](http://elizabeth-baldwin.me.uk/) and [David F. Hendry](https://www.nuffield.ox.ac.uk/people/profiles/david-hendry/) named Oxford’s first ‘exceptional’-class (mark of 80+) graduate economics thesis in at least four years
++ Revised version (2023) supervised by [Suresh Naidu](https://sites.santafe.edu/~snaidu/) awarded Columbia’s Wueller Prize for runner-up best pre-dissertation proposal
+
+#### Environmental disruption of gendered violence and cultural persistence (with [Tanushree Goyal](https://www.tanushreegoyal.com/))
+
+#### Climate change and political transition
+
+#### Elite capture and the political economy of descriptive and substantive representations
+
+---
+
 ### Large potential reduction in economic damages under UN mitigation targets
 
 **[Marshall Burke](https://web.stanford.edu/~mburke/) $\cdot$ Matthew Alampay Davis $\cdot$ [Noah S. Diffenbaugh](https://profiles.stanford.edu/noah-diffenbaugh) (2018)**  
@@ -85,18 +100,3 @@ We train a convolutional neural network to identify low-level features of image 
 [The Atlantic](https://www.theatlantic.com/technology/archive/2016/08/can-satellites-learn-to-see-poverty/497153/) $\cdot$
 [The Onion](https://www.theonion.com/satellite-images-could-predict-poverty-1819563263) $\cdot$ [Bill Gates](https://twitter.com/BillGates/status/773188644014350336) $\cdot$
 [Center for Global Development](https://www.cgdev.org/blog/can-we-measure-poverty-outer-space)
-
----
-
-### Work in progress
-
-#### Climate inequality
-
-+ Early version (2019) supervised by [Elizabeth Baldwin](http://elizabeth-baldwin.me.uk/) and [David F. Hendry](https://www.nuffield.ox.ac.uk/people/profiles/david-hendry/) named Oxford’s first ‘exceptional’-class (mark of 80+) graduate economics thesis in at least four years
-+ Revised version (2023) supervised by [Suresh Naidu](https://sites.santafe.edu/~snaidu/) awarded Columbia’s Wueller Prize for runner-up best pre-dissertation proposal
-
-#### Environmental disruption of gendered violence and cultural persistence (with [Tanushree Goyal](https://www.tanushreegoyal.com/))
-
-#### Climate change and political transition
-
-#### Elite capture and the political economy of descriptive and substantive representations
