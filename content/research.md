@@ -3,7 +3,7 @@ title: "Research"
 aliases: /research/
 url: /research/
 disableAnchoredHeadings: false
-description: "Page for published and in-progress research projects"
+description: "Page summarizing published and in-progress research projects with relevant links"
 showToc: true
 TocOpen: true
 UseHugoToc: true
