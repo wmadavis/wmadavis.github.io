@@ -62,7 +62,7 @@ params:
           imageHeight: 160
           imageTitle: Matthew Alampay Davis
           buttons:
-            - name: Vita
+            - name: Curry Veets
               url: /CV-AlampayDavis.pdf
             - name: Research
               url: /research/
