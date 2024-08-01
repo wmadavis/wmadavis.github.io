@@ -10,18 +10,18 @@ UseHugoToc: true
 
 ---
 
-#### Dissertation work in progress
+### Dissertation work in progress
 
-##### Climate inequality (Job Market Paper)
+<h4>Climate inequality (Job Market Paper)</h4>
 
 + Early version (2019) supervised by [Elizabeth Baldwin](http://elizabeth-baldwin.me.uk/) and [David F. Hendry](https://www.nuffield.ox.ac.uk/people/profiles/david-hendry/) named Oxford’s first ‘exceptional’-class (mark of 80+) graduate economics thesis in at least four years
 + Revised version (2023) supervised by [Suresh Naidu](https://sites.santafe.edu/~snaidu/) awarded Columbia’s Wueller Prize for runner-up best pre-dissertation proposal
 
-##### Environmental disruption of gendered violence and cultural persistence (with [Tanushree Goyal](https://www.tanushreegoyal.com/))
+<h4> Environmental disruption of gendered violence and cultural persistence (with [Tanushree Goyal](https://www.tanushreegoyal.com/))</h4>
 
-##### Climate change and political transition
+<h4>Climate change and political transition
 
-##### Elite capture and the political economy of descriptive and substantive representations
+<h4>Elite capture and the political economy of descriptive and substantive representations</h4>
 
 ---
 
