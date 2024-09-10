@@ -10,7 +10,9 @@ UseHugoToc: true
 
 ---
 
-### Climate inequality (Job Market Paper)
+### Climate inequality
+
+**Matthew Alampay Davis (Job Market Paper)** 
 
 This paper documents a new result—that transitory temperature shocks tend to increase within-country income inequality substantially and persistently—and considers its implications for the welfare economics of climate change. First, I use grouped income data from distributional national accounts to estimate dynamic growth incidence responses to an identified pulse of temperature over a multidecadal projection horizon. This is accomplished by refining newly developed time series methods to flexibly address several commonly raised statistical concerns with minimally restrictive parametric assumptions. Results depict steep non-linear income gradients funneling marginal costs to lower-income groups and concentrating marginal relative benefits in narrow high-income quantiles. This pattern of compounding inequality is found to be surprisingly consistent across geographies while still reproducing the stark temperature-based divergence reported in abundant empirical work when integrated over observed income distributions. The distributional and aggregate results are reconciled by rejecting speculative but frequently offered bottom-up explanations for the aggregate divergence, demonstrating the first-order importance of departing from standard distribution-agnostic approaches.
 
