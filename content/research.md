@@ -20,11 +20,11 @@ This article documents a new fact—that transitory temperature shocks tend to i
 + Early version (2019) supervised by [Elizabeth Baldwin](http://elizabeth-baldwin.me.uk/) and [David F. Hendry](https://www.nuffield.ox.ac.uk/people/profiles/david-hendry/) named Oxford’s first ‘exceptional’-class (mark of 80+) graduate economics thesis in at least four years
 + Revised version (2023) supervised by [Suresh Naidu](https://sites.santafe.edu/~snaidu/) awarded Columbia’s Wueller Prize for runner-up best pre-dissertation proposal
 
-<h4>Cultural transmission and disruption of gender norms and gendered violence (with <a href="https://www.tanushreegoyal.com/">Tanushree Goyal</a>)</h4>
+<h4>Economic disruption, cultural anti-persistence, and intimate-partner violence (with <a href="https://www.tanushreegoyal.com/">Tanushree Goyal</a>)</h4>
 
-<h4>Political transition under environmental change</h4>
+<h4>Political transition under environmental stress</h4>
 
-<h4>Identity political economy: A bargaining model of substantive representation</h4>
+<h4>Elite capture and identity politics: A formal model of substantive representation</h4>
 
 ---
 
