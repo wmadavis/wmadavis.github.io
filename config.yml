@@ -56,8 +56,8 @@ params:
     profileMode:
           enabled: true
           title: Matthew Alampay Davis
-          subtitle: "I’m a PhD candidate at Columbia University's economics department and will be on the 2024-25 job market. My research interests broadly intersect economic development and inequality, environmental economics, and political economy. My dissertation comprises studies of the distributional and political implications of climate change and joint work studying the transmission and disruption of gender inequality in the Global South."
-          imageUrl: "/profile4.jpeg"
+          subtitle: "I’m a PhD candidate at Columbia University's economics department and will be on the 2024-25 job market. My research interests broadly intersect economic development and inequality, environmental economics, and political economy. My dissertation comprises studies of the distributional and political implications of climate change and joint work studying the incidence of intimate-partner violence in developing countries."
+          imageUrl: "/profile-crop.jpg"
           imageWidth: 160
           imageHeight: 160
           imageTitle: Matthew Alampay Davis
