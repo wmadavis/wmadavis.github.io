@@ -12,12 +12,7 @@ UseHugoToc: true
 
 ### Climate inequality
 
-*Job Market Paper (manuscript to be posted in October)* 
-
-This paper documents a new result—that transitory temperature shocks tend to increase within-country income inequality substantially and persistently—and considers its implications for the welfare economics of climate change. First, I use grouped income data from distributional national accounts to estimate dynamic growth incidence responses to an identified pulse of temperature over a multidecadal projection horizon. This is accomplished by refining newly developed time series methods to flexibly address several commonly raised statistical concerns with minimally restrictive parametric assumptions. Results depict steep non-linear income gradients funneling marginal costs to lower-income groups and concentrating marginal relative benefits in narrow high-income quantiles. This pattern of compounding inequality is found to be surprisingly consistent across geographies while still reproducing the stark temperature-based divergence reported in abundant empirical work when integrated over observed income distributions. The distributional and aggregate results are reconciled by rejecting speculative but frequently offered bottom-up explanations for the aggregate divergence, demonstrating the first-order importance of departing from standard distribution-agnostic approaches.
-
-
-I then integrate this dynamic impulse response model with outputs of a suite of climate models to simulate the implied influence of anthropogenic climate change on the global income distribution first i) between 1960-2016 and then ii) under a variety of climate forcing scenarios projected through to 2100. The results from these counterfactual exercises are embedded in a stylized model incorporating a variety of alternative social welfare functions from which optimal fiscal policy can be derived. I close by considering these findings in relation to the prevailing utilitarian cost-benefit paradigm in the economics of climate change.
+*Job Market Paper (manuscript to be distributed in October)* 
 
 + Early version (2019) supervised by [Elizabeth Baldwin](http://elizabeth-baldwin.me.uk/) and [David F. Hendry](https://www.nuffield.ox.ac.uk/people/profiles/david-hendry/) named Oxford’s first ‘exceptional’-class (mark of 80+) graduate economics thesis in at least four years
 + Revised version (2023) supervised by [Suresh Naidu](https://sites.santafe.edu/~snaidu/) awarded Columbia’s Wueller Prize for runner-up best pre-dissertation proposal
