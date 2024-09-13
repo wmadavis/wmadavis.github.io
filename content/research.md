@@ -14,6 +14,8 @@ UseHugoToc: true
 
 *Job Market Paper (manuscript to be distributed in October)* 
 
+This paper documents a new empirical finding—that transitory temperature shocks increase within-country income inequality persistently—and considers its implications for the welfare economics of climate change. Estimation proceeds by adapting recently developed time series methods to address several statistical issues raised in recent literature. Applying these refinements to distributional national accounts produces dynamic growth incidence responses depicting non-linear inequality-exacerbating income gradients which shed new light on mechanisms driving aggregate divergence. In a pair of counterfactual exercises, I combine these impulse responses with observed income distributions and the outputs of new-generation climate models to simulate the effects of systematic long-term warming on global income inequality. Finally, I integrate these results with a highly stylized model in which a variety of social welfare functions are mapped to optimal fiscal policy. I conclude by relating these findings to the prevailing distribution-agnostic utilitarian cost-benefit paradigm in the economics of climate change and the design of domestic and international climate change policy.
+
 + Early version (2019) supervised by [Elizabeth Baldwin](http://elizabeth-baldwin.me.uk/) and [David F. Hendry](https://www.nuffield.ox.ac.uk/people/profiles/david-hendry/) named Oxford’s first ‘exceptional’-class (mark of 80+) graduate economics thesis in at least four years
 + Revised version (2023) supervised by [Suresh Naidu](https://sites.santafe.edu/~snaidu/) awarded Columbia’s Wueller Prize for runner-up best pre-dissertation proposal
 
@@ -30,6 +32,7 @@ UseHugoToc: true
 ### Large potential reduction in economic damages under UN mitigation targets
 
 **[Marshall Burke](https://web.stanford.edu/~mburke/) $\cdot$ Matthew Alampay Davis $\cdot$ [Noah S. Diffenbaugh](https://profiles.stanford.edu/noah-diffenbaugh) (2018)**  
+
 *Nature, 557, 549-553*
 
 We present a probabilistic framework for assessing aggregate economic impacts of anthropogenic warming. Our construction decomposes uncertainty associated with mid-century and end-of-century economic projections into distinct sources of uncertainty associated with i) econometric estimation of the economic effects of environmental change, ii) climate models of the spatial distribution of anthropogenic warming, iii) the projected schedule of greenhouse gas concentrations associated with a radiative forcing, and iv) the social discounting regime of choice. We apply this framework to characterize the economic benefits of climate policy, emphasizing how achieving the most ambitious mitigation targets of the 2015 Paris Agreement would obviate essentially certain economic calamity that will otherwise concentrate in developing countries.
