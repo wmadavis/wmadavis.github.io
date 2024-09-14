@@ -4,13 +4,11 @@ aliases: /other/
 url: /other/
 disableAnchoredHeadings: false
 description: "Miscellaneous"
-showToc: true
+showToc: false
 TocOpen: true
 UseHugoToc: true
 
 ---
-
-## Economics writing I like
 
 ### [Political economics and possibilism](https://academic.oup.com/princeton-scholarship-online/book/18029/chapter-abstract/175891463?login=false&redirectedFrom=fulltext)
 
@@ -38,11 +36,3 @@ Related:
 
 + [The Strange Disappearance of Welfare Economics (Atkinson, 2001)](/papers/Atkinson2001.pdf)
 + [The Restoration of Welfare Economics (Atkinson, 2011)](/papers/Atkinson2011.pdf)
-
----
-
-## Miscellaneous
-
-Joke I wrote for my five book club friends randomly going viral on Twitter and getting written up in [*The Atlantic*](https://www.theatlantic.com/entertainment/archive/2019/04/mueller-reports-perverse-paradox/587575/):
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">&quot;the mueller report&quot; has one review on Goodreads <a href="https://t.co/hnKbL0CZBV">pic.twitter.com/hnKbL0CZBV</a></p>&mdash; Ariel Edwards-Levy (@aedwardslevy) <a href="https://twitter.com/aedwardslevy/status/1118944739917692928?ref_src=twsrc%5Etfw">April 18, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
