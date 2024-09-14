@@ -29,7 +29,9 @@ Video link [here](https://vimeo.com/440032447?share=copy#t=4340.619), in particu
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/440032447?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Angus Deaton in conversation with Amartya Sen"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
     > **Deaton**: *"Welfare economics seemed to have some chance of coming back, but if you look at where we are now, most economic departments—including top departments—have no teaching of welfare economics. That subject has just completely vanished."*
+    
     > **Sen**: *"I think economists tend to ignore philosophy in general, but the idea of welfare in particular... More particularly, there is no progress here, especially in dealing with inequality or poverty, and we are stuck with just the distribution-indifferent Pareto principle. Note that the Bengal famine might have been a compensation test victory, because quite a lot of people gained a lot in 1943, and they could have compensated the new destitutes. They did not have to do it—and the destitutes mostly died—but was there a social improvement there? How could Kaldor and Hicks support it? The answer probably is that both were trying to do welfare economics without having the real courage to go beyond the Pareto principle—without taking on the real problems of distribution, inequality, and poverty."*
+    
     > **Deaton**: *"I’m glad you can laugh about it. I’m surprised it doesn’t make you angry because it’s a very serious matter. Bad things are happening to people because of these bad ideas. This central enterprise of bringing serious philosophy and welfare back into economics has not been a success, in some sense."*
 
 Related:
