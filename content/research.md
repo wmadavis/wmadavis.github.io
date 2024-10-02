@@ -12,12 +12,11 @@ UseHugoToc: true
 
 ### Climate inequality
 
-*Job Market Paper (manuscript to be distributed in October)*
-
++ [Provisional abstract](/papers/JMP-AlampayDavis-ClimateInequality.pdf) (manuscript to be shared later this month)
 + Early version (2019) supervised by [Elizabeth Baldwin](http://elizabeth-baldwin.me.uk/) and [David F. Hendry](https://www.nuffield.ox.ac.uk/people/profiles/david-hendry/) named Oxford’s first ‘exceptional’-class (mark of 80+) graduate economics thesis in at least four years
 + Revised version (2023) supervised by [Suresh Naidu](https://sites.santafe.edu/~snaidu/) awarded Columbia’s Wueller Prize for runner-up best pre-dissertation proposal
 
-<h3> Other dissertation work in progress</h3>
+<h3> Other work in progress</h3>
 
 <h4>Economic disruption, cultural anti-persistence, and intimate-partner violence (with <a href="https://www.tanushreegoyal.com/">Tanushree Goyal</a>)</h4>
 
