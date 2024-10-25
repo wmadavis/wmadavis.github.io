@@ -12,7 +12,9 @@ UseHugoToc: true
 
 ### Climate inequality
 
-+ [Provisional abstract](/papers/JMP-AlampayDavis-ClimateInequality.pdf) (manuscript to be shared later this month)
+This paper characterizes the relationship between anthropogenic climate change and economic inequality within countries, a subject intersecting two of the defining challenges of the 21st century but which remains critically understudied. First, I adapt tools developed in recent macroeconometric literature in order to improve upon existing methods for estimating dynamic climate impacts and provide direct statistical tests of modeling choices known to drive extreme divergence in estimates reported using prevailing methods. Next, I apply these refinements to newly available distributional national accounts data to document new evidence that temperature shocks exacerbate income inequality within countries, an effect driven by disproportionate reductions in income among the poorest segments of already-poor countries. To better understand the implications of this incidence pattern for the welfare economics of climate change, I then integrate these results over observed income distributions and use output from cutting-edge climate models to perform a counterfactual analysis simulating anthropogenic contributions to these climate inequalities. These findings represent the most comprehensive characterization yet of the economic regressivity of climate change within countries and globally.
+
++ [Paper link](/papers/JMP-AlampayDavis-ClimateInequality.pdf) Provisional abstract will be replaced by full paper on October 31, available using the same link
 + Early version (2019) supervised by [Elizabeth Baldwin](http://elizabeth-baldwin.me.uk/) and [David F. Hendry](https://www.nuffield.ox.ac.uk/people/profiles/david-hendry/) named Oxford’s first ‘exceptional’-class (mark of 80+) graduate economics thesis in at least four years
 + Revised version (2023) supervised by [Suresh Naidu](https://sites.santafe.edu/~snaidu/) awarded Columbia’s Wueller Prize for runner-up best pre-dissertation proposal
 
