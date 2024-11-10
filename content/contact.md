@@ -12,11 +12,8 @@ UseHugoToc: false
 [alampay.davis@columbia.edu](mailto:alampay.davis@columbia.edu)
 
 Department of Economics
-
 International Affairs Building
-
 420 West 118th Street
-
 New York, NY 10027
 
 
