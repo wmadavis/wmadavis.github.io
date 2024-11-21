@@ -11,7 +11,7 @@ UseHugoToc: true
 
 *Using this space to share some of the material I've prepared and resources used during my TA career. I've seen some of my notes paywalled on Course Hero so please just take it from here for free. Columbia students and research assistants can use their university email to book office hours [here](https://calendly.com/wmadavis/).*  
 
-*Please reach out if you notice any mistakes or typos in this material. Any and all errors are due to the professors who taught me wrong or the students who didn’t point them out.*  
+*Please reach out if you notice any mistakes or typos in this material. Any and all errors are the fault of the professors who taught me wrong or the students who didn’t point them out.*
 
 ---
 
