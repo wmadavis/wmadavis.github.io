@@ -3,7 +3,7 @@ title: "Teaching"
 aliases: /teaching/
 url: /teaching/
 disableAnchoredHeadings: false
-description: "Summaries and resources for courses I've TA'd for during my teaching career at Columbia University"
+description: "Summaries and resources for courses taught over my teaching career"
 showToc: true
 TocOpen: true
 UseHugoToc: true
@@ -109,7 +109,7 @@ Spring 2023
 
 > *"This international economics course is targeted towards non-economics students, focusing on current events and the increasing international interdependence of the world economy. Topics incude: (i) why countries trade, what goods and services will be traded, how the gains from trade are distributed and the tools of commercial policy; (ii) the movement of labor and capital across borders; value of transnational countries and production processes across countries; (iii) international finance issues including exchange rates, balance of payments and open economy macroeconomic adjustment."*
 
-I am not permitted to share material prepared for this course
+I am not permitted to share the material prepared for this course
 
 ---
 
