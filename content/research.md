@@ -10,7 +10,9 @@ UseHugoToc: true
 
 ---
 
-### Climate inequality (Job Market Paper)
+### Climate inequality
+
+*Job Market Paper*
 
 This paper characterizes the relationship between anthropogenic climate change and global inequality, a subject intersecting two of the defining challenges of the 21st century but which remains virtually unstudied at subnational levels. To make overdue progress addressing this research gap, I improve upon frontier methods for estimating climate impacts to overcome outstanding methodological limitations and apply these refinements to fine-scaled data on globally representative income distributions. Next, I document new evidence that temperature shocks significantly and persistently impact distributions of income within countries, an effect driven by concentrations of harm onto the lowest income-earners in warm climates as well as a surprising vulnerability of the top 1\% in these countries to environmental shocks. Integrating these inequality effects over observed distributions of income and the spatial incidence of global warming, I find that climate change between 1981 and 2016 regressively redistributed global shares in a reduced stock of income both between and within countries largely by depriving the world's poorest of economic opportunity that would otherwise have been available. Altogether, these results constitute the most comprehensive evidence yet of the regressive impact of climate change on global inequality.
 
@@ -24,9 +26,14 @@ This paper characterizes the relationship between anthropogenic climate change a
 
 <h4>Economic disruption, cultural anti-persistence, and intimate-partner violence (with <a href="https://www.tanushreegoyal.com/">Tanushree Goyal</a>)</h4>
 
+In this paper, we address open questions regarding the relationship between economic development and gender inequality with an emerging historical political economy literature on the determinants of cultural “anti-persistence''. In particular, we investigate why gender-inflected attitudes, beliefs, and behaviors exhibit differential persistence both across and within countries in the Global South in ways not predicted by economic development. We investigate the formation of these behaviors by determining which categories of norms are relatively susceptible to aggregate shocks and the periods in life during which they are most malleable. Next, we explore whether economic shocks can impact a particularly salient expression of patriarchal domination: first-time domestic violence. Preliminary work finds that the probability of first-time domestic violence is perhaps counterintuitively reduced in the year of the drought’s occurrence by the equivalent of a 6.8-7.4\% reduction in the overall hazard into domestic violence.
+
 <h4>Political transition under environmental stress</h4>
 
+This project seeks to investigate the degree to which environmental shocks impact the probability of transitions in or out of democracy and whether these impacts are driven by the distributional incidence of these stresses. Incorporating our empirical results into a hidden Markov model, we consider their implications in the context of climate change and rising global populism.
+
 <h4>Elite capture and identity politics: A formal model of substantive representation</h4>
+
 
 ---
 
