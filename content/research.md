@@ -20,15 +20,13 @@ This paper characterizes the relationship between anthropogenic climate change a
 
 ![](/papers/ClimateInequality.png)
 
-+ [Jobmarket paper draft](/papers/JMP-ClimateInequality.pdf)
++ [Job market paper](/papers/JMP-ClimateInequality.pdf)
 + Early version (2019) supervised by [Elizabeth Baldwin](http://elizabeth-baldwin.me.uk/) and [David F. Hendry](https://www.nuffield.ox.ac.uk/people/profiles/david-hendry/) named Oxford’s first ‘exceptional’-class (mark of 80+) graduate economics thesis in at least four years
 + Revised version (2023) supervised by [Suresh Naidu](https://sites.santafe.edu/~snaidu/) awarded Columbia’s Wueller Prize for runner-up best pre-dissertation proposal
 
 #### Economic disruption, cultural anti-persistence, and intimate-partner violence
 
-*with <a href="https://www.tanushreegoyal.com/">Tanushree Goyal</a>*
-
-In this paper, we address open questions regarding the relationship between economic development and gender inequality with an emerging historical political economy literature on the determinants of cultural “anti-persistence''. In particular, we investigate why gender-inflected attitudes, beliefs, and behaviors exhibit differential persistence both across and within countries in the Global South in ways not predicted by economic development. We investigate the formation of these behaviors by determining which categories of norms are relatively susceptible to aggregate shocks and the periods in life during which they are most malleable. Next, we explore whether economic shocks can impact a particularly salient expression of patriarchal domination: first-time domestic violence. Preliminary work finds that the probability of first-time domestic violence is perhaps counterintuitively reduced in the year of the drought’s occurrence by the equivalent of a 6.8-7.4\% reduction in the overall hazard into domestic violence.
+In this paper, joint with <a href="https://www.tanushreegoyal.com/">Tanushree Goyal</a>, we address open questions regarding the relationship between economic development and gender inequality with an emerging historical political economy literature on the determinants of cultural “anti-persistence''. In particular, we study why gender-inflected attitudes, beliefs, and behaviors exhibit differential persistence both across and within countries in the Global South in ways not predicted by economic development. We investigate the formation of these behaviors by determining which categories of norms are relatively susceptible to aggregate shocks and the periods in life during which they are most malleable. Next, we explore whether economic shocks can impact a particularly salient expression of patriarchal domination: first-time domestic violence. Preliminary work finds that the probability of first-time domestic violence is perhaps counterintuitively reduced in the year of the drought’s occurrence by the equivalent of a 6.8-7.4\% reduction in the overall hazard into domestic violence.
 
 #### Political transition under environmental stress
 
