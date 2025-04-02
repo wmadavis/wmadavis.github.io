@@ -14,11 +14,11 @@ UseHugoToc: true
 
 #### Climate inequality
 
++ [Job market paper](/papers/JMP-ClimateInequality.pdf)
+
 This paper characterizes the relationship between anthropogenic climate change and global inequality, a subject intersecting two of the defining challenges of the 21st century but which remains virtually unstudied at subnational levels. To make overdue progress addressing this research gap, I improve upon frontier methods for estimating climate impacts to overcome outstanding methodological limitations and apply these refinements to fine-scaled data on globally representative income distributions. Next, I document new evidence that temperature shocks significantly and persistently impact distributions of income within countries, an effect driven by concentrations of harm onto the lowest income-earners in warm climates as well as a surprising vulnerability of the top 1\% in these countries to environmental shocks. Integrating these inequality effects over observed distributions of income and the spatial incidence of global warming, I find that climate change between 1981 and 2016 regressively redistributed global shares in a reduced stock of income both between and within countries largely by depriving the world's poorest of economic opportunity that would otherwise have been available. Altogether, these results constitute the most comprehensive evidence yet of the regressive impact of climate change on global inequality.
 
 ![](/papers/ClimateInequality.png)
-
-+ [Job market paper](/papers/JMP-ClimateInequality.pdf)
 
 #### Economic disruption, cultural anti-persistence, and intimate-partner violence
 
