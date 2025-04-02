@@ -15,7 +15,7 @@ menu:
         - name: CV
           url: /CV-AlampayDavis.pdf
           weight: 1
-        - name: Job market paper
+        - name: JMP
           url: /papers/JMP-ClimateInequality.pdf
           weight: 2
         - name: Research
