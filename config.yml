@@ -15,24 +15,21 @@ menu:
         - name: CV
           url: /CV-AlampayDavis.pdf
           weight: 1
-        - name: JMP
-          url: /papers/JMP-ClimateInequality.pdf
-          weight: 2
         - name: Research
           url: /research/
-          weight: 3
+          weight: 2
         - name: Teaching
           url: /teaching/
-          weight: 4
+          weight: 3
         - name: Resources
           url: /resources/
-          weight: 5
+          weight: 4
         - name: Contact
           url: /contact/
-          weight: 6
+          weight: 5
         #- name: Other
         #  url: /other/
-        #  weight: 7
+        #  weight: 6
 
 params:
     description: "Academic website for W. Matthew Alampay Davis"
@@ -67,6 +64,8 @@ params:
           buttons:
             - name: CV
               url: /CV-AlampayDavis.pdf
+            - name: Job Market Paper
+              url: /papers/JMP-ClimateInequality.pdf
             - name: Research
               url: /research/
             - name: Teaching
