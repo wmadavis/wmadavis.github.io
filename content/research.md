@@ -14,13 +14,15 @@ UseHugoToc: true
 
 #### Climate inequality
 
+![](/papers/ClimateInequality.png)
+
 + [Job market paper](/papers/JMP-ClimateInequality.pdf)
 
 This paper characterizes the relationship between anthropogenic climate change and global inequality, a subject intersecting two of the defining challenges of the 21st century but which remains virtually unstudied at subnational levels. To make overdue progress addressing this research gap, I improve upon frontier methods for estimating climate impacts to overcome outstanding methodological limitations and apply these refinements to fine-scaled data on globally representative income distributions. Next, I document new evidence that temperature shocks significantly and persistently impact distributions of income within countries, an effect driven by concentrations of harm onto the lowest income-earners in warm climates as well as a surprising vulnerability of the top 1\% in these countries to environmental shocks. Integrating these inequality effects over observed distributions of income and the spatial incidence of global warming, I find that climate change between 1981 and 2016 regressively redistributed global shares in a reduced stock of income both between and within countries largely by depriving the world's poorest of economic opportunity that would otherwise have been available. Altogether, these results constitute the most comprehensive evidence yet of the regressive impact of climate change on global inequality.
 
-![](/papers/ClimateInequality.png)
-
 #### Temperature, institutions, and the political climate
+
+![](/papers/PoliticalClimate.png)
 
 Despite widespread regard of climate change as a threat to global stability, the nature of the relationship between environmental change, political preferences, and regime change is not well characterized in environmental political economy. I consider two possible frameworks by repurposing influential existing theories of political transition. Under a "mercury uprising" hypothesis, adverse environmental shocks diminish the opportunity cost of contesting autocratic rule thereby improving prospects for democratic reform. On the other hand, a "state of exception" hypothesis would suggest that the public responds to these shocks with a willingness to compromise civil liberties for authoritarian features of governance which may more credibly ensure security, leading to a diminution of democratic institutions. I empirically test the relative merits of these theories first by measuring the impacts of identified temperature shocks on survey-based proxies for the demand for democracy. Next, I use multi-valued and dichotomous measures of democracy to investigate the dynamic effects of these shocks on the democratic quality of institutions.
 
@@ -28,8 +30,9 @@ The results from these analyses consistently support the latter theory. A partic
 
 #### Evidence of a drought effect on the hazard into spousal violence
 
+![](/papers/Drought-IPV.png)
 
-In this ongoing work, joint with <a href="https://www.tanushreegoyal.com/">Tanushree Goyal</a>, we explore how income shocks may impact the probability that a previously non-violent marriage turns violent. We combine high-resolution weather data with comprehensive duration data on the experiences with domestic violence in India to estimate how drought-induced shocks may affect gendered outcomes. Early findings suggest that negative income shocks substantially reduce the hazard into marital violence. Specifically, a negative precipitation shock of a magnitude expected once every 4-5 years reduces the risk of a never-violent relationship becoming violent by 0.037 percentage points, representing a 70\% reduction in the baseline hazard during the formative years of a marriage.
+In this work in progress, joint with <a href="https://www.tanushreegoyal.com/">Tanushree Goyal</a>, we explore how income shocks may impact the probability that a previously non-violent marriage turns violent. We combine high-resolution weather data with comprehensive duration data on the experiences with domestic violence in India to estimate how drought-induced shocks may affect gendered outcomes. Early findings suggest that negative income shocks substantially reduce the hazard into marital violence. Specifically, a negative precipitation shock of a magnitude expected once every 4-5 years reduces the risk of a never-violent relationship becoming violent by 0.037 percentage points, representing a 70\% reduction in the baseline hazard during the formative years of a marriage.
 
 We also replicate a recently published study relating these weather shocks to the risk of child marriage using updated methods and much-improved data. We find that these effects are milder but more persistent than previously understood. In addition, we find that this result is reproduced in Sub-Saharan African countries, contradicting the headline result of the original study. Secondary results find that the practice of child marriage may be less economically motivated than marriages occurring later in life, suggesting economic growth is unlikely to  mitigate these persistent patriarchal practices.
 
