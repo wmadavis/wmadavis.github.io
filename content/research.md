@@ -10,7 +10,7 @@ UseHugoToc: true
 
 ---
 
-### Climate inequality (WP)
+### WP: Climate inequality
 
 This paper explores the relationship between anthropogenic climate change and global inequality, a subject bridging two of the defining challenges of the 21st century but which remains virtually unstudied at subnational levels. I apply recently developed methods for estimating dynamic responses to identified shocks to newly available fine-scaled data on global distributions of income. First, I document new evidence that temperature shocks significantly and persistently impact distributions of income within countries, an effect driven by concentrations of harm onto the lowest income-earners in warm climates as well as a surprising vulnerability of the top 1\% in these countries to environmental shocks.
 
@@ -22,7 +22,7 @@ Next, I conduct a counterfactual analysis by integrating these inequality dynami
 
 ---
 
-### Temperature, institutions, and the political climate (WP)
+### WP: Temperature, institutions, and the political climate
 
 Despite widespread regard of climate change as a threat to global stability, the nature of the relationship between environmental change, political preferences, and regime change is undertheorized in environmental political economy. I consider two possible frameworks by repurposing influential existing theories of regime change. Under a "mercury uprising" hypothesis, adverse environmental shocks diminish the opportunity cost of contesting autocratic rule thereby improving prospects for democratic reform. On the other hand, a "state of exception" hypothesis would suggest that the public responds to these shocks with a willingness to compromise civil liberties for authoritarian features of governance which may more credibly ensure security thereby leading to a diminution of democratic institutions.
 
@@ -32,7 +32,7 @@ I empirically test the relative merits of these theories first by measuring the 
 
 ---
 
-### Evidence of a drought effect on the hazard into spousal violence (WP)
+### WP: Evidence of a drought effect on the hazard into spousal violence
 
 **Matthew Alampay Davis $\cdot$ [Tanushree Goyal](https://www.tanushreegoyal.com)**  
 
