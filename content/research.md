@@ -29,14 +29,12 @@ Despite widespread regard of climate change as a threat to global stability, the
 I empirically test the relative merits of these theories first by measuring the impacts of identified temperature shocks on survey-based proxies for the demand for democracy. Next, I use multi-valued and dichotomous measures of democracy to investigate the dynamic effects of these shocks on the democratic quality of institutions. The results from these analyses consistently support the latter theory. In particular, I find that a positive 0.5$^\circ$C temperature shock increases the propensity for autocracies in temperate geographies to democratize by between 1.5-3.7 percentage points depending on the operating definition of democracy but reduces this propensity for their tropical counterparts by 1.6-2.4 percentage points. The same shocks also increase the propensity for warm-climate democracies to break down by 0.6-2.0 percentage points. In these cases, effects are substantial and significant but exhibit very limited persistence beyond the year of the shock after accounting for autocorrelation in the shock itself. Finally, we find that the same shocks have null effects on the propensity for temperate democracies to undergo reversal, suggesting these institutions have historically proven impervious to environmental disruption.
  
 ![](/papers/PoliticalClimate.png)
- 
-+ [Draft available upon request](mailto:wm.alampaydavis@gmail.com)
 
 ---
 
 ### Evidence of a drought effect on the hazard into spousal violence (WP)
 
-**Matthew Alampay Davis $\cdot$ Tanushree Goyal](https://www.tanushreegoyal.com)**  
+**Matthew Alampay Davis $\cdot$ [Tanushree Goyal](https://www.tanushreegoyal.com)**  
 
 In this work in progress, we explore how income shocks may impact the probability that a previously non-violent marriage turns violent. We combine high-resolution weather data with comprehensive duration data on the experiences with domestic violence in India to estimate how drought-induced shocks may affect gendered outcomes. Early findings suggest that negative income shocks substantially reduce the hazard into marital violence. Specifically, a negative precipitation shock of a magnitude expected once every 4-5 years reduces the risk of a never-violent relationship becoming violent by 0.037 percentage points, representing a 70\% reduction in the baseline hazard during the formative years of a marriage.
 
