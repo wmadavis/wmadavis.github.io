@@ -14,6 +14,8 @@ I am an economist working at the intersection of climate, development, and polit
 
 My approach to these broad and active areas of research is distinguished by its emphasis on distributional considerations. A recurring theme in my work is that while environmental change is diffuse and governed by complex biophysical systems, its social effects are channeled through and allocated by economic and political systems which may encode patterns of social inequality. By necessity, I draw from diverse literatures within economics and collaborations across the social and environmental sciences, adapting and repurposing theory and methods to the demands of each research question.
 
+---
+
 ### WP: Climate inequality
 
 This paper explores the relationship between anthropogenic climate change and global inequality, a subject bridging two of the defining challenges of the 21st century but which remains virtually unstudied at subnational levels. I apply recently developed methods for estimating dynamic responses to identified shocks to newly available fine-scaled data on global distributions of income. First, I document new evidence that temperature shocks significantly and persistently impact distributions of income within countries, an effect driven by concentrations of harm onto the lowest income-earners in warm climates as well as a surprising vulnerability of the top 1\% in these countries to environmental shocks.
