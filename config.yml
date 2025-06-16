@@ -56,7 +56,7 @@ params:
     profileMode:
           enabled: true
           title: Matthew Alampay Davis
-          subtitle: "I’m a PhD candidate at Columbia's economics department graduating in May 2025 with primary interests in the political economics of climate change and development. Ongoing works investigate the distributional, political, and cultural consequences of environmental change, with particular focus on the Global South."
+          subtitle: "I’m an economist with research interests in the political economics of climate change and development. My active projects investigate the distributional, institutional, and cultural consequences of environmental change."
           imageUrl: "/profile-crop.jpg"
           imageWidth: 160
           imageHeight: 160
@@ -64,8 +64,6 @@ params:
           buttons:
             - name: CV
               url: /CV-AlampayDavis.pdf
-            - name: Job Market Paper
-              url: /papers/JMP-ClimateInequality.pdf
             - name: Research
               url: /research/
             - name: Teaching
