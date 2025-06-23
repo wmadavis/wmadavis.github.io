@@ -40,7 +40,7 @@ I empirically test these hypotheses first by measuring the impacts of identified
 
 #### Evidence of a drought effect on the hazard into spousal violence
 
-Matthew Alampay Davis $\cdot$ [Tanushree Goyal](https://www.tanushreegoyal.com)
+*Matthew Alampay Davis $\cdot$ [Tanushree Goyal](https://www.tanushreegoyal.com)*
 
 In this work in progress, we explore how income shocks may impact the probability that a previously non-violent marriage turns violent. We combine high-resolution weather data with comprehensive duration data on the experiences with domestic violence in India to estimate how drought-induced shocks may affect gendered outcomes. Early findings suggest that negative income shocks substantially reduce the hazard into marital violence. Specifically, a negative precipitation shock of a magnitude expected once every 4-5 years reduces the risk of a never-violent relationship becoming violent by 0.037 percentage points, representing a 70\% reduction in the baseline hazard during the formative years of a marriage.
 
@@ -53,9 +53,9 @@ We also replicate a recently published study relating these weather shocks to th
 ### Publications
 
 #### Large potential reduction in economic damages under UN mitigation targets
-*Nature, 557, 549-553*
 
-[Marshall Burke](https://web.stanford.edu/~mburke/) $\cdot$ Matthew Alampay Davis $\cdot$ [Noah S. Diffenbaugh](https://profiles.stanford.edu/noah-diffenbaugh) (2018)
+*[Marshall Burke](https://web.stanford.edu/~mburke/) $\cdot$ Matthew Alampay Davis $\cdot$ [Noah S. Diffenbaugh](https://profiles.stanford.edu/noah-diffenbaugh) (2018)*
+*<em>Nature</em>, <strong>557</strong>, 549–553*
 
 We present a probabilistic framework for assessing aggregate economic impacts of anthropogenic warming. Our construction decomposes uncertainty associated with mid-century and end-of-century economic projections into distinct sources of uncertainty associated with i) econometric estimation of the economic effects of environmental change, ii) climate models of the spatial distribution of anthropogenic warming, iii) the projected schedule of greenhouse gas concentrations associated with a radiative forcing, and iv) the social discounting regime of choice. We apply this framework to characterize the economic benefits of climate policy, emphasizing how achieving the most ambitious mitigation targets of the 2015 Paris Agreement would obviate essentially certain economic calamity that will otherwise concentrate in developing countries.
 
@@ -101,9 +101,8 @@ We present a probabilistic framework for assessing aggregate economic impacts of
 ---
 
 #### Combining satellite imagery and machine learning to predict poverty
-*Science, 353, 790-794*
-
-[Neal Jean](https://nealjean.com/) $\cdot$ [Marshall Burke](https://web.stanford.edu/~mburke/) $\cdot$ [Michael Xie](https://cs.stanford.edu/~eix/) $\cdot$ Matthew Alampay Davis $\cdot$ [David B. Lobell](https://fse.fsi.stanford.edu/people/david_lobell) $\cdot$ [Stefano Ermon](https://cs.stanford.edu/~ermon/) (2016)
+*[Neal Jean](https://nealjean.com/) $\cdot$ [Marshall Burke](https://web.stanford.edu/~mburke/) $\cdot$ [Michael Xie](https://cs.stanford.edu/~eix/) $\cdot$ Matthew Alampay Davis $\cdot$ [David B. Lobell](https://fse.fsi.stanford.edu/people/david_lobell) $\cdot$ [Stefano Ermon](https://cs.stanford.edu/~ermon/) (2016)*
+*<em>Science</em>, <strong>353</strong>, 790–794*
 
 Efforts to study and design policy addressing the challenges of global poverty and inequality are hampered by the infrequency and prohibitive expense of reliable measurement of welfare, particularly in the developing world. Here we demonstrate a scalable method for overcoming this data scarcity which works by extracting economic information from an unconventional but inexpensive source of data with increasingly frequent and essentially global coverage: high-resolution daytime satellite imagery.
 
