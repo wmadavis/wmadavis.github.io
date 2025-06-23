@@ -80,8 +80,6 @@ We present a probabilistic framework for assessing aggregate economic impacts of
 
 ###### Press
 
-<iframe width="852" height="480" src="https://www.youtube.com/embed/40JS3W4um7o" title="Marshall Burke on The Daily Show" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
 [Nature](https://www.nature.com/articles/d41586-018-05198-7) $\cdot$
 [Stanford](https://news.stanford.edu/2018/05/23/reducing-emissions-save-trillions/) $\cdot$
 [Bloomberg](https://www.bna.com/money-fewer-woes-n57982093114/) $\cdot$
@@ -96,7 +94,9 @@ We present a probabilistic framework for assessing aggregate economic impacts of
 [Rolling Stone](https://www.rollingstone.com/politics/politics-news/why-the-green-new-deal-is-cheap-actually-965794/) $\cdot$
 [The Daily Show (TV)](https://www.youtube.com/watch?v=40JS3W4um7o)
 
-###### Other citations
+<iframe width="852" height="480" src="https://www.youtube.com/embed/40JS3W4um7o" title="Marshall Burke on The Daily Show" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+###### Select citations
 
 [New York Times](https://www.nytimes.com/2018/10/15/climate/trump-climate-change-fact-check.html?smid=tw-nytimes&smtyp=cur) $\cdot$
 [The Guardian](https://www.theguardian.com/us-news/2018/oct/15/fact-check-donald-trumps-claims-versus-climate-science) $\cdot$
