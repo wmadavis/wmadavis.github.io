@@ -9,8 +9,8 @@ TocOpen: true
 UseHugoToc: true
 markup:
   tableOfContents:
-    startLevel: 3
-    endLevel: 7
+    startLevel: 2
+    endLevel: 4
 ---
 
 I am an economist working at the intersection of climate, development, and political economics. Much of my research to date has focused on better understanding the social consequences of environmental change. A recurring theme in this work is that while the incidence of environmental change is diffuse and governed by complex biophysical systems, the incidence of its social effects are influenced by political economic systems which may encode patterns of social inequality.
@@ -19,11 +19,11 @@ By necessity, I draw from diverse literatures within economics and depend on col
 
 ---
 
-### Working papers
+## Working papers
 
 <span style="opacity: 0.6; font-style: italic; font-size: 90%;">Drafts are available upon request.</span>
 
-#### Global income distributions under climate change
+### Global income distributions under climate change
 
 This paper explores the relationship between anthropogenic climate change and global inequality, a subject bridging two of the defining challenges of the 21st century but which remains critically understudied at subnational levels. First, I document new evidence that temperature shocks significantly and persistently impact distributions of income within countries by concentrating proportional losses onto the lowest income-earners in warm climates. I also document a surprising vulnerability of the top 1\% in these countries to environmental shocks. Next, I conduct a counterfactual analysis by integrating these distributional responses over historically observed distributions of income and the spatial incidence of systematic warming showing that climate change has regressively redistributed global income largely by depriving the world's poorest of economic opportunity that would otherwise have been available; I find that income levels absent systematic warming observed between 1980-2016 would be 29\% [18, 41] higher for the lowest global percentile of positive income-earners. Further, I find that climate change over this period has reduced between-country inequality by 8.7\% [4.9, 13.3] and within-country inequality by 2.6\% [0.0, 5.6]. Altogether, these results constitute the most comprehensive evidence yet of the regressivity of climate change.
 
@@ -33,7 +33,7 @@ This paper explores the relationship between anthropogenic climate change and gl
 
 ---
 
-#### Temperature, institutions, and the political climate
+### Temperature, institutions, and the political climate
 
 Despite widespread regard of climate change as a threat to global stability, its implications for political preferences and institutional change remains undertheorized. I consider two competing hypotheses by repurposing influential theories of regime change. Under a "mercury uprising" hypothesis, adverse environmental shocks diminish the opportunity cost of contesting autocratic rule thereby improving prospects for democratic reform. On the other hand, a "state of exception" hypothesis suggests that the public responds to these shocks with a willingness to compromise civil liberties for authoritarian features of governance which may more credibly ensure security, leading to a diminution of democratic institutions.
 
@@ -43,7 +43,7 @@ I empirically test these hypotheses first by measuring the impacts of identified
 
 ---
 
-#### Evidence of a drought effect on the hazard into spousal violence
+### Evidence of a drought effect on the hazard into spousal violence
 <span style="opacity: 0.6; font-style: italic; font-size: 90%;">with [Tanushree Goyal](https://www.tanushreegoyal.com)</span>
 
 In this work in progress, we explore how income shocks may impact the probability that a previously non-violent marriage turns violent. We combine high-resolution weather data with comprehensive duration data on the experiences with domestic violence in India to estimate how drought-induced shocks may affect gendered outcomes. Early findings suggest that negative income shocks substantially reduce the hazard into marital violence. Specifically, a negative precipitation shock of a magnitude expected once every 4-5 years reduces the risk of a never-violent relationship becoming violent by 0.037 percentage points, representing a 70\% reduction in the baseline hazard during the formative years of a marriage.
@@ -54,7 +54,7 @@ We also replicate a recently published study relating these weather shocks to th
 
 ---
 
-### Publications
+## Publications
 
 #### Large potential reduction in economic damages under UN mitigation targets
 <span style="opacity: 0.6; font-style: italic; font-size: 90%;">
@@ -62,18 +62,17 @@ We also replicate a recently published study relating these weather shocks to th
 <em>Nature</em> <strong>557</strong>(7706): 549–553.
 </span>
 
-
 We present a probabilistic framework for assessing aggregate economic impacts of anthropogenic warming. Our construction decomposes uncertainty associated with mid-century and end-of-century economic projections into distinct sources of uncertainty associated with i) econometric estimation of the economic effects of environmental change, ii) climate models of the spatial distribution of anthropogenic warming, iii) the projected schedule of greenhouse gas concentrations associated with a radiative forcing, and iv) the social discounting regime of choice. We apply this framework to characterize the economic benefits of climate policy, emphasizing how achieving the most ambitious mitigation targets of the 2015 Paris Agreement would obviate essentially certain economic calamity that will otherwise concentrate in developing countries.
 
 ![Figure 4: The impact of global warming on global GDP per capita, relative to a world without warming, for different forcing levels.](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41586-018-0071-9/MediaObjects/41586_2018_71_Fig4_HTML.jpg)
 
-###### Paper materials and links
+#### Paper materials and links
 
 + Paper: [official](https://doi.org/10.1038/s41586-018-0071-9) $\cdot$ [ungated](/papers/BurkeDavisDiffenbaugh2018.pdf)
 + [Replication files](https://github.com/wmadavis/BDD2018)
 + [ECHO Lab website](https://www.stanfordecholab.com/)
 
-###### Press
+#### Press
 
 [Nature](https://www.nature.com/articles/d41586-018-05198-7) $\cdot$
 [Stanford](https://news.stanford.edu/2018/05/23/reducing-emissions-save-trillions/) $\cdot$
@@ -91,7 +90,7 @@ We present a probabilistic framework for assessing aggregate economic impacts of
 
 <iframe width="852" height="480" src="https://www.youtube.com/embed/40JS3W4um7o" title="Marshall Burke on The Daily Show" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-###### Select citations
+#### Select citations
 
 [New York Times](https://www.nytimes.com/2018/10/15/climate/trump-climate-change-fact-check.html?smid=tw-nytimes&smtyp=cur) $\cdot$
 [The Guardian](https://www.theguardian.com/us-news/2018/oct/15/fact-check-donald-trumps-claims-versus-climate-science) $\cdot$
@@ -106,7 +105,7 @@ We present a probabilistic framework for assessing aggregate economic impacts of
 
 ---
 
-#### Combining satellite imagery and machine learning to predict poverty
+### Combining satellite imagery and machine learning to predict poverty
 <span style="opacity: 0.6; font-style: italic; font-size: 90%;">
 <a href="https://nealjean.com/">Neal Jean</a>, <a href="https://web.stanford.edu/~mburke/">Marshall Burke</a>, <a href="https://cs.stanford.edu/~eix/">Michael Xie</a>,  
 W. Matthew Alampay Davis, <a href="https://fse.fsi.stanford.edu/people/david_lobell">David B. Lobell</a>, and <a href="https://cs.stanford.edu/~ermon/">Stefano Ermon</a> (2016)<br>
@@ -120,7 +119,7 @@ Efforts to study and design policy addressing the challenges of global poverty a
 
 Our "transfer learning" pipeline proceeds by first assigning a convolutional neural network model pre-trained for generic image classification the task of identifying features in high-resolution daytime satellite imagery predictive of night-time luminosity, a crude proxy for economic activity. In effect, the CNN learns to produce a nonlinear mapping from unstructured satellite images to a low-dimensional vector representation of its most economically relevant features. Ridge regression models are then optimized to produce out-of-sample estimates of consumption expenditures and asset wealth. In an initial application to five diverse sub-Saharan African countries---Nigeria, Tanzania, Uganda, Malawi, and Rwanda---our entirely open-source models are able to explain up to 75\% of the variation in village-level outcomes as measured by household surveys, demonstrating potential to improve reducing misallocation risks and search costs in the administration of targeted social programs and interventions.
 
-###### Paper materials and links
+#### Paper materials and links
 
 + Paper: [official](https://doi.org/10.1126/science.aaf7894) $\cdot$ [ungated](/papers/JeanEtAl2016.pdf)
 + Replication files: [code and data](https://github.com/nealjean/predicting-poverty) $\cdot$ [closed issues](https://github.com/nealjean/predicting-poverty/issues?q=is%3Aissue+is%3Aclosed)
@@ -128,7 +127,7 @@ Our "transfer learning" pipeline proceeds by first assigning a convolutional neu
 + [Sustain Lab website](http://sustain.stanford.edu/predicting-poverty)
 + [Non-technical animated video summary](https://www.youtube.com/watch?v=DafZSeIGLNE)
 
-###### Press
+#### Press
 
 [Science](http://science.sciencemag.org/content/353/6301/753) $\cdot$
 [Stanford](https://news.stanford.edu/2016/08/18/combining-satellite-data-machine-learning-to-map-poverty/) $\cdot$
