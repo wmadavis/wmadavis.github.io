@@ -21,9 +21,9 @@ By necessity, I draw from diverse literatures within economics and depend on col
 
 ### Global income distributions under climate change
 
-+ [Job market version](/papers/JMP-ClimateInequality.pdf)
-
 This paper explores the relationship between anthropogenic climate change and global inequality, a subject bridging two of the defining challenges of the 21st century but which remains critically understudied at subnational levels. First, I document new evidence that temperature shocks significantly and persistently impact distributions of income within countries by concentrating proportional losses onto the lowest income-earners in warm climates. I also document a surprising vulnerability of the top 1\% in these countries to environmental shocks. Next, I conduct a counterfactual analysis by integrating these distributional responses over historically observed distributions of income and the spatial incidence of systematic warming showing that climate change has regressively redistributed global income largely by depriving the world's poorest of economic opportunity that would otherwise have been available; I find that income levels absent systematic warming observed between 1980-2016 would be 29\% [18, 41] higher for the lowest global percentile of positive income-earners. Further, I find that climate change over this period has reduced between-country inequality by 8.7\% [4.9, 13.3] and within-country inequality by 2.6\% [0.0, 5.6]. Altogether, these results constitute the most comprehensive evidence yet of the regressivity of climate change.
+
++ [Job market version](/papers/JMP-ClimateInequality.pdf)
 
 ![](/papers/ClimateInequality.png)
 
@@ -52,12 +52,11 @@ We also replicate a recently published study relating these weather shocks to th
 
 ## Publications
 
-### Large potential reduction in economic damages under UN mitigation targets
-
+<h3 style="margin-bottom: 0.2em;">Large potential reduction in economic damages under UN mitigation targets</h3>
 <span style="opacity: 0.6; font-style: italic; font-size: 90%;">
 <a href="https://web.stanford.edu/~mburke/">Marshall Burke</a>, W. Matthew Alampay Davis, and <a href="https://profiles.stanford.edu/noah-diffenbaugh">Noah S. Diffenbaugh</a> (2018)<br>
 <em>Nature</em> <strong>557</strong>(7706): 549–553.
-</span>  
+</span> 
 
 We present a probabilistic framework for assessing aggregate economic impacts of anthropogenic warming. Our construction decomposes uncertainty associated with mid-century and end-of-century economic projections into distinct sources of uncertainty associated with i) econometric estimation of the economic effects of environmental change, ii) climate models of the spatial distribution of anthropogenic warming, iii) the projected schedule of greenhouse gas concentrations associated with a radiative forcing, and iv) the social discounting regime of choice. We apply this framework to characterize the economic benefits of climate policy, emphasizing how achieving the most ambitious mitigation targets of the 2015 Paris Agreement would obviate essentially certain economic calamity that will otherwise concentrate in developing countries.
 
