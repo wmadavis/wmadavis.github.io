@@ -53,16 +53,11 @@ We also replicate a recently published study relating these weather shocks to th
 ## Publications
 
 ### Large potential reduction in economic damages under UN mitigation targets
-<span style="opacity: 0.6; font-style: italic; font-size: 90%;">
-<a href="https://web.stanford.edu/~mburke/">Marshall Burke</a>, W. Matthew Alampay Davis, and <a href="https://profiles.stanford.edu/noah-diffenbaugh">Noah S. Diffenbaugh</a> (2018)<br>
-<em>Nature</em> <strong>557</strong>(7706): 549–553.
-</span>
 
-<h3 style="margin-bottom: 0.2em;">Large potential reduction in economic damages under UN mitigation targets</h3>
 <span style="opacity: 0.6; font-style: italic; font-size: 90%;">
 <a href="https://web.stanford.edu/~mburke/">Marshall Burke</a>, W. Matthew Alampay Davis, and <a href="https://profiles.stanford.edu/noah-diffenbaugh">Noah S. Diffenbaugh</a> (2018)<br>
 <em>Nature</em> <strong>557</strong>(7706): 549–553.
-</span>
+</span>  
 
 We present a probabilistic framework for assessing aggregate economic impacts of anthropogenic warming. Our construction decomposes uncertainty associated with mid-century and end-of-century economic projections into distinct sources of uncertainty associated with i) econometric estimation of the economic effects of environmental change, ii) climate models of the spatial distribution of anthropogenic warming, iii) the projected schedule of greenhouse gas concentrations associated with a radiative forcing, and iv) the social discounting regime of choice. We apply this framework to characterize the economic benefits of climate policy, emphasizing how achieving the most ambitious mitigation targets of the 2015 Paris Agreement would obviate essentially certain economic calamity that will otherwise concentrate in developing countries.
 
