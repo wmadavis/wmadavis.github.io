@@ -53,7 +53,6 @@ We also replicate a recently published study relating these weather shocks to th
 ## Publications
 
 ### Large potential reduction in economic damages under UN mitigation targets
-
 <span style="opacity: 0.6; font-style: italic; font-size: 90%;">
 <a href="https://web.stanford.edu/~mburke/">Marshall Burke</a>, W. Matthew Alampay Davis, and <a href="https://profiles.stanford.edu/noah-diffenbaugh">Noah S. Diffenbaugh</a> (2018)<br>
 <em>Nature</em> <strong>557</strong>(7706): 549–553.
