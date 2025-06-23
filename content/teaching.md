@@ -3,17 +3,13 @@ title: "Teaching"
 aliases: /teaching/
 url: /teaching/
 disableAnchoredHeadings: false
-description: "Summaries and resources for courses taught over my teaching career"
+description: "Page summarizing teaching experience"
 showToc: true
 TocOpen: true
 UseHugoToc: true
 ---
 
-*I am using this space to share some of the material I've prepared and resources used during my TA career. I've seen some of my notes paywalled on Course Hero so please just take it from here for free. Columbia students and thesis writers can use their university email to book office hours [here](https://calendly.com/wmadavis/).*  
-
-*Please reach out if you notice any mistakes or typos in this material. Any and all errors are the fault of the professors who taught me wrong or the students who didn’t point them out.*
-
-*You may find my teaching statement with select student feedback [here](/teaching/teaching-statement.pdf)*
+*I am using this space to share some of the material I've prepared and resources used during my teaching career. I've seen some of my notes paywalled on Course Hero so please just take it from here for free. You may find my teaching statement with select student feedback [here](/teaching/teaching-statement.pdf)*
 
 ---
 
@@ -37,11 +33,11 @@ Text: [*Introduction to Econometrics*](https://www.sea-stat.com/wp-content/uploa
 
 #### Prepared material
 
-Columbia teaches its undergraduates econometrics using Stata. The first semester I taught this course, I prepared supplementary material and solutions to provide students the option to instead use R, a free open-source alternative preferred by most industries outside academic social science. After some initial trepidation about departing from the official software of instruction, students seemed to find its object-oriented programming much more intuitive and appreciated its utility and accessibility beyond the semester course. I refined my material and continued teaching exclusively in R in subsequent semesters; I estimate that preparing this material has saved students upwards of $10,000 in single-semester Stata subscription costs.
+Columbia teaches its undergraduates econometrics using Stata. The first semester I taught this course, I prepared supplementary material and solutions to provide students the option to instead use R, a freely accessible open-source alternative. After some initial trepidation about departing from the official software of instruction, students seemed to find its object-oriented programming more intuitive and appreciated its availability beyond the semester course.
 
-Below are the weekly guides I produced from the Summer 2023 iteration of my classes, which is accelerated and condensed relative to the regular semester course. These materials include a subset of practice problems but exclude material prepared for problem sets, exams, practice exams, and their solutions. Most datasets referenced are available for free [here.](https://www.princeton.edu/~mwatson/Stock-Watson_4E/Stock-Watson-Resources-4e.html)
+Below are weekly guides produced for the Summer 2023 iteration of my classes, which is accelerated and condensed relative to the regular semester course. These materials include a subset of practice problems but exclude material prepared for problem sets, exams, practice exams, and their solutions. Most datasets referenced are available for free [here.](https://www.princeton.edu/~mwatson/Stock-Watson_4E/Stock-Watson-Resources-4e.html)
 
-Instruction here presumes no prior experience with programming other than installation of R and RStudio. It introduces and makes use of R Notebooks saved as R Markdown (.Rmd) files, a convenient way of integrating in-line R scripting with intuitive and customizable word processing to produce handsome problem sets and reports either as pdfs or HTML files. If you’re following on your own, open the Rmd files in RStudio to see the input and the pdf files to see what the resultant output looks like. If I were to update this material, I’d integrate .Rprofiles into the problem set pipeline to simplify students' pipelines.
+Instruction here presumes no prior experience with programming other than installation of R and RStudio. It introduces and makes use of R Notebooks saved as R Markdown (.Rmd) files, a convenient way of integrating in-line R scripting with intuitive and customizable word processing to produce handsome problem sets and reports either as pdfs or HTML files. If you’re following on your own, open the Rmd files in RStudio to see the input and the pdf files to see what the resultant output looks like. If I were to update this material, I’d integrate .Rprofiles into the problem set pipeline to ease students' experience further.
 
 ##### 1. Introduction to R and R Notebooks | [RMD](/teaching/metrics-2023-summer/01-R-Introduction.Rmd) $\cdot$ [PDF](/teaching/metrics-2023-summer/01-R-Introduction.pdf)
 
@@ -111,8 +107,10 @@ Spring 2023
 
 > *"This international economics course is targeted towards non-economics students, focusing on current events and the increasing international interdependence of the world economy. Topics incude: (i) why countries trade, what goods and services will be traded, how the gains from trade are distributed and the tools of commercial policy; (ii) the movement of labor and capital across borders; value of transnational countries and production processes across countries; (iii) international finance issues including exchange rates, balance of payments and open economy macroeconomic adjustment."*
 
-I am not permitted to share the material prepared for this course
+I am not permitted to share material prepared for this course
 
 ---
 
 *Out of respect for the hard work of academic publishers, I discourage anyone from obtaining free copies of textbooks mentioned here or elsewhere by typing their title, author, and edition number plus “pdf” into Google. In addition, I disavow [Sci-Hub](https://sci-hub.se/database) as another resource for easily obtaining this material for free.*
+
+*Please reach out if you notice any mistakes or typos in this material. Any and all errors are my own but if you really think about it are really the fault of professors who taught me wrong or the students who didn’t point them out.*
