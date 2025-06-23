@@ -9,7 +9,7 @@ TocOpen: true
 UseHugoToc: true
 markup:
   tableOfContents:
-    startLevel: 2
+    startLevel: 1
     endLevel: 4
 ---
 
@@ -21,7 +21,7 @@ By necessity, I draw from diverse literatures within economics and depend on col
 
 ## Working papers
 
-<span style="opacity: 0.6; font-style: italic; font-size: 90%;">Drafts are available upon request.</span>
+<span style="opacity: 0.6; font-style: italic; font-size: 90%;">Drafts are available upon request. Results reported here are preliminary.</span>
 
 ### Global income distributions under climate change
 
@@ -56,7 +56,7 @@ We also replicate a recently published study relating these weather shocks to th
 
 ## Publications
 
-#### Large potential reduction in economic damages under UN mitigation targets
+### Large potential reduction in economic damages under UN mitigation targets
 <span style="opacity: 0.6; font-style: italic; font-size: 90%;">
 <a href="https://web.stanford.edu/~mburke/">Marshall Burke</a>, W. Matthew Alampay Davis, and <a href="https://profiles.stanford.edu/noah-diffenbaugh">Noah S. Diffenbaugh</a> (2018)<br>
 <em>Nature</em> <strong>557</strong>(7706): 549–553.
