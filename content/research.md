@@ -14,9 +14,7 @@ I am an economist working at the intersection of climate, development, and polit
 
 ---
 
-### Working papers
-
-###### Drafts are available upon request
+### Working papers _– Drafts are available upon request_
 
 #### Global income distributions under climate change
 
