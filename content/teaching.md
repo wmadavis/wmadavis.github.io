@@ -13,13 +13,11 @@ UseHugoToc: true
 
 ---
 
-### Departmental research consultant
+### Senior honors thesis seminar
 
 Fall 2023 $\cdot$ Spring 2024  
 
-Consultant to all undergraduate economics students conducting research (namely, junior and senior seminar students, honors thesis students, and part-time research assistants). Also tasked with designing and leading programming workshops on script-writing and project-oriented workflows for thesis students.
-
-Materials prepared and resources used to prepare these workshops are enumerated [here.](/teaching/research-ta)
+In this role, I designed and administered workshops on applied research methods and project-oriented workflows for senior honors thesis undergraduate students (materials are enumerated [here.](/teaching/research-ta)). My responsibilities also included serving as a departmental consultant to economics students conducting empirical research (namely, undergraduate and master's thesis students and part-time research assistants), meeting one-on-one for 2-8 hours each week.
 
 ---
 
