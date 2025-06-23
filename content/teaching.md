@@ -17,7 +17,7 @@ UseHugoToc: true
 
 Fall 2023 $\cdot$ Spring 2024  
 
-In this role, I designed and administered workshops on applied research methods and project-oriented workflows for senior honors thesis undergraduate students (materials are enumerated [here.](/teaching/research-ta)). My responsibilities also included serving as a departmental consultant to economics students conducting empirical research (namely, undergraduate and master's thesis students and part-time research assistants), meeting one-on-one for 2-8 hours each week.
+In this role, I designed and administered workshops on applied research methods and project-oriented workflows for senior honors thesis undergraduate students (materials are enumerated [here](/teaching/research-ta)). My responsibilities also included serving as a departmental consultant to economics students conducting empirical research (namely, undergraduate and master's thesis students and part-time research assistants), meeting one-on-one for 2-8 hours each week.
 
 ---
 
@@ -111,4 +111,4 @@ I am not permitted to share material prepared for this course
 
 *Out of respect for the hard work of academic publishers, I discourage anyone from obtaining free copies of textbooks mentioned here or elsewhere by typing their title, author, and edition number plus “pdf” into Google. In addition, I disavow [Sci-Hub](https://sci-hub.se/database) as another resource for easily obtaining this material for free.*
 
-*Please reach out if you notice any mistakes or typos in this material. Any and all errors are my own but if you really think about it are really the fault of professors who taught me wrong or the students who didn’t point them out.*
+*Any and all errors are my own. Please reach out if you notice any mistakes or typos in this material.*
