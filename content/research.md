@@ -56,8 +56,10 @@ We also replicate a recently published study relating these weather shocks to th
 
 #### Large potential reduction in economic damages under UN mitigation targets
 
+<span style="opacity: 0.6; font-style: italic; font-size: 90%;">
 <a href="https://web.stanford.edu/~mburke/">Marshall Burke</a>, W. Matthew Alampay Davis, and <a href="https://profiles.stanford.edu/noah-diffenbaugh">Noah S. Diffenbaugh</a>. 2018.  
-*<em>Nature</em>* <strong>557</strong>(7706): 549–553.
+<em>Nature</em> <strong>557</strong>(7706): 549–553.
+</span>
 
 #### Large potential reduction in economic damages under UN mitigation targets
 
@@ -109,8 +111,11 @@ We present a probabilistic framework for assessing aggregate economic impacts of
 
 #### Combining satellite imagery and machine learning to predict poverty
 
-<a href="https://nealjean.com/">Neal Jean</a>, <a href="https://web.stanford.edu/~mburke/">Marshall Burke</a>, <a href="https://cs.stanford.edu/~eix/">Michael Xie</a>, W. Matthew Alampay Davis, <a href="https://fse.fsi.stanford.edu/people/david_lobell">David B. Lobell</a>, and <a href="https://cs.stanford.edu/~ermon/">Stefano Ermon</a>. 2016.  
-*<em>Science</em>* <strong>353</strong>: 790–794.
+<span style="opacity: 0.6; font-style: italic; font-size: 90%;">
+<a href="https://nealjean.com/">Neal Jean</a>, <a href="https://web.stanford.edu/~mburke/">Marshall Burke</a>, <a href="https://cs.stanford.edu/~eix/">Michael Xie</a>,  
+W. Matthew Alampay Davis, <a href="https://fse.fsi.stanford.edu/people/david_lobell">David B. Lobell</a>, and <a href="https://cs.stanford.edu/~ermon/">Stefano Ermon</a>. 2016.  
+<em>Science</em> <strong>353</strong>: 790–794.
+</span>
 
 #### Combining satellite imagery and machine learning to predict poverty
 
