@@ -56,21 +56,8 @@ We also replicate a recently published study relating these weather shocks to th
 
 #### Large potential reduction in economic damages under UN mitigation targets
 
-*<em>Nature</em>, <strong>557</strong>, 549–553*
-
-*[Marshall Burke](https://web.stanford.edu/~mburke/) $\cdot$ Matthew Alampay Davis $\cdot$ [Noah S. Diffenbaugh](https://profiles.stanford.edu/noah-diffenbaugh) (2018)*
-
-### Publications
-
-#### Large potential reduction in economic damages under UN mitigation targets
-
-[Marshall Burke](https://web.stanford.edu/~mburke/), Matthew Alampay Davis, and [Noah S. Diffenbaugh](https://profiles.stanford.edu/noah-diffenbaugh). 2018.  
+[Marshall Burke](https://web.stanford.edu/~mburke/), Matthew Alampay Davis, and [Noah S. Diffenbaugh.](https://profiles.stanford.edu/noah-diffenbaugh) 2018.  
 *<em>Nature</em>* <strong>557</strong>(7706): 549–553. [https://doi.org/10.1038/s41586-018-0071-9](https://doi.org/10.1038/s41586-018-0071-9)
-
-#### Large potential reduction in economic damages under UN mitigation targets
-
-[Marshall Burke](https://web.stanford.edu/~mburke/), Matthew Alampay Davis, and [Noah S. Diffenbaugh](https://profiles.stanford.edu/noah-diffenbaugh). 2018. *<em>Nature</em>* <strong>557</strong>(7706): 549–553. [https://doi.org/10.1038/s41586-018-0071-9](https://doi.org/10.1038/s41586-018-0071-9)
-
 
 We present a probabilistic framework for assessing aggregate economic impacts of anthropogenic warming. Our construction decomposes uncertainty associated with mid-century and end-of-century economic projections into distinct sources of uncertainty associated with i) econometric estimation of the economic effects of environmental change, ii) climate models of the spatial distribution of anthropogenic warming, iii) the projected schedule of greenhouse gas concentrations associated with a radiative forcing, and iv) the social discounting regime of choice. We apply this framework to characterize the economic benefits of climate policy, emphasizing how achieving the most ambitious mitigation targets of the 2015 Paris Agreement would obviate essentially certain economic calamity that will otherwise concentrate in developing countries.
 
