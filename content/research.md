@@ -14,9 +14,11 @@ I am an economist working at the intersection of climate, development, and polit
 
 ---
 
-### Working papers (drafts available upon request)
+### Working papers
 
-#### Global income inequality under climate change
+Drafts available upon request
+
+#### Global income distributions under climate change
 
 This paper explores the relationship between anthropogenic climate change and global inequality, a subject bridging two of the defining challenges of the 21st century but which remains critically understudied at subnational levels. First, I document new evidence that temperature shocks significantly and persistently impact distributions of income within countries by concentrating proportional losses onto the lowest income-earners in warm climates. I also document a surprising vulnerability of the top 1\% in these countries to environmental shocks. Next, a counterfactual analysis by integrating these inequality dynamics over observed distributions of income and the spatial incidence of systematic warming between 1980 and 2016 shows that climate change has regressively redistributed global income by depriving the world's poorest of economic opportunity that would otherwise have been available: I find that income levels absent systematic warming since 1980 would be 29\% [18, 41] higher  for the poorest global percentile of positive income-earners. Further, I find that climate change over this period has reduced between-country inequality by 8.7\% [4.9, 13.3] and within-country inequality by 2.6\% [0.0, 5.6]. Altogether, these results constitute the most comprehensive evidence yet of the regressive impact of climate change.
 
@@ -50,7 +52,8 @@ We also replicate a recently published study relating these weather shocks to th
 
 ### Publications
 
-#### Large potential reduction in economic damages under UN mitigation targets (Nature, 557, 549-553)
+#### Large potential reduction in economic damages under UN mitigation targets
+*Nature, 557, 549-553*
 
 [Marshall Burke](https://web.stanford.edu/~mburke/) $\cdot$ Matthew Alampay Davis $\cdot$ [Noah S. Diffenbaugh](https://profiles.stanford.edu/noah-diffenbaugh) (2018)
 
@@ -58,13 +61,13 @@ We present a probabilistic framework for assessing aggregate economic impacts of
 
 ![Figure 4: The impact of global warming on global GDP per capita, relative to a world without warming, for different forcing levels.](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41586-018-0071-9/MediaObjects/41586_2018_71_Fig4_HTML.jpg)
 
-##### Paper materials and links
+###### Paper materials and links
 
 + Paper: [official](https://doi.org/10.1038/s41586-018-0071-9) $\cdot$ [ungated](/papers/BurkeDavisDiffenbaugh2018.pdf)
 + [Replication files](https://github.com/wmadavis/BDD2018)
 + [ECHO Lab website](https://www.stanfordecholab.com/)
 
-##### Press
+###### Press
 
 <iframe width="852" height="480" src="https://www.youtube.com/embed/40JS3W4um7o" title="Marshall Burke on The Daily Show" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -97,7 +100,8 @@ We present a probabilistic framework for assessing aggregate economic impacts of
 
 ---
 
-#### Combining satellite imagery and machine learning to predict poverty (Science, 353, 790-794)
+#### Combining satellite imagery and machine learning to predict poverty
+*Science, 353, 790-794*
 
 [Neal Jean](https://nealjean.com/) $\cdot$ [Marshall Burke](https://web.stanford.edu/~mburke/) $\cdot$ [Michael Xie](https://cs.stanford.edu/~eix/) $\cdot$ Matthew Alampay Davis $\cdot$ [David B. Lobell](https://fse.fsi.stanford.edu/people/david_lobell) $\cdot$ [Stefano Ermon](https://cs.stanford.edu/~ermon/) (2016)
 
@@ -107,7 +111,7 @@ Efforts to study and design policy addressing the challenges of global poverty a
 
 Our "transfer learning" pipeline proceeds by first assigning a convolutional neural network model pre-trained for generic image classification the task of identifying features in high-resolution daytime satellite imagery predictive of night-time luminosity, a crude proxy for economic activity. In effect, the CNN learns to produce a nonlinear mapping from unstructured satellite images to a low-dimensional vector representation of its most economically relevant features. Ridge regression models are then optimized to produce out-of-sample estimates of economic outcomes of interest. In an initial application to five diverse sub-Saharan African countries---Nigeria, Tanzania, Uganda, Malawi, and Rwanda---our entirely open-source models are found to be able to explain up to 75\% of the variation in village-level average economic outcomes as measured by gold-standard household surveys, demonstrating potential to improve state capacity to administer social programs by reducing misallocation risks and search costs.
 
-##### Paper materials and links
+###### Paper materials and links
 
 + Paper: [official](https://doi.org/10.1126/science.aaf7894) $\cdot$ [ungated](/papers/JeanEtAl2016.pdf)
 + Replication files: [code and data](https://github.com/nealjean/predicting-poverty) $\cdot$ [closed issues](https://github.com/nealjean/predicting-poverty/issues?q=is%3Aissue+is%3Aclosed)
@@ -115,7 +119,7 @@ Our "transfer learning" pipeline proceeds by first assigning a convolutional neu
 + [Sustain Lab website](http://sustain.stanford.edu/predicting-poverty)
 + [Non-technical animated video summary](https://www.youtube.com/watch?v=DafZSeIGLNE)
 
-##### Press
+###### Press
 
 [Science](http://science.sciencemag.org/content/353/6301/753) $\cdot$
 [Stanford](https://news.stanford.edu/2016/08/18/combining-satellite-data-machine-learning-to-map-poverty/) $\cdot$
