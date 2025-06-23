@@ -7,10 +7,6 @@ description: "Page summarizing research projects"
 showToc: true
 TocOpen: true
 UseHugoToc: true
-markup:
-  tableOfContents:
-    startLevel: 1
-    endLevel: 4
 ---
 
 I am an economist working at the intersection of climate, development, and political economics. Much of my research to date has focused on better understanding the social consequences of environmental change. A recurring theme in this work is that while the incidence of environmental change is diffuse and governed by complex biophysical systems, the incidence of its social effects are influenced by political economic systems which may encode patterns of social inequality.
@@ -25,11 +21,11 @@ By necessity, I draw from diverse literatures within economics and depend on col
 
 ### Global income distributions under climate change
 
++ [Job market version](/papers/JMP-ClimateInequality.pdf)
+
 This paper explores the relationship between anthropogenic climate change and global inequality, a subject bridging two of the defining challenges of the 21st century but which remains critically understudied at subnational levels. First, I document new evidence that temperature shocks significantly and persistently impact distributions of income within countries by concentrating proportional losses onto the lowest income-earners in warm climates. I also document a surprising vulnerability of the top 1\% in these countries to environmental shocks. Next, I conduct a counterfactual analysis by integrating these distributional responses over historically observed distributions of income and the spatial incidence of systematic warming showing that climate change has regressively redistributed global income largely by depriving the world's poorest of economic opportunity that would otherwise have been available; I find that income levels absent systematic warming observed between 1980-2016 would be 29\% [18, 41] higher for the lowest global percentile of positive income-earners. Further, I find that climate change over this period has reduced between-country inequality by 8.7\% [4.9, 13.3] and within-country inequality by 2.6\% [0.0, 5.6]. Altogether, these results constitute the most comprehensive evidence yet of the regressivity of climate change.
 
 ![](/papers/ClimateInequality.png)
-
-+ [Job market version](/papers/JMP-ClimateInequality.pdf)
 
 ---
 
