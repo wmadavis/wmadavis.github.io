@@ -47,8 +47,6 @@ Text: [*Introduction to Econometrics*,](https://www.sea-stat.com/wp-content/uplo
 
 <details>
   <summary style="cursor: pointer;">Select student feedback</summary>
-  <ul style="opacity: 0.7; font-style: italic; padding-left: 1em; margin-top: 0.5em; font-size: 80%;">
-
     <li>"Literally the best TA I’ve ever had. Always open to answering questions. Has the best study guides for learning R which was a relatively new language for me. I could not have done it without him."</li>
     <li>"Matt is a great TA who went above and beyond by making additional study notes that explained very clearly what some of the most difficult concepts meant."</li>
 
@@ -58,8 +56,6 @@ Text: [*Introduction to Econometrics*,](https://www.sea-stat.com/wp-content/uplo
     <li>"Matthew did a nice job going over practice problems during each recitation as well as explaining the significance of the concepts we were learning."</li>
     <li>"Great TA. He goes through the Stata examples in detail. His solutions to the examples are clear and straightforward. Super intelligent! And he makes his recordings available. Thank you!"</li>
     <li>"Saved me for my midterm. Great real world examples in recitations."</li>
-
-  </ul>
 </details>
 <br>
 
