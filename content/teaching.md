@@ -35,8 +35,6 @@ In this role, I designed and administered workshops on applied research methods 
   </p>
 </details>
 
-<br>
-
 <hr style="border-top: 1px dashed #999; background: none;" />
 
 ## Introduction to econometrics
@@ -93,16 +91,17 @@ Spring 2022 $\cdot$ Fall 2022
 > *The purpose of this course is to offer a solid, intermediate-level training in theoretical microeconomics. We will try to achieve a more in-depth understanding of how the standard theoretical models of microeconomics work. The course consists of three parts. We will start out by analyzing consumer decision-making. We then turn to the behavior of firms. Finally, the third part of the course studies the interaction of consumers and firms in goods markets.*  
 
 Text: [*Intermediate Microeconomics with Calculus*,](https://fac.ksu.edu.sa/sites/default/files/microeco-_varian.pdf) Hal Varian (2014)
-<details>
-  <summary style="cursor: pointer;">Select student feedback</summary>
-  <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 1em; opacity: 0.7; font-style: italic; margin-top: 0.5em;">
-    <div>"William Matthew Davis is one of the smartest people I have ever met. He is ridiculously prepared and extremely knowledgeable. The
-amount of resources which he gifts to students is astounding, and I am so grateful for his help." — Fall 2022</div>
-    <div>"Really accessible guy who seems to really care about his TA work!" — Fall 2022</div>
-    <div>"Very clear TA with an emphasis on student experience" — Fall 2022</div>
-    <div>"I love him! Posted all his recitations online, which really helps." — Spring 2022</div>
-  </div>
+<details>  <summary style="cursor: pointer;">Select student feedback</summary>
+  <ul style="opacity: 0.7; font-style: italic; padding-left: 1em; margin-top: 0.5em;">
+      <li>"William Matthew Davis is one of the smartest people I have ever met. He is ridiculously prepared and extremely knowledgeable. The
+amount of resources which he gifts to students is astounding, and I am so grateful for his help." — Fall 2022</li>
+    <li>"Really accessible guy who seems to really care about his TA work!" — Fall 2022</li>
+    <li>"Very clear TA with an emphasis on student experience" — Fall 2022</li>
+    <li>"I love him! Posted all his recitations online, which really helps." — Spring 2022</li>
+  </ul>
 </details>
+
+<br>
 
 The slides below are weekly elaborations on a specific newly introduced concept and so do not represent comprehensive coverage of the course material. They’re also not necessarily self-contained; I sometimes supplemented my slides with blackboard work and conversation with students, which is not always captured in the annotations. Course material is also instructor-specific; if you’re reading this as a Columbia student taking the same course, it may not correspond to the treatment or selection of topics your particular instructor chooses to cover. For example, compared to my Spring 2022 coverage, the following material from Fall 2022 covers a wider range of topics but omits some material such as the method of Lagrange multipliers.
 
@@ -138,12 +137,12 @@ The slides below are weekly elaborations on a specific newly introduced concept 
 
 Spring 2023
 
-> *This international economics course is targeted towards non-economics students, focusing on current events and the increasing international interdependence of the world economy. Topics incude: (i) why countries trade, what goods and services will be traded, how the gains from trade are distributed and the tools of commercial policy; (ii) the movement of labor and capital across borders; value of transnational countries and production processes across countries; (iii) international finance issues including exchange rates, balance of payments and open economy macroeconomic adjustment.*
+> *This international economics elective is targeted towards non-economics majors, focusing on current events and the increasing international interdependence of the world economy. Topics incude: (i) why countries trade, what goods and services will be traded, how the gains from trade are distributed and the tools of commercial policy; (ii) the movement of labor and capital across borders; value of transnational countries and production processes across countries; (iii) international finance issues including exchange rates, balance of payments and open economy macroeconomic adjustment.*
 
 <details>  <summary style="cursor: pointer;">Select student feedback</summary>
   <ul style="opacity: 0.7; font-style: italic; padding-left: 1em; margin-top: 0.5em;">
-    <li>"Great TA. He was always available for students, and made sure all the course material was understood" — Spring 2023</li>
-    <li>"His teaching during recitation is very clear and organized and easy to follow." — Spring 2023</li>
+    <li>"Great TA. He was always available for students, and made sure all the course material was understood"</li>
+    <li>"His teaching during recitation is very clear and organized and easy to follow."</li>
   </ul>
 </details>
 
