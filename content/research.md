@@ -8,7 +8,6 @@ description: "Page summarizing research projects"
 showToc: true
 TocOpen: true
 UseHugoToc: true
-hideTocTitle: true
 ---
 
 <div style="opacity: 0.6; font-style: italic; font-size: 80%;">
@@ -146,6 +145,6 @@ Our "transfer learning" pipeline proceeds by first assigning a convolutional neu
 [The Onion](https://www.theonion.com/satellite-images-could-predict-poverty-1819563263) $\cdot$ [Bill Gates](https://twitter.com/BillGates/status/773188644014350336) $\cdot$
 [Center for Global Development](https://www.cgdev.org/blog/can-we-measure-poverty-outer-space)
 
-![](/papers/PovertyMap.png)
-
+<!-- ![](/papers/PovertyMap.png) -->
+<iframe width="831" height="480" src="https://www.youtube.com/embed/DafZSeIGLNE" title="Combining satellite imagery and machine learning to predict poverty" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
