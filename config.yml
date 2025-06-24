@@ -56,7 +56,7 @@ params:
     profileMode:
           enabled: true
           title: W. Matthew Alampay Davis
-          subtitle: "I am an economist working at the intersection of climate, development, and political economics. Much of my research to date has sought to broaden economic analyses of environmental change especially with respect to its welfare implications. A recurring theme in this work is that while the incidence of environmental change is determined by complex biophysical systems, the incidence of their social effects is influenced by political economic systems which encode patterns of inequality."
+          subtitle: "I am an economist working at the intersection of climate, development, and political economics. Much of my research to date has sought to broaden economic analyses of environmental change especially with respect to its welfare implications. A recurring theme in this work is that while the incidence of environmental change is governed by complex biophysical systems, the incidence of its social effects is influenced by political economic systems which may encode patterns of anthropogenic inequalities."
           imageUrl: "/profile-crop.jpg"
           imageWidth: 160
           imageHeight: 160
