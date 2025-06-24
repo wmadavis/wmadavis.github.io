@@ -21,7 +21,7 @@ UseHugoToc: false
 
 <div style="font-size: 70%;">
 
----w
+---
 
 ## Senior honors thesis workshop
 
