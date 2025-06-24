@@ -47,7 +47,6 @@ Text: [*Introduction to Econometrics*,](https://www.sea-stat.com/wp-content/uplo
 
 <details>
   <summary style="cursor: pointer;">Select student feedback</summary>
-  <ul style="opacity: 0.7; font-style: italic; padding-left: 1em; margin-top: 0.5em; font-size: 80%;">
 
     <li style="list-style: none; font-weight: bold; margin-top: 0.75em;">Fall 2021</li>
     <li>"Literally the best TA I’ve ever had. Always open to answering questions. Has the best study guides for learning R which was a relatively new language for me. I could not have done it without him."</li>
