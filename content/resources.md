@@ -2,13 +2,12 @@
 title: "Resources for academic social science"
 aliases: /resources/
 url: /resources/
-showAuthor: false
+hidemeta: true
 disableAnchoredHeadings: false
 description: "Page collating academic economics resources"
-showToc: true
-TocOpen: true
-UseHugoToc: true
-
+showToc: false
+TocOpen: false
+UseHugoToc: false
 ---
 
 <div style="opacity: 0.6; font-style: italic; font-size: 80%;">

@@ -2,7 +2,7 @@
 title: "Research"
 aliases: /research/
 url: /research/
-showAuthor: false
+hidemeta: true
 disableAnchoredHeadings: false
 description: "Page summarizing research projects"
 showToc: true

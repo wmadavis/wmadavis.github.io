@@ -2,7 +2,7 @@
 title: "Teaching"
 aliases: /teaching/
 url: /teaching/
-showAuthor: false
+hidemeta: true
 disableAnchoredHeadings: false
 description: "Page summarizing teaching experience"
 showToc: true
