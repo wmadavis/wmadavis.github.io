@@ -7,14 +7,12 @@ disableAnchoredHeadings: false
 description: "Page summarizing teaching experience"
 showToc: true
 TocOpen: true
-UseHugoToc: true
----
+UseHugoToc: false---
 
 <div style="opacity: 0.6; font-style: italic; font-size: 80%;">
- Using this space to share some of the material I've prepared and resources I've drawn from during my teaching career. Any and all errors are my own so please reach out if you notice any mistakes or typos in this material.
+ Using this space to share some of the material I've prepared and resources I've drawn from my nine semesters teaching undergraduates at Columbia. Any and all errors are my own so please reach out if you notice any mistakes or typos in this material.
 
-  <br>
-   <br>
+  <br><br>
 
  You may find a teaching statement with select student feedback [here](/teaching/teaching-statement.pdf).
 </div>
@@ -28,6 +26,13 @@ UseHugoToc: true
 Fall 2023 $\cdot$ Spring 2024  
 
 In this role, I designed and administered workshops on applied research methods and project-oriented workflows for senior honors thesis undergraduate students. My responsibilities also included serving as a departmental consultant to economics students conducting empirical research (namely, undergraduate and master's thesis students and part-time research assistants), meeting one-on-one for 2-8 hours each week. Some prepared materials are enumerated [here.](/teaching/research-ta)
+
+<blockquote>
+  <span style="opacity: 0.7; font-style: italic; font-size: 80%;">
+    “Matthew was the best TA I've had. He made complex topics in econometrics feel intuitive.”<br>
+    — Student, Fall 2023
+  </span>
+</blockquote>
 
 <hr style="border-top: 1px dashed #999; background: none;" />
 
