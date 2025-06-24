@@ -103,7 +103,7 @@ markup:
     tableOfContents:
         ordered: false
         startLevel: 2
-        endLevel: 4
+        endLevel: 3
 
 # max number of characters:
 # * title: 300

@@ -108,7 +108,9 @@ We present a probabilistic framework for assessing aggregate economic impacts of
 <a href="https://nealjean.com/">Neal Jean</a>, <a href="https://web.stanford.edu/~mburke/">Marshall Burke</a>, <a href="https://cs.stanford.edu/~eix/">Michael Xie</a>,  
 W. Matthew Alampay Davis, <a href="https://fse.fsi.stanford.edu/people/david_lobell">David B. Lobell</a>, and <a href="https://cs.stanford.edu/~ermon/">Stefano Ermon</a> (2016)<br>
 <em>Science</em> <strong>353</strong>: 790–794.
-</span>  
+</span>
+
+<br>
 
 Efforts to study and design policy addressing the challenges of global poverty and inequality are hampered by the infrequency and prohibitive expense of reliable measurement of welfare, particularly in the developing world. Here we demonstrate a scalable method for overcoming this data scarcity which works by extracting economic information from an unconventional but inexpensive source of data with increasingly frequent and essentially global coverage: high-resolution daytime satellite imagery.
 
