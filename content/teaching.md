@@ -58,32 +58,6 @@ Text: [*Introduction to Econometrics*,](https://www.sea-stat.com/wp-content/uplo
 </details>
 <br>
 
-<details>
-  <summary style="cursor: pointer;">Select student feedback</summary>
-  <div style="opacity: 0.7; font-style: italic; font-size: 80%; padding-left: 1em; margin-top: 0.5em;">
-
-    <p><strong>Fall 2021</strong></p>
-    <ul>
-      <li>“Literally the best TA I’ve ever had. Always open to answering questions. Has the best study guides for learning R which was a relatively new language for me. I could not have done it without him.”</li>
-      <li>“Matt is a great TA who went above and beyond by making additional study notes that explained very clearly what some of the most difficult concepts meant.”</li>
-    </ul>
-
-    <p><strong>Spring 2021</strong></p>
-    <ul>
-      <li>“Matt is a great TA! As a student who used R, I depended heavily on Matt’s notes. He was always super responsive and helped us whenever we needed.”</li>
-      <li>“He is very organized and helpful. He would prepare weekly R recitation notes and share them, which were a great help for problem sets.”</li>
-    </ul>
-
-    <p><strong>Fall 2020</strong></p>
-    <ul>
-      <li>“Matthew did a nice job going over practice problems during each recitation as well as explaining the significance of the concepts we were learning.”</li>
-      <li>“Great TA. He goes through the Stata examples in detail. His solutions to the examples are clear and straightforward. Super intelligent! And he makes his recordings available. Thank you!”</li>
-      <li>“Saved me for my midterm. Great real world examples in recitations.”</li>
-    </ul>
-
-  </div>
-</details>
-
 
 Columbia traditionally teaches its undergraduates econometrics using Stata. I took the initiative to prepare supplementary material and solutions to provide students the option to instead use R, a freely available open-source alternative. After some initial trepidation about departing from the official software of instruction, students seemed to find its object-oriented programming more intuitive and appreciated its accessibility beyond the semester course. I continued teaching the course in both R and Stata over four semesters.
 
