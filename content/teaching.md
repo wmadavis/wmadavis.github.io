@@ -16,7 +16,7 @@ UseHugoToc: false
   <br>
   <br>
 
- A teaching statement with select student feedback is available [here](/teaching/teaching-statement.pdf).
+ A teaching statement is available [here](/teaching/teaching-statement.pdf).
 </div>
 
 <div style="font-size: 70%;">
@@ -31,7 +31,7 @@ In this role, I designed and administered workshops on applied research methods 
 
 <details>  <summary style="cursor: pointer;">Select student feedback</summary>
   <p style="font-style: italic; opacity: 0.7;">
-      "Matthew is very organized, knowledgeable, and accessible. Even though he’s not a specialist in my area of research, he went above and beyond in familiarizing himself with my data, and he’s an expert at coding." — Fall 2023
+      "Matthew is very organized, knowledgeable, and accessible. Even though he’s not a specialist in my area of research, he went above and beyond in familiarizing himself with my data, and he’s an expert at coding."
   </p>
 </details>
 
@@ -45,16 +45,30 @@ Fall 2020 $\cdot$ Spring 2021 $\cdot$ Fall 2021 $\cdot$ Summer 2023
 
 Text: [*Introduction to Econometrics*,](https://www.sea-stat.com/wp-content/uploads/2020/08/James-H.-Stock-Mark-W.-Watson-Introduction-to-Econometrics-Global-Edition-Pearson-Education-Limited-2020.pdf) James Stock and Mark Watson (2019, 2020)
 
-<details>  <summary style="cursor: pointer;">Select student feedback</summary>
-  <ul style="opacity: 0.7; font-style: italic; padding-left: 1em; margin-top: 0.5em;">
-   <li>"Literally the best TA I’ve ever had. Always open to answering questions. Has the best study guides for learning R which was a relatively new language for me. I could not have done it without him." — Fall 2021</li>
-    <li>"Matt is a great TA who went above and beyond by making additional study notes that explained very clearly what some of the most difficult concepts meant." — Fall 2021</li>
-    <li>"Matt is a great TA! As a student who used R, I depended heavily on Matt’s notes. He was always super responsive and helped us whenever we needed." — Spring 2021</li>
-    <li>"He is very organized and helpful. He would prepare weekly R recitation notes and share them, which were a great help for problem sets." — Spring 2021</li>
-    <li>"Matthew did a nice job going over practice problems during each recitation as well as explaining the significance of the concepts we were learning." — Fall 2020</li>
-    <li>"Great TA. He goes through the Stata examples in detail. His solutions to the examples are clear and straightforward. Super intelligent! And he makes his recordings available. Thank you!"  — Fall 2020</li>
-    <li>"Saved me for my midterm. Great real world examples in recitations." — Fall 2020</li>
-  </ul>
+<details>
+  <summary style="cursor: pointer;">Select student feedback</summary>
+  <div style="opacity: 0.7; font-style: italic; font-size: 80%; padding-left: 1em; margin-top: 0.5em;">
+
+    <p style="margin-bottom: 0.2em;"><strong>Fall 2021</strong></p>
+    <ul>
+      <li>"Literally the best TA I’ve ever had. Always open to answering questions. Has the best study guides for learning R which was a relatively new language for me. I could not have done it without him."</li>
+      <li>"Matt is a great TA who went above and beyond by making additional study notes that explained very clearly what some of the most difficult concepts meant."</li>
+    </ul>
+
+    <p style="margin-bottom: 0.2em;"><strong>Spring 2021</strong></p>
+    <ul>
+      <li>"Matt is a great TA! As a student who used R, I depended heavily on Matt’s notes. He was always super responsive and helped us whenever we needed."</li>
+      <li>"He is very organized and helpful. He would prepare weekly R recitation notes and share them, which were a great help for problem sets."</li>
+    </ul>
+
+    <p style="margin-bottom: 0.2em;"><strong>Fall 2020</strong></p>
+    <ul>
+      <li>"Matthew did a nice job going over practice problems during each recitation as well as explaining the significance of the concepts we were learning."</li>
+      <li>"Great TA. He goes through the Stata examples in detail. His solutions to the examples are clear and straightforward. Super intelligent! And he makes his recordings available. Thank you!"</li>
+      <li>"Saved me for my midterm. Great real world examples in recitations."</li>
+    </ul>
+
+  </div>
 </details>
 <br>
 
