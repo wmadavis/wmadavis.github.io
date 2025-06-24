@@ -9,11 +9,13 @@ TocOpen: true
 UseHugoToc: true
 ---
 
-<span style="opacity: 0.6; font-style: italic; font-size: 90%;">
-I am an economist working at the intersection of climate, development, and political economics. Much of my research to date has focused on better understanding the social consequences of environmental change. A recurring theme in this work is that while the incidence of environmental change is diffuse and determined by complex biophysical systems, the incidence of its social effects is influenced by political economic systems which may encode patterns of social inequality.
+<div style="opacity: 0.6; font-style: italic; font-size: 90%;">
+  I am an economist working at the intersection of climate, development, and political economics. Much of my research to date has focused on better understanding the social consequences of environmental change. A recurring theme in this work is that while the incidence of environmental change is diffuse and determined by complex biophysical systems, the incidence of its social effects is influenced by political economic systems which may encode patterns of social inequality.
 
-By necessity, I draw from diverse literatures within economics and depend on collaborations across the social and environmental sciences, adapting and repurposing theory and methods to the demands of each research question.
-</span>
+  <br>
+
+  By necessity, I draw from diverse literatures within economics and depend on collaborations across the social and environmental sciences, adapting and repurposing theory and methods to the demands of each research question.
+</div>
 
 ---
 

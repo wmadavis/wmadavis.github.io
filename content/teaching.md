@@ -10,11 +10,11 @@ UseHugoToc: true
 ---
 
 <div style="opacity: 0.6; font-style: italic; font-size: 90%;">
-  I am an economist working at the intersection of climate, development, and political economics. Much of my research to date has focused on better understanding the social consequences of environmental change. A recurring theme in this work is that while the incidence of environmental change is diffuse and determined by complex biophysical systems, the incidence of its social effects is influenced by political economic systems which may encode patterns of social inequality.
+ I'm using this space to share some of the material I've prepared and resources I've drawn from during my teaching career. Any and all errors are my own so please reach out if you notice any mistakes or typos in this material.
 
   <br>
 
-  By necessity, I draw from diverse literatures within economics and depend on collaborations across the social and environmental sciences, adapting and repurposing theory and methods to the demands of each research question.
+ You may find a teaching statement with select student feedback [here](/teaching/teaching-statement.pdf).
 </div>
 
 ---
