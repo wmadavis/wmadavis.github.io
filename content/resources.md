@@ -10,9 +10,11 @@ UseHugoToc: true
 
 ---
 
-<div style="opacity: 0.6; font-style: italic; font-size: 90%;">
+<div style="opacity: 0.6; font-style: italic; font-size: 80%;">
 Using this space to collate academic resources I’ve personally found the most constructive. I make this qualification because plenty of advice I’ve seen widely circulated over the years absolutely would not work for me: my advice for reading advice is to feel emboldened to reject it.
 </div>
+
+<div style="font-size: 70%;">
 
 ### Preparing for grad school
 
@@ -34,3 +36,5 @@ Using this space to collate academic resources I’ve personally found the most 
 
 + Finding research ideas, co-authoring, submitting papers, among other insights [(Susan Athey, int. Simon Bowmaker,](https://static1.squarespace.com/static/56ec62678a65e20b89da5f33/t/5f481c378f691221f1a3fda8/1598561335875/athey.pdf) pp. 6-8)
     > *My econometric theory was very similar. I’d be working on an empirical paper, and I’d say, “How can I think about the conditions under which this empirical approach would work?” And I would read papers with informal descriptions of the reasoning, and I would be dissatisfied. And so I would say, “Let me write this down, and if I do it formally, maybe then I’ll understand.” As I started writing things down, I would realize that there was a deeper, more general idea. And I felt that other people would benefit from having that clarity of conceptual insights in their own empirical work, and so I wrote it into econometric theory papers. Almost all of my very theoretical papers have been motivated by trying to solve an applied theory problem, and realizing that I would have more clarity about the specific problem if I understood the generality.*
+    
+    </div>
