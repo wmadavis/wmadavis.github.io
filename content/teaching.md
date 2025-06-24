@@ -10,7 +10,7 @@ UseHugoToc: true
 ---
 
 <div style="opacity: 0.6; font-style: italic; font-size: 90%;">
- I'm using this space to share some of the material I've prepared and resources I've drawn from during my teaching career. Any and all errors are my own so please reach out if you notice any mistakes or typos in this material.
+ Using this space to share some of the material I've prepared and resources I've drawn from during my teaching career. Any and all errors are my own so please reach out if you notice any mistakes or typos in this material.
 
   <br>
 
