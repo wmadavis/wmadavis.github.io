@@ -9,7 +9,9 @@ TocOpen: true
 UseHugoToc: true
 ---
 
-*I am using this space to share some of the material I've prepared and resources used during my teaching career. I've seen some of my notes paywalled on Course Hero so please just take it from here for free. You may find a teaching statement with select student feedback [here](/teaching/teaching-statement.pdf)*.
+<span style="opacity: 0.6; font-style: italic; font-size: 90%;">I am using this space to share some of the material I've prepared and resources used during my teaching career. I've seen some of my notes paywalled on Course Hero so please just take it from here for free. Any and all errors are my own. Please reach out if you notice any mistakes or typos in this material.</span>
+
+<span style="opacity: 0.6; font-style: italic; font-size: 90%;">You may find a teaching statement with select student feedback [here](/teaching/teaching-statement.pdf).</span>
 
 ---
 
@@ -106,7 +108,3 @@ Spring 2023
 > *"This international economics course is targeted towards non-economics students, focusing on current events and the increasing international interdependence of the world economy. Topics incude: (i) why countries trade, what goods and services will be traded, how the gains from trade are distributed and the tools of commercial policy; (ii) the movement of labor and capital across borders; value of transnational countries and production processes across countries; (iii) international finance issues including exchange rates, balance of payments and open economy macroeconomic adjustment."*
 
 I am not permitted to share material prepared for this course
-
----
-
-<span style="opacity: 0.6; font-style: italic; font-size: 90%;">Any and all errors are my own. Please reach out if you notice any mistakes or typos in this material.</span>
