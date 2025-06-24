@@ -29,7 +29,7 @@ Fall 2023 $\cdot$ Spring 2024
 
 In this role, I designed and administered workshops on applied research methods and project-oriented workflows for senior honors thesis undergraduate students. My responsibilities also included serving as a departmental consultant to economics students conducting empirical research (namely, undergraduate and master's thesis students and part-time research assistants), meeting one-on-one for 2-8 hours each week. Some prepared materials are enumerated [here.](/teaching/research-ta)
 
----
+<hr style="border-top: 1px dashed #999; background: none;" />
 
 ## Introduction to econometrics
 
@@ -63,7 +63,7 @@ Instruction here presumes no prior experience with programming other than instal
 
 <span style="font-weight: 300;">9. Exam 3 review</span> | [PDF](/teaching/metrics-2023-summer/09-Exam3-Review.pdf)
 
----
+<hr style="border-top: 1px dashed #999; background: none;" />
 
 ## Intermediate microeconomics
 
@@ -101,7 +101,7 @@ The slides below are weekly elaborations on a specific newly introduced concept 
 
 <span style="font-weight: 300;">A3. Week 10: High-level summary and takeaways from the course</span> | [PDF](/teaching/micro-2022-fall/10-CourseSummary.pdf)
 
----
+<hr style="border-top: 1px dashed #999; background: none;" />
 
 ## The global economy
 

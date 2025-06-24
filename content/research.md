@@ -23,8 +23,6 @@ UseHugoToc: true
 
 ---
 
-<hr style="border-top: 1px dashed #999; background: none;" />
-
 ## Working papers
 
 <span style="opacity: 0.6; font-style: italic;">Drafts are available upon request. Results reported here are preliminary.</span>
@@ -37,6 +35,8 @@ UseHugoToc: true
 
 + [Job market version](/papers/JMP-ClimateInequality.pdf)
 
+<hr style="border-top: 1px dashed #999; background: none;" />
+
 ### Temperature, institutions, and the political climate
 
  Despite widespread regard of climate change as a threat to global stability, its implications for political preferences and institutional change remains undertheorized. I consider two competing hypotheses by repurposing influential theories of regime change. Under a "mercury uprising" hypothesis, adverse environmental shocks diminish the opportunity cost of contesting autocratic rule thereby improving prospects for democratic reform. On the other hand, a "state of exception" hypothesis suggests that a public willingness to compromise civil liberties for authoritarian features of governance in times of crisis would lead to a diminution of democratic institutions.
@@ -44,6 +44,8 @@ UseHugoToc: true
   I empirically test these hypotheses first by measuring the dynamic impacts of identified temperature shocks on survey-based proxies for the demand for democracy. Next, I use multi-valued and dichotomous measures of democracy to investigate the effects of these shocks on the democratic quality of political institutions. My results consistently support the "state of exception" hypothesis. In particular, I find that a positive 0.5$^\circ$C temperature shock increases the propensity for autocracies in temperate geographies to democratize by between 1.5-3.7 percentage points depending on the operating measure of democracy but reduces this propensity for their tropical counterparts by 1.6-2.4pp. The same shocks also increase the propensity for warm-climate democracies to break down by 0.6-2.0pp. Effects are substantial and significant but exhibit very limited persistence beyond the year of the shock once autocorrelation in the shock itself is accounted for. Finally, we find that the same shocks have null effects on the propensity for temperate democracies to undergo reversal, indicating that democracies are  in high state-capacity polities are relatively impervious to environmental disruption.
  
 ![](/papers/PoliticalClimate.png)
+
+<hr style="border-top: 1px dashed #999; background: none;" />
 
 ### Evidence of a drought effect on the hazard into spousal violence
 <span style="opacity: 0.6;"><em>with</em> [Tanushree Goyal](https://www.tanushreegoyal.com)</span>
@@ -107,7 +109,7 @@ UseHugoToc: true
 
 <iframe width="852" height="480" src="https://www.youtube.com/embed/40JS3W4um7o" title="Marshall Burke on The Daily Show" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
----
+<hr style="border-top: 1px dashed #999; background: none;" />
 
 ### Combining satellite imagery and machine learning to predict poverty
 <span style="display: block; opacity: 0.6; font-size: 90%;">
