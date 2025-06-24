@@ -65,23 +65,23 @@ Below are weekly guides produced for the Summer 2023 iteration of my classes, wh
 
 Instruction here presumes no prior experience with programming other than installation of R and RStudio. It introduces and makes use of R Notebooks saved as R Markdown (.Rmd) files, a convenient way of integrating in-line R scripting with intuitive and customizable word processing to produce handsome problem sets and reports either as pdfs or HTML files. If you’re following on your own, open the Rmd files in RStudio to see the input and the pdf files to see what the resultant output looks like. If I were to update this material, I’d integrate .Rprofiles into the problem set pipeline to ease students' experience further.
 
-<span style="font-weight: 300;">1. Introduction to R and R Notebooks</span> | [RMD](/teaching/metrics-2023-summer/01-R-Introduction.Rmd) $\cdot$ [PDF](/teaching/metrics-2023-summer/01-R-Introduction.pdf)
+<span style="font-weight: 300;">1. <a href="/teaching/metrics-2023-summer/01-R-Introduction.pdf">Introduction to R and R Notebooks</a> | <a href="/teaching/metrics-2023-summer/01-R-Introduction.Rmd">RMD</a></span>
 
-<span style="font-weight: 300;">2. Multicollinearity, joint hypothesis testing, and the tidyverse</span> | [RMD](/teaching/metrics-2023-summer/02-Multicollinearity-JointHypotheses.Rmd) $\cdot$ [PDF](/teaching/metrics-2023-summer/02-Multicollinearity-JointHypotheses.pdf)
+<span style="font-weight: 300;">2. <a href="/teaching/metrics-2023-summer/02-Multicollinearity-JointHypotheses.pdf">Multicollinearity, joint hypothesis testing, and the tidyverse</a> | <a href="/teaching/metrics-2023-summer/02-Multicollinearity-JointHypotheses.Rmd">RMD</a></span>
 
-<span style="font-weight: 300;">3. Exam 1 review</span> | [PDF](/teaching/metrics-2023-summer/03-ExtraNotes.pdf)
+<span style="font-weight: 300;">3. <a href="/teaching/metrics-2023-summer/03-ExtraNotes.pdf">Exam 1 review</a></span>
 
-<span style="font-weight: 300;">4. Nonlinear regression</span> | [RMD](/teaching/metrics-2023-summer/04-NonLinearRegression.Rmd) $\cdot$ [PDF](/teaching/metrics-2023-summer/04-NonLinearRegression.pdf)
+<span style="font-weight: 300;">4. <a href="/teaching/metrics-2023-summer/04-NonLinearRegression.pdf">Nonlinear regression</a> | <a href="/teaching/metrics-2023-summer/04-NonLinearRegression.Rmd">RMD</a></span>
 
-<span style="font-weight: 300;">5. Panel data methods and binary dependent variables</span> | [RMD](/teaching/metrics-2023-summer/05-Panels-BinaryDVs.Rmd) $\cdot$ [PDF](/teaching/metrics-2023-summer/05-Panels-BinaryDVs.pdf)
+<span style="font-weight: 300;">5. <a href="/teaching/metrics-2023-summer/05-Panels-BinaryDVs.pdf">Panel data methods and binary dependent variables</a> | <a href="/teaching/metrics-2023-summer/05-Panels-BinaryDVs.Rmd">RMD</a></span>
 
-<span style="font-weight: 300;">6. Exam 2 review</span> | [PDF](/teaching/metrics-2023-summer/06-FixedEffects.pdf)
+<span style="font-weight: 300;">6. <a href="/teaching/metrics-2023-summer/06-FixedEffects.pdf">Exam 2 review</a></span>
 
-<span style="font-weight: 300;">7. Instrumental variables and quasi-experiments</span> | [RMD](/teaching/metrics-2023-summer/07-Instruments-Experiments.Rmd) $\cdot$ [PDF](/teaching/metrics-2023-summer/07-Instruments-Experiments.pdf)
+<span style="font-weight: 300;">7. <a href="/teaching/metrics-2023-summer/07-Instruments-Experiments.pdf">Instrumental variables and quasi-experiments</a> | <a href="/teaching/metrics-2023-summer/07-Instruments-Experiments.Rmd">RMD</a></span>
 
-<span style="font-weight: 300;">8. Big data, time series and dynamic causal effects</span> | [RMD](/teaching/metrics-2023-summer/08-TimeSeries-DynamicCausalEffects.Rmd) $\cdot$ [PDF](/teaching/metrics-2023-summer/08-TimeSeries-DynamicCausalEffects.pdf)
+<span style="font-weight: 300;">8. <a href="/teaching/metrics-2023-summer/08-TimeSeries-DynamicCausalEffects.pdf">Big data, time series and dynamic causal effects</a> | <a href="/teaching/metrics-2023-summer/08-TimeSeries-DynamicCausalEffects.Rmd">RMD</a></span>
 
-<span style="font-weight: 300;">9. Exam 3 review</span> | [PDF](/teaching/metrics-2023-summer/09-Exam3-Review.pdf)
+<span style="font-weight: 300;">9. <a href="/teaching/metrics-2023-summer/09-Exam3-Review.pdf">Exam 3 review</a></span>
 
 <hr style="border-top: 1px dashed #999; background: none;" />
 
