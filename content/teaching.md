@@ -9,9 +9,9 @@ TocOpen: true
 UseHugoToc: true
 ---
 
-<span style="opacity: 0.6; font-style: italic; font-size: 90%;">I am using this space to share some of the material I've prepared and resources used during my teaching career. I've seen some of my notes paywalled on Course Hero so please just take it from here for free. Any and all errors are my own. Please reach out if you notice any mistakes or typos in this material.</span>
+<span style="opacity: 0.6; font-style: italic; font-size: 90%;">I am using this space to share some of the material I've prepared and resources used during my teaching career. I've seen some of my notes paywalled on Course Hero so please just take it from here for free. Any and all errors are my own. Please reach out if you notice any mistakes or typos in this material.
 
-<span style="opacity: 0.6; font-style: italic; font-size: 90%;">You may find a teaching statement with select student feedback [here](/teaching/teaching-statement.pdf).</span>
+You may find a teaching statement with select student feedback [here](/teaching/teaching-statement.pdf).</span>
 
 ---
 
@@ -31,7 +31,7 @@ Fall 2020 $\cdot$ Spring 2021 $\cdot$ Fall 2021 $\cdot$ Summer 2023
 
 Text: [*Introduction to Econometrics*,](https://www.sea-stat.com/wp-content/uploads/2020/08/James-H.-Stock-Mark-W.-Watson-Introduction-to-Econometrics-Global-Edition-Pearson-Education-Limited-2020.pdf) James Stock and Mark Watson (2019, 2020)
 
-#### Prepared material
+##### Prepared material
 
 Columbia teaches its undergraduates econometrics using Stata. The first semester I taught this course, I prepared supplementary material and solutions to provide students the option to instead use R, a freely accessible open-source alternative. After some initial trepidation about departing from the official software of instruction, students seemed to find its object-oriented programming more intuitive and appreciated its availability beyond the semester course.
 
@@ -67,7 +67,7 @@ Spring 2022 $\cdot$ Fall 2022
 
 Text: [*Intermediate Microeconomics with Calculus*,](https://fac.ksu.edu.sa/sites/default/files/microeco-_varian.pdf) Hal Varian (2014)
 
-#### Prepared material
+##### Prepared material
 
 These slides are weekly elaborations on a specific newly introduced concept and so do not represent comprehensive coverage of the course material. They’re also not necessarily self-contained; I sometimes supplemented my slides with blackboard work and conversation with students, which is not always captured in the annotations. Course material is also instructor-specific; if you’re reading this as a Columbia student taking the same course, it may not correspond to the treatment or selection of topics your particular instructor chooses to cover. For example, compared to my Spring 2022 coverage, the following material from Fall 2022 covers a wider range of topics but omits some material such as the method of Lagrange multipliers.
 

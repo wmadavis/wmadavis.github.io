@@ -9,9 +9,11 @@ TocOpen: true
 UseHugoToc: true
 ---
 
+<span style="opacity: 0.6; font-style: italic; font-size: 90%;">
 I am an economist working at the intersection of climate, development, and political economics. Much of my research to date has focused on better understanding the social consequences of environmental change. A recurring theme in this work is that while the incidence of environmental change is diffuse and determined by complex biophysical systems, the incidence of its social effects is influenced by political economic systems which may encode patterns of social inequality.
 
 By necessity, I draw from diverse literatures within economics and depend on collaborations across the social and environmental sciences, adapting and repurposing theory and methods to the demands of each research question.
+</span>
 
 ---
 
@@ -27,8 +29,6 @@ This paper explores the relationship between anthropogenic climate change and gl
 
 ![](/papers/ClimateInequality.png)
 
----
-
 ### Temperature, institutions, and the political climate
 
 Despite widespread regard of climate change as a threat to global stability, its implications for political preferences and institutional change remains undertheorized. I consider two competing hypotheses by repurposing influential theories of regime change. Under a "mercury uprising" hypothesis, adverse environmental shocks diminish the opportunity cost of contesting autocratic rule thereby improving prospects for democratic reform. On the other hand, a "state of exception" hypothesis suggests that a public willingness to compromise civil liberties for authoritarian features of governance in times of crisis would lead to a diminution of democratic institutions.
@@ -36,8 +36,6 @@ Despite widespread regard of climate change as a threat to global stability, its
 I empirically test these hypotheses first by measuring the dynamic impacts of identified temperature shocks on survey-based proxies for the demand for democracy. Next, I use multi-valued and dichotomous measures of democracy to investigate the effects of these shocks on the democratic quality of political institutions. My results consistently support the "state of exception" hypothesis. In particular, I find that a positive 0.5$^\circ$C temperature shock increases the propensity for autocracies in temperate geographies to democratize by between 1.5-3.7 percentage points depending on the operating measure of democracy but reduces this propensity for their tropical counterparts by 1.6-2.4pp. The same shocks also increase the propensity for warm-climate democracies to break down by 0.6-2.0pp. Effects are substantial and significant but exhibit very limited persistence beyond the year of the shock once autocorrelation in the shock itself is accounted for. Finally, we find that the same shocks have null effects on the propensity for temperate democracies to undergo reversal, indicating that democracies are  in high state-capacity polities are relatively impervious to environmental disruption.
  
 ![](/papers/PoliticalClimate.png)
-
----
 
 ### Evidence of a drought effect on the hazard into spousal violence
 <span style="opacity: 0.6; font-style: italic; font-size: 90%;">with [Tanushree Goyal](https://www.tanushreegoyal.com)</span>
