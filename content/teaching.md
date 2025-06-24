@@ -7,6 +7,11 @@ description: "Page summarizing teaching experience"
 showToc: true
 TocOpen: true
 UseHugoToc: true
+markup:
+    tableOfContents:
+        ordered: false
+        startLevel: 2
+        endLevel: 3
 ---
 
 *I am using this space to share some of the material I've prepared and resources used during my teaching career. I've seen some of my notes paywalled on Course Hero so please just take it from here for free. You may find a teaching statement with select student feedback [here](/teaching/teaching-statement.pdf)*.
