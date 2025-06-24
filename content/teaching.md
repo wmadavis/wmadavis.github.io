@@ -27,13 +27,6 @@ Fall 2023 $\cdot$ Spring 2024
 
 In this role, I designed and administered workshops on applied research methods and project-oriented workflows for senior honors thesis undergraduate students. My responsibilities also included serving as a departmental consultant to economics students conducting empirical research (namely, undergraduate and master's thesis students and part-time research assistants), meeting one-on-one for 2–8 hours each week. Some prepared materials are enumerated [here.](/teaching/research-ta)
 
-<blockquote>
-  <span style="opacity: 0.7; font-style: italic; font-size: 80%;">
-    "Matthew was the best TA I've had. He made complex topics in econometrics feel intuitive."<br>
-    — Student, Fall 2023
-  </span>
-</blockquote>
-
 <hr style="border-top: 1px dashed #999; background: none;" />
 
 ## Introduction to econometrics
