@@ -55,12 +55,12 @@ params:
     math: true
     profileMode:
           enabled: true
-          title: Matthew Alampay Davis
+          title: W. Matthew Alampay Davis
           subtitle: "I’m an economist with research interests in the political economics of climate change and development. My active projects investigate the distributional, institutional, and cultural consequences of environmental change."
           imageUrl: "/profile-crop.jpg"
           imageWidth: 160
           imageHeight: 160
-          imageTitle: Matthew Alampay Davis
+          imageTitle: W. Matthew Alampay Davis
           buttons:
             - name: CV
               url: /CV-AlampayDavis.pdf
