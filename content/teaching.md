@@ -109,6 +109,4 @@ I am not permitted to share material prepared for this course
 
 ---
 
-*Out of respect for the hard work of academic publishers, I discourage anyone from obtaining free copies of textbooks mentioned here or elsewhere by typing their title, author, and edition number plus “pdf” into Google. In addition, I disavow [Sci-Hub](https://sci-hub.se/database) as another resource for easily obtaining this material for free.*
-
-*Any and all errors are my own. Please reach out if you notice any mistakes or typos in this material.*
+<span style="opacity: 0.6; font-style: italic; font-size: 90%;">Any and all errors are my own. Please reach out if you notice any mistakes or typos in this material.</span>

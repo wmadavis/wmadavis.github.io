@@ -70,6 +70,19 @@ We present a probabilistic framework for assessing aggregate economic impacts of
 + [Replication files](https://github.com/wmadavis/BDD2018)
 + [Stanford ECHO Lab website](https://www.stanfordecholab.com/)
 
+#### Select citations
+
+[New York Times](https://www.nytimes.com/2018/10/15/climate/trump-climate-change-fact-check.html?smid=tw-nytimes&smtyp=cur) $\cdot$
+[The Guardian](https://www.theguardian.com/us-news/2018/oct/15/fact-check-donald-trumps-claims-versus-climate-science) $\cdot$
+[Governors of New York, California, and Washington](https://www.usatoday.com/story/opinion/2018/06/01/climate-change-work-continues-trumps-paris-retreat-governors-column/661059002/) $\cdot$
+[IPCC Special Report on Global Warming of 1.5°C (SR15)](https://www.ipcc.ch/sr15/chapter/chapter-3/) $\cdot$
+[MSNBC (TV)](https://www.msnbc.com/morning-joe/watch/-we-are-entering-into-an-unprecedented-climate-1445411907673?fbclid=IwAR1pVWunxrM0UWURQKo06aSEMqZPFG6dZ_PZS4VDxbbn7u2cONwY_OaT5MY) $\cdot$
+[“The Uninhabitable Earth” by David Wallace-Wells](https://www.penguinrandomhouse.com/books/586541/the-uninhabitable-earth-by-david-wallace-wells/) $\cdot$
+[Rezo](https://www.nytimes.com/2019/05/25/world/europe/rezo-cdu-youtube-germany.html) $\cdot$
+[Bernie Sanders](https://berniesanders.com/issues/the-green-new-deal/) $\cdot$
+[US House Committee on Financial Services](https://financialservices.house.gov/calendar/eventsingle.aspx?EventID=404231#Wbcast03222017) $\cdot$
+[IPCC Sixth Assessment Report (AR6-WGII)](https://www.ipcc.ch/report/ar6/wg2/)
+
 #### Press
 
 [Nature](https://www.nature.com/articles/d41586-018-05198-7) $\cdot$
@@ -87,19 +100,6 @@ We present a probabilistic framework for assessing aggregate economic impacts of
 [The Daily Show (TV)](https://www.youtube.com/watch?v=40JS3W4um7o)
 
 <iframe width="852" height="480" src="https://www.youtube.com/embed/40JS3W4um7o" title="Marshall Burke on The Daily Show" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-#### Select citations
-
-[New York Times](https://www.nytimes.com/2018/10/15/climate/trump-climate-change-fact-check.html?smid=tw-nytimes&smtyp=cur) $\cdot$
-[The Guardian](https://www.theguardian.com/us-news/2018/oct/15/fact-check-donald-trumps-claims-versus-climate-science) $\cdot$
-[Governors of New York, California, and Washington](https://www.usatoday.com/story/opinion/2018/06/01/climate-change-work-continues-trumps-paris-retreat-governors-column/661059002/) $\cdot$
-[IPCC Special Report on Global Warming of 1.5°C (SR15)](https://www.ipcc.ch/sr15/chapter/chapter-3/) $\cdot$
-[MSNBC (TV)](https://www.msnbc.com/morning-joe/watch/-we-are-entering-into-an-unprecedented-climate-1445411907673?fbclid=IwAR1pVWunxrM0UWURQKo06aSEMqZPFG6dZ_PZS4VDxbbn7u2cONwY_OaT5MY) $\cdot$
-[“The Uninhabitable Earth” by David Wallace-Wells](https://www.penguinrandomhouse.com/books/586541/the-uninhabitable-earth-by-david-wallace-wells/) $\cdot$
-[Rezo](https://www.nytimes.com/2019/05/25/world/europe/rezo-cdu-youtube-germany.html) $\cdot$
-[Bernie Sanders](https://berniesanders.com/issues/the-green-new-deal/) $\cdot$
-[US House Committee on Financial Services](https://financialservices.house.gov/calendar/eventsingle.aspx?EventID=404231#Wbcast03222017) $\cdot$
-[IPCC Sixth Assessment Report (AR6-WGII)](https://www.ipcc.ch/report/ar6/wg2/)
 
 ---
 
