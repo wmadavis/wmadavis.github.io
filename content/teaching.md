@@ -45,6 +45,8 @@ Fall 2020 $\cdot$ Spring 2021 $\cdot$ Fall 2021 $\cdot$ Summer 2023
 
 Text: [*Introduction to Econometrics*,](https://www.sea-stat.com/wp-content/uploads/2020/08/James-H.-Stock-Mark-W.-Watson-Introduction-to-Econometrics-Global-Edition-Pearson-Education-Limited-2020.pdf) James Stock and Mark Watson (2019, 2020)
 
+Columbia traditionally teaches its undergraduates econometrics using Stata. I took the initiative to prepare supplementary material and solutions to provide students the option to instead use R, a freely available open-source alternative. After some initial trepidation about departing from the official software of instruction, students seemed to find its object-oriented programming more intuitive and appreciated its accessibility beyond the semester course. I continued teaching the course in both R and Stata over four semesters.
+
 <details>  <summary style="cursor: pointer;">Select student feedback</summary>
   <ul style="opacity: 0.7; font-style: italic; padding-left: 1em; margin-top: 0.5em;">
    <li>"Literally the best TA I’ve ever had. Always open to answering questions. Has the best study guides for learning R which was a relatively new language for me. I could not have done it without him." — Fall 2021</li>
@@ -58,8 +60,6 @@ Text: [*Introduction to Econometrics*,](https://www.sea-stat.com/wp-content/uplo
   </ul>
 </details>
 <br>
-
-Columbia traditionally teaches its undergraduates econometrics using Stata. I took the initiative to prepare supplementary material and solutions to provide students the option to instead use R, a freely available open-source alternative. After some initial trepidation about departing from the official software of instruction, students seemed to find its object-oriented programming more intuitive and appreciated its accessibility beyond the semester course. I continued teaching the course in both R and Stata over four semesters.
 
 Below are weekly guides produced for the Summer 2023 iteration of my classes, which is accelerated and condensed relative to the regular semester course. These materials include a subset of practice problems but exclude material prepared for problem sets, exams, practice exams, and their solutions. Most datasets referenced are available for free [here.](https://www.princeton.edu/~mwatson/Stock-Watson_4E/Stock-Watson-Resources-4e.html)
 
