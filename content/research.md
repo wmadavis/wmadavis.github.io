@@ -9,6 +9,8 @@ TocOpen: true
 UseHugoToc: true
 ---
 
+<div style="font-size: 70%;">
+
 <div style="opacity: 0.6; font-style: italic; font-size: 90%;">
   I am an economist working at the intersection of climate, development, and political economics. Much of my research to date has focused on better understanding the social consequences of environmental change. A recurring theme in this work is that while the incidence of environmental change is diffuse and determined by complex biophysical systems, the incidence of its social effects is influenced by political economic systems which may encode patterns of social inequality.
 
@@ -22,13 +24,11 @@ UseHugoToc: true
 
 ## Working papers
 
-<span style="opacity: 0.6; font-style: italic; font-size: 90%;">Drafts are available upon request. Results reported here are preliminary.</span>
+<span style="opacity: 0.6; font-style: italic;">Drafts are available upon request. Results reported here are preliminary.</span>
 
 ### Global income distributions under climate change
 
-<div style="font-size: 80%;">
   This paper explores the relationship between anthropogenic climate change and global inequality, a subject bridging two of the defining challenges of the 21st century but which remains critically understudied at subnational levels. First, I document new evidence that temperature shocks significantly and persistently impact distributions of income within countries by concentrating proportional losses onto the lowest income-earners in warm climates. I also document a surprising vulnerability of the top 1% in these countries to environmental shocks. Next, a counterfactual analysis shows that climate change has regressively redistributed global income largely by depriving the world's poorest of economic opportunity that would otherwise have been available. I find that income levels absent systematic warming observed between 1980-2016 would be 29% [18, 41] higher for the lowest global percentile of positive income-earners. I estimate that climate change over this period has reduced between-country inequality by 8.7% [4.9, 13.3] and within-country inequality by 2.6% [0.0, 5.6]. Altogether, these results constitute the most comprehensive evidence yet of the regressive economic impact of climate change.
-</div>
 
 ![](/papers/ClimateInequality.png)
 
@@ -55,7 +55,7 @@ UseHugoToc: true
 <span style="opacity: 0.6; font-size: 90%;"><em>with</em> [Tanushree Goyal](https://www.tanushreegoyal.com)</span>
 
 <div style="font-size: 80%;">
- In this work in progress, we explore how income shocks may impact the probability that a previously non-violent marriage turns violent. We combine high-resolution weather data with comprehensive duration data derived from household surveys of domestic violence in India to characterize the impact of drought-induced shocks on these gendered outcomes. Early findings suggest that negative income shocks substantially *reduce* the hazard into marital violence. Specifically, a negative precipitation shock of a magnitude expected once every 4-5 years induces a 70\% reduction in the baseline hazard into first-time violence during the formative years of a marriage.
+ In this work in progress, we explore how income shocks may impact the probability that a previously non-violent marriage turns violent. We combine high-resolution weather data with comprehensive duration data derived from household surveys of domestic violence in India to characterize the impact of drought-induced shocks on these gendered outcomes. Early findings suggest that negative income shocks substantially *reduce* the hazard into marital violence. Specifically, a negative precipitation shock of a magnitude expected once every 4-5 years induces a 70% reduction in the baseline hazard into first-time violence during the formative years of a marriage.
 
   <br>
   <br>
@@ -161,3 +161,5 @@ Our "transfer learning" pipeline proceeds by first assigning a convolutional neu
 [Center for Global Development](https://www.cgdev.org/blog/can-we-measure-poverty-outer-space)
 
 ![](/papers/PovertyMap.png)
+
+</div>
