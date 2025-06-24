@@ -27,7 +27,7 @@ Using this space to collate academic resources I’ve personally found the most 
 + How to build an economic model in your spare time [(Hal Varian)](https://people.ischool.berkeley.edu/~hal/Papers/how.pdf)
 + Most academics taught themselves how to code. Some tips here (specific to R) on remedying bad habits ([Jennifer Bryan and Jim Hester](https://rstats.wtf/), esp. sections 2-3)
 + The anatomy of an applied micro talk [(Jesse Shapiro)](https://scholar.harvard.edu/files/shapiro/files/applied_micro_slides.pdf)
-+ A style guide for mathematical writing ([Donald E. Knuth, Tracy Larrabee, and Paul M. Roberts, esp. section 1)](https://jmlr.csail.mit.edu/reviewing-papers/knuth_mathematical_writing.pdf)
++ A style guide for mathematical writing ([Donald E. Knuth, Tracy Larrabee, and Paul M. Roberts](https://jmlr.csail.mit.edu/reviewing-papers/knuth_mathematical_writing.pdf), esp. section 1)
 
 ### Research
 
