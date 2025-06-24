@@ -74,7 +74,7 @@ UseHugoToc: true
 
 ###### Paper materials and links
 
-+ Paper: [official](https://doi.org/10.1038/s41586-018-0071-9) $\cdot$ [ungated](/papers/BurkeDavisDiffenbaugh2018.pdf)
++ Paper: [official](https://doi.org/10.1038/s41586-018-0071-9) $\cdot$ [ungated](/papers/BurkeAlampayDavisDiffenbaugh2018.pdf)
 + [Replication files](https://github.com/wmadavis/BDD2018)
 + [Stanford ECHO Lab website](https://www.stanfordecholab.com/)
 
