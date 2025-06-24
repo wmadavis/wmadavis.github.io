@@ -33,6 +33,24 @@ In this role, I designed and administered workshops on applied research methods 
   "Matthew is very organized, knowledgeable, and accessible. Even though he’s not a specialist in my area of research, he went above and beyond in familiarizing himself with my data, and he’s an expert at coding."
 </div>
 
+<div style="float: right; width: 40%; font-size: 80%; font-style: italic; opacity: 0.7; margin-left: 1em;">
+  "Incredibly helpful and supportive — I wouldn't have gotten through my thesis without him."<br>
+  — Student, Spring 2024
+</div>
+
+<p style="font-size: 80%; font-style: italic; opacity: 0.7;">
+  🗣️ "He explained hard concepts in a way that made them click instantly."<br>
+  — Student, Summer 2023
+</p>
+
+<details style="font-size: 80%;">
+  <summary style="cursor: pointer;">Student feedback</summary>
+  <p style="font-style: italic; opacity: 0.7;">
+    "Best TA I've had — made complex concepts intuitive."<br>
+    — Student, Fall 2023
+  </p>
+</details>
+
 <hr style="border-top: 1px dashed #999; background: none;" />
 
 ## Introduction to econometrics
