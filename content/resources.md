@@ -3,7 +3,7 @@ title: "Resources for academic social science"
 aliases: /resources/
 url: /resources/
 disableAnchoredHeadings: false
-description: "Academic economics resources"
+description: "Page collating academic economics resources"
 showToc: true
 TocOpen: true
 UseHugoToc: true
