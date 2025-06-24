@@ -64,13 +64,13 @@ We present a probabilistic framework for assessing aggregate economic impacts of
 
 ![Figure 4: The impact of global warming on global GDP per capita, relative to a world without warming, for different forcing levels.](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41586-018-0071-9/MediaObjects/41586_2018_71_Fig4_HTML.jpg)
 
-##### Paper materials and links
+###### Paper materials and links
 
 + Paper: [official](https://doi.org/10.1038/s41586-018-0071-9) $\cdot$ [ungated](/papers/BurkeDavisDiffenbaugh2018.pdf)
 + [Replication files](https://github.com/wmadavis/BDD2018)
 + [Stanford ECHO Lab website](https://www.stanfordecholab.com/)
 
-##### Select citations
+###### Select citations
 
 [New York Times](https://www.nytimes.com/2018/10/15/climate/trump-climate-change-fact-check.html?smid=tw-nytimes&smtyp=cur) $\cdot$
 [The Guardian](https://www.theguardian.com/us-news/2018/oct/15/fact-check-donald-trumps-claims-versus-climate-science) $\cdot$
@@ -83,7 +83,7 @@ We present a probabilistic framework for assessing aggregate economic impacts of
 [US House Committee on Financial Services](https://financialservices.house.gov/calendar/eventsingle.aspx?EventID=404231#Wbcast03222017) $\cdot$
 [IPCC Sixth Assessment Report (AR6-WGII)](https://www.ipcc.ch/report/ar6/wg2/)
 
-##### Press
+###### Press
 
 [Nature](https://www.nature.com/articles/d41586-018-05198-7) $\cdot$
 [Stanford](https://news.stanford.edu/2018/05/23/reducing-emissions-save-trillions/) $\cdot$
@@ -118,7 +118,7 @@ Efforts to study and design policy addressing the challenges of global poverty a
 
 Our "transfer learning" pipeline proceeds by first assigning a convolutional neural network model pre-trained for generic image classification the task of identifying features in the daytime imagery predictive of night-time luminosity, a crude proxy for economic activity. In effect, the CNN learns to produce a nonlinear mapping from the unstructured images to a low-dimensional vector representation of its most economically informative features. Ridge regression models are then optimized to produce out-of-sample estimates of consumption expenditures and asset wealth. In an initial application to five diverse sub-Saharan African countries---Nigeria, Tanzania, Uganda, Malawi, and Rwanda---our entirely open-source models are able to explain up to 75\% of the variation in village-level outcomes as measured by household surveys, demonstrating potential to reduce misallocation costs in the administration of targeted social programs.
 
-##### Paper materials and links
+###### Paper materials and links
 
 + Paper: [official](https://doi.org/10.1126/science.aaf7894) $\cdot$ [ungated](/papers/JeanEtAl2016.pdf)
 + Replication files: [code and data](https://github.com/nealjean/predicting-poverty) $\cdot$ [closed issues](https://github.com/nealjean/predicting-poverty/issues?q=is%3Aissue+is%3Aclosed)
@@ -126,7 +126,7 @@ Our "transfer learning" pipeline proceeds by first assigning a convolutional neu
 + [Sustain Lab website](http://sustain.stanford.edu/predicting-poverty)
 + [Non-technical animated video summary](https://www.youtube.com/watch?v=DafZSeIGLNE)
 
-##### Press
+###### Press
 
 [Science](http://science.sciencemag.org/content/353/6301/753) $\cdot$
 [Stanford](https://news.stanford.edu/2016/08/18/combining-satellite-data-machine-learning-to-map-poverty/) $\cdot$
