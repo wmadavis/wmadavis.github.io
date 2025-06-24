@@ -8,6 +8,7 @@ description: "Page summarizing research projects"
 showToc: true
 TocOpen: true
 UseHugoToc: true
+hideTocTitle: true
 ---
 
 <div style="opacity: 0.6; font-style: italic; font-size: 80%;">
