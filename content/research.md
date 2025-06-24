@@ -9,8 +9,6 @@ TocOpen: true
 UseHugoToc: true
 ---
 
-<div style="font-size: 70%;">
-
 <div style="opacity: 0.6; font-style: italic; font-size: 90%;">
   I am an economist working at the intersection of climate, development, and political economics. Much of my research to date has focused on better understanding the social consequences of environmental change. A recurring theme in this work is that while the incidence of environmental change is diffuse and determined by complex biophysical systems, the incidence of its social effects is influenced by political economic systems which may encode patterns of social inequality.
 
@@ -19,6 +17,8 @@ UseHugoToc: true
 
   By necessity, I draw from diverse literatures within economics and depend on collaborations across the social and environmental sciences, adapting and repurposing theory and methods to the demands of each research question.
 </div>
+
+<div style="font-size: 70%;">
 
 ---
 
@@ -38,7 +38,6 @@ UseHugoToc: true
 
 ### Temperature, institutions, and the political climate
 
-<div style="font-size: 80%;">
  Despite widespread regard of climate change as a threat to global stability, its implications for political preferences and institutional change remains undertheorized. I consider two competing hypotheses by repurposing influential theories of regime change. Under a "mercury uprising" hypothesis, adverse environmental shocks diminish the opportunity cost of contesting autocratic rule thereby improving prospects for democratic reform. On the other hand, a "state of exception" hypothesis suggests that a public willingness to compromise civil liberties for authoritarian features of governance in times of crisis would lead to a diminution of democratic institutions.
 
   <br>
@@ -52,16 +51,14 @@ UseHugoToc: true
 ---
 
 ### Evidence of a drought effect on the hazard into spousal violence
-<span style="opacity: 0.6; font-size: 90%;"><em>with</em> [Tanushree Goyal](https://www.tanushreegoyal.com)</span>
+<span style="opacity: 0.6;"><em>with</em> [Tanushree Goyal](https://www.tanushreegoyal.com)</span>
 
-<div style="font-size: 80%;">
  In this work in progress, we explore how income shocks may impact the probability that a previously non-violent marriage turns violent. We combine high-resolution weather data with comprehensive duration data derived from household surveys of domestic violence in India to characterize the impact of drought-induced shocks on these gendered outcomes. Early findings suggest that negative income shocks substantially *reduce* the hazard into marital violence. Specifically, a negative precipitation shock of a magnitude expected once every 4-5 years induces a 70% reduction in the baseline hazard into first-time violence during the formative years of a marriage.
 
   <br>
   <br>
 
  We also replicate a recently published study relating these weather shocks to the risk of child marriage using updated methods and improved data. We are able to corroborate the original finding that droughts reduce the hazard into child marriage in India though estimates are smaller and more persistent than characterized in the original study. Critically, I find this phenomenon is reproduced in Sub-Saharan African contexts, contrary to the original finding of opposite-signed effects, which suggests that consumption-smoothing incentives may not be as pertinent a determinant of child marriage. Instead, secondary results suggest that the practice of child marriage may be less economically motivated than marriages occurring later in life.
-</div>
 
 ![](/papers/Drought-IPV.png)
 
@@ -70,16 +67,14 @@ UseHugoToc: true
 ## Publications
 
 ### Large potential reduction in economic damages under UN mitigation targets
-<span style="display: block; opacity: 0.6; font-size: 90%;">
+<span style="display: block; opacity: 0.6;">
 <a href="https://web.stanford.edu/~mburke/">Marshall Burke</a>, W. Matthew Alampay Davis, and <a href="https://profiles.stanford.edu/noah-diffenbaugh">Noah S. Diffenbaugh</a> (2018)<br>
 <em>Nature</em> <strong>557</strong>(7706): 549–553.
 </span>
 
 <br>
 
-<div style="font-size: 80%;">
   We present a probabilistic framework for assessing aggregate economic impacts of anthropogenic warming. Our construction decomposes uncertainty associated with mid-century and end-of-century economic projections into distinct sources of uncertainty associated with i) econometric estimation of the economic effects of environmental change, ii) climate models of the spatial distribution of anthropogenic warming, iii) the projected schedule of greenhouse gas concentrations associated with a radiative forcing, and iv) the social discounting regime of choice. We apply this framework to characterize the economic benefits of climate policy, emphasizing how achieving the most ambitious mitigation targets of the 2015 Paris Agreement would obviate essentially certain economic calamity that will otherwise concentrate in developing countries.
-</div>
 
 ![Figure 4: The impact of global warming on global GDP per capita, relative to a world without warming, for different forcing levels.](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41586-018-0071-9/MediaObjects/41586_2018_71_Fig4_HTML.jpg)
 
@@ -131,15 +126,11 @@ W. Matthew Alampay Davis, <a href="https://fse.fsi.stanford.edu/people/david_lob
 
 <br>
 
-<div style="font-size: 80%;">
 Efforts to study and design policy addressing the challenges of global poverty and inequality are hampered by the infrequency and prohibitive expense of reliable measurement of welfare, particularly in the developing world. Here we demonstrate a scalable method for overcoming this data scarcity which works by extracting economic information from an unconventional but inexpensive source of data with increasingly frequent and essentially global coverage: high-resolution daytime satellite imagery.
-</div>
 
 ![](/papers/ScienceDiagram.jpeg)
 
-<div style="font-size: 80%;">
 Our "transfer learning" pipeline proceeds by first assigning a convolutional neural network model pre-trained for generic image classification the task of identifying features in the daytime imagery predictive of night-time luminosity, a crude proxy for economic activity. In effect, the CNN learns to produce a nonlinear mapping from the unstructured images to a low-dimensional vector representation of its most economically informative features. Ridge regression models are then optimized to produce out-of-sample estimates of consumption expenditures and asset wealth. In an initial application to five diverse sub-Saharan African countries---Nigeria, Tanzania, Uganda, Malawi, and Rwanda---our entirely open-source models are able to explain up to 75% of the variation in village-level outcomes as measured by household surveys, demonstrating potential to reduce misallocation costs in the administration of targeted social programs.
-</div>
 
 ###### Paper materials and links
 
