@@ -5,8 +5,8 @@ url: /teaching/
 hidemeta: true
 disableAnchoredHeadings: false
 description: "Page summarizing teaching experience"
-showToc: true
-TocOpen: true
+showToc: false
+TocOpen: false
 UseHugoToc: false
 ---
 
