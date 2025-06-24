@@ -30,9 +30,9 @@ Fall 2023 $\cdot$ Spring 2024
 In this role, I designed and administered workshops on applied research methods and project-oriented workflows for senior honors thesis undergraduate students. My responsibilities also included serving as a departmental consultant to economics students conducting empirical research (namely, undergraduate and master's thesis students and part-time research assistants), meeting one-on-one for 2-8 hours each week. Some prepared materials are enumerated [here.](/teaching/research-ta)
 
 <details>  <summary style="cursor: pointer;">Student feedback</summary>
-  <p style="font-style: italic; opacity: 0.7;">
-      "Matthew is very organized, knowledgeable, and accessible. Even though he’s not a specialist in my area of research, he went above and beyond in familiarizing himself with my data, and he’s an expert at coding."
-  </p>
+  <ul style="opacity: 0.7; font-style: italic; padding-left: 1em; margin-top: 0.5em;">
+  <li>"Matthew is very organized, knowledgeable, and accessible. Even though he’s not a specialist in my area of research, he went above and beyond in familiarizing himself with my data, and he’s an expert at coding."</li>
+  </ul>
 </details>
 
 <hr style="border-top: 1px dashed #999; background: none;" />
