@@ -106,31 +106,19 @@ amount of resources which he gifts to students is astounding, and I am so gratef
 
 The slides below are weekly elaborations on a specific newly introduced concept and so do not represent comprehensive coverage of the course material. They’re also not necessarily self-contained; I sometimes supplemented my slides with blackboard work and conversation with students, which is not always captured in the annotations. Course material is also instructor-specific; if you’re reading this as a Columbia student taking the same course, it may not correspond to the treatment or selection of topics your particular instructor chooses to cover. For example, compared to my Spring 2022 coverage, the following material from Fall 2022 covers a wider range of topics but omits some material such as the method of Lagrange multipliers.
 
-<span style="font-weight: 300;">1. Consumer optimization</span> | [PDF](/teaching/micro-2022-fall/01-ConsumerOptimization.pdf)
-
-<span style="font-weight: 300;">2. Hicksian demand and special well-behaved preferences</span> | [PDF](/teaching/micro-2022-fall/02-HicksianDemand-SpecialPreferences.pdf)
-
-<span style="font-weight: 300;">3. Comparative statics and Slutsky decomposition of price effects</span> | [PDF](/teaching/micro-2022-fall/03-ComparativeStatics-IncomeSubstitutionEffects.pdf)
-
-<span style="font-weight: 300;">4. Hicksian decomposition of price effects and introduction to welfare</span> | [PDF](/teaching/micro-2022-fall/04-HicksianDecomposition-Welfare.pdf)
-
-<span style="font-weight: 300;">5. Producer Theory I: Cost minimization</span> | [PDF](/teaching/micro-2022-fall/05-ProducerTheory-CostMinimization.pdf)
-
-<span style="font-weight: 300;">6. Producer Theory II: Profit maximization under perfect competition</span> | [PDF](/teaching/micro-2022-fall/06-ProducerTheory-ProfitMaximization-MarketEquilibrium.pdf)
-
-<span style="font-weight: 300;">7. General equilibrium</span> | [PDF](/teaching/micro-2022-fall/07-GeneralEquilibrium.pdf)
-
-<span style="font-weight: 300;">8. Exchange economies and the Edgeworth box</span> | [PDF](/teaching/micro-2022-fall/08-ExchangeEconomies-MarketClearing-NonInteriorSolutions.pdf)
-
-<span style="font-weight: 300;">9. Models of monopolistic and oligopolistic competition</span> | [PDF](/teaching/micro-2022-fall/09-ImperfectCompetition.pdf)
-
-<span style="font-weight: 300;">10. Comparing models of oligopolistic competition</span> | [PDF](/teaching/micro-2022-fall/10-FinalReview.pdf)
-
-<span style="font-weight: 300;">A1. Running log of student emails and corrections to weekly slides</span> | [PDF](/teaching/micro-2022-fall/00-RunningUpdates.pdf)
-
-<span style="font-weight: 300;">A2. Week 8: by student request, deriving IC equations for accurate graphing</span> | [PDF](/teaching/micro-2022-fall/08-GraphingExample.pdf)
-
-<span style="font-weight: 300;">A3. Week 10: High-level summary and takeaways from the course</span> | [PDF](/teaching/micro-2022-fall/10-CourseSummary.pdf)
+<span style="font-weight: 300;"><a href="/teaching/micro-2022-fall/01-ConsumerOptimization.pdf">1. Consumer optimization</a></span><br>
+<span style="font-weight: 300;"><a href="/teaching/micro-2022-fall/02-HicksianDemand-SpecialPreferences.pdf">2. Hicksian demand and special well-behaved preferences</a></span><br>
+<span style="font-weight: 300;"><a href="/teaching/micro-2022-fall/03-ComparativeStatics-IncomeSubstitutionEffects.pdf">3. Comparative statics and Slutsky decomposition of price effects</a></span><br>
+<span style="font-weight: 300;"><a href="/teaching/micro-2022-fall/04-HicksianDecomposition-Welfare.pdf">4. Hicksian decomposition of price effects and introduction to welfare</a></span><br>
+<span style="font-weight: 300;"><a href="/teaching/micro-2022-fall/05-ProducerTheory-CostMinimization.pdf">5. Producer Theory I: Cost minimization</a></span><br>
+<span style="font-weight: 300;"><a href="/teaching/micro-2022-fall/06-ProducerTheory-ProfitMaximization-MarketEquilibrium.pdf">6. Producer Theory II: Profit maximization under perfect competition</a></span><br>
+<span style="font-weight: 300;"><a href="/teaching/micro-2022-fall/07-GeneralEquilibrium.pdf">7. General equilibrium</a></span><br>
+<span style="font-weight: 300;"><a href="/teaching/micro-2022-fall/08-ExchangeEconomies-MarketClearing-NonInteriorSolutions.pdf">8. Exchange economies and the Edgeworth box</a></span><br>
+<span style="font-weight: 300;"><a href="/teaching/micro-2022-fall/09-ImperfectCompetition.pdf">9. Models of monopolistic and oligopolistic competition</a></span><br>
+<span style="font-weight: 300;"><a href="/teaching/micro-2022-fall/10-FinalReview.pdf">10. Comparing models of oligopolistic competition</a></span><br>
+<span style="font-weight: 300;"><a href="/teaching/micro-2022-fall/00-RunningUpdates.pdf">A1. Running log of student emails and corrections to weekly slides</a></span><br>
+<span style="font-weight: 300;"><a href="/teaching/micro-2022-fall/08-GraphingExample.pdf">A2. Week 8: by student request, deriving IC equations for accurate graphing</a></span><br>
+<span style="font-weight: 300;"><a href="/teaching/micro-2022-fall/10-CourseSummary.pdf">A3. Week 10: High-level summary and takeaways from the course</a></span>
 
 <hr style="border-top: 1px dashed #999; background: none;" />
 
