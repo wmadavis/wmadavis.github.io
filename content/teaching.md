@@ -49,6 +49,7 @@ Text: [*Introduction to Econometrics*,](https://www.sea-stat.com/wp-content/uplo
   <ul style="opacity: 0.7; font-style: italic; padding-left: 1em; margin-top: 0.5em;">
    <li>"Literally the best TA I’ve ever had. Always open to answering questions. Has the best study guides for learning R which was a relatively new language for me. I could not have done it without him." — Fall 2021</li>
     <li>"Matt is a great TA who went above and beyond by making additional study notes that explained very clearly what some of the most difficult concepts meant." — Fall 2021</li>
+    <li>"He was extremely helpful and his teaching may be improved only by posting video recordings of his recitations. His strength is posting really really clear notes on how to do the course in R." — Fall 2021
     <li>"Matt is a great TA! As a student who used R, I depended heavily on Matt’s notes. He was always super responsive and helped us whenever we needed." — Spring 2021</li>
     <li>"He is very organized and helpful. He would prepare weekly R recitation notes and share them, which were a great help for problem sets." — Spring 2021</li>
     <li>"Matthew did a nice job going over practice problems during each recitation as well as explaining the significance of the concepts we were learning." — Fall 2020</li>
@@ -57,7 +58,6 @@ Text: [*Introduction to Econometrics*,](https://www.sea-stat.com/wp-content/uplo
   </ul>
 </details>
 <br>
-
 
 Columbia traditionally teaches its undergraduates econometrics using Stata. I took the initiative to prepare supplementary material and solutions to provide students the option to instead use R, a freely available open-source alternative. After some initial trepidation about departing from the official software of instruction, students seemed to find its object-oriented programming more intuitive and appreciated its accessibility beyond the semester course. I continued teaching the course in both R and Stata over four semesters.
 
