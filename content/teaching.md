@@ -13,6 +13,7 @@ UseHugoToc: true
  Using this space to share some of the material I've prepared and resources I've drawn from during my teaching career. Any and all errors are my own so please reach out if you notice any mistakes or typos in this material.
 
   <br>
+   <br>
 
  You may find a teaching statement with select student feedback [here](/teaching/teaching-statement.pdf).
 </div>
@@ -34,8 +35,6 @@ Fall 2020 $\cdot$ Spring 2021 $\cdot$ Fall 2021 $\cdot$ Summer 2023
 > *"ECON-UN3412 introduces students to multiple regression and related methods for analyzing data in economics and related disciplines. Additional topics include regression with discrete random variables, instrumental variables regression, analysis of random experiments and quasi-experiments, and regression with time series data. Students will learn how to conduct and critique empirical studies in economics and related fields. Accordingly, the emphasis of the course is on empirical applications."*  
 
 Text: [*Introduction to Econometrics*,](https://www.sea-stat.com/wp-content/uploads/2020/08/James-H.-Stock-Mark-W.-Watson-Introduction-to-Econometrics-Global-Edition-Pearson-Education-Limited-2020.pdf) James Stock and Mark Watson (2019, 2020)
-
-##### Prepared material
 
 Columbia teaches its undergraduates econometrics using Stata. The first semester I taught this course, I prepared supplementary material and solutions to provide students the option to instead use R, a freely accessible open-source alternative. After some initial trepidation about departing from the official software of instruction, students seemed to find its object-oriented programming more intuitive and appreciated its availability beyond the semester course.
 
@@ -71,9 +70,7 @@ Spring 2022 $\cdot$ Fall 2022
 
 Text: [*Intermediate Microeconomics with Calculus*,](https://fac.ksu.edu.sa/sites/default/files/microeco-_varian.pdf) Hal Varian (2014)
 
-##### Prepared material
-
-These slides are weekly elaborations on a specific newly introduced concept and so do not represent comprehensive coverage of the course material. They’re also not necessarily self-contained; I sometimes supplemented my slides with blackboard work and conversation with students, which is not always captured in the annotations. Course material is also instructor-specific; if you’re reading this as a Columbia student taking the same course, it may not correspond to the treatment or selection of topics your particular instructor chooses to cover. For example, compared to my Spring 2022 coverage, the following material from Fall 2022 covers a wider range of topics but omits some material such as the method of Lagrange multipliers.
+The slides below are weekly elaborations on a specific newly introduced concept and so do not represent comprehensive coverage of the course material. They’re also not necessarily self-contained; I sometimes supplemented my slides with blackboard work and conversation with students, which is not always captured in the annotations. Course material is also instructor-specific; if you’re reading this as a Columbia student taking the same course, it may not correspond to the treatment or selection of topics your particular instructor chooses to cover. For example, compared to my Spring 2022 coverage, the following material from Fall 2022 covers a wider range of topics but omits some material such as the method of Lagrange multipliers.
 
 ###### 0. Review of prerequisite calculus and optimization methods   |   [PDF](/teaching/micro-2022-fall/00-OptimizationReview.pdf)
 
@@ -99,7 +96,7 @@ These slides are weekly elaborations on a specific newly introduced concept and 
 
 ###### A1. Running log of student emails and and corrections to weekly slides   |   [PDF](/teaching/micro-2022-fall/00-RunningUpdates.pdf)
 
-###### A2. Week 8: by student request, an applied derivation of IC equations and intersections for accurate graphing   |   [PDF](/teaching/micro-2022-fall/08-GraphingExample.pdf)
+###### A2. Week 8: by student request, an applied derivation of IC equations for accurate graphing   |   [PDF](/teaching/micro-2022-fall/08-GraphingExample.pdf)
 
 ###### A3. Week 10: High-level summary and takeaways from the course   |   [PDF](/teaching/micro-2022-fall/10-CourseSummary.pdf)
 
