@@ -1,5 +1,5 @@
 ---
-title: "Resources for academic social science"
+title: "Resources for academic economics"
 aliases: /resources/
 url: /resources/
 hidemeta: true
