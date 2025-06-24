@@ -19,7 +19,7 @@ Using this space to collate academic resources I’ve personally found the most 
 ### Preparing for grad school
 
 + A guide to full-time research assistant positions (jobs now called “pre-docs”) as a stepping stone to quantitative social-science PhDs [(Coly Elhai, Quan Le, Kai Matheson, and Carolyn Tsao)](https://raguide.github.io/)
-+ I've made some of my grad school notes available on here in the past but [Luke Stein’s](https://faculty.babson.edu/lcdstein/steincoresummary.pdf) put them to shame
++ I've made notes from both my grad schools available on here in the past but [Luke Stein’s](https://github.com/lukestein/steincoresummary) put them to shame
 
 ### Academic skill development
 
