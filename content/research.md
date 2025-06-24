@@ -23,6 +23,8 @@ UseHugoToc: true
 
 ---
 
+<hr style="border-top: 1px dashed #999; background: none;" />
+
 ## Working papers
 
 <span style="opacity: 0.6; font-style: italic;">Drafts are available upon request. Results reported here are preliminary.</span>
@@ -87,7 +89,7 @@ UseHugoToc: true
 [US House Committee on Financial Services](https://financialservices.house.gov/calendar/eventsingle.aspx?EventID=404231#Wbcast03222017) $\cdot$
 [IPCC Sixth Assessment Report (AR6-WGII)](https://www.ipcc.ch/report/ar6/wg2/)
 
-###### Press
+###### Select press
 
 [Nature](https://www.nature.com/articles/d41586-018-05198-7) $\cdot$
 [Stanford](https://news.stanford.edu/2018/05/23/reducing-emissions-save-trillions/) $\cdot$
@@ -104,6 +106,8 @@ UseHugoToc: true
 [The Daily Show (TV)](https://www.youtube.com/watch?v=40JS3W4um7o)
 
 <iframe width="852" height="480" src="https://www.youtube.com/embed/40JS3W4um7o" title="Marshall Burke on The Daily Show" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+---
 
 ### Combining satellite imagery and machine learning to predict poverty
 <span style="display: block; opacity: 0.6; font-size: 90%;">
@@ -128,7 +132,7 @@ Our "transfer learning" pipeline proceeds by first assigning a convolutional neu
 + [Sustain Lab website](http://sustain.stanford.edu/predicting-poverty)
 + [Non-technical animated video summary](https://www.youtube.com/watch?v=DafZSeIGLNE)
 
-###### Press
+###### Select press
 
 [Science](http://science.sciencemag.org/content/353/6301/753) $\cdot$
 [Stanford](https://news.stanford.edu/2016/08/18/combining-satellite-data-machine-learning-to-map-poverty/) $\cdot$
