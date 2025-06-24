@@ -9,7 +9,7 @@ TocOpen: true
 UseHugoToc: true
 ---
 
-<div style="opacity: 0.6; font-style: italic; font-size: 90%;">
+<div style="opacity: 0.6; font-style: italic; font-size: 80%;">
  Using this space to share some of the material I've prepared and resources I've drawn from during my teaching career. Any and all errors are my own so please reach out if you notice any mistakes or typos in this material.
 
   <br>
@@ -17,6 +17,8 @@ UseHugoToc: true
 
  You may find a teaching statement with select student feedback [here](/teaching/teaching-statement.pdf).
 </div>
+
+<div style="font-size: 70%;">
 
 ---
 
@@ -42,23 +44,23 @@ Below are weekly guides produced for the Summer 2023 iteration of my classes, wh
 
 Instruction here presumes no prior experience with programming other than installation of R and RStudio. It introduces and makes use of R Notebooks saved as R Markdown (.Rmd) files, a convenient way of integrating in-line R scripting with intuitive and customizable word processing to produce handsome problem sets and reports either as pdfs or HTML files. If you’re following on your own, open the Rmd files in RStudio to see the input and the pdf files to see what the resultant output looks like. If I were to update this material, I’d integrate .Rprofiles into the problem set pipeline to ease students' experience further.
 
-<span style="font-weight: 600;">1. Introduction to R and R Notebooks</span> | [RMD](/teaching/metrics-2023-summer/01-R-Introduction.Rmd) $\cdot$ [PDF](/teaching/metrics-2023-summer/01-R-Introduction.pdf)
+<span style="font-weight: 300;">1. Introduction to R and R Notebooks</span> | [RMD](/teaching/metrics-2023-summer/01-R-Introduction.Rmd) $\cdot$ [PDF](/teaching/metrics-2023-summer/01-R-Introduction.pdf)
 
-<span style="font-weight: 600;">2. Multicollinearity, joint hypothesis testing, and the tidyverse</span> | [RMD](/teaching/metrics-2023-summer/02-Multicollinearity-JointHypotheses.Rmd) $\cdot$ [PDF](/teaching/metrics-2023-summer/02-Multicollinearity-JointHypotheses.pdf)
+<span style="font-weight: 300;">2. Multicollinearity, joint hypothesis testing, and the tidyverse</span> | [RMD](/teaching/metrics-2023-summer/02-Multicollinearity-JointHypotheses.Rmd) $\cdot$ [PDF](/teaching/metrics-2023-summer/02-Multicollinearity-JointHypotheses.pdf)
 
-<span style="font-weight: 600;">3. Exam 1 review</span> | [PDF](/teaching/metrics-2023-summer/03-ExtraNotes.pdf)
+<span style="font-weight: 300;">3. Exam 1 review</span> | [PDF](/teaching/metrics-2023-summer/03-ExtraNotes.pdf)
 
-<span style="font-weight: 600;">4. Nonlinear regression</span> | [RMD](/teaching/metrics-2023-summer/04-NonLinearRegression.Rmd) $\cdot$ [PDF](/teaching/metrics-2023-summer/04-NonLinearRegression.pdf)
+<span style="font-weight: 300;">4. Nonlinear regression</span> | [RMD](/teaching/metrics-2023-summer/04-NonLinearRegression.Rmd) $\cdot$ [PDF](/teaching/metrics-2023-summer/04-NonLinearRegression.pdf)
 
-<span style="font-weight: 600;">5. Panel data methods and binary dependent variables</span> | [RMD](/teaching/metrics-2023-summer/05-Panels-BinaryDVs.Rmd) $\cdot$ [PDF](/teaching/metrics-2023-summer/05-Panels-BinaryDVs.pdf)
+<span style="font-weight: 300;">5. Panel data methods and binary dependent variables</span> | [RMD](/teaching/metrics-2023-summer/05-Panels-BinaryDVs.Rmd) $\cdot$ [PDF](/teaching/metrics-2023-summer/05-Panels-BinaryDVs.pdf)
 
-<span style="font-weight: 600;">6. Exam 2 review</span> | [PDF](/teaching/metrics-2023-summer/06-FixedEffects.pdf)
+<span style="font-weight: 300;">6. Exam 2 review</span> | [PDF](/teaching/metrics-2023-summer/06-FixedEffects.pdf)
 
-<span style="font-weight: 600;">7. Instrumental variables and quasi-experiments</span> | [RMD](/teaching/metrics-2023-summer/07-Instruments-Experiments.Rmd) $\cdot$ [PDF](/teaching/metrics-2023-summer/07-Instruments-Experiments.pdf)
+<span style="font-weight: 300;">7. Instrumental variables and quasi-experiments</span> | [RMD](/teaching/metrics-2023-summer/07-Instruments-Experiments.Rmd) $\cdot$ [PDF](/teaching/metrics-2023-summer/07-Instruments-Experiments.pdf)
 
-<span style="font-weight: 600;">8. Big data, time series and dynamic causal effects</span> | [RMD](/teaching/metrics-2023-summer/08-TimeSeries-DynamicCausalEffects.Rmd) $\cdot$ [PDF](/teaching/metrics-2023-summer/08-TimeSeries-DynamicCausalEffects.pdf)
+<span style="font-weight: 300;">8. Big data, time series and dynamic causal effects</span> | [RMD](/teaching/metrics-2023-summer/08-TimeSeries-DynamicCausalEffects.Rmd) $\cdot$ [PDF](/teaching/metrics-2023-summer/08-TimeSeries-DynamicCausalEffects.pdf)
 
-<span style="font-weight: 600;">9. Exam 3 review</span> | [PDF](/teaching/metrics-2023-summer/09-Exam3-Review.pdf)
+<span style="font-weight: 300;">9. Exam 3 review</span> | [PDF](/teaching/metrics-2023-summer/09-Exam3-Review.pdf)
 
 ---
 
@@ -72,31 +74,31 @@ Text: [*Intermediate Microeconomics with Calculus*,](https://fac.ksu.edu.sa/site
 
 The slides below are weekly elaborations on a specific newly introduced concept and so do not represent comprehensive coverage of the course material. They’re also not necessarily self-contained; I sometimes supplemented my slides with blackboard work and conversation with students, which is not always captured in the annotations. Course material is also instructor-specific; if you’re reading this as a Columbia student taking the same course, it may not correspond to the treatment or selection of topics your particular instructor chooses to cover. For example, compared to my Spring 2022 coverage, the following material from Fall 2022 covers a wider range of topics but omits some material such as the method of Lagrange multipliers.
 
-<span style="font-weight: 600;">1. Consumer optimization</span> | [PDF](/teaching/micro-2022-fall/01-ConsumerOptimization.pdf)
+<span style="font-weight: 300;">1. Consumer optimization</span> | [PDF](/teaching/micro-2022-fall/01-ConsumerOptimization.pdf)
 
-<span style="font-weight: 600;">2. Hicksian demand and special well-behaved preferences</span> | [PDF](/teaching/micro-2022-fall/02-HicksianDemand-SpecialPreferences.pdf)
+<span style="font-weight: 300;">2. Hicksian demand and special well-behaved preferences</span> | [PDF](/teaching/micro-2022-fall/02-HicksianDemand-SpecialPreferences.pdf)
 
-<span style="font-weight: 600;">3. Comparative statics and Slutsky decomposition of price effects</span> | [PDF](/teaching/micro-2022-fall/03-ComparativeStatics-IncomeSubstitutionEffects.pdf)
+<span style="font-weight: 300;">3. Comparative statics and Slutsky decomposition of price effects</span> | [PDF](/teaching/micro-2022-fall/03-ComparativeStatics-IncomeSubstitutionEffects.pdf)
 
-<span style="font-weight: 600;">4. Hicksian decomposition of price effects and introduction to welfare</span> | [PDF](/teaching/micro-2022-fall/04-HicksianDecomposition-Welfare.pdf)
+<span style="font-weight: 300;">4. Hicksian decomposition of price effects and introduction to welfare</span> | [PDF](/teaching/micro-2022-fall/04-HicksianDecomposition-Welfare.pdf)
 
-<span style="font-weight: 600;">5. Producer Theory I: Cost minimization</span> | [PDF](/teaching/micro-2022-fall/05-ProducerTheory-CostMinimization.pdf)
+<span style="font-weight: 300;">5. Producer Theory I: Cost minimization</span> | [PDF](/teaching/micro-2022-fall/05-ProducerTheory-CostMinimization.pdf)
 
-<span style="font-weight: 600;">6. Producer Theory II: Profit maximization under perfect competition</span> | [PDF](/teaching/micro-2022-fall/06-ProducerTheory-ProfitMaximization-MarketEquilibrium.pdf)
+<span style="font-weight: 300;">6. Producer Theory II: Profit maximization under perfect competition</span> | [PDF](/teaching/micro-2022-fall/06-ProducerTheory-ProfitMaximization-MarketEquilibrium.pdf)
 
-<span style="font-weight: 600;">7. General equilibrium</span> | [PDF](/teaching/micro-2022-fall/07-GeneralEquilibrium.pdf)
+<span style="font-weight: 300;">7. General equilibrium</span> | [PDF](/teaching/micro-2022-fall/07-GeneralEquilibrium.pdf)
 
-<span style="font-weight: 600;">8. Exchange economies and the Edgeworth box</span> | [PDF](/teaching/micro-2022-fall/08-ExchangeEconomies-MarketClearing-NonInteriorSolutions.pdf)
+<span style="font-weight: 300;">8. Exchange economies and the Edgeworth box</span> | [PDF](/teaching/micro-2022-fall/08-ExchangeEconomies-MarketClearing-NonInteriorSolutions.pdf)
 
-<span style="font-weight: 600;">9. Models of monopolistic and oligopolistic competition</span> | [PDF](/teaching/micro-2022-fall/09-ImperfectCompetition.pdf)
+<span style="font-weight: 300;">9. Models of monopolistic and oligopolistic competition</span> | [PDF](/teaching/micro-2022-fall/09-ImperfectCompetition.pdf)
 
-<span style="font-weight: 600;">10. Comparing models of oligopolistic competition</span> | [PDF](/teaching/micro-2022-fall/10-FinalReview.pdf)
+<span style="font-weight: 300;">10. Comparing models of oligopolistic competition</span> | [PDF](/teaching/micro-2022-fall/10-FinalReview.pdf)
 
-<span style="font-weight: 600;">A1. Running log of student emails and corrections to weekly slides</span> | [PDF](/teaching/micro-2022-fall/00-RunningUpdates.pdf)
+<span style="font-weight: 300;">A1. Running log of student emails and corrections to weekly slides</span> | [PDF](/teaching/micro-2022-fall/00-RunningUpdates.pdf)
 
-<span style="font-weight: 600;">A2. Week 8: by student request, deriving IC equations for accurate graphing</span> | [PDF](/teaching/micro-2022-fall/08-GraphingExample.pdf)
+<span style="font-weight: 300;">A2. Week 8: by student request, deriving IC equations for accurate graphing</span> | [PDF](/teaching/micro-2022-fall/08-GraphingExample.pdf)
 
-<span style="font-weight: 600;">A3. Week 10: High-level summary and takeaways from the course</span> | [PDF](/teaching/micro-2022-fall/10-CourseSummary.pdf)
+<span style="font-weight: 300;">A3. Week 10: High-level summary and takeaways from the course</span> | [PDF](/teaching/micro-2022-fall/10-CourseSummary.pdf)
 
 ---
 
@@ -107,3 +109,5 @@ Spring 2023
 > *This international economics course is targeted towards non-economics students, focusing on current events and the increasing international interdependence of the world economy. Topics incude: (i) why countries trade, what goods and services will be traded, how the gains from trade are distributed and the tools of commercial policy; (ii) the movement of labor and capital across borders; value of transnational countries and production processes across countries; (iii) international finance issues including exchange rates, balance of payments and open economy macroeconomic adjustment.*  
 
 I am not permitted to share material prepared for this course
+
+</div>

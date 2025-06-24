@@ -9,7 +9,7 @@ TocOpen: true
 UseHugoToc: true
 ---
 
-<div style="opacity: 0.6; font-style: italic; font-size: 90%;">
+<div style="opacity: 0.6; font-style: italic; font-size: 80%;">
   I am an economist working at the intersection of climate, development, and political economics. Much of my research to date has focused on better understanding the social consequences of environmental change. A recurring theme in this work is that while the incidence of environmental change is diffuse and determined by complex biophysical systems, the incidence of its social effects is influenced by political economic systems which may encode patterns of social inequality.
 
   <br>
@@ -34,26 +34,18 @@ UseHugoToc: true
 
 + [Job market version](/papers/JMP-ClimateInequality.pdf)
 
----
-
 ### Temperature, institutions, and the political climate
 
  Despite widespread regard of climate change as a threat to global stability, its implications for political preferences and institutional change remains undertheorized. I consider two competing hypotheses by repurposing influential theories of regime change. Under a "mercury uprising" hypothesis, adverse environmental shocks diminish the opportunity cost of contesting autocratic rule thereby improving prospects for democratic reform. On the other hand, a "state of exception" hypothesis suggests that a public willingness to compromise civil liberties for authoritarian features of governance in times of crisis would lead to a diminution of democratic institutions.
-
-  <br>
   
   I empirically test these hypotheses first by measuring the dynamic impacts of identified temperature shocks on survey-based proxies for the demand for democracy. Next, I use multi-valued and dichotomous measures of democracy to investigate the effects of these shocks on the democratic quality of political institutions. My results consistently support the "state of exception" hypothesis. In particular, I find that a positive 0.5$^\circ$C temperature shock increases the propensity for autocracies in temperate geographies to democratize by between 1.5-3.7 percentage points depending on the operating measure of democracy but reduces this propensity for their tropical counterparts by 1.6-2.4pp. The same shocks also increase the propensity for warm-climate democracies to break down by 0.6-2.0pp. Effects are substantial and significant but exhibit very limited persistence beyond the year of the shock once autocorrelation in the shock itself is accounted for. Finally, we find that the same shocks have null effects on the propensity for temperate democracies to undergo reversal, indicating that democracies are  in high state-capacity polities are relatively impervious to environmental disruption.
  
 ![](/papers/PoliticalClimate.png)
 
----
-
 ### Evidence of a drought effect on the hazard into spousal violence
 <span style="opacity: 0.6;"><em>with</em> [Tanushree Goyal](https://www.tanushreegoyal.com)</span>
 
  In this work in progress, we explore how income shocks may impact the probability that a previously non-violent marriage turns violent. We combine high-resolution weather data with comprehensive duration data derived from household surveys of domestic violence in India to characterize the impact of drought-induced shocks on these gendered outcomes. Early findings suggest that negative income shocks substantially *reduce* the hazard into marital violence. Specifically, a negative precipitation shock of a magnitude expected once every 4-5 years induces a 70% reduction in the baseline hazard into first-time violence during the formative years of a marriage.
-
-  <br>
   
  We also replicate a recently published study relating these weather shocks to the risk of child marriage using updated methods and improved data. We are able to corroborate the original finding that droughts reduce the hazard into child marriage in India though estimates are smaller and more persistent than characterized in the original study. Critically, I find this phenomenon is reproduced in Sub-Saharan African contexts, contrary to the original finding of opposite-signed effects, which suggests that consumption-smoothing incentives may not be as pertinent a determinant of child marriage. Instead, secondary results suggest that the practice of child marriage may be less economically motivated than marriages occurring later in life.
 
