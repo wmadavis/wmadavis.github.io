@@ -26,19 +26,19 @@ UseHugoToc: true
 
 ### Global income distributions under climate change
 
-<div font-size: 80%;">
+<div "font-size: 80%;">
   This paper explores the relationship between anthropogenic climate change and global inequality, a subject bridging two of the defining challenges of the 21st century but which remains critically understudied at subnational levels. First, I document new evidence that temperature shocks significantly and persistently impact distributions of income within countries by concentrating proportional losses onto the lowest income-earners in warm climates. I also document a surprising vulnerability of the top 1% in these countries to environmental shocks. Next, a counterfactual analysis shows that climate change has regressively redistributed global income largely by depriving the world's poorest of economic opportunity that would otherwise have been available. I find that income levels absent systematic warming observed between 1980-2016 would be 29% [18, 41] higher for the lowest global percentile of positive income-earners. I estimate that climate change over this period has reduced between-country inequality by 8.7% [4.9, 13.3] and within-country inequality by 2.6% [0.0, 5.6]. Altogether, these results constitute the most comprehensive evidence yet of the regressive economic impact of climate change.
 </div>
 
-+ [Job market version](/papers/JMP-ClimateInequality.pdf)
-
 ![](/papers/ClimateInequality.png)
+
++ [Job market version](/papers/JMP-ClimateInequality.pdf)
 
 ---
 
 ### Temperature, institutions, and the political climate
 
-<div font-size: 80%;">
+<div "font-size: 80%;">
  Despite widespread regard of climate change as a threat to global stability, its implications for political preferences and institutional change remains undertheorized. I consider two competing hypotheses by repurposing influential theories of regime change. Under a "mercury uprising" hypothesis, adverse environmental shocks diminish the opportunity cost of contesting autocratic rule thereby improving prospects for democratic reform. On the other hand, a "state of exception" hypothesis suggests that a public willingness to compromise civil liberties for authoritarian features of governance in times of crisis would lead to a diminution of democratic institutions.
 
   <br>
@@ -54,7 +54,7 @@ UseHugoToc: true
 ### Evidence of a drought effect on the hazard into spousal violence
 <span style="opacity: 0.6; font-size: 90%;"><em>with</em> [Tanushree Goyal](https://www.tanushreegoyal.com)</span>
 
-<div font-size: 80%;">
+<div "font-size: 80%;">
  In this work in progress, we explore how income shocks may impact the probability that a previously non-violent marriage turns violent. We combine high-resolution weather data with comprehensive duration data derived from household surveys of domestic violence in India to characterize the impact of drought-induced shocks on these gendered outcomes. Early findings suggest that negative income shocks substantially *reduce* the hazard into marital violence. Specifically, a negative precipitation shock of a magnitude expected once every 4-5 years induces a 70\% reduction in the baseline hazard into first-time violence during the formative years of a marriage.
 
   <br>
@@ -77,7 +77,7 @@ UseHugoToc: true
 
 <br>
 
-<div font-size: 80%;">
+<div "font-size: 80%;">
   We present a probabilistic framework for assessing aggregate economic impacts of anthropogenic warming. Our construction decomposes uncertainty associated with mid-century and end-of-century economic projections into distinct sources of uncertainty associated with i) econometric estimation of the economic effects of environmental change, ii) climate models of the spatial distribution of anthropogenic warming, iii) the projected schedule of greenhouse gas concentrations associated with a radiative forcing, and iv) the social discounting regime of choice. We apply this framework to characterize the economic benefits of climate policy, emphasizing how achieving the most ambitious mitigation targets of the 2015 Paris Agreement would obviate essentially certain economic calamity that will otherwise concentrate in developing countries.
 </div>
 
@@ -131,13 +131,13 @@ W. Matthew Alampay Davis, <a href="https://fse.fsi.stanford.edu/people/david_lob
 
 <br>
 
-<div font-size: 80%;">
+<div "font-size: 80%;">
 Efforts to study and design policy addressing the challenges of global poverty and inequality are hampered by the infrequency and prohibitive expense of reliable measurement of welfare, particularly in the developing world. Here we demonstrate a scalable method for overcoming this data scarcity which works by extracting economic information from an unconventional but inexpensive source of data with increasingly frequent and essentially global coverage: high-resolution daytime satellite imagery.
 </div>
 
 ![](/papers/ScienceDiagram.jpeg)
 
-<div font-size: 80%;">
+<div "font-size: 80%;">
 Our "transfer learning" pipeline proceeds by first assigning a convolutional neural network model pre-trained for generic image classification the task of identifying features in the daytime imagery predictive of night-time luminosity, a crude proxy for economic activity. In effect, the CNN learns to produce a nonlinear mapping from the unstructured images to a low-dimensional vector representation of its most economically informative features. Ridge regression models are then optimized to produce out-of-sample estimates of consumption expenditures and asset wealth. In an initial application to five diverse sub-Saharan African countries---Nigeria, Tanzania, Uganda, Malawi, and Rwanda---our entirely open-source models are able to explain up to 75% of the variation in village-level outcomes as measured by household surveys, demonstrating potential to reduce misallocation costs in the administration of targeted social programs.
 </div>
 
