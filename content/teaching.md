@@ -47,6 +47,7 @@ Text: [*Introduction to Econometrics*,](https://www.sea-stat.com/wp-content/uplo
 
 <details>
   <summary style="cursor: pointer;">Select student feedback</summary>
+
   <div style="opacity: 0.7; font-style: italic; font-size: 80%; padding-left: 1em; margin-top: 0.5em;">
 
     <p style="margin-bottom: 0.2em;"><strong>Fall 2021</strong></p>
@@ -70,7 +71,6 @@ Text: [*Introduction to Econometrics*,](https://www.sea-stat.com/wp-content/uplo
 
   </div>
 </details>
-<br>
 
 Columbia traditionally teaches its undergraduates econometrics using Stata. I took the initiative to prepare supplementary material and solutions to provide students the option to instead use R, a freely available open-source alternative. After some initial trepidation about departing from the official software of instruction, students seemed to find its object-oriented programming more intuitive and appreciated its accessibility beyond the semester course. I continued teaching the course in both R and Stata over four semesters.
 
