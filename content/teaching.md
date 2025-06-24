@@ -27,19 +27,25 @@ UseHugoToc: false
 
 Fall 2023 $\cdot$ Spring 2024
 
+In this role, I designed and administered workshops on applied research methods and project-oriented workflows for senior honors thesis undergraduate students. My responsibilities also included serving as a departmental consultant to economics students conducting empirical research (namely, undergraduate and master's thesis students and part-time research assistants), meeting one-on-one for 2-8 hours each week. Some prepared materials are enumerated [here.](/teaching/research-ta)
+
 <details>  <summary style="cursor: pointer;">Select student feedback</summary>
   <p style="font-style: italic; opacity: 0.7;">
       "Matthew is very organized, knowledgeable, and accessible. Even though he’s not a specialist in my area of research, he went above and beyond in familiarizing himself with my data, and he’s an expert at coding." — Fall 2023
   </p>
 </details>
 
-In this role, I designed and administered workshops on applied research methods and project-oriented workflows for senior honors thesis undergraduate students. My responsibilities also included serving as a departmental consultant to economics students conducting empirical research (namely, undergraduate and master's thesis students and part-time research assistants), meeting one-on-one for 2-8 hours each week. Some prepared materials are enumerated [here.](/teaching/research-ta)
+<br>
 
 <hr style="border-top: 1px dashed #999; background: none;" />
 
 ## Introduction to econometrics
 
 Fall 2020 $\cdot$ Spring 2021 $\cdot$ Fall 2021 $\cdot$ Summer 2023  
+
+> *ECON-UN3412 introduces students to multiple regression and related methods for analyzing data in economics and related disciplines. Additional topics include regression with discrete random variables, instrumental variables regression, analysis of random experiments and quasi-experiments, and regression with time series data. Students will learn how to conduct and critique empirical studies in economics and related fields. Accordingly, the emphasis of the course is on empirical applications.*  
+
+Text: [*Introduction to Econometrics*,](https://www.sea-stat.com/wp-content/uploads/2020/08/James-H.-Stock-Mark-W.-Watson-Introduction-to-Econometrics-Global-Edition-Pearson-Education-Limited-2020.pdf) James Stock and Mark Watson (2019, 2020)
 
 <details>  <summary style="cursor: pointer;">Select student feedback</summary>
   <ul style="opacity: 0.7; font-style: italic; padding-left: 1em; margin-top: 0.5em;">
@@ -52,12 +58,9 @@ Fall 2020 $\cdot$ Spring 2021 $\cdot$ Fall 2021 $\cdot$ Summer 2023
     <li>"Saved me for my midterm. Great real world examples in recitations." — Fall 2020</li>
   </ul>
 </details>
+<br>
 
-> *ECON-UN3412 introduces students to multiple regression and related methods for analyzing data in economics and related disciplines. Additional topics include regression with discrete random variables, instrumental variables regression, analysis of random experiments and quasi-experiments, and regression with time series data. Students will learn how to conduct and critique empirical studies in economics and related fields. Accordingly, the emphasis of the course is on empirical applications.*  
-
-Text: [*Introduction to Econometrics*,](https://www.sea-stat.com/wp-content/uploads/2020/08/James-H.-Stock-Mark-W.-Watson-Introduction-to-Econometrics-Global-Edition-Pearson-Education-Limited-2020.pdf) James Stock and Mark Watson (2019, 2020)
-
-Columbia traditionally teaches its undergraduates econometrics using Stata. The first semester I taught this course, I prepared supplementary material and solutions to provide students the option to instead use R, a freely accessible open-source alternative. After some initial trepidation about departing from the official software of instruction, students seemed to find its object-oriented programming more intuitive and appreciated its availability beyond the semester course.
+Columbia traditionally teaches its undergraduates econometrics using Stata. I took the initiative to prepare supplementary material and solutions to provide students the option to instead use R, a freely available open-source alternative. After some initial trepidation about departing from the official software of instruction, students seemed to find its object-oriented programming more intuitive and appreciated its accessibility beyond the semester course. I continued teaching the course in both R and Stata over four semesters.
 
 Below are weekly guides produced for the Summer 2023 iteration of my classes, which is accelerated and condensed relative to the regular semester course. These materials include a subset of practice problems but exclude material prepared for problem sets, exams, practice exams, and their solutions. Most datasets referenced are available for free [here.](https://www.princeton.edu/~mwatson/Stock-Watson_4E/Stock-Watson-Resources-4e.html)
 
@@ -87,6 +90,9 @@ Instruction here presumes no prior experience with programming other than instal
 
 Spring 2022 $\cdot$ Fall 2022  
 
+> *The purpose of this course is to offer a solid, intermediate-level training in theoretical microeconomics. We will try to achieve a more in-depth understanding of how the standard theoretical models of microeconomics work. The course consists of three parts. We will start out by analyzing consumer decision-making. We then turn to the behavior of firms. Finally, the third part of the course studies the interaction of consumers and firms in goods markets.*  
+
+Text: [*Intermediate Microeconomics with Calculus*,](https://fac.ksu.edu.sa/sites/default/files/microeco-_varian.pdf) Hal Varian (2014)
 <details>
   <summary style="cursor: pointer;">Select student feedback</summary>
   <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 1em; opacity: 0.7; font-style: italic; margin-top: 0.5em;">
@@ -97,10 +103,6 @@ amount of resources which he gifts to students is astounding, and I am so gratef
     <div>"I love him! Posted all his recitations online, which really helps." — Spring 2022</div>
   </div>
 </details>
-
-> *The purpose of this course is to offer a solid, intermediate-level training in theoretical microeconomics. We will try to achieve a more in-depth understanding of how the standard theoretical models of microeconomics work. The course consists of three parts. We will start out by analyzing consumer decision-making. We then turn to the behavior of firms. Finally, the third part of the course studies the interaction of consumers and firms in goods markets.*  
-
-Text: [*Intermediate Microeconomics with Calculus*,](https://fac.ksu.edu.sa/sites/default/files/microeco-_varian.pdf) Hal Varian (2014)
 
 The slides below are weekly elaborations on a specific newly introduced concept and so do not represent comprehensive coverage of the course material. They’re also not necessarily self-contained; I sometimes supplemented my slides with blackboard work and conversation with students, which is not always captured in the annotations. Course material is also instructor-specific; if you’re reading this as a Columbia student taking the same course, it may not correspond to the treatment or selection of topics your particular instructor chooses to cover. For example, compared to my Spring 2022 coverage, the following material from Fall 2022 covers a wider range of topics but omits some material such as the method of Lagrange multipliers.
 
@@ -136,6 +138,8 @@ The slides below are weekly elaborations on a specific newly introduced concept 
 
 Spring 2023
 
+> *This international economics course is targeted towards non-economics students, focusing on current events and the increasing international interdependence of the world economy. Topics incude: (i) why countries trade, what goods and services will be traded, how the gains from trade are distributed and the tools of commercial policy; (ii) the movement of labor and capital across borders; value of transnational countries and production processes across countries; (iii) international finance issues including exchange rates, balance of payments and open economy macroeconomic adjustment.*
+
 <details>  <summary style="cursor: pointer;">Select student feedback</summary>
   <ul style="opacity: 0.7; font-style: italic; padding-left: 1em; margin-top: 0.5em;">
     <li>"Great TA. He was always available for students, and made sure all the course material was understood" — Spring 2023</li>
@@ -143,7 +147,7 @@ Spring 2023
   </ul>
 </details>
 
-> *This international economics course is targeted towards non-economics students, focusing on current events and the increasing international interdependence of the world economy. Topics incude: (i) why countries trade, what goods and services will be traded, how the gains from trade are distributed and the tools of commercial policy; (ii) the movement of labor and capital across borders; value of transnational countries and production processes across countries; (iii) international finance issues including exchange rates, balance of payments and open economy macroeconomic adjustment.*  
+<br>  
 
 I am not permitted to share material prepared for this course
 
