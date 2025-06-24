@@ -15,7 +15,7 @@ UseHugoToc: false---
   <br>
   <br>
 
- You may find a teaching statement with select student feedback [here](/teaching/teaching-statement.pdf).
+ A teaching statement with select student feedback is available [here](/teaching/teaching-statement.pdf).
 </div>
 
 <div style="font-size: 70%;">
