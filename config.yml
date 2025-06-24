@@ -59,7 +59,6 @@ params:
           subtitle: |
   I'm a political economist working at the intersection of environmental, development, and welfare economics. Much of my research seeks to broaden the economic analysis of environmental change, particularly by incorporating distributional considerations. A recurring theme in this work is that while the climate is governed by complex biophysical systems, its welfare impacts are distributed through social systems that tend to reproduce, reinforce, and reify patterns of inequality.<br><br>
   I am originally from the Philippines but grew up in Indonesia and Vietnam. I have since studied or worked in New York, London, Shanghai, Stanford, and Oxford and currently live in New York.
-Alternatively, with <p> tags for semantic HTML:
           imageUrl: "/profile-crop.jpg"
           imageWidth: 160
           imageHeight: 160
