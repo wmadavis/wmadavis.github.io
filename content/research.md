@@ -45,7 +45,7 @@ I empirically test these hypotheses first by measuring the dynamic impacts of id
 ---
 
 ### Evidence of a drought effect on the hazard into spousal violence
-<span style="opacity: 0.6; font-style: italic; font-size: 90%;">with [Tanushree Goyal](https://www.tanushreegoyal.com)</span>
+<span style="opacity: 0.6; font-size: 90%;"><em>with</em> [Tanushree Goyal](https://www.tanushreegoyal.com)</span>
 
 In this work in progress, we explore how income shocks may impact the probability that a previously non-violent marriage turns violent. We combine high-resolution weather data with comprehensive duration data derived from household surveys of domestic violence in India to characterize the impact of drought-induced shocks on these gendered outcomes. Early findings suggest that negative income shocks substantially *reduce* the hazard into marital violence. Specifically, a negative precipitation shock of a magnitude expected once every 4-5 years induces a 70\% reduction in the baseline hazard into first-time violence during the formative years of a marriage.
 
