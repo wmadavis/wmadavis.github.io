@@ -32,6 +32,8 @@ This paper explores the relationship between anthropogenic climate change and gl
 
 ![](/papers/ClimateInequality.png)
 
+---
+
 ### Temperature, institutions, and the political climate
 
 Despite widespread regard of climate change as a threat to global stability, its implications for political preferences and institutional change remains undertheorized. I consider two competing hypotheses by repurposing influential theories of regime change. Under a "mercury uprising" hypothesis, adverse environmental shocks diminish the opportunity cost of contesting autocratic rule thereby improving prospects for democratic reform. On the other hand, a "state of exception" hypothesis suggests that a public willingness to compromise civil liberties for authoritarian features of governance in times of crisis would lead to a diminution of democratic institutions.
@@ -39,6 +41,8 @@ Despite widespread regard of climate change as a threat to global stability, its
 I empirically test these hypotheses first by measuring the dynamic impacts of identified temperature shocks on survey-based proxies for the demand for democracy. Next, I use multi-valued and dichotomous measures of democracy to investigate the effects of these shocks on the democratic quality of political institutions. My results consistently support the "state of exception" hypothesis. In particular, I find that a positive 0.5$^\circ$C temperature shock increases the propensity for autocracies in temperate geographies to democratize by between 1.5-3.7 percentage points depending on the operating measure of democracy but reduces this propensity for their tropical counterparts by 1.6-2.4pp. The same shocks also increase the propensity for warm-climate democracies to break down by 0.6-2.0pp. Effects are substantial and significant but exhibit very limited persistence beyond the year of the shock once autocorrelation in the shock itself is accounted for. Finally, we find that the same shocks have null effects on the propensity for temperate democracies to undergo reversal, indicating that democracies are  in high state-capacity polities are relatively impervious to environmental disruption.
  
 ![](/papers/PoliticalClimate.png)
+
+---
 
 ### Evidence of a drought effect on the hazard into spousal violence
 <span style="opacity: 0.6; font-style: italic; font-size: 90%;">with [Tanushree Goyal](https://www.tanushreegoyal.com)</span>
@@ -54,7 +58,7 @@ We also replicate a recently published study relating these weather shocks to th
 ## Publications
 
 ### Large potential reduction in economic damages under UN mitigation targets
-<span style="display: block; opacity: 0.6; font-style: italic; font-size: 90%;">
+<span style="display: block; opacity: 0.6; font-size: 90%;">
 <a href="https://web.stanford.edu/~mburke/">Marshall Burke</a>, W. Matthew Alampay Davis, and <a href="https://profiles.stanford.edu/noah-diffenbaugh">Noah S. Diffenbaugh</a> (2018)<br>
 <em>Nature</em> <strong>557</strong>(7706): 549–553.
 </span>
@@ -105,7 +109,7 @@ We present a probabilistic framework for assessing aggregate economic impacts of
 ---
 
 ### Combining satellite imagery and machine learning to predict poverty
-<span style="display: block; opacity: 0.6; font-style: italic; font-size: 90%;">
+<span style="display: block; opacity: 0.6; font-size: 90%;">
 <a href="https://nealjean.com/">Neal Jean</a>, <a href="https://web.stanford.edu/~mburke/">Marshall Burke</a>, <a href="https://cs.stanford.edu/~eix/">Michael Xie</a>,  
 W. Matthew Alampay Davis, <a href="https://fse.fsi.stanford.edu/people/david_lobell">David B. Lobell</a>, and <a href="https://cs.stanford.edu/~ermon/">Stefano Ermon</a> (2016)<br>
 <em>Science</em> <strong>353</strong>: 790–794.
