@@ -94,7 +94,7 @@ The slides below are weekly elaborations on a specific newly introduced concept 
 
 <span style="font-weight: 600;">A1. Running log of student emails and corrections to weekly slides</span> | [PDF](/teaching/micro-2022-fall/00-RunningUpdates.pdf)
 
-<span style="font-weight: 600;">A2. Week 8: by student request, an applied derivation of IC equations for accurate graphing</span> | [PDF](/teaching/micro-2022-fall/08-GraphingExample.pdf)
+<span style="font-weight: 600;">A2. Week 8: by student request, deriving IC equations for accurate graphing</span> | [PDF](/teaching/micro-2022-fall/08-GraphingExample.pdf)
 
 <span style="font-weight: 600;">A3. Week 10: High-level summary and takeaways from the course</span> | [PDF](/teaching/micro-2022-fall/10-CourseSummary.pdf)
 
