@@ -146,5 +146,4 @@ Our "transfer learning" pipeline proceeds by first assigning a convolutional neu
 [Center for Global Development](https://www.cgdev.org/blog/can-we-measure-poverty-outer-space)
 
 <!-- ![](/papers/PovertyMap.png) -->
-<iframe width="831" height="480" src="https://www.youtube.com/embed/DafZSeIGLNE" title="Combining satellite imagery and machine learning to predict poverty" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
+<iframe width="831" height="480" src="https://www.youtube.com/embed/jZNKihHJZqA" title="Neal Jean, &quot; &quot;Combining satellite imagery and machine learning to predict poverty&quot;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
