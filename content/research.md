@@ -104,7 +104,7 @@ We present a probabilistic framework for assessing aggregate economic impacts of
 ---
 
 ### Combining satellite imagery and machine learning to predict poverty
-<span style="opacity: 0.6; font-style: italic; font-size: 90%;">
+<span style="display: block; opacity: 0.6; font-style: italic; font-size: 90%;">
 <a href="https://nealjean.com/">Neal Jean</a>, <a href="https://web.stanford.edu/~mburke/">Marshall Burke</a>, <a href="https://cs.stanford.edu/~eix/">Michael Xie</a>,  
 W. Matthew Alampay Davis, <a href="https://fse.fsi.stanford.edu/people/david_lobell">David B. Lobell</a>, and <a href="https://cs.stanford.edu/~ermon/">Stefano Ermon</a> (2016)<br>
 <em>Science</em> <strong>353</strong>: 790–794.
