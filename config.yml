@@ -57,7 +57,8 @@ params:
           enabled: true
           title: W. Matthew Alampay Davis
           subtitle: |
-              I'm a political economist working at the intersection of environmental, development, and welfare economics. Much of my research seeks to expand the economic analysis of environmental change to incorporate distributional considerations. A recurring theme in this work is that while the climate is governed by complex biophysical systems, its welfare impacts are distributed through social systems which tend to reproduce, reinforce, and reify patterns of inequality.<br><br>
+              I'm a political economist working at the intersection of environmental, development, and welfare economics. Much of my research seeks to incorporate distributional considerations into the economic analysis of environmental change. A recurring theme in this work is that while the climate is governed by complex biophysical systems, its welfare impacts are distributed through social systems which tend to reproduce, reinforce, and reify patterns of inequality.
+              <br><br>
               I'm originally from Manila but grew up mostly in Jakarta and Ho Chi Minh City. I have since studied or worked in New York, London, Shanghai, Stanford, and Oxford. I currently live in New York.
           imageUrl: "/profile-crop.jpg"
           imageWidth: 160
