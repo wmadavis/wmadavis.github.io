@@ -41,7 +41,7 @@ UseHugoToc: true
 ### Evidence of a drought effect on the hazard into spousal violence
 <span style="opacity: 0.6;"><em>with</em> [Tanushree Goyal](https://www.tanushreegoyal.com)</span>
 
- In this project, we explore how income shocks impact the probability that a previously non-violent marriage becomes violent. We combine high-resolution weather data with comprehensive duration data derived from household surveys of domestic violence in India to characterize these dynamics. Preliminary findings suggest that drought-induced shocks of a magnitude expected once every 4-5 years *reduce* the annual hazard into first-time intimate-partner violence by 70\% in the formative years of a marriage. These results are broadly consistent with recently published results on the effect of local droughts on the incidence of other gendered cultural practices such as child marriage and female genital cutting.
+ In this project, we explore how income shocks impact the probability that a previously non-violent marriage becomes violent. We combine high-resolution weather data with comprehensive duration data derived from household surveys of domestic violence in India to characterize these dynamics. Preliminary findings suggest that drought-induced shocks of a magnitude expected once every 4-5 years *reduce* the annual hazard into first-time intimate-partner violence by 70\% in the formative years of a marriage. These results are broadly consistent with recently published evidence on the effect of local droughts on the incidence of other gendered cultural practices such as child marriage and female genital cutting.
   
 ![](/papers/Drought-IPV.png)
 
