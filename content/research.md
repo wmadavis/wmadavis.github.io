@@ -43,10 +43,8 @@ UseHugoToc: true
 ### Evidence of a drought effect on the hazard into spousal violence
 <span style="opacity: 0.6;"><em>with</em> [Tanushree Goyal](https://www.tanushreegoyal.com)</span>
 
- In this work in progress, we explore how income shocks may impact the probability that a previously non-violent marriage turns violent. We combine high-resolution weather data with comprehensive duration data derived from household surveys of domestic violence in India to characterize the impact of drought-induced shocks on these gendered outcomes. Early findings suggest that negative income shocks substantially *reduce* the hazard into marital violence. Specifically, a negative precipitation shock of a magnitude expected once every 4-5 years induces a 70% reduction in the baseline hazard into first-time violence during the formative years of a marriage.
+ In this work in progress, we explore how income shocks may impact the probability that a previously non-violent marriage turns violent. We combine high-resolution weather data with comprehensive duration data derived from household surveys about experiences with domestic violence in India to characterize the impact of drought-induced shocks on these gendered outcomes. Early findings suggest that negative income shocks of a magnitude expected every 4-5 years *reduce* the hazard into first-time intimate-partner violence by 70\% during the formative years of a marriage. While this sign is perhaps counterintuitive, it is consistent with comparable existing studies of the incidence of child marriage and female genital cutting.
   
- We also replicate a recently published study relating these weather shocks to the risk of child marriage using updated methods and improved data. We are able to corroborate the original finding that droughts reduce the hazard into child marriage in India though estimates are smaller and more persistent than characterized in the original study. Critically, I find this phenomenon is reproduced in Sub-Saharan African contexts, contrary to the original finding of opposite-signed effects, which suggests that consumption-smoothing incentives may not be as pertinent a determinant of child marriage. Instead, secondary results suggest that the practice of child marriage may be less economically motivated than marriages occurring later in life.
-
 ![](/papers/Drought-IPV.png)
 
 ---
