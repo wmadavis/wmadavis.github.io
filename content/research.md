@@ -10,9 +10,19 @@ TocOpen: true
 UseHugoToc: true
 ---
 
+<div style="opacity: 0.6; font-style: italic; font-size: 80%;">
+I'm a political economist working at the intersection of environmental, development, and welfare economics. By necessity, this work
+
+Past projects have been published in *Science* and *Nature*. </span>
+</div>
+
 <div style="font-size: 70%;">
 
 ## Working papers
+
+<div style="opacity: 0.6; font-style: italic; font-size: 80%;">
+My active research projects seek to integrate distributional considerations into the analysis of environmental impacts and the design of mitigation policy. A recurring theme in this work is that while the climate is governed by complex biophysical systems, its welfare impacts are distributed through social systems which tend to reproduce, reinforce, and reify patterns of inequality.
+</div>
 
 ### Global income distributions under climate change
 
@@ -49,7 +59,7 @@ UseHugoToc: true
 
 ## Publications
 
-### Large potential reduction in economic damages under UN mitigation targets (Nature, 2018)
+### Large potential reduction in economic damages under UN mitigation targets
 <span style="display: block; opacity: 0.6;">
 <a href="https://web.stanford.edu/~mburke/">Marshall Burke</a>, W. Matthew Alampay Davis, and <a href="https://profiles.stanford.edu/noah-diffenbaugh">Noah S. Diffenbaugh</a> (2018)<br>
 <em>Nature</em> <strong>557</strong>(7706): 549–553.
@@ -100,7 +110,7 @@ UseHugoToc: true
 
 <hr style="border-top: 1px dashed #999; background: none;" />
 
-### Combining satellite imagery and machine learning to predict poverty (Science, 2016)
+### Combining satellite imagery and machine learning to predict poverty
 <span style="display: block; opacity: 0.6; font-size: 90%;">
 <a href="https://nealjean.com/">Neal Jean</a>, <a href="https://web.stanford.edu/~mburke/">Marshall Burke</a>, <a href="https://cs.stanford.edu/~eix/">Michael Xie</a>,  
 W. Matthew Alampay Davis, <a href="https://fse.fsi.stanford.edu/people/david_lobell">David B. Lobell</a>, and <a href="https://cs.stanford.edu/~ermon/">Stefano Ermon</a> (2016)<br>
