@@ -6,7 +6,7 @@ hidemeta: true
 disableAnchoredHeadings: false
 description: "Page summarizing research projects"
 showToc: true
-TocOpen: tfalse
+TocOpen: false
 UseHugoToc: false
 ---
 
