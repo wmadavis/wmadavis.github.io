@@ -14,21 +14,19 @@ UseHugoToc: true
 
 ## Working papers
 
-<span style="opacity: 0.6; font-style: italic;">Drafts are available upon request. Results reported here are preliminary.</span>
-
 ### Global income distributions under climate change
 
-  Understanding how climate change impacts global economic inequality is critical to the design of equitable and politically viable climate policy. Yet where evidence of this relationship is available, analysis is generally limited to coarse comparisons of country-level aggregates, remaining agnostic to disparities across individuals within those countries. This paper advances this literature using newly available distributional income data to incorporate within-country dimensions of 'climate inequality'.
-      
-  First, I document new evidence that temperature shocks persistently exacerbate inequalities *within* countries by disproportionately reducing income growth among the lowest income-earners, especially in warm-climate economies. Second, I use these empirical results to compare the historically observed distribution of global income to its counterfactual distribution had global warming been stabilized at 1980 levels. I estimate that systematic warming between 1980-2016 increased global income inequality between countries by 8.7% [4.9, 13.3] and within countries by 2.6% [0.0, 5.6]. To my knowledge, this is the first such decomposition of distributional climate damages and the latter quantity has not previously been estimated. Altogether, these new results represent the most comprehensive evidence yet of the globally regressive economic impact of climate change.
++ [Job market version](/papers/JMP-ClimateInequality.pdf)
+
+  Understanding how climate change impacts global economic inequality is critical to the design of equitable and politically viable climate policy. Yet where evidence of this relationship is available, analysis is generally limited to coarse comparisons of country-level aggregates, remaining agnostic to disparities across individuals within those countries. This paper advances this literature using newly available distributional income data to incorporate within-country dimensions of 'climate inequality'. First, I document new evidence that temperature shocks persistently exacerbate inequalities *within* countries by disproportionately reducing income growth among the lowest income-earners, especially in warm-climate economies. Second, I use these empirical results to compare the historically observed distribution of global income to its counterfactual distribution had global warming been stabilized at 1980 levels. I estimate that systematic warming between 1980-2016 increased global income inequality between countries by 8.7% [4.9, 13.3] and within countries by 2.6% [0.0, 5.6]. To my knowledge, this is the first such decomposition of distributional climate damages and the latter quantity has not previously been estimated. Altogether, these new results represent the most comprehensive evidence yet of the globally regressive economic impact of climate change.
 
 ![](/papers/ClimateInequality.png)
-
-+ [Job market version](/papers/JMP-ClimateInequality.pdf)
 
 <hr style="border-top: 1px dashed #999; background: none;" />
 
 ### Temperature, institutions, and the political climate
+
+<span style="opacity: 0.6; font-style: italic;">A draft is available upon request. Results reported here are preliminary.</span>
 
   Despite widespread regard of climate change as a threat to global stability, its political consequences remain undertheorized. To fill this gap, this paper derives two competing hypotheses by repurposing influential theories of demand-led political transitions from the political economy literature. The first posits that adverse environmental shocks reduce the opportunity cost of contesting autocratic governance, improving prospects for democratic reform. The second instead suggests that these shocks better resemble exceptional crisis conditions which motivate citizens to compromise negative liberties for security more credibly assured under states of emergency, thereby diminishing democratic institutions.
   
@@ -41,6 +39,8 @@ UseHugoToc: true
 ### Evidence of a drought effect on the hazard into spousal violence
 <span style="opacity: 0.6;"><em>with</em> [Tanushree Goyal](https://www.tanushreegoyal.com)</span>
 
+<span style="opacity: 0.6; font-style: italic;">A draft is available upon request. Results reported here are preliminary.</span>
+
  In this project, we explore how income shocks impact the probability that a previously non-violent marriage becomes violent. We combine high-resolution weather data with comprehensive duration data derived from household surveys of domestic violence in India to characterize these dynamics. Preliminary findings suggest that drought-induced shocks of a magnitude expected once every 4-5 years *reduce* the annual hazard into first-time intimate-partner violence by 70\% in the formative years of a marriage. These results are broadly consistent with recently published evidence on the effect of local droughts on the incidence of other gendered cultural practices such as child marriage and female genital cutting.
   
 ![](/papers/Drought-IPV.png)
@@ -49,7 +49,7 @@ UseHugoToc: true
 
 ## Publications
 
-### Large potential reduction in economic damages under UN mitigation targets
+### Large potential reduction in economic damages under UN mitigation targets (Nature, 2018)
 <span style="display: block; opacity: 0.6;">
 <a href="https://web.stanford.edu/~mburke/">Marshall Burke</a>, W. Matthew Alampay Davis, and <a href="https://profiles.stanford.edu/noah-diffenbaugh">Noah S. Diffenbaugh</a> (2018)<br>
 <em>Nature</em> <strong>557</strong>(7706): 549–553.
@@ -100,7 +100,7 @@ UseHugoToc: true
 
 <hr style="border-top: 1px dashed #999; background: none;" />
 
-### Combining satellite imagery and machine learning to predict poverty
+### Combining satellite imagery and machine learning to predict poverty (Science, 2016)
 <span style="display: block; opacity: 0.6; font-size: 90%;">
 <a href="https://nealjean.com/">Neal Jean</a>, <a href="https://web.stanford.edu/~mburke/">Marshall Burke</a>, <a href="https://cs.stanford.edu/~eix/">Michael Xie</a>,  
 W. Matthew Alampay Davis, <a href="https://fse.fsi.stanford.edu/people/david_lobell">David B. Lobell</a>, and <a href="https://cs.stanford.edu/~ermon/">Stefano Ermon</a> (2016)<br>
