@@ -11,22 +11,16 @@ UseHugoToc: true
 ---
 
 <div style="opacity: 0.6; font-style: italic; font-size: 80%;">
-I'm a political economist working at the intersection of environmental, development, and welfare economics. By necessity, this work
-
-Past projects have been published in *Science* and *Nature*. </span>
+I'm a political economist working at the intersection of environmental, development, and welfare economics. My active research projects seek to integrate distributional considerations into the analysis of environmental impacts and the design of mitigation policy. A recurring theme in this work is that while the climate is governed by complex biophysical systems, its welfare impacts are distributed through social systems which tend to reproduce, reinforce, and reify patterns of inequality. Past projects have been published in *Science* and *Nature*.
 </div>
 
 <div style="font-size: 70%;">
 
 ## Working papers
 
-<div style="opacity: 0.6; font-style: italic; font-size: 80%;">
-My active research projects seek to integrate distributional considerations into the analysis of environmental impacts and the design of mitigation policy. A recurring theme in this work is that while the climate is governed by complex biophysical systems, its welfare impacts are distributed through social systems which tend to reproduce, reinforce, and reify patterns of inequality.
-</div>
-
 ### Global income distributions under climate change
 
-+ [Job market version](/papers/JMP-ClimateInequality.pdf)
++ [Job market paper](/papers/JMP-ClimateInequality.pdf)
 
   Understanding how climate change impacts global economic inequality is critical to the design of equitable and politically viable climate policy. Yet where evidence of this relationship is available, analysis is generally limited to coarse comparisons of country-level aggregates, remaining agnostic to disparities across individuals within those countries. This paper advances this literature using newly available distributional income data to incorporate within-country dimensions of 'climate inequality'. First, I document new evidence that temperature shocks persistently exacerbate inequalities *within* countries by disproportionately reducing income growth among the lowest income-earners, especially in warm-climate economies. Second, I use these empirical results to compare the historically observed distribution of global income to its counterfactual distribution had global warming been stabilized at 1980 levels. I estimate that systematic warming between 1980-2016 increased global income inequality between countries by 8.7% [4.9, 13.3] and within countries by 2.6% [0.0, 5.6]. To my knowledge, this is the first such decomposition of distributional climate damages and the latter quantity has not previously been estimated. Altogether, these new results represent the most comprehensive evidence yet of the globally regressive economic impact of climate change.
 
