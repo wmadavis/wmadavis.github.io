@@ -6,15 +6,17 @@ hidemeta: true
 disableAnchoredHeadings: false
 description: "Page summarizing research projects"
 showToc: true
-TocOpen: true
-UseHugoToc: true
+TocOpen: tfalse
+UseHugoToc: false
 ---
 
-<div style="opacity: 0.6; font-style: italic; font-size: 80%;">
+<div style="opacity: 0.6; font-size: 80%;">
 I am a political economist working at the intersection of environmental, development, and welfare economics. My approach to these broad subjects is distinguished by an emphasis on the unequal social welfare implications of anthropogenic climate change. A recurring theme in this work is that while the climate is governed by complex biophysical systems, its welfare impacts are distributed through social systems which tend to reproduce, reinforce, and reify patterns of inequality.
-<br>
-By necessity, I draw from diverse subfields within economics and depend on collaborations across the social and environmental sciences, adapting theory, data, and methods to the demands of each research question. As such, past interdisciplinary projects have been published in *Science* and *Nature*. In the near term, I intend to prepare my dissertation works for publication in top economics and science journals and to initiate a complementary program of research relating their findings to the design of equitable and politically viable climate policy.
+<br><br>
+By necessity, I draw from diverse subfields within economics and depend on collaborations across the social and environmental sciences, adapting theory, data, and methods to the demands of each research question. As such, past interdisciplinary projects have been published in <em>Science</em> and <em>Nature</em>. In the near term, I intend to prepare my dissertation works for publication in top economics and science journals and to initiate a complementary program of research relating their findings to the design of equitable and politically viable climate policy.
 </div>
+
+{{< toc >}}
 
 <div style="font-size: 70%;">
 
