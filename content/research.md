@@ -16,7 +16,7 @@ I am a political economist working at the intersection of environmental, develop
 By necessity, I draw from diverse subfields within economics and depend on collaborations across the social and environmental sciences, adapting theory, data, and methods to the demands of each research question. As such, past interdisciplinary projects have been published in <em>Science</em> and <em>Nature</em>. In the near term, I intend to prepare my dissertation works for publication in top economics and science journals and to initiate a complementary program of research relating their findings to the design of equitable and politically viable climate policy.
 </div>
 
-{{< toc >}}
+{{ .TableOfContents }}
 
 <div style="font-size: 70%;">
 
