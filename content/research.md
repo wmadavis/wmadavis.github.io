@@ -49,7 +49,7 @@ Despite widespread recognition of climate change as a threat to global stability
 ### Evidence of a drought effect on the hazard into spousal violence
 <span style="opacity: 0.6;"><em>with</em> [Tanushree Goyal](https://www.tanushreegoyal.com)</span>
 
-<span style="opacity: 0.6; font-style: italic;">A preliminary draft is available upon request. </span>
+<span style="opacity: 0.6; font-style: italic;">A draft is available upon request. Results reported here are preliminary. </span>
 
 This project investigates how droughts influence the onset of intimate-partner violence. We combine high-resolution precipitation data with duration data derived from household domestic violence surveys in India to estimate how negative income shocks impact the risk of marital violence. We find that a negative precipitation shock of a magnitude expected once every 4--5 years \textit{decreases} the probability of first-time spousal violence by 0.037 percentage points in the formative years of marriage, representing a 70\% reduction from the unconditional baseline hazard. As a complementary analysis, we revisit a recent study linking similar drought shocks to child marriage, applying updated methods and improved data. We now find that droughts reduce the hazard into early marriage both in Indian contexts practicing dowry payments and in Sub-Saharan African settings with bride-price customs. These effects are also largest for marriages occurring later in life. Our findings suggest a much more consistent relationship between drought and the timing of marriage across cultural contexts and that child marriage is likely more culturally coerced than economically motivated.  
 
