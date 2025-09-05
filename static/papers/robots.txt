@@ -1,2 +1,2 @@
 User-agent: Googlebot
-Disallow: /papers/JMP-ClimateInequality.pdf
+Disallow: /papers/GenderNormShocks.pdf
