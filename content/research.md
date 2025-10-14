@@ -11,9 +11,9 @@ UseHugoToc: true
 ---
 
 <div style="opacity: 0.6; font-size: 80%;">
-I am a political economist working at the intersection of environmental, development, and welfare economics. My approach to these broad subjects is distinguished by an emphasis on inequalities in the social impacts of anthropogenic climate change. A recurring theme in this work is that while the climate is governed by complex biophysical systems, its welfare impacts are distributed through social systems which tend to reproduce, reinforce, and reify patterns of inequality.
+I am a political economist working at the intersection of environmental, development, and welfare economics. My active research empirically investigates the impacts of environmental change on various aspects of social welfare. A recurring theme in this work is that while the climate is governed by complex biophysical systems, its welfare impacts are distributed through social systems which tend to reproduce, reinforce, and reify patterns of social inequality and deprivation. As such, this work seeks to interrogate and inform the design of equitable and feasible climate and development policy.
 <br><br>
-By necessity, I draw from diverse subfields within economics and depend on collaborations across the social and environmental sciences, adapting theory, data, and methods to the demands of each research question. As such, past interdisciplinary projects have been published in <em>Science</em> and <em>Nature</em>. In the near term, I intend to prepare my dissertation works for publication in top economics and science journals and to initiate a complementary program of research relating their findings to the design of equitable and politically viable climate policy.
+My work draws from interdisciplinary approaches and collaborations across the social and natural sciences. I also maintain secondary interests in [historical political economy](https://digitalcommons.chapman.edu/cgi/viewcontent.cgi?article=1375&context=esi_working_papers) as it pertains to the determination and persistence of social inequality and deprivation.
 </div>
 
 <div style="font-size: 70%;">
