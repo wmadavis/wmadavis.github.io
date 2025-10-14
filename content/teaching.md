@@ -16,9 +16,6 @@ UseHugoToc: false
   <br>
   <br>
 
- A teaching statement is available [here](/teaching/teaching-statement.pdf).
-</div>
-
 <div style="font-size: 70%;">
 
 ---
