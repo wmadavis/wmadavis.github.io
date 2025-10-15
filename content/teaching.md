@@ -11,10 +11,8 @@ UseHugoToc: false
 ---
 
 <div style="opacity: 0.6; font-size: 80%;">
- Using this space to share some of the material I've prepared and resources I've drawn from over my nine semesters teaching undergraduates at Columbia. Any and all errors are my own so please reach out if you notice any mistakes or typos.
-
-  <br>
-  <br>
+This page contains some of the material I've prepared and resources I've drawn from over my nine semesters teaching undergraduates at Columbia. Any and all errors are the fault of the students who did not point them out to me or the professors who taught me wrong.
+</div>
 
 <div style="font-size: 70%;">
 
