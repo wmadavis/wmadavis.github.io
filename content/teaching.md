@@ -144,6 +144,6 @@ Spring 2023
 
 <br>  
 
-I am not permitted to share material prepared for this course
+I was not permitted to share material prepared for this course.
 
 </div>
