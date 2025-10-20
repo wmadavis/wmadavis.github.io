@@ -11,7 +11,7 @@ UseHugoToc: true
 ---
 
 <div style="opacity: 0.6; font-size: 80%;">
-I am a political economist working at the intersection of environmental, development, and welfare economics. My research empirically examines how environmental change shapes social welfare, broadly construed. A recurring theme in this work is that while the climate is governed by complex biophysical systems, its welfare impacts are distributed through social systems which can enforce, exacerbate, and reify patterns of social inequalities and deprivation. This agenda ultimately seeks to refine and inform the economic analysis of climate change and the design of climate and development policy.
+I am a political economist working at the intersection of environmental, development, and welfare economics. My research empirically examines how environmental change shapes social welfare, broadly construed. A recurring theme in this work is that while the climate is governed by complex biophysical systems, its welfare impacts are distributed through social systems which can enforce, exacerbate, and reify patterns of social inequalities and deprivation. This agenda ultimately seeks to refine the economic analysis of climate change and inform the design of equitable climate and development policy.
 <br><br>
 By necessity, my work draws from interdisciplinary approaches and collaborations across the social and natural sciences. I also maintain a secondary interest in <a href="https://academic.oup.com/edited-volume/44005">historical political economy</a> as it pertains to the determination and persistence of social inequalities and deprivations.
 </div>
