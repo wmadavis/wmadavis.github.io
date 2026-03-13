@@ -68,7 +68,7 @@ params:
           imageTitle: W. Matthew Alampay Davis
           buttons:
             - name: CV
-              url: /CV/CV-AlampayDavis.pdf
+              url: /CV-AlampayDavis.pdf
             - name: Research
               url: /research/
             - name: Teaching
