@@ -407,7 +407,7 @@
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% This is for sectiontitles that are entirely above the section text
+% This is for section titles that are entirely above the section text
 %
 \def\unboxed@sectiontitle#1{%
   \ifx\\\@tabcr % see boxed@sectiontitle for explation
@@ -443,7 +443,7 @@
 \let\@@section\relax
 \def\ds@overlapped{\ifx\@@section\relax\newsectionwidth{0.5in}\let
   \@@section\unboxed@sectiontitle\fi}
-\def\ds@margin{\ifx\@@section\relax\newsectionwidth{1.3in}\let
+\def\ds@margin{\ifx\@@section\relax\newsectionwidth{1.1in}\let
   \@@section\boxed@sectiontitle\fi}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
