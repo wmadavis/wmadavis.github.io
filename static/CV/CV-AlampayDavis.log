@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.1.29)  13 MAR 2026 17:42
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.1.29)  13 MAR 2026 18:06
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -327,6 +327,15 @@ Overfull \hbox (3.32573pt too wide) in paragraph at lines 50--91
 LaTeX Font Warning: Font shape `OT1/ppl/m/scit' undefined
 (Font)              using `OT1/ppl/m/it' instead on input line 122.
 
+/Users/wmadavis/wmadavis.com/static/CV/CV-AlampayDavis.tex:125: Extra }, or forgotten \endgroup.
+l.125 \vspace{-.3cm}}
+                     
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
 
 LaTeX Font Warning: Font shape `OT1/ppl/m/scit' undefined
 (Font)              using `OT1/ppl/m/it' instead on input line 134.
@@ -347,10 +356,10 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  75i,11n,76p,1112b,427s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on CV-AlampayDavis.pdf (1 page, 55498 bytes).
+Output written on CV-AlampayDavis.pdf (1 page, 55539 bytes).
 PDF statistics:
- 38 PDF objects out of 1000 (max. 8388607)
- 28 compressed objects within 1 object stream
+ 39 PDF objects out of 1000 (max. 8388607)
+ 29 compressed objects within 1 object stream
  2 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
