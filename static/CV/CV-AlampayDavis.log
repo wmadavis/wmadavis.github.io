@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.1.29)  17 MAR 2026 23:03
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.1.29)  17 MAR 2026 23:08
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -259,8 +259,7 @@ File: ot1ppl.fd 2001/06/04 font definitions for OT1/ppl.
 File: l3backend-pdftex.def 2023-01-16 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count298
 \l__pdf_internal_box=\box51
-)
-No file CV-AlampayDavis.aux.
+) (./CV-AlampayDavis.aux)
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 46.
 LaTeX Font Info:    ... okay on input line 46.
 LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 46.
@@ -279,6 +278,7 @@ LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 46.
 LaTeX Font Info:    ... okay on input line 46.
 LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 46.
 LaTeX Font Info:    ... okay on input line 46.
+
 \providecommand\hyper@newdestlabel[2]{}
 Package hyperref Info: Link coloring OFF on input line 46.
 (/usr/local/texlive/2023/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
@@ -348,8 +348,8 @@ LaTeX Font Warning: Font shape `OT1/ppl/m/scit' undefined
 
 {/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/base/8r.enc}] ) 
 Here is how much of TeX's memory you used:
- 11791 strings out of 476025
- 184277 string characters out of 5790017
+ 11793 strings out of 476025
+ 184317 string characters out of 5790017
  1868388 words of memory out of 5000000
  32083 multiletter control sequences out of 15000+600000
  526277 words of font info for 64 fonts, out of 8000000 for 9000

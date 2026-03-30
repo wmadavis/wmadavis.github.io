@@ -21,15 +21,16 @@ Using this space to collate academic resources I’ve personally found the most 
 + A guide to full-time research assistant positions (jobs now called “pre-docs”) as a stepping stone to quantitative social-science PhDs [(Coly Elhai, Quan Le, Kai Matheson, and Carolyn Tsao)](https://raguide.github.io/)
 + I've made notes from both my grad schools available on here in the past but [Luke Stein’s](https://github.com/lukestein/steincoresummary) put them to shame
 
-### Academic skill development
+### Research tools
 
 + How to critique academic work, helpful for referee reports and seminar discussion [(Macartan Humphreys)](https://macartan.github.io/teaching/how-to-critique)
 + How to build an economic model in your spare time [(Hal Varian)](https://people.ischool.berkeley.edu/~hal/Papers/how.pdf)
 + Most academics taught themselves how to code. Some tips here (specific to R) on remedying bad habits ([Jennifer Bryan and Jim Hester](https://rstats.wtf/), esp. sections 2-3)
 + The anatomy of an applied micro talk [(Jesse Shapiro)](https://scholar.harvard.edu/files/shapiro/files/applied_micro_slides.pdf)
 + A style guide for mathematical writing ([Donald E. Knuth, Tracy Larrabee, and Paul M. Roberts](https://jmlr.csail.mit.edu/reviewing-papers/knuth_mathematical_writing.pdf), esp. section 1)
++ Claude Code for empirical workflows ([Paul Goldsmith-Pinkham for Markus Academy](https://paulgp.substack.com/p/getting-started-with-claude-code?utm_source=app-post-stats-page&r=2iog7&utm_medium=ios&triedRedirect=true))
 
-### Research
+### Research advice
 
 + Transitioning from coursework to research [(Paul Niehaus)](https://medium.com/@paul.niehaus/doing-research-18cb310529e0)
     > *An alternative way to create structure is to focus on your system. By system, I mean the habits and routines you develop and practice on a regular basis. For example, attending the seminar each week, writing down three suggestions for ways to improve the paper, and meeting afterwards with a classmate to discuss your ideas is a practice you might incorporate into your system. In designing your system, your aim is to give yourself a high probability of eventually accomplishing your ultimate goal (come up with a great job market paper) even though you cannot predict with any certainty the sequence of events through which this will come about.*
