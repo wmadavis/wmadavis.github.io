@@ -1,1 +1,21 @@
+# Build output
+public/
+_site/
+resources/
+
+# Hugo
+.hugo_build.lock
+
+# OS
 .DS_Store
+
+# R
+.Rhistory
+.RData
+.Rproj.user
+
+# LaTeX
+*.aux
+*.log
+*.out
+*.synctex.gz
