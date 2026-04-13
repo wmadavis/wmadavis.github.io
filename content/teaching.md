@@ -54,7 +54,6 @@ Columbia traditionally teaches its undergraduates econometrics using Stata. I to
     <li>"Saved me for my midterm. Great real world examples in recitations." — Fall 2020</li>
   </ul>
 </details>
-<br>
 
 Below are weekly guides produced for the Summer 2023 iteration of my classes, which is accelerated and condensed relative to the regular semester course. These materials include a subset of practice problems but exclude material prepared for problem sets, exams, practice exams, and their solutions. Most datasets referenced are available for free [here.](https://www.princeton.edu/~mwatson/Stock-Watson_4E/Stock-Watson-Resources-4e.html)
 
@@ -96,8 +95,6 @@ amount of resources which he gifts to students is astounding, and I am so gratef
     <li>"I love him! Posted all his recitations online, which really helps." — Spring 2022</li>
   </ul>
 </details>
-
-<br>
 
 The slides below are weekly elaborations on a specific newly introduced concept and so do not represent comprehensive coverage of the course material. They’re also not necessarily self-contained; I sometimes supplemented my slides with blackboard work and conversation with students, which is not always captured in the annotations. Course material is also instructor-specific; if you’re reading this as a Columbia student taking the same course, it may not correspond to the treatment or selection of topics your particular instructor chooses to cover. For example, compared to my Spring 2022 coverage, the following material from Fall 2022 covers a wider range of topics but omits some material such as the method of Lagrange multipliers.
 
@@ -141,8 +138,6 @@ Spring 2023
     <li>"His teaching during recitation is very clear and organized and easy to follow."</li>
   </ul>
 </details>
-
-<br>  
 
 I was not permitted to share material prepared for this course.
 

@@ -53,7 +53,7 @@ params:
     ShowCodeCopyButtons: true
     ShowRssButtonInSectionTermList: false
     ShowToc: true
-    disableScrollToTop: true
+    disableScrollToTop: false
     TocOpen: true
     ShowWordCount: false
     UseHugoToc: true
@@ -90,6 +90,8 @@ params:
           url: https://scholar.google.com/citations?user=ri2tMA8AAAAJ
         - name: GitHub
           url: https://github.com/wmadavis?tab=repositories
+        - name: Rss
+          url: /index.xml
         - name: Location
           url: /contact/
 
@@ -115,6 +117,12 @@ markup:
         ordered: false
         startLevel: 2
         endLevel: 3
+
+outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON
 
 # max number of characters:
 # * title: 300

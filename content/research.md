@@ -103,7 +103,9 @@ This project investigates how droughts influence the onset of intimate-partner v
 [Rolling Stone](https://www.rollingstone.com/politics/politics-news/why-the-green-new-deal-is-cheap-actually-965794/) $\cdot$
 [The Daily Show (TV)](https://www.youtube.com/watch?v=40JS3W4um7o)
 
-<iframe width="852" height="480" src="https://www.youtube.com/embed/40JS3W4um7o" title="Marshall Burke on The Daily Show" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<div class="video-wrapper">
+<iframe src="https://www.youtube.com/embed/40JS3W4um7o" title="Marshall Burke on The Daily Show" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
 <hr class="section-divider" />
 
@@ -141,4 +143,6 @@ Our "transfer learning" pipeline proceeds by first assigning a convolutional neu
 [The Onion](https://www.theonion.com/satellite-images-could-predict-poverty-1819563263) $\cdot$ [Bill Gates](https://twitter.com/BillGates/status/773188644014350336) $\cdot$
 [Center for Global Development](https://www.cgdev.org/blog/can-we-measure-poverty-outer-space)
 
-<iframe width="831" height="480" src="https://www.youtube.com/embed/jZNKihHJZqA" title="Neal Jean, &quot; &quot;Combining satellite imagery and machine learning to predict poverty&quot;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div class="video-wrapper">
+<iframe src="https://www.youtube.com/embed/jZNKihHJZqA" title="Neal Jean, Combining satellite imagery and machine learning to predict poverty" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>

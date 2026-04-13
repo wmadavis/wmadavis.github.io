@@ -22,7 +22,7 @@
 /* Dashed section dividers between paper entries */
 hr.section-divider {
     border: none;
-    border-top: 1px dashed #999;
+    border-top: 1px dashed var(--secondary);
     background: none;
     margin: 1.5em 0;
 }
@@ -45,7 +45,47 @@ details summary {
     cursor: pointer;
 }
 
+/* Consistent spacing after details blocks */
+details {
+    margin-bottom: 1em;
+}
+
 /* Teaching material links */
 .material-link {
-    font-weight: 300;
+    font-weight: 400;
+}
+
+/* Responsive video wrapper */
+.video-wrapper {
+    position: relative;
+    width: 100%;
+    padding-bottom: 56.25%; /* 16:9 aspect ratio */
+    margin: 1em 0;
+}
+
+.video-wrapper iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+/* Mobile responsiveness */
+@media (max-width: 600px) {
+    .content-body {
+        font-size: 0.85em;
+    }
+
+    .intro-text {
+        font-size: 0.9em;
+    }
+
+    /* Fallback for any iframes not wrapped in .video-wrapper */
+    .post-content iframe {
+        width: 100%;
+        height: auto;
+        min-height: 240px;
+        aspect-ratio: 16 / 9;
+    }
 }
