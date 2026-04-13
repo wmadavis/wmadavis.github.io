@@ -3,7 +3,7 @@
 /* Intro/description text: secondary color instead of opacity for accessibility */
 .intro-text {
     color: var(--secondary);
-    font-size: 0.9em;
+    font-size: 0.8em;
     line-height: 1.5;
 }
 
@@ -29,7 +29,7 @@ hr.section-divider {
 
 /* Reduced-size content wrapper for research/teaching body text */
 .content-body {
-    font-size: 0.8em;
+    font-size: 0.7em;
 }
 
 /* Student feedback collapsible sections */
