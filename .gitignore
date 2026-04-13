@@ -19,3 +19,6 @@ resources/
 *.log
 *.out
 *.synctex.gz
+
+# Large files not linked from site
+static/papers/Dissertation.pdf

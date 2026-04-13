@@ -10,13 +10,13 @@ TocOpen: true
 UseHugoToc: true
 ---
 
-<div style="opacity: 0.6; font-size: 80%;">
+<div class="intro-text">
 I am a political economist working at the intersection of environmental, development, and welfare economics. My research empirically examines how environmental change shapes social welfare, broadly construed. A recurring theme in this work is that while the climate is governed by complex biophysical systems, its welfare impacts are distributed through social systems which can enforce, exacerbate, and reify patterns of social inequalities and deprivation. This agenda ultimately seeks to refine the economic analysis of climate change and inform the design of equitable climate and development policy.
 <br><br>
 By necessity, my work draws from interdisciplinary approaches and collaborations across the social and natural sciences. I also maintain a secondary interest in <a href="https://academic.oup.com/edited-volume/44005">historical political economy</a> as it pertains to the determination and persistence of social inequalities and deprivations.
 </div>
 
-<div style="font-size: 70%;">
+<div class="content-body">
 
 ## Working papers
 
@@ -29,7 +29,7 @@ Understanding how climate change impacts global economic inequality is critical 
 
 ![](/papers/ClimateInequality.png)
 
-<hr style="border-top: 1px dashed #999; background: none;" />
+<hr class="section-divider" />
 
 ### Temperature, institutions, and the political climate
 
@@ -39,14 +39,14 @@ Despite widespread recognition of climate change as a threat to global stability
    
 ![](/papers/PoliticalClimate.png)
 
-<hr style="border-top: 1px dashed #999; background: none;" />
+<hr class="section-divider" />
 
 ## Work in progress
 
 ### Evidence of a drought effect on the hazard into spousal violence
-<span style="opacity: 0.6;"><em>with</em> [Tanushree Goyal](https://www.tanushreegoyal.com)</span>
+<span class="paper-meta"><em>with</em> [Tanushree Goyal](https://www.tanushreegoyal.com)</span>
 
-<span style="opacity: 0.6; font-style: italic;">A write-up is available upon request. Results reported here are preliminary. </span>
+<span class="paper-status">A write-up is available upon request. Results reported here are preliminary. </span>
 
 This project investigates how droughts influence the onset of intimate-partner violence. We combine high-resolution precipitation data with duration data derived from household domestic violence surveys in India to estimate how negative income shocks impact the risk of marital violence. We find that a negative precipitation shock of a magnitude expected once every 4--5 years \textit{decreases} the probability of first-time spousal violence by 0.037 percentage points in the formative years of marriage, representing a 70\% reduction from the unconditional baseline hazard. As a complementary analysis, we revisit a recent study linking similar drought shocks to child marriage, applying updated methods and improved data. We now find that droughts reduce the hazard into early marriage both in Indian contexts practicing dowry payments and in Sub-Saharan African settings with bride-price customs. These effects are also largest for marriages occurring later in life. Our findings suggest a much more consistent relationship between drought and the timing of marriage across cultural contexts and that child marriage is likely more culturally coerced than economically motivated.  
 
@@ -57,7 +57,7 @@ This project investigates how droughts influence the onset of intimate-partner v
 ## Publications
 
 ### Large potential reduction in economic damages under UN mitigation targets
-<span style="display: block; opacity: 0.6;">
+<span class="paper-meta">
 <a href="https://web.stanford.edu/~mburke/">Marshall Burke</a>, W. Matthew Alampay Davis, and <a href="https://profiles.stanford.edu/noah-diffenbaugh">Noah S. Diffenbaugh</a> (2018)<br>
 <em>Nature</em> <strong>557</strong>(7706): 549–553.
 </span>
@@ -105,10 +105,10 @@ This project investigates how droughts influence the onset of intimate-partner v
 
 <iframe width="852" height="480" src="https://www.youtube.com/embed/40JS3W4um7o" title="Marshall Burke on The Daily Show" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-<hr style="border-top: 1px dashed #999; background: none;" />
+<hr class="section-divider" />
 
 ### Combining satellite imagery and machine learning to predict poverty
-<span style="display: block; opacity: 0.6; font-size: 90%;">
+<span class="paper-meta">
 <a href="https://nealjean.com/">Neal Jean</a>, <a href="https://web.stanford.edu/~mburke/">Marshall Burke</a>, <a href="https://cs.stanford.edu/~eix/">Michael Xie</a>,  
 W. Matthew Alampay Davis, <a href="https://fse.fsi.stanford.edu/people/david_lobell">David B. Lobell</a>, and <a href="https://cs.stanford.edu/~ermon/">Stefano Ermon</a> (2016)<br>
 <em>Science</em> <strong>353</strong>: 790–794.
@@ -141,5 +141,4 @@ Our "transfer learning" pipeline proceeds by first assigning a convolutional neu
 [The Onion](https://www.theonion.com/satellite-images-could-predict-poverty-1819563263) $\cdot$ [Bill Gates](https://twitter.com/BillGates/status/773188644014350336) $\cdot$
 [Center for Global Development](https://www.cgdev.org/blog/can-we-measure-poverty-outer-space)
 
-<!-- ![](/papers/PovertyMap.png) -->
 <iframe width="831" height="480" src="https://www.youtube.com/embed/jZNKihHJZqA" title="Neal Jean, &quot; &quot;Combining satellite imagery and machine learning to predict poverty&quot;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

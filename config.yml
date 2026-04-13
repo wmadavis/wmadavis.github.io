@@ -34,6 +34,12 @@ menu:
 params:
     description: "Academic website for W. Matthew Alampay Davis"
     author: W. Matthew Alampay Davis
+    keywords:
+        - climate economics
+        - political economy
+        - development economics
+        - climate change
+        - global inequality
     DateFormat: "02 Jan 2006"
     defaultTheme: light
     hideFooter: true

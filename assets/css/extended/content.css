@@ -1,0 +1,51 @@
+/* Custom content classes — replaces inline styles in research.md, teaching.md */
+
+/* Intro/description text: secondary color instead of opacity for accessibility */
+.intro-text {
+    color: var(--secondary);
+    font-size: 0.9em;
+    line-height: 1.5;
+}
+
+/* Paper/course metadata: coauthors, status lines, publication info */
+.paper-meta {
+    display: block;
+    color: var(--secondary);
+}
+
+.paper-meta em,
+.paper-status {
+    color: var(--secondary);
+    font-style: italic;
+}
+
+/* Dashed section dividers between paper entries */
+hr.section-divider {
+    border: none;
+    border-top: 1px dashed #999;
+    background: none;
+    margin: 1.5em 0;
+}
+
+/* Reduced-size content wrapper for research/teaching body text */
+.content-body {
+    font-size: 0.8em;
+}
+
+/* Student feedback collapsible sections */
+.feedback-list {
+    color: var(--secondary);
+    font-style: italic;
+    padding-left: 1em;
+    margin-top: 0.5em;
+}
+
+/* Collapsible summary elements */
+details summary {
+    cursor: pointer;
+}
+
+/* Teaching material links */
+.material-link {
+    font-weight: 300;
+}
