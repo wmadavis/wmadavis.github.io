@@ -65,9 +65,9 @@ params:
           subtitle: |
               I am a Postdoctoral Researcher and Research Fellow at [Nuffield College, Oxford.](https://www.nuffield.ox.ac.uk/people/profiles/matthew-davis/) I am affiliated with the [Climate Econometrics programme](https://www.climateeconometrics.org/about/) at [INET](https://www.inet.ox.ac.uk/people/matthew-alampay-davis) and the Climate Change project at the [Calleva Research Centre in Magdalen College.](https://callevacentre.org/current-projects/)
               <br><br>
-              My active research empirically studies the relationships between environmental change and social welfare, highlighting their implications for global inequality and development. I also maintain a secondary interest in [historical political economy](https://academic.oup.com/edited-volume/44005) as it pertains to the determination and persistence of social inequalities and deprivations. My work draws from interdisciplinary approaches and collaborations across the social and natural sciences.
+              My research examines how environmental change shapes social welfare, with a focus on global inequality and development. A recurring theme in this work is that while climate is governed by biophysical systems, its welfare impacts are distributed through social systems that can enforce and exacerbate patterns of deprivation. I also maintain a secondary interest in [historical political economy](https://academic.oup.com/edited-volume/44005) as it pertains to the persistence of social inequalities.
               <br><br>
-              I grew up in the Philippines, Indonesia, and Vietnam. I hold a BS from NYU, an MPhil from Oxford, and a PhD in economics from Columbia. Prior to my graduate studies, I worked at Stanford's Center on Food Security and the Environment as a research associate. In written work, I use "Alampay Davis" as my surname.
+              I grew up in the Philippines, Indonesia, and Vietnam. I hold a BS from NYU, an MPhil from Oxford, and a PhD in economics from Columbia. In written work, I use "Alampay Davis" as my surname.
           imageUrl: "/profile-crop.jpg"
           imageWidth: 160
           imageHeight: 160
@@ -90,8 +90,8 @@ params:
           url: https://scholar.google.com/citations?user=ri2tMA8AAAAJ
         - name: GitHub
           url: https://github.com/wmadavis?tab=repositories
-        - name: Rss
-          url: /index.xml
+        #- name: Rss
+        #  url: /index.xml
         - name: Location
           url: /contact/
 
