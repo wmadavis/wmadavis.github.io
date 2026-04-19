@@ -22,7 +22,7 @@ By necessity, my work draws on interdisciplinary approaches and collaborations a
 
 ### Global income distributions and social welfare under climate change
 
-+ Revision in progress, 2025 draft available upon request
++ Major revision in progress
 + JMP version previously circulated with the title "Climate inequality"
 
 <!--
@@ -35,7 +35,7 @@ Understanding how climate change impacts global economic inequality is critical 
 
 ### Temperature, institutions, and the political climate
 
-+ Revision in progress, 2025 draft available upon request
++ Major revision in progress
 
 <!--
 Despite widespread recognition of climate change as a threat to global stability, its political consequences remain undertheorized. This paper derives two competing hypotheses of how political preferences and institutions respond to environmental shocks by repurposing influential theories of demand-led political transition. The "mercury uprising" hypothesis posits that adverse climate shocks reduce the opportunity cost of contesting autocratic rule, thereby increasing pressure for democratic reform. In contrast, the `state of exception' hypothesis views these shocks as crisis events that prompt citizens to trade off negative liberties for perceived security, diminishing support for democracy and manifesting in autocratic drift. I test these hypotheses by estimating the dynamic impacts of identified temperature shocks on survey-based proxies for democratic demand and on institutional quality, using multi-valued and binary measures of democracy. Results indicate that economically adverse shocks reduce democratic sentiment and increase the risk of democratic backsliding. A 0.5$^\circ$C shock reduces the annual probability of democratization in autocracies by 1.5–3.7 percentage points, depending on local climate and the democracy measure used. In warm-climate democracies, the same shock increases the risk of democratic reversal by 0.6–2.0pp, with no comparable effect in cooler, typically more developed contexts. These findings support the state of exception hypothesis and suggest that sufficient state capacity may insulate democracies from climate-driven political disruption.
@@ -47,8 +47,6 @@ Despite widespread recognition of climate change as a threat to global stability
 
 ### Evidence of a drought effect on the hazard into spousal violence
 <span class="paper-meta"><em>with</em> [Tanushree Goyal](https://www.tanushreegoyal.com)</span>
-
-<span class="paper-status">A write-up is available upon request. Results reported here are preliminary. </span>
 
 <!--
 This project investigates how droughts influence the onset of intimate-partner violence. We combine high-resolution precipitation data with duration data derived from household domestic violence surveys in India to estimate how negative income shocks impact the risk of marital violence. We find that a negative precipitation shock of a magnitude expected once every 4--5 years \textit{decreases} the probability of first-time spousal violence by 0.037 percentage points in the formative years of marriage, representing a 70\% reduction from the unconditional baseline hazard. As a complementary analysis, we revisit a recent study linking similar drought shocks to child marriage, applying updated methods and improved data. We now find that droughts reduce the hazard into early marriage both in Indian contexts practicing dowry payments and in Sub-Saharan African settings with bride-price customs. These effects are also largest for marriages occurring later in life. Our findings suggest a much more consistent relationship between drought and the timing of marriage across cultural contexts and that child marriage is likely more culturally coerced than economically motivated.  
