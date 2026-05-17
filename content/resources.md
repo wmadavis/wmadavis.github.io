@@ -28,7 +28,6 @@ Using this space to collate academic resources I’ve personally found the most 
 + Most academics taught themselves how to code. Some tips here (specific to R) on remedying bad habits ([Jennifer Bryan and Jim Hester](https://rstats.wtf/), esp. sections 2-3)
 + The anatomy of an applied micro talk [(Jesse Shapiro)](https://scholar.harvard.edu/files/shapiro/files/applied_micro_slides.pdf)
 + A style guide for mathematical writing ([Donald E. Knuth, Tracy Larrabee, and Paul M. Roberts](https://jmlr.csail.mit.edu/reviewing-papers/knuth_mathematical_writing.pdf), esp. section 1)
-+ Claude Code for empirical workflows ([Paul Goldsmith-Pinkham for Markus Academy](https://paulgp.substack.com/p/getting-started-with-claude-code?utm_source=app-post-stats-page&r=2iog7&utm_medium=ios&triedRedirect=true))
 
 ### Research advice
 
