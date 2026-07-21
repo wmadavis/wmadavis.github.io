@@ -69,8 +69,8 @@ params:
               <br><br>
               I grew up in the Philippines, Indonesia, and Vietnam. I hold a BS from NYU, an MPhil from Oxford, and a PhD in economics from Columbia. In written work, I use "Alampay Davis" as my surname.
           imageUrl: "/profile-crop.jpg"
-          imageWidth: 160
-          imageHeight: 160
+          imageWidth: 200
+          imageHeight: 200
           imageTitle: W. Matthew Alampay Davis
           buttons:
             - name: CV

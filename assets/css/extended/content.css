@@ -32,6 +32,36 @@ hr.section-divider {
     font-size: 0.85em;
 }
 
+/* Consistent sizing for content-body images (paper previews, figures) */
+.content-body img {
+    max-width: 90%;
+    height: auto;
+    margin: 1em auto;
+    display: block;
+}
+
+/* h6 used as a deliberate small-caps section label
+   ("Paper materials and links", "Select citations", "Select press") */
+.content-body h6 {
+    font-size: 14px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    color: var(--secondary);
+}
+
+/* Materials/citations/press aside — set apart from the paper abstract block
+   with a branded left-border accent and indent */
+.paper-links {
+    border-left: 3px solid var(--midpurple);
+    padding-left: 1.2em;
+    margin: 1.75em 0 0.5em;
+}
+
+.paper-links h6:first-child {
+    margin-top: 0;
+}
+
 /* Student feedback collapsible sections */
 .feedback-list {
     color: var(--secondary);

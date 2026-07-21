@@ -70,7 +70,9 @@ This project investigates how droughts influence the onset of intimate-partner v
 
 ![Figure 4: The impact of global warming on global GDP per capita, relative to a world without warming, for different forcing levels.](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41586-018-0071-9/MediaObjects/41586_2018_71_Fig4_HTML.jpg)
 
-###### Paper materials and links
+<div class="paper-links">
+
+###### Paper materials
 
 + Paper: [official](https://doi.org/10.1038/s41586-018-0071-9) $\cdot$ [ungated](/papers/BurkeAlampayDavisDiffenbaugh2018.pdf)
 + [Replication files](https://github.com/wmadavis/BDD2018)
@@ -109,6 +111,8 @@ This project investigates how droughts influence the onset of intimate-partner v
 <iframe src="https://www.youtube.com/embed/40JS3W4um7o" title="Marshall Burke on The Daily Show" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
+</div>
+
 <hr class="section-divider" />
 
 ### Combining satellite imagery and machine learning to predict poverty
@@ -126,7 +130,9 @@ Our "transfer learning" pipeline proceeds by first assigning a convolutional neu
 
 ![](/papers/ScienceDiagram.jpeg)
 
-###### Paper materials and links
+<div class="paper-links">
+
+###### Paper materials
 
 + Paper: [official](https://doi.org/10.1126/science.aaf7894) $\cdot$ [ungated](/papers/JeanEtAl2016.pdf)
 + Replication files: [code and data](https://github.com/nealjean/predicting-poverty) $\cdot$ [closed issues](https://github.com/nealjean/predicting-poverty/issues?q=is%3Aissue+is%3Aclosed)
@@ -147,4 +153,6 @@ Our "transfer learning" pipeline proceeds by first assigning a convolutional neu
 
 <div class="video-wrapper">
 <iframe src="https://www.youtube.com/embed/jZNKihHJZqA" title="Neal Jean, Combining satellite imagery and machine learning to predict poverty" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
 </div>
