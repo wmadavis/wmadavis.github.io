@@ -65,7 +65,9 @@ params:
     math: true
     profileMode:
           enabled: true
-          title: W. Matthew Alampay Davis
+          # "W. Matthew" set very slightly grayer than "Alampay Davis" to hint the surname
+          # (subtler than the CV header's #6E6E6E-vs-black). opacity adapts to light + dark mode.
+          title: '<span style="opacity:0.72">W. Matthew</span> Alampay Davis'
           subtitle: |
               My research examines how environmental change impacts social welfare with a focus particularly on its distributional consequences across and within countries.
               <br><br>
