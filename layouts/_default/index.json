@@ -1,0 +1,12 @@
+{{- /* Site override of PaperMod's search index.
+       Adds `(ne .Section "blog")` so the hidden blog/reads stay OUT of the
+       Fuse.js search index (WEB-01-30 / WEB-01-50 decision, 2026-07-20):
+       the blog is unlinked and unsearchable until it goes public. Set
+       `searchHidden: true` on any other page to exclude it too. */ -}}
+{{- $.Scratch.Add "index" slice -}}
+{{- range site.RegularPages -}}
+    {{- if and (not .Params.searchHidden) (ne .Layout `archives`) (ne .Layout `search`) (ne .Section "blog") }}
+    {{- $.Scratch.Add "index" (dict "title" .Title "content" .Plain "permalink" .Permalink "summary" .Summary) -}}
+    {{- end }}
+{{- end -}}
+{{- $.Scratch.Get "index" | jsonify -}}

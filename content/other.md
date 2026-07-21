@@ -4,6 +4,7 @@ aliases: /other/
 url: /other/
 disableAnchoredHeadings: false
 description: "Miscellaneous"
+searchHidden: true
 showToc: false
 TocOpen: true
 UseHugoToc: true

@@ -27,13 +27,17 @@ menu:
         - name: Contact
           url: /contact/
           weight: 5
+        - name: Search
+          url: /search/
+          weight: 6
         #- name: Other
         #  url: /other/
-        #  weight: 6
+        #  weight: 7
 
 params:
     description: "Academic website for W. Matthew Alampay Davis"
     author: W. Matthew Alampay Davis
+    images: ["/og-card.png"]
     keywords:
         - climate economics
         - political economy
@@ -90,8 +94,8 @@ params:
           url: https://scholar.google.com/citations?user=ri2tMA8AAAAJ
         - name: GitHub
           url: https://github.com/wmadavis?tab=repositories
-        #- name: Rss
-        #  url: /index.xml
+        - name: Rss
+          url: /index.xml
         - name: Location
           url: /contact/
 
