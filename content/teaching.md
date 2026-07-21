@@ -36,7 +36,7 @@ In this role, I designed and administered workshops on applied research methods 
 
 Fall 2020 $\cdot$ Spring 2021 $\cdot$ Fall 2021 $\cdot$ Summer 2023  
 
-> *ECON-UN3412 introduces students to multiple regression and related methods for analyzing data in economics and related disciplines. Additional topics include regression with discrete random variables, instrumental variables regression, analysis of random experiments and quasi-experiments, and regression with time series data. Students will learn how to conduct and critique empirical studies in economics and related fields. Accordingly, the emphasis of the course is on empirical applications.*  
+> *ECON-UN3412 introduces multiple regression and related methods for analyzing economic data — including instrumental variables, the analysis of experiments and quasi-experiments, and time-series regression — with an emphasis on empirical application.*  
 
 Text: [*Introduction to Econometrics*,](https://www.sea-stat.com/wp-content/uploads/2020/08/James-H.-Stock-Mark-W.-Watson-Introduction-to-Econometrics-Global-Edition-Pearson-Education-Limited-2020.pdf) James Stock and Mark Watson (2019, 2020)
 

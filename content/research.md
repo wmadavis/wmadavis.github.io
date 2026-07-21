@@ -54,7 +54,7 @@ This project investigates how droughts influence the onset of intimate-partner v
 ![](/papers/Drought-IPV.png)
 -->
 
----
+<hr class="section-divider" />
 
 ## Publications
 
