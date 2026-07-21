@@ -101,21 +101,36 @@ details {
     height: 100%;
 }
 
-/* Mobile responsiveness */
+/* Mobile responsiveness
+   (.content-body font-size is 0.85em at all widths via the base rule above —
+   no mobile-specific override needed.) */
 @media (max-width: 600px) {
-    .content-body {
-        font-size: 0.85em;
-    }
-
+    /* Slightly larger intro text for readability on narrow screens */
     .intro-text {
         font-size: 0.9em;
     }
 
-    /* Fallback for any iframes not wrapped in .video-wrapper */
+    /* Tighter list / ToC indent to reclaim horizontal space on small screens
+       (var(--marginleft) drives .post-content ol/ul and the ToC nesting). */
+    :root {
+        --marginleft: 18px;
+    }
+
+    /* Fallback for iframes NOT wrapped in .video-wrapper (e.g. blog embeds):
+       scale to width at a 16:9 ratio instead of keeping a fixed pixel height. */
     .post-content iframe {
         width: 100%;
         height: auto;
         min-height: 240px;
         aspect-ratio: 16 / 9;
+    }
+
+    /* Wrapped iframes (research videos, contact map) already fill their own
+       aspect-ratio wrapper — reset the fallback so its min-height/aspect-ratio
+       can't force the iframe past the wrapper and overlap following content. */
+    .video-wrapper iframe {
+        min-height: 0;
+        aspect-ratio: auto;
+        height: 100%;
     }
 }
