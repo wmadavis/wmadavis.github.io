@@ -27,9 +27,10 @@ menu:
         - name: Contact
           url: /contact/
           weight: 5
-        - name: Search
-          url: /search/
-          weight: 6
+        # Search hidden for now (WEB-01-60); restore when the blog is live.
+        #- name: Search
+        #  url: /search/
+        #  weight: 6
         #- name: Other
         #  url: /other/
         #  weight: 7
@@ -90,16 +91,16 @@ params:
             - name: Contact
               url: /contact/
     socialIcons:
-        - name: Email
-          url: mailto:wm.alampaydavis@gmail.com
-        - name: Google Scholar
-          url: https://scholar.google.com/citations?user=ri2tMA8AAAAJ
+        # Email now sits beside the addresses on the Contact page (WEB-01-60),
+        # so it is not in this row; the row renders on the Contact page only.
         - name: GitHub
           url: https://github.com/wmadavis?tab=repositories
+        - name: Google Scholar
+          url: https://scholar.google.com/citations?user=ri2tMA8AAAAJ
+        - name: ORCID
+          url: https://orcid.org/0000-0002-9502-2450
         - name: Rss
           url: /index.xml
-        - name: Location
-          url: /contact/
 
     assets:
         disableHLJS: true

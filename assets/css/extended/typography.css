@@ -1,0 +1,27 @@
+/* Site typography — Palatino, matching the TeX Gyre Pagella body of the PDFs,
+   so the website and the papers read as one type family.
+
+   TO REVERT to the previous theme-default (system sans-serif) typeface:
+   comment out the Palatino `body, body *` rule below and uncomment the
+   revert rule at the bottom of this file. */
+
+body, body * {
+  font-family: "Palatino", "Palatino Linotype", "Palatino LT STD",
+               "Book Antiqua", "TeX Gyre Pagella", Georgia, serif !important;
+}
+
+/* Keep code / monospace content unaffected. */
+code, pre, kbd, samp, tt, .highlight, .highlight * {
+  font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas,
+               "Liberation Mono", monospace !important;
+}
+
+/* --- Revert to the original (theme-default) typeface ----------------------
+   Comment out the Palatino `body, body *` rule above, then uncomment this:
+
+body, body * {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+               Helvetica, Arial, sans-serif, "Apple Color Emoji",
+               "Segoe UI Emoji" !important;
+}
+-------------------------------------------------------------------------- */

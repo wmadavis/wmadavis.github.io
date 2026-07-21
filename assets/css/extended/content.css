@@ -19,6 +19,37 @@
     font-style: italic;
 }
 
+/* Drop the "Table of Contents" title (and its toggle) from the TOC, keeping
+   the list itself. The TOC renders with TocOpen, so the <details> stays open
+   and its contents show even with the <summary> hidden. */
+.toc summary {
+    display: none;
+}
+
+/* Contact page: email + social links without the purple underline (PaperMod
+   draws it as box-shadow on .post-content a, not text-decoration), each email
+   address preceded by a small envelope icon. */
+.contact-methods a,
+.contact-methods a:hover {
+    box-shadow: none;
+    text-decoration: none;
+}
+.contact-methods a:hover {
+    color: var(--darkpurple);
+}
+.contact-methods .contact-icon {
+    width: 15px;
+    height: 15px;
+    vertical-align: middle;
+    margin-right: 6px;
+    position: relative;
+    top: -1px;
+    color: var(--secondary);
+}
+.contact-methods p {
+    margin: 0.25em 0;
+}
+
 /* Dashed section dividers between paper entries */
 hr.section-divider {
     border: none;
@@ -27,9 +58,10 @@ hr.section-divider {
     margin: 1.5em 0;
 }
 
-/* Reduced-size content wrapper for research/teaching body text */
+/* Unified content-body text size across pages (research, teaching, resources,
+   contact). Standardized to 0.8em so every page's body text matches. */
 .content-body {
-    font-size: 0.85em;
+    font-size: 0.8em;
 }
 
 /* Consistent sizing for content-body images (paper previews, figures) */
@@ -102,7 +134,7 @@ details {
 }
 
 /* Mobile responsiveness
-   (.content-body font-size is 0.85em at all widths via the base rule above —
+   (.content-body font-size is 0.8em at all widths via the base rule above —
    no mobile-specific override needed.) */
 @media (max-width: 600px) {
     /* Slightly larger intro text for readability on narrow screens */

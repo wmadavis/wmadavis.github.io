@@ -2,14 +2,14 @@
     {{- /* Site override of PaperMod's social_icons.html (WEB-01-70): render a text
            label beside most icon glyphs. NEVER edit the theme copy.
            - $labelText  : each icon's display label (raw, so "RSS" isn't title-cased).
-           - $labeled    : which icons show a VISIBLE label. The Location pin is
-                           deliberately absent — its label ("Contact") duplicates the
-                           Contact nav button directly below, so it stays icon-only
-                           (the aria-label/title still read "Contact" for a11y).
+           - $labeled    : which icons show a VISIBLE label.
            - $hidden     : icons suppressed entirely. RSS is hidden while the blog is
-                           inactive; drop "Rss" from this slice to restore it. */ -}}
-    {{- $labelText := dict "Email" "Email" "Google Scholar" "Scholar" "GitHub" "GitHub" "Rss" "RSS" "Location" "Contact" -}}
-    {{- $labeled := slice "Email" "Google Scholar" "GitHub" -}}
+                           inactive; drop "Rss" from this slice to restore it.
+           The former Location pin (→ /contact/) was removed from config.yml
+           (WEB-01-60) as redundant with the Contact button, so it no longer
+           appears in the socialIcons data. */ -}}
+    {{- $labelText := dict "Email" "Email" "Google Scholar" "Scholar" "GitHub" "GitHub" "ORCID" "ORCID" "Rss" "RSS" -}}
+    {{- $labeled := slice "Email" "Google Scholar" "GitHub" "ORCID" -}}
     {{- $hidden := slice "Rss" -}}
     {{- range . }}
     {{- if not (in $hidden .name) }}

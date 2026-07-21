@@ -10,11 +10,11 @@ TocOpen: false
 UseHugoToc: false
 ---
 
-<div style="opacity: 0.6; font-size: 80%;">
+<div class="intro-text">
 Using this space to collate academic resources I’ve personally found the most constructive. I make this qualification because plenty of advice I’ve seen widely circulated over the years absolutely would not work for me: my advice for reading advice is to feel emboldened to reject it.
 </div>
 
-<div style="font-size: 70%;">
+<div class="content-body">
 
 ### Preparing for grad school
 

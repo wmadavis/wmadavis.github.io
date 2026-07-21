@@ -1,0 +1,51 @@
+/* Homepage profile buttons — outline pills with a leading page icon and a soft
+   purple hover, replacing the flat gray default (WEB-01-60). Resting state is a
+   near-black outline on a subtle fill so the buttons stand out from the page. */
+
+.profile .buttons .button {
+    display: inline-flex;
+    align-items: center;
+    margin: 8px 6px;
+    padding: 7px 15px;
+    border: 1px solid var(--primary);
+    border-radius: var(--radius);
+    background: var(--code-bg);
+    color: var(--primary);
+    font-weight: var(--semibold);
+    box-shadow: none;
+    transition: color .18s ease, background-color .18s ease,
+                border-color .18s ease, transform .1s ease;
+}
+
+.profile .buttons .button:hover {
+    background: var(--lightpurple);
+    border-color: var(--darkpurple);
+    color: var(--primary);
+    transform: translateY(-1px);
+}
+
+.profile .buttons .button .button-inner {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5em;
+}
+
+/* Shared page icons (profile buttons + header nav), from page_icon.html. */
+.page-icon {
+    flex: 0 0 auto;
+    vertical-align: middle;
+}
+
+.profile .buttons .button .page-icon {
+    width: 16px;
+    height: 16px;
+}
+
+/* Header nav: small leading icon before each menu label. */
+#menu li a .page-icon {
+    width: 15px;
+    height: 15px;
+    margin-right: 5px;
+    position: relative;
+    top: -1px;
+}
