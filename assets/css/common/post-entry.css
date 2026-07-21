@@ -64,7 +64,10 @@
     overflow: hidden;
     display: -webkit-box;
     -webkit-box-orient: vertical;
-    -webkit-line-clamp: 8;
+    /* Compact list teaser: clamp the summary to a few lines so the reads/posts
+       index reads as a scannable list rather than full articles. Full summary
+       text is preserved in frontmatter for the single pages. */
+    -webkit-line-clamp: 4;
 }
 
 .entry-footer {
