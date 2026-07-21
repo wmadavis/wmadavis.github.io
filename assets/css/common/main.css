@@ -29,15 +29,27 @@
 
 .social-icons {
     padding: 12px 0;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 8px 18px;
 }
 
-.social-icons a:not(:last-of-type) {
-    margin-inline-end: 16px;
+.social-icons a {
+    display: inline-flex;
+    align-items: center;
+    gap: 7px;
 }
 
 .social-icons a svg {
     height: 30px;
     width: 30px;
+}
+
+.social-icons a .social-label {
+    font-size: 0.9rem;
+    line-height: 1;
+    white-space: nowrap;
 }
 
 .social-icons a:hover {

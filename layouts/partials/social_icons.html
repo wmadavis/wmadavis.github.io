@@ -1,0 +1,23 @@
+<div class="social-icons">
+    {{- /* Site override of PaperMod's social_icons.html (WEB-01-70): render a text
+           label beside most icon glyphs. NEVER edit the theme copy.
+           - $labelText  : each icon's display label (raw, so "RSS" isn't title-cased).
+           - $labeled    : which icons show a VISIBLE label. The Location pin is
+                           deliberately absent — its label ("Contact") duplicates the
+                           Contact nav button directly below, so it stays icon-only
+                           (the aria-label/title still read "Contact" for a11y).
+           - $hidden     : icons suppressed entirely. RSS is hidden while the blog is
+                           inactive; drop "Rss" from this slice to restore it. */ -}}
+    {{- $labelText := dict "Email" "Email" "Google Scholar" "Scholar" "GitHub" "GitHub" "Rss" "RSS" "Location" "Contact" -}}
+    {{- $labeled := slice "Email" "Google Scholar" "GitHub" -}}
+    {{- $hidden := slice "Rss" -}}
+    {{- range . }}
+    {{- if not (in $hidden .name) }}
+    {{- $lbl := index $labelText .name | default (.title | default .name) -}}
+    <a href="{{ trim .url " " }}" target="_blank" rel="noopener noreferrer me" title="{{ $lbl }}" aria-label="{{ $lbl }}">
+        {{ partial "svg.html" . }}
+        {{- if in $labeled .name }}<span class="social-label">{{ $lbl }}</span>{{ end }}
+    </a>
+    {{- end }}
+    {{- end }}
+</div>
