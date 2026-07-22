@@ -2,6 +2,14 @@
    purple hover, replacing the flat gray default (WEB-01-60). Resting state is a
    near-black outline on a subtle fill so the buttons stand out from the page. */
 
+/* Breathing room between the bio paragraph and the button row, so the gap
+   below the bio roughly matches the ~12px above it (h1's padding-bottom).
+   Each button already carries an 8px top margin; this container margin adds
+   to it. */
+.profile .buttons {
+    margin-top: 8px;
+}
+
 .profile .buttons .button {
     display: inline-flex;
     align-items: center;
