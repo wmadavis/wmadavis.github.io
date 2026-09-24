@@ -11,9 +11,7 @@ UseHugoToc: true
 ---
 
 <div class="intro-text">
-I am a political economist working at the intersection of environmental, development, and welfare economics. A recurring theme in my work is that while the climate is governed by complex biophysical systems, its welfare impacts are distributed through social systems that enforce, exacerbate, and reify patterns of inequality and deprivation. This agenda seeks to refine the economic analysis of climate change and inform the design of equitable climate and development policy.
-<br><br>
-By necessity, my work draws on interdisciplinary approaches and collaborations across the social and natural sciences. I also maintain a secondary interest in <a href="https://academic.oup.com/edited-volume/44005">historical political economy</a> as it pertains to the determination and persistence of social inequalities.
+I am an economist broadly interested in the determination and persistence of social inequalities and deprivations. A throughline in my research is an appreciation for how complex economic, political, and geophysical systems interact to reproduce, exacerbate, and reify these social patterns. By necessity, this agenda draws on diverse applied and theoretical approaches within economics and is informed by perspectives and collaborations across the social and natural sciences.
 </div>
 
 <div class="content-body">
